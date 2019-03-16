@@ -2,6 +2,7 @@ package frido.samosprava;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 
 import javax.servlet.Filter;
@@ -11,7 +12,9 @@ import javax.servlet.ServletRequest;
 import javax.servlet.ServletResponse;
 import javax.servlet.http.HttpServletRequest;
 
+import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
+import org.springframework.util.FileCopyUtils;
 
 @Component
 public class TransactionFilter implements Filter {
@@ -30,16 +33,14 @@ public class TransactionFilter implements Filter {
             String fileName = link.substring(link.lastIndexOf("/"));
             response.getOutputStream().write(getContent(fileName));
         } else {
-            response.getOutputStream().write(getContent("index.html"));
+            response.getOutputStream().write(getContent("/index.html"));
         }
     }
 
-    private File getFile(String name) {
-        ClassLoader classLoader = getClass().getClassLoader();
-        return new File(classLoader.getResource("static/" + name).getFile());
-    }
-
     private byte[] getContent(String name) throws IOException {
-        return Files.readAllBytes(getFile(name).toPath());
+        ClassPathResource cpr = new ClassPathResource("static" + name);
+        byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
+        //String content = new String(bdata, StandardCharsets.UTF_8);
+        return bdata;
     }
 }

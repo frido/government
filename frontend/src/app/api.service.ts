@@ -43,7 +43,9 @@ export class ApiService {
   }
 
   getUznesenia(spolokId: string): Observable<Uznesenie[]> {
-    return this.get(this.base + 'resolutions/' + spolokId);
+    return this.get(this.base + 'resolutions/' + spolokId).pipe(
+      map((list: Uznesenie[]) => list.sort((a, b) => b.cislo - a.cislo))
+    )
   }
 
   getUznesenie(uznesenieId: number): Observable<Uznesenie> {
