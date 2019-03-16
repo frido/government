@@ -5,6 +5,7 @@ import java.io.IOException;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import frido.samosprava.budget.BudgetService;
 import frido.samosprava.persons.PersonService;
 import frido.samosprava.resolutions.ResolutionService;
 
@@ -21,6 +22,13 @@ public class AppConfig {
     @Bean
     public PersonService personService() throws IOException {
         PersonService service = new PersonService();
+        service.load();
+        return service;
+    }
+
+    @Bean
+    public BudgetService budgetService() throws IOException {
+        BudgetService service = new BudgetService();
         service.load();
         return service;
     }
