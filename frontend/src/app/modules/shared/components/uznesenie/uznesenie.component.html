@@ -1,0 +1,10 @@
+<div class="card" [class.opened]="opened">
+  <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
+    <app-icon-type [type]="uznesenie.typ"></app-icon-type>
+    <span class="card-title">{{uznesenie.nadpis}}</span>
+    <app-icon-result class="icon-result" *ngIf="!opened" [vysledok]="uznesenie.vysledok"></app-icon-result>
+  </div>
+  <div *ngIf="opened" class="card-detail">
+    <app-uznesenie-detail [uznesenie]="uznesenie" [vote]="false"></app-uznesenie-detail>
+  </div>
+</div>

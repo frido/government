@@ -1,0 +1,11 @@
+<app-menu></app-menu>
+<div class="content">
+  <app-vtabs>
+    <app-vtab *ngFor="let ciel of $ciele | async; let i = index" [active]="i == 0" [tabTitle]="ciel.title">
+      <div class="ciele-menu">
+        <div *ngFor="let c of ciel.ciele" class="ciele-menu-item">{{c}}</div>
+      </div>
+    </app-vtab>
+  </app-vtabs>
+</div>
+<app-footer></app-footer>

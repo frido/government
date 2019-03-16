@@ -1,0 +1,14 @@
+<app-menu></app-menu>
+<div class="content">
+  <div *ngIf="$poslanec | async as poslanec" class="card">
+    <h2>{{poslanec.prefix}} {{poslanec.name}} {{poslanec.siffix}}</h2>
+    <div class="card-detail">
+      <app-poslanec-detail [poslanec]="poslanec"></app-poslanec-detail>
+    </div>
+    <ng-container *ngFor="let u of $uznesenia | async">
+      <app-uznesenie class="{{getClass(u)}}" [uznesenie]="u"></app-uznesenie>
+    </ng-container>
+    <a class="linkable" appBacklink>back</a>
+  </div>
+</div>
+<app-footer></app-footer>

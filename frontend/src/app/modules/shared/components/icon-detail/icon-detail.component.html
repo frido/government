@@ -1,0 +1,10 @@
+<div class="icon-detail">
+    <i class="fas fa-user-tie fa-lg fa-2x" ></i>
+    <strong>predkladatel</strong>
+    <div><app-poslanec-meno *ngFor="let p of predkladatelId" [poslanecId]="p"></app-poslanec-meno></div>
+</div>
+<div class="icon-detail" *ngFor="let v of vysledok">
+    <i class="fas {{getClass(v.sumar)}} fa-2x"></i>
+    <strong>{{v.sumar}}</strong>
+    <div>{{v.popis}}</div>
+</div>

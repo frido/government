@@ -1,0 +1,28 @@
+<div class="card" [class.opened]="opened">
+    <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
+        <span class="card-title">{{vystavba.title}}</span>
+    </div>
+    <div *ngIf="opened" class="card-detail">
+        <div>{{vystavba.popis}}</div>
+        <div class="card-detail-item">
+            <div><strong>ziadost o uzemne rozhodnutie</strong></div>
+            <div class="card-detail-item-text">{{vystavba.urZiadatel}}</div>
+            <div>{{vystavba.urZiadost}}</div>
+        </div>
+        <div class="card-detail-item">
+            <div><strong>uzemne rozhodnutie</strong></div>
+            <div class="card-detail-item-text">{{vystavba.urId}}</div>
+            <div>{{vystavba.urDatum}}</div>
+        </div>
+        <div class="card-detail-item">
+            <div><strong>ziadost o stavebne povolenie</strong></div>
+            <div class="card-detail-item-text">{{vystavba.spZiadatel}}</div>
+            <div>{{vystavba.spZiadost}}</div>
+        </div>
+        <div class="card-detail-item">
+            <div><strong>stavebne povolenie</strong></div>
+            <div class="card-detail-item-text">{{vystavba.spId}}</div>
+            <div>{{vystavba.spDatum}}</div>
+        </div>
+    </div>
+</div>

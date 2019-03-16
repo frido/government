@@ -1,0 +1,46 @@
+<div class="card" [class.opened]="opened">
+    <div class="card-head-{{ level }}" [class.opened]="opened" (click)="opened = !opened">
+        <span class="card-title">{{rozpocet.title}}</span>
+        <i *ngIf="rozpocet.current.bv > 0" class="fas fa-paperclip"></i>
+        <strong *ngIf="rozpocet.current.bv > 0">{{rozpocet.current.bv | currency : "EUR" }}</strong>
+        <i *ngIf="rozpocet.current.kv > 0" class="fas fa-wrench"></i>
+        <strong *ngIf="rozpocet.current.kv > 0">{{rozpocet.current.kv | currency : "EUR" }}</strong>
+        <i *ngIf="rozpocet.current.fv > 0" class="fas fa-exchange-alt"></i>
+        <strong *ngIf="rozpocet.current.fv > 0">{{rozpocet.current.fv | currency : "EUR" }}</strong>
+    </div>
+    <div *ngIf="opened" class="card-detail">
+        <div class="card-detail-text">{{rozpocet.comment}}</div>
+        <div *ngIf="rozpocet.sub.length == 0 && rozpocet.current.bv" class="card-usage-bv">
+            <div class="card-detail-item ">
+                <strong>Bežné výdavky</strong>
+                <span class="space-right">{{rozpocet.current.bv | currency : "EUR" }}</span>
+                <div class="usage">
+                    <div class=usage-item *ngFor="let use of rozpocet.use">
+                        {{use}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="rozpocet.sub.length == 0 && rozpocet.current.kv" class="card-usage-kv">
+            <div class="card-detail-item ">
+                <strong>Kapitálové výdavky</strong>
+                <span class="space-right">{{rozpocet.current.kv | currency : "EUR" }}</span>
+                <div class="usage">
+                    <div class=usage-item *ngFor="let use of rozpocet.current.useKv">
+                            <strong>{{use.title}}: </strong>{{use.suma | currency : "EUR" }}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="rozpocet.sub.length == 0 && rozpocet.current.fv" class="card-usage-bv">
+                <div class="card-detail-item ">
+                    <strong>Finančné výdavky</strong>
+                    <span class="space-right">{{rozpocet.current.fv | currency : "EUR" }}</span>
+                </div>
+            </div>
+        <app-vydavky-card *ngFor="let level2 of rozpocet.sub" [level]="level+1" [rozpocet]="level2"></app-vydavky-card>
+        <div *ngIf="rozpocet.sub.length > 0" style="width:50%">
+            <app-google-chart-pie-vydavky [vydavky]="rozpocet.sub"></app-google-chart-pie-vydavky>
+            </div>
+    </div>
+</div>

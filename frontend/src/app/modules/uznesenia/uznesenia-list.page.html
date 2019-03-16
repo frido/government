@@ -1,0 +1,8 @@
+<app-menu></app-menu>
+<div class="content">
+  <app-uznesenie-filter (onFilter)="onFilter($event)"></app-uznesenie-filter>
+  <ng-container *ngFor="let u of $uznesenia | async">
+    <app-uznesenie *ngIf="isVisible(u)" [uznesenie]="u"></app-uznesenie>
+  </ng-container>
+</div>
+<app-footer></app-footer>

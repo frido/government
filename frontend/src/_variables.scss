@@ -1,0 +1,35 @@
+//$primary-color: #6200EE;
+$primary-color: #1976D2;
+$primary-variant-color: #3700B3;
+$secondary-color: #03DAC6;
+$secondary-variant-color: #018786;
+$background: #fafafa;
+$background-opened: $primary-color;
+$background-hover: rgba( $background-opened, .05 );
+$background-footer: rgba($primary-color, 1);
+$background-tag: #ebebeb;
+$surface: #fff;
+$text-color: rgba(0, 0, 0, .87);
+$small-color: rgba(0, 0, 0, .5);
+$disable-color: rgba(0, 0, 0, .25);
+$color-hover: $text-color;
+$color-opened: #fff;
+$border-radius: 4px;
+$margin: 15px;
+$margin-content: 40px;
+$poslanec-za: #C8E6C9;
+$poslanec-proti: #FFCDD2;
+$poslanec-predkladatel: #FFF9C4;
+
+%card {
+    border-radius: $border-radius;
+    box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
+}
+
+%shadow-bottom {
+    box-shadow: 0 2px 2px -2px $primary-color;
+}
+
+%shadow-top {
+    box-shadow: 0 -2px 2px -2px $primary-color;
+}

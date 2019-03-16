@@ -1,0 +1,14 @@
+<div class="card" [class.opened]="opened" >
+    <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
+        <div class="card-title">
+            <span>{{interpelacia.title}}...</span>
+            <div>
+                <small *ngFor="let t of interpelacia.tags" >{{t}},&nbsp;</small>
+            </div>
+        </div>
+        <strong><app-poslanec-meno [poslanecId]="interpelacia.from"></app-poslanec-meno></strong>
+    </div>
+    <div *ngIf="opened" class="card-detail">
+            <app-interpelacia-detail [interpelacia]="interpelacia"></app-interpelacia-detail>
+    </div>
+</div>

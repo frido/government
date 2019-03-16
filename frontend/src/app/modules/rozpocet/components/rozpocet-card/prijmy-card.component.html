@@ -1,0 +1,20 @@
+<div class="card" [class.opened]="opened">
+    <div class="card-head-{{ level }}" [class.opened]="opened" (click)="opened = !opened">
+        <span class="card-title">{{rozpocet.title}}</span>
+        <i class="fas fa-paperclip"></i>
+        <strong>{{rozpocet.current.suma | currency : "EUR" }}</strong>
+    </div>
+    <div *ngIf="opened" class="card-detail">
+        <div class="card-detail-text">{{rozpocet.comment}}</div>
+        <app-prijmy-card *ngFor="let level2 of rozpocet.sub" [level]="level+1" [rozpocet]="level2"></app-prijmy-card>
+        <div style="display:flex">
+            <div *ngIf="rozpocet.sub.length > 0" style="width:50%">
+                <app-google-chart-pie-prijmy [prijmy]="rozpocet.sub"></app-google-chart-pie-prijmy>
+            </div>
+            <div style="width:50%">
+                <app-google-chart-line-prijmy [prijmy]="rozpocet"></app-google-chart-line-prijmy>
+            </div>
+        </div>
+    </div>
+    
+</div>

@@ -1,0 +1,39 @@
+<ng-container *ngFor="let election of poslanec.elections">
+  <div class="card-detail-item">
+    <i class="fas fa-user-tie fa-2x"></i>
+    <div>
+      <div><strong>{{election.title}}</strong></div>
+      <div><small>{{election.councilName}}</small></div>
+    </div>
+    <div>
+      <div><small>{{election.party}}</small></div>
+      <div *ngFor="let commission of election.commission">
+        {{commission.name}}
+        <b *ngIf="commission.chairman"> (Predseda)</b>
+      </div>
+    </div>
+  </div>
+</ng-container>
+<ng-container *ngFor="let department of poslanec.departments">
+  <div class="card-detail-item">
+    <i class="{{department.icon}} fa-2x"></i>
+    <div>
+      <div><strong>{{department.role}}</strong></div>
+    </div>
+    <div>
+      {{department.title}}
+    </div>
+  </div>
+</ng-container>
+<ng-container *ngFor="let commission of poslanec.commissions">
+    <div class="card-detail-item">
+      <i class="fas fa-chess-pawn fa-2x"></i>
+      <div>
+        <div><strong>{{commission.chairman ? 'Predseda' : 'Člen'}} komisie</strong></div>
+        <div><small>{{commission.councilName}}</small></div>
+      </div>
+      <div>
+        {{commission.name}}
+      </div>
+    </div>
+  </ng-container>

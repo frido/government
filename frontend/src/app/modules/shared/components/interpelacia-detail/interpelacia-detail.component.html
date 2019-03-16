@@ -1,0 +1,25 @@
+<div class="card-detail-item">
+    <i class="fas fa-user-tie fa-2x"></i>
+    <div><strong>interpelacia</strong></div>
+    <div><app-poslanec-clickable [poslanecId]="interpelacia.from"></app-poslanec-clickable></div>
+</div>
+<div class="card-detail-item">
+    <i class="fas fa-question fa-2x"></i>
+    <strong class="question">Otázka</strong>
+    <div>
+        <div>{{interpelacia.otazka}}</div>
+        <div><small>{{interpelacia.otazkaDatum}}</small></div>
+    </div>
+
+</div>
+<div class="card-detail-item">
+    <i class="fas fa-reply fa-2x"></i>
+    <strong>Odpoveď</strong>
+    <div>
+        <div>{{interpelacia.odpoved}}</div>
+        <div><small>{{interpelacia.odpovedDatum}}</small></div>
+    </div>
+</div>
+<div class="card-detail-footer"><small>&nbsp;</small>
+    <a class="linkable" [routerLink]="['/', spolok.key, 'interpelacia', 'show', interpelacia.id]" routerLinkActive="active">Detail</a>
+    <a href="{{interpelacia.zdroj}}" target="blank"><i class="fas fa-external-link-alt"></i></a></div>

@@ -1,0 +1,60 @@
+<div *ngIf="popis" class="card-detail-text">
+  <ng-container *ngIf="uznesenie.typ === 'najom'">
+    <!--
+        <div><strong>Predmet: </strong>{{uznesenie.predmet}}</div>
+        <div><strong>Adresa: </strong>{{uznesenie.adresa}} {{uznesenie.adresaCislo}}</div>
+        <div><strong>Výmera: </strong>{{uznesenie.vymera}}m2</div>
+        <div><strong>Nájomca: </strong>{{uznesenie.najomca}} (IČO:{{uznesenie.ico}})</div>
+        <div><strong>Od: </strong>{{uznesenie.od}}<strong> Do: </strong>{{uznesenie.do}}</div>
+        <div><strong>Cena: </strong>{{uznesenie.cena}}&euro;/{{uznesenie.cenaZa}}</div>
+        -->
+  </ng-container>
+
+  <ng-container *ngIf="uznesenie.typ === 'ine' || uznesenie.typ === 'peticia'">
+    <div>{{uznesenie.popis}}</div>
+  </ng-container>
+
+  <ng-container *ngIf="uznesenie.typ === 'info'">
+    <div>{{uznesenie.zaver}}</div>
+    <small *ngIf="uznesenie.zaver && uznesenie.zaver != ''">výňatok z dokumentu (viď zdroj)</small>
+  </ng-container>
+</div>
+
+<div *ngIf="predkladatel && uznesenie.predkladatel" class="card-detail-item">
+  <i class="fas fa-user-tie fa-2x"></i>
+  <div><strong>predkladatel</strong></div>
+  <div>
+    <app-poslanec-clickable *ngFor="let p of uznesenie.predkladatel" [poslanecId]="p"></app-poslanec-clickable>
+  </div>
+</div>
+<div *ngIf="vote" class="card-detail-item">
+  <i class="fas fa-thumbs-up fa-2x"></i>
+  <div>
+    <div *ngIf="uznesenie.za.length" class="card-detail-item-za">
+      <div><strong>za</strong></div>
+      <div>
+        <app-poslanec-clickable *ngFor="let p of uznesenie.za" [poslanecId]="p"></app-poslanec-clickable>
+      </div>
+    </div>
+    <div *ngIf="uznesenie.proti.length" class="card-detail-item-proti">
+      <div><strong>proti</strong></div>
+      <div>
+        <app-poslanec-clickable *ngFor="let p of uznesenie.proti" [poslanecId]="p"></app-poslanec-clickable>
+      </div>
+    </div>
+  </div>
+</div>
+<div *ngIf="sumar">
+  <div class="card-detail-item" *ngFor="let v of uznesenie.vysledok">
+    <i class="fas {{getClass(v.sumar)}} fa-2x"></i>
+    <div><strong>{{v.sumar}}</strong></div>
+    <div>
+      <div *ngFor="let p of v.popis">{{p}}</div>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="footer" class="card-detail-footer">
+  <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="'uznesenie č. ' + uznesenie.cislo"></app-linkable>
+  <app-external-link [href]="uznesenie.zdroj"></app-external-link>
+</div>

@@ -1,0 +1,5 @@
+<app-menu></app-menu>
+<div class="content">
+  <app-poslanec *ngFor="let p of $poslanci | async" [poslanec]="p"></app-poslanec>
+</div>
+<app-footer></app-footer>

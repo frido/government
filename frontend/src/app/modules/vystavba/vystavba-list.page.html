@@ -1,0 +1,5 @@
+<app-menu></app-menu>
+<div class="content">
+  <app-vystavba *ngFor="let v of $vystavby | async" [vystavba]="v"></app-vystavba>
+</div>
+<app-footer></app-footer>
