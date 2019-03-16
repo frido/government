@@ -125,7 +125,31 @@ export class ApiService {
   }
 
   getRozpocet(spolokId: number): Observable<Rozpocet> {
-    return this.get(this.base + 'budget/' + spolokId);
+    return this.get(this.base + 'budget/' + spolokId).pipe(
+      map((r: Rozpocet) => this.mapRozpocet(r))
+    )
+  }
+
+  mapRozpocet(r: Rozpocet): Rozpocet {
+      r.vydavky.forEach(element =>
+        this.setCurrentMoney(element)
+      );
+      r.prijmy.forEach(element =>
+        this.setCurrentMoney(element)
+      );
+      r.current = this.getCurrectYear(r.sumar)
+    return r;
+  }
+
+  setCurrentMoney(elem: any) {
+    elem.current = this.getCurrectYear(elem.money)
+    elem.sub.forEach(sub =>
+      this.setCurrentMoney(sub)
+    )
+  }
+
+  getCurrectYear(list: any) {
+    return list[0]
   }
 
   // getVystavba(spolokKey: string): Observable<Vystavba[]> {
