@@ -2,6 +2,7 @@ package frido.samosprava;
 
 import java.io.IOException;
 
+import frido.samosprava.meeting.MeetingService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -32,6 +33,13 @@ public class AppConfig {
     @Bean
     public BudgetService budgetService() throws IOException {
         BudgetService service = new BudgetService();
+        service.load();
+        return service;
+    }
+
+    @Bean
+    public MeetingService meetingService() throws IOException {
+        MeetingService service = new MeetingService();
         service.load();
         return service;
     }
