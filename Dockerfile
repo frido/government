@@ -6,6 +6,6 @@ COPY /backend .
 
 RUN mvn compile package
 
-EXPOSE 5000
+EXPOSE 8080
 
-CMD [ "java", "-jar", "target/samosprava-0.0.1-SNAPSHOT.jar" ]
+CMD java -jar -Dserver.port=$PORT target/samosprava-0.0.1-SNAPSHOT.jar

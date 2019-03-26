@@ -20,14 +20,15 @@
   </ng-container>
 </div>
 
-<div *ngIf="predkladatel && uznesenie.predkladatel" class="card-detail-item">
+<div *ngIf="predkladatel && uznesenie.predkladatel && uznesenie.predkladatel.length" class="card-detail-item">
   <i class="fas fa-user-tie fa-2x"></i>
   <div><strong>predkladatel</strong></div>
   <div>
     <app-poslanec-clickable *ngFor="let p of uznesenie.predkladatel" [poslanecId]="p"></app-poslanec-clickable>
   </div>
 </div>
-<div *ngIf="vote" class="card-detail-item">
+
+<div *ngIf="vote && (uznesenie.za.length || uznesenie.proti.length)" class="card-detail-item">
   <i class="fas fa-thumbs-up fa-2x"></i>
   <div>
     <div *ngIf="uznesenie.za.length" class="card-detail-item-za">
@@ -44,6 +45,7 @@
     </div>
   </div>
 </div>
+
 <div *ngIf="sumar">
   <div class="card-detail-item" *ngFor="let v of uznesenie.vysledok">
     <i class="fas {{getClass(v.sumar)}} fa-2x"></i>
