@@ -2,7 +2,7 @@ FROM maven:3.6.0-jdk-13
 
 WORKDIR /usr/src/app
 
-COPY /backend .
+COPY . .
 
 RUN mvn compile package
 
