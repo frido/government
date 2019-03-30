@@ -5,8 +5,8 @@ jobs:
       - image: library/node:10
     steps:
       - checkout
-      - run: npm install
-      - run: npm install -g @angular/cli
+      - run: cd frontend && npm install
+      - run: cd frontend && npm install -g @angular/cli
       - run: cd frontend && ng build --prod
 workflows:
   version: 2
