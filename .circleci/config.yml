@@ -8,10 +8,17 @@ jobs:
       - run: cd frontend && npm install
       - run: cd frontend && npm install -g @angular/cli
       - run: cd frontend && ng build --prod
+      - persist_to_workspace:
+          root: backend/src/main/resources
+          paths: 
+            - static
   build_back:
     docker:
       - image: library/maven:3.6.0-jdk-12
     steps:
+      - checkout
+      - attach_workspace:
+          at: backend/src/main/resources
       - run: mvn package
       - store_artifacts:
           path: backend/target/samosprava-0.0.1-SNAPSHOT.jar
