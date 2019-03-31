@@ -12,8 +12,8 @@
 	<groupId>frido</groupId>
 	<artifactId>samosprava</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Government-REST-API</name>
+	<description>Government REST API</description>
 
 	<properties>
 		<start-class>frido.samosprava.DemoApplication</start-class>
