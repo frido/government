@@ -1,2 +1,7 @@
 dist/
 target/
+.settings/
+.idea/
+.vscode/
+backend/src/main/resources/static
+.project
