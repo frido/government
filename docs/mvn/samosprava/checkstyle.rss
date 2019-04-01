@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<rss version="0.91">
+  <channel>
+    <title>demo - Checkstyle report</title>
+    <link>https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava</link>
+    <description>demo - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2019</copyright>
+    <item>
+      <title>File: 35,
+             Errors: 619,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html</link>
+      <description>
+        <p>Click <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.Osoba.java">frido/samosprava/persons/Osoba.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  52
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.entity.ResponseObject.java">frido/samosprava/entity/ResponseObject.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.MoneyVydavky.java">frido/samosprava/budget/MoneyVydavky.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.Prijmy.java">frido/samosprava/budget/Prijmy.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.entity.Idable.java">frido/samosprava/entity/Idable.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.entity.ResponseList.java">frido/samosprava/entity/ResponseList.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.Uznesenie.java">frido/samosprava/resolutions/Uznesenie.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  67
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.DemoApplication.java">frido/samosprava/DemoApplication.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.meeting.MeetingService.java">frido/samosprava/meeting/MeetingService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.TransactionFilter.java">frido/samosprava/TransactionFilter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  14
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.BudgetController.java">frido/samosprava/budget/BudgetController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.AppConfig.java">frido/samosprava/AppConfig.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  15
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.Vysledok.java">frido/samosprava/resolutions/Vysledok.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.Vydavky.java">frido/samosprava/budget/Vydavky.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  32
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.BudgetService.java">frido/samosprava/budget/BudgetService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.CommissionRef.java">frido/samosprava/persons/CommissionRef.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  23
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.ResolutionService.java">frido/samosprava/resolutions/ResolutionService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.PersonController.java">frido/samosprava/persons/PersonController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  10
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.ResponseBudgets.java">frido/samosprava/budget/ResponseBudgets.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.meeting.Meeting.java">frido/samosprava/meeting/Meeting.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  37
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.ResponseBudget.java">frido/samosprava/budget/ResponseBudget.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.meeting.ResponseMeeting.java">frido/samosprava/meeting/ResponseMeeting.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  8
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.meeting.MeetingController.java">frido/samosprava/meeting/MeetingController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.Sumar.java">frido/samosprava/budget/Sumar.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.ResponseUznesenie.java">frido/samosprava/resolutions/ResponseUznesenie.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.BaseService.java">frido/samosprava/BaseService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  26
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.ResponseUznesenia.java">frido/samosprava/resolutions/ResponseUznesenia.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.MoneyPrijmy.java">frido/samosprava/budget/MoneyPrijmy.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.UseKv.java">frido/samosprava/budget/UseKv.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  12
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.PersonService.java">frido/samosprava/persons/PersonService.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  17
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.budget.Rozpocet.java">frido/samosprava/budget/Rozpocet.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.resolutions.ResolutionController.java">frido/samosprava/resolutions/ResolutionController.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  11
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.DepartmentRef.java">frido/samosprava/persons/DepartmentRef.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  22
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.Election.java">frido/samosprava/persons/Election.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  27
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="https://projects.spring.io/spring-boot/#/spring-boot-starter-parent/government/samosprava/checkstyle.html#frido.samosprava.persons.ResponseOsoba.java">frido/samosprava/persons/ResponseOsoba.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  7
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
