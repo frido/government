@@ -1,0 +1,7 @@
+<div style="display: flex">
+  <div *ngFor="let filter of filter.items()" (click)="vote(filter.key)" [class.inactive]="!filter.flag"
+    class="uznesenie-filter-item tooltip">
+    <i class="{{filter.icon}}"></i>
+    <span class="tooltiptext">{{filter.title}}</span>
+  </div>
+</div>
