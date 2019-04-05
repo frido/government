@@ -46,13 +46,13 @@ export class PoslanciShowPage {
           this.filter = new FilterHolder(false);
 
           if (this.uznesenia_pred.length != 0) {
-            this.filter.add({ flag: false, icon: 'far fa-building', key: 'pred', title: 'pred' });
+            this.filter.add({ flag: false, icon: 'fas fa-thumbtack', key: 'pred', title: 'Predkladateľ' });
           }
           if (this.uznesenia_za.length != 0) {
-            this.filter.add({ flag: false, icon: 'far fa-building', key: 'za', title: 'za' });
+            this.filter.add({ flag: false, icon: 'fas fa-thumbs-up', key: 'za', title: 'Hlasova ZA' });
           }
           if (this.uznesenia_proti.length != 0) {
-            this.filter.add({ flag: false, icon: 'far fa-building', key: 'proti', title: 'proti' });
+            this.filter.add({ flag: false, icon: 'fas fa-thumbs-down', key: 'proti', title: 'Hlasova PROTI' });
           }
           if (this.filter.list.length > 0) {
             this.filter.list[0].flag = true;

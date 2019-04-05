@@ -6,7 +6,7 @@
       <app-poslanec-detail [poslanec]="poslanec"></app-poslanec-detail>
     </div>
     <div class="uznesenie-filter" >
-      <strong>Hlasovanie</strong>
+      <strong>Filter hlasovania poslanca</strong>
       <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
     </div>
     <ng-container *ngFor="let u of uznesenia">
