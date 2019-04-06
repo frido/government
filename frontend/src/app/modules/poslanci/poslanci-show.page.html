@@ -5,7 +5,7 @@
     <div class="card-detail">
       <app-poslanec-detail [poslanec]="poslanec"></app-poslanec-detail>
     </div>
-    <div class="uznesenie-filter" >
+    <div *ngIf="filter.list.length > 0" class="uznesenie-filter" >
       <strong>Filter hlasovania poslanca</strong>
       <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
     </div>

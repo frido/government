@@ -1,5 +1,11 @@
 <app-menu></app-menu>
 <div class="content">
-  <app-poslanec *ngFor="let p of $poslanci | async" [poslanec]="p"></app-poslanec>
+  <div class="uznesenie-filter">
+    <strong>Filter</strong>
+    <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
+  </div>
+  <ng-container *ngFor="let p of $poslanci | async">
+    <app-poslanec *ngIf="isVisible(p)" [poslanec]="p"></app-poslanec>
+  </ng-container>
 </div>
 <app-footer></app-footer>

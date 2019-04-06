@@ -1,7 +1,0 @@
-<div class="uznesenie-filter" >
-    <strong>Filter</strong>
-    <div *ngFor="let icon of icons" (click)="vote(icon.key)" [class.inactive]="!filter[icon.key]" class="uznesenie-filter-item tooltip">
-        <i class="{{icon.class}}"></i>
-        <span class="tooltiptext">{{icon.title}}</span>
-    </div>
-</div>
