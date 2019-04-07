@@ -17,6 +17,14 @@ import frido.samosprava.resolutions.ResolutionService;
 public class AppConfig {
 
     @Bean
+    public StoreManager storeManager() {
+        StoreManager sm = new StoreManager();
+        MemoryStore ms = new MemoryStore(new FileStore("db/petrzalka/ba-petrzalka-interpelacie.json"));
+        sm.register("interpellation", ms);
+        return sm;
+    }
+
+    @Bean
     public ResolutionService uzneseniaService() throws IOException {
         ResolutionService service = new ResolutionService();
         service.load();

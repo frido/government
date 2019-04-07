@@ -9,3 +9,30 @@
 [![buddy pipeline](https://app.buddy.works/fridrichpeter/government/pipelines/pipeline/179493/badge.svg?token=7e655371adbe49225d540916417d681bfffc656638c4af50ee9f6b6c2e1801bd "buddy pipeline")](https://app.buddy.works/fridrichpeter/government/pipelines/pipeline/179493)
 
 # Government
+
+## Build
+
+in `frontend` directory:
+
+```
+ng build --prod
+```
+
+in `government` directory:
+
+```
+mvn package
+```
+
+build docker:
+
+```
+docker build .
+```
+
+upload to Heroku:
+
+```
+heroku container:push web --app samosprava
+heroku container:release web --app samosprava
+```
