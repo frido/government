@@ -21,14 +21,14 @@ class InterpellationController {
 
     @GetMapping("/api/interpellations/{council}")
     public ResponseList<Interpellation> test(@PathVariable int council) throws IOException, URISyntaxException {
-        return new ResultList<>(manager.get("interpellation"), Interpellation.class)
+        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
                 .filter(x -> x.getSpolok() == council)
                 .buildList();
     }
 
     @GetMapping("/api/interpellation/{id}")
-    public ResponseObject<Osoba> test2(@PathVariable int id) throws IOException, URISyntaxException {
-        return new ResultList<>(manager.get("interpellation"), Interpellation.class)
+    public ResponseObject<Interpellation> test2(@PathVariable int id) throws IOException, URISyntaxException {
+        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
                 .filter(x -> x.getId() == id)
                 .buildObject();
     }

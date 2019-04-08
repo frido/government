@@ -23,17 +23,17 @@ public class ResultList<T> {
         list = store.getAll().stream().map(x -> apply(x, clazz));
     }
 
-    public ResultList filter(Predicate<T> filter) {
+    public ResultList<T> filter(Predicate<T> filter) {
         this.filter = filter;
         return this;
     }
 
-    public ResultList skip(int skip) {
+    public ResultList<T> skip(int skip) {
         this.skip = skip;
         return this;
     }
 
-    public ResultList limit(int limit) {
+    public ResultList<T> limit(int limit) {
         this.limit = limit;
         return this;
     }
