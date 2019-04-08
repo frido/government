@@ -6,7 +6,5 @@ import java.util.List;
 
 public interface Store {
 
-    public ObjectNode getById(int id);
-
     public List<ObjectNode> getAll();
 }

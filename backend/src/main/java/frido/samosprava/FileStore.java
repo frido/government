@@ -20,16 +20,15 @@ public class FileStore implements Store {
         this.mapper = new ObjectMapper();
     }
 
-    public Map<Integer, ObjectNode> load() {
-        Map<Integer, ObjectNode> data = new HashMap<>();
+    public List<ObjectNode> load() {
+        List<ObjectNode> data = new ArrayList<>();
         for (String fileName : fileNames) {
             try {
                 ClassPathResource cpr = new ClassPathResource(fileName);
                 InputStream stream = cpr.getInputStream();
                 JsonNode root = mapper.readTree(stream);
                 for (Iterator<JsonNode> it = root.get("data").elements(); it.hasNext(); ) {
-                    ObjectNode element = (ObjectNode) it.next();
-                    data.put(element.get("id").asInt(), element);
+                    data.add((ObjectNode) it.next());
                 }
                 stream.close();
             }catch (IOException e) {
@@ -40,12 +39,7 @@ public class FileStore implements Store {
     }
 
     @Override
-    public ObjectNode getById(int id) {
-        return load().get(id);
-    }
-
-    @Override
     public List<ObjectNode> getAll() {
-        return Collections.unmodifiableList(new ArrayList<>(load().values()));
+        return Collections.unmodifiableList(load());
     }
 }

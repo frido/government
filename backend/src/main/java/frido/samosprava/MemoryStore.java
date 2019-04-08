@@ -9,30 +9,23 @@ public class MemoryStore implements Store {
 
     private Store store;
 
-    private Map<Integer, ObjectNode> cache;
+    private List<ObjectNode> cache;
 
     MemoryStore(Store store) {
         this.store = store;
     }
 
-    @Override
-    public ObjectNode getById(int id) {
-        if (cache == null) {
-            initializeCache();
-        }
-        return cache.get(id);
-    }
 
     @Override
     public List<ObjectNode> getAll() {
         if (cache == null) {
             initializeCache();
         }
-        return Collections.unmodifiableList(new ArrayList<>(cache.values()));
+        return Collections.unmodifiableList(cache);
     }
 
     private void initializeCache() {
-        this.cache = new HashMap<>();
-        store.getAll().forEach(e -> this.cache.put(e.get("id").asInt(), e));
+        this.cache = new ArrayList<>();
+        store.getAll().forEach(e -> this.cache.add(e));
     }
 }

@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
+import java.util.List;
 
 @RestController
 class InterpellationController {
@@ -20,9 +21,9 @@ class InterpellationController {
     private StoreManager manager;
 
     @GetMapping("/api/interpellations/{council}")
-    public ResultList<Interpellation> test(@PathVariable int council) throws IOException, URISyntaxException {
+    public List<Interpellation> test(@PathVariable int council) throws IOException, URISyntaxException {
         //return new ResponseList<Osoba>(this.service.findByCouncil(council));
-        return new ResultList<>(manager.get("interpellation"), Interpellation.class, x -> x.getSpolok() == council);
+        return new ResultList<>(manager.get("interpellation"), Interpellation.class).filter(x -> x.getSpolok() == council).build();
     }
 
     @GetMapping("/api/interpellation/{id}")
