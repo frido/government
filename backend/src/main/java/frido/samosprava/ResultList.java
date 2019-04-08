@@ -2,12 +2,11 @@ package frido.samosprava;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import frido.samosprava.persons.Osoba;
+import frido.samosprava.entity.ResponseList;
+import frido.samosprava.entity.ResponseObject;
+import frido.samosprava.store.Store;
 
 import java.io.IOException;
-import java.util.Collection;
-import java.util.List;
-import java.util.function.Function;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -39,7 +38,7 @@ public class ResultList<T> {
         return this;
     }
 
-    public List<T> build() {
+    public ResponseList<T> buildList() {
         if (filter != null) {
             list = list.filter(filter).peek(x -> count++);
         }
@@ -49,7 +48,14 @@ public class ResultList<T> {
         if (limit != null) {
             list = list.limit(limit);
         }
-        return list.collect(Collectors.toUnmodifiableList());
+        return new ResponseList<T>(list.collect(Collectors.toUnmodifiableList()));
+    }
+
+    public ResponseObject<T> buildObject() {
+        if (filter != null) {
+            list = list.filter(filter);
+        }
+        return new ResponseObject<T>(list.findFirst().get());
     }
 
     private T apply(ObjectNode o, Class<T> clazz) {

@@ -1,4 +1,4 @@
-package frido.samosprava;
+package frido.samosprava.store;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 public class StoreManager {
     private Map<String, Store> map;
 
-    StoreManager() {
+    public StoreManager() {
         map = new HashMap<>();
     }
 

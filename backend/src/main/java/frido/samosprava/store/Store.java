@@ -1,4 +1,4 @@
-package frido.samosprava;
+package frido.samosprava.store;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;
 

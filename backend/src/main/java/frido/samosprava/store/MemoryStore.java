@@ -1,4 +1,4 @@
-package frido.samosprava;
+package frido.samosprava.store;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
@@ -11,7 +11,7 @@ public class MemoryStore implements Store {
 
     private List<ObjectNode> cache;
 
-    MemoryStore(Store store) {
+    public MemoryStore(Store store) {
         this.store = store;
     }
 

@@ -1,9 +1,9 @@
 package frido.samosprava;
 
+import frido.samosprava.store.FileStore;
+import frido.samosprava.store.StoreManager;
 import org.junit.Assert;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class StoreManagerTest {
 

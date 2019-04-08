@@ -1,6 +1,7 @@
 package frido.samosprava;
 
-import com.fasterxml.jackson.databind.JsonNode;
+import frido.samosprava.store.FileStore;
+import frido.samosprava.store.MemoryStore;
 import org.junit.Assert;
 import org.junit.Test;
 
