@@ -22,7 +22,13 @@
     }, {
       "id": 4,
       "spolok": 1,
-      "datum": "05.02.2018",
+      "datum": "05.02.2019",
+      "cas": "09:00",
+      "miesto": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+    }, {
+      "id": 5,
+      "spolok": 1,
+      "datum": "26.03.2019",
       "cas": "09:00",
       "miesto": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }
