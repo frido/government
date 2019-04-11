@@ -140,6 +140,7 @@
     "departments": [
       { "council": 1, "period": "2018/2022", "department": 5, "role": 1 },
       { "council": 1, "period": "2018/2022", "department": 17, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 37, "role": 1 }
     ],
     "klub": "Mladá Petržalka",
     "fb": "iveta.plsekova",
@@ -161,7 +162,8 @@
       { "council": 1, "period": "2018/2022", "fk": 5, "chairman": true }
     ],
     "departments": [
-      { "council": 1, "period": "2018/2022", "department": 16, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 16, "role": 1 },
+      { "council": 1, "period": "2018/2022", "department": 38, "role": 1 }
     ],
     "klub": null,
     "fb": "fischo",
@@ -186,7 +188,8 @@
     ],
     "departments": [
       { "council": 1, "period": "2018/2022", "department": 4, "role": 1 },
-      { "council": 1, "period": "2018/2022", "department": 28, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 28, "role": 1 },
+      { "council": 1, "period": "2018/2022", "department": 38, "role": 1 }
     ],
     "klub": "PRE Petržalku",
     "fb": null,
@@ -369,7 +372,8 @@
     ],
     "departments": [
       { "council": 1, "period": "2018/2022", "department": 9, "role": 1 },
-      { "council": 1, "period": "2018/2022", "department": 23, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 23, "role": 1 },
+      { "council": 1, "period": "2018/2022", "department": 37, "role": 1 }
     ],
     "klub": null,
     "fb": "MiroslavDragun",
@@ -396,7 +400,8 @@
     ],
     "departments": [
       { "council": 1, "period": "2018/2022", "department": 6, "role": 1 },
-      { "council": 1, "period": "2018/2022", "department": 20, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 20, "role": 1 },
+      { "council": 1, "period": "2018/2022", "department": 38, "role": 1 }
     ],
     "klub": "PRE Petržalku",
     "fb": "miroslav.behul",
@@ -1101,6 +1106,516 @@
       { "council": 1, "period": "2018/2022", "department": 1, "role": 5 }
     ],
     "role": 2
+  }, {
+    "id": 56,
+    "name": "Adam Sarlós",
+    "prefix": "",
+    "commission": [],
+    "departments": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "department": 37,
+        "role": 1
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 57,
+    "name": "Ivan Kezman",
+    "prefix": "Mgr.",
+    "commission": [],
+    "departments": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "department": 37,
+        "role": 1
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 58,
+    "name": "Michal Vičan",
+    "prefix": "",
+    "commission": [],
+    "departments": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "department": 38,
+        "role": 1
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 59,
+    "name": "Eduard Demel",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 60,
+    "name": "Lenka Jakubčová",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 61,
+    "name": "Albín Mráz",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 62,
+    "name": "Henrich Haščák",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 63,
+    "name": "Michal Pavlík",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 64,
+    "name": "Erich Stračina",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 65,
+    "name": "Viera Bieliková",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 66,
+    "name": "Maroš Buberník",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 67,
+    "name": "Gabriel Fekete",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 68,
+    "name": "Katarína Sklenková",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 69,
+    "name": "Alica Hájková",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 70,
+    "name": "Boris Hrbáň",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 71,
+    "name": "Jozef Chajdiak",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 72,
+    "name": "Štefan Wenchich",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 73,
+    "name": "Bohumil Kováč",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 74,
+    "name": "Roman Futo",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 75,
+    "name": "Ernest Huska",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 76,
+    "name": "Ján Kaľavský",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 77,
+    "name": "Jakub Kuruc",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 78,
+    "name": "Adam Sarlós",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 79,
+    "name": "Ildikó Zórádová",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 80,
+    "name": "Eva Surovková",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 81,
+    "name": "Michal Černý",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 82,
+    "name": "Martin Kleibl",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 83,
+    "name": "Marek Kovačič",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 84,
+    "name": "Ivan Lučanič",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 85,
+    "name": "Andrea Kutlíková",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 86,
+    "name": "David Běhal",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 87,
+    "name": "Michal Horváth",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 88,
+    "name": "Viktor Križo",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 89,
+    "name": "Katarína Okoličányová",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 90,
+    "name": "Milan Polešenský",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 91,
+    "name": "Viliam Ovsepian",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 92,
+    "name": "Stanislav Horínek",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 93,
+    "name": "Michal Vičan",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 94,
+    "name": "Róbert Vančo",
+    "prefix": "",
+    "commission": [
+      {
+        "council": 1,
+        "period": "2018/2022",
+        "fk": 0,
+        "chairman": false
+      }
+    ],
+    "role": 3
   }
 ]
 }

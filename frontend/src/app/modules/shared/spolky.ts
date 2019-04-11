@@ -330,6 +330,18 @@ export const spolky: Spolok[] = [
           'role': [
             { 'id': 1, 'name': 'člen rady školy', 'icon': 'fas fa-graduation-cap'}
           ]
+        }, {
+          'id': 37,
+          'name': 'Bytový podnik Petržalka, s.r.o.',
+          'role': [
+            { 'id': 1, 'name': 'člen dozornej rady', 'icon': 'fas fa-stamp'}
+          ]
+        }, {
+          'id': 38,
+          'name': 'Športové zariadenia Petržalky, s.r.o.',
+          'role': [
+            { 'id': 1, 'name': 'člen dozornej rady', 'icon': 'fas fa-stamp'}
+          ]
         }
       ],
       'fb': {
