@@ -11,7 +11,6 @@ import { UznesenieComponent } from './uznesenie/uznesenie.component';
 import { UznesenieDetailComponent } from './uznesenie-detail/uznesenie-detail.component';
 import { InterpelaciaComponent } from './interpelacia/interpelacia.component';
 //import { PoslanecComponent } from../../poslanci/poslanec.componentnt';
-import { UznesenieFilterComponent } from './uznesenie-filter/uznesenie-filter.component';
 import { InterpelaciaDetailComponent } from './interpelacia-detail/interpelacia-detail.component';
 import { TabComponent } from './tabs/tab.component';
 import { TabsComponent } from './tabs/tabs.component';
@@ -25,19 +24,20 @@ import { BacklinkDirective } from './backlink/backlink.directive';
 import { LinkableComponent } from './linkable/linkable.component';
 import { ExternalLinkComponent } from './external-link/external-link.component';
 import { PoslanecResultComponent } from './poslanec-result/poslanec-result.component';
+import { FilterComponent } from './filter/filter.component';
 //import { PoslanecDetailComponent } from '../../poslanci/poslanec-detail.component';
 
 @NgModule({
   declarations: [
     MenuComponent, IconTypeComponent, IconResultComponent, UznesenieComponent, UznesenieDetailComponent,
-    IconDetailComponent, InterpelaciaComponent, UznesenieFilterComponent, InterpelaciaDetailComponent,
+    IconDetailComponent, InterpelaciaComponent, FilterComponent, InterpelaciaDetailComponent,
     TabComponent, TabsComponent, PoslanecMenoComponent, PoslanecClickableComponent, IconKomisiaComponent,
     VtabComponent, VtabsComponent, FooterComponent, BacklinkDirective, LinkableComponent, ExternalLinkComponent,
     PoslanecResultComponent
   ],
   exports: [
     MenuComponent, IconTypeComponent, IconResultComponent, UznesenieComponent, UznesenieDetailComponent,
-    IconDetailComponent, InterpelaciaComponent, UznesenieFilterComponent, InterpelaciaDetailComponent,
+    IconDetailComponent, InterpelaciaComponent, FilterComponent, InterpelaciaDetailComponent,
     TabComponent, TabsComponent, PoslanecMenoComponent, PoslanecClickableComponent, IconKomisiaComponent,
     VtabComponent, VtabsComponent, FooterComponent, BacklinkDirective, LinkableComponent, ExternalLinkComponent,
     PoslanecResultComponent

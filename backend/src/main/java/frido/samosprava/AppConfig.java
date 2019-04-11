@@ -3,6 +3,9 @@ package frido.samosprava;
 import java.io.IOException;
 
 import frido.samosprava.meeting.MeetingService;
+import frido.samosprava.store.FileStore;
+import frido.samosprava.store.MemoryStore;
+import frido.samosprava.store.StoreManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -15,6 +18,14 @@ import frido.samosprava.resolutions.ResolutionService;
 
 @Configuration
 public class AppConfig {
+
+    @Bean
+    public StoreManager storeManager() {
+        StoreManager sm = new StoreManager();
+        MemoryStore ms = new MemoryStore(new FileStore("db/petrzalka/ba-petrzalka-interpelacie.json"));
+        sm.register("interpellation", ms);
+        return sm;
+    }
 
     @Bean
     public ResolutionService uzneseniaService() throws IOException {

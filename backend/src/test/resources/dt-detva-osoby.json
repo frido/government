@@ -1,0 +1,83 @@
+{
+  "data": [
+    {
+      "id": 1001,
+      "name": "Ján Šufliarský",
+      "prefix": "Ing.",
+      "election": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "party": "NEKA",
+          "votes": 2560,
+          "mayor": true
+        }
+      ],
+      "commission": [],
+      "departments": [],
+      "klub": null,
+      "fb": null,
+      "role": 4
+    },
+    {
+      "id": 1002,
+      "name": "Maroš Krnáč",
+      "prefix": "Ing.",
+      "election": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "party": "ŠANCA",
+          "votes": 170
+        }
+      ],
+      "commission": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "fk": 1,
+          "chairman": false
+        },
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "fk": 2,
+          "chairman": false
+        }
+      ],
+      "klub": null,
+      "fb": null,
+      "role": 1
+    },
+    {
+      "id": 1003,
+      "name": "Ondrej Vrťo",
+      "prefix": "Ing.",
+      "election": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "party": "KDH",
+          "votes": 163
+        }
+      ],
+      "commission": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "fk": 3,
+          "chairman": true
+        },
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "fk": 2,
+          "chairman": false
+        }
+      ],
+      "klub": null,
+      "fb": null,
+      "role": 1
+    }
+  ]
+}

@@ -5,8 +5,12 @@
     <div class="card-detail">
       <app-poslanec-detail [poslanec]="poslanec"></app-poslanec-detail>
     </div>
-    <ng-container *ngFor="let u of $uznesenia | async">
-      <app-uznesenie class="{{getClass(u)}}" [uznesenie]="u"></app-uznesenie>
+    <div *ngIf="filter.list.length > 0" class="uznesenie-filter" >
+      <strong>Filter hlasovania poslanca</strong>
+      <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
+    </div>
+    <ng-container *ngFor="let u of uznesenia">
+      <app-uznesenie [uznesenie]="u"></app-uznesenie>
     </ng-container>
     <a class="linkable" appBacklink>back</a>
   </div>
