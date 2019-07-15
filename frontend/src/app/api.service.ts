@@ -52,13 +52,13 @@ export class ApiService {
     return this.get(this.base + 'resolution/' + uznesenieId);
   }
 
-  // getInterpelacie(spolokKey: string, previous = false): Observable<Interpelacia[]> {
-  //   return this.get(this.base + spolokKey + '/interpelacie' + (previous ? '?previous=true' : ''));
-  // }
+  getInterpelacie(spolokId: string): Observable<Interpelacia[]> {
+    return this.get(this.base + 'interpelattions/' + spolokId);
+  }
 
-  // getInterpelacia(interpelaciaId: number): Observable<Interpelacia> {
-  //   return this.get(this.base + 'interpelacia/' + interpelaciaId);
-  // }
+  getInterpelacia(interpelaciaId: number): Observable<Interpelacia> {
+    return this.get(this.base + 'interpelattion/' + interpelaciaId);
+  }
 
   getPoslanec(osobaId: number): Observable<OsobaView> {
     return this.get(this.base + 'person/' + osobaId).pipe(

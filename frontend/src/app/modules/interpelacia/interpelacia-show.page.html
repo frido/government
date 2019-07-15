@@ -1,7 +1,11 @@
-<div class="card">
-  <h2>Interpelacia</h2>
-  <div class="card-detail">
-    <app-interpelacia-detail [interpelacia]="$interpelacia | async"></app-interpelacia-detail>
+<app-menu></app-menu>
+<div class="content">
+  <div *ngIf="$interpelacia | async as interpelacia" class="card">
+    <h2>{{interpelacia.otazka}}</h2>
+    <div class="card-detail">
+      <app-interpelacia-detail [interpelacia]="interpelacia"></app-interpelacia-detail>
+    </div>
+    <a class="linkable" appBacklink>back</a>
   </div>
-  <a class="linkable" appBacklink>back</a>
 </div>
+<app-footer></app-footer>
