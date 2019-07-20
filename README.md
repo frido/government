@@ -36,3 +36,5 @@ upload to Heroku:
 heroku container:push web --app samosprava
 heroku container:release web --app samosprava
 ```
+
+reinitializen on 20.7.2019
