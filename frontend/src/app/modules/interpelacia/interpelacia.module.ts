@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import { SharedModule } from '../shared/components/shared.module';
 
 import { InterpelaciaListPage } from './interpelacia-list.page';
@@ -16,7 +15,6 @@ import { InterpelaciaRoutingModule } from './interpelacia.routes';
   ],
   imports: [
     CommonModule,
-    MatProgressSpinnerModule,
     SharedModule,
     InterpelaciaRoutingModule
   ]

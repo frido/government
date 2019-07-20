@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { SharedModule } from './../shared/components/shared.module';
 
 import { PoslanciListPage } from './poslanci-list.page';
@@ -18,7 +17,6 @@ import { PoslanecDetailComponent } from './poslanec-detail.component';
   ],
   imports: [
     CommonModule,
-    MatProgressSpinnerModule,
     SharedModule,
     PoslanciRoutingModule
   ]

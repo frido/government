@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 
 import { SharedModule } from './../shared/components/shared.module';
 
@@ -18,8 +17,7 @@ import { CommonModule } from '@angular/common';
   imports: [
     CommonModule,
     SharedModule,
-    UzneseniaRoutingModule,
-    MatProgressSpinnerModule
+    UzneseniaRoutingModule
   ]
 })
 export class UzneseniaModule { }

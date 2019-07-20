@@ -10,6 +10,14 @@
 
 # Government
 
+## Requirements
+
+`java -version` - `java version "12.0.2" 2019-07-16`
+
+`mvn -v` - `Apache Maven 3.6.1`
+
+`node -v` - `v12.6.0`
+
 ## Build
 
 in `frontend` directory:

@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { SharedModule } from './../shared/components/shared.module';
 
 import { StarostaPage } from './starosta.page';
@@ -15,7 +14,6 @@ import { StarostaRoutingModule } from './starosta.routes';
   ],
   imports: [
     CommonModule,
-    MatProgressSpinnerModule,
     SharedModule,
     StarostaRoutingModule
   ]

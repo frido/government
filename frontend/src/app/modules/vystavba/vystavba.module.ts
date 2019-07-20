@@ -1,5 +1,4 @@
 import { NgModule } from '@angular/core';
-import { MatProgressSpinnerModule } from '@angular/material/progress-spinner';
 import { SharedModule } from './../shared/components/shared.module';
 
 import { VystavbaListPage } from './vystavba-list.page';
@@ -16,7 +15,6 @@ import { VystavbaComponent } from './vystavba.component';
   ],
   imports: [
     CommonModule,
-    MatProgressSpinnerModule,
     SharedModule,
     VystavbaRoutingModule
   ]
