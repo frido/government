@@ -1,0 +1,2648 @@
+{
+  "data": [
+    {
+      "id": 43,
+      "cislo": 1,
+      "typ": "info",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [],
+      "nadpis": "Informácia o výsledkoch volieb do orgánov samosprávy mestskej časti Bratislava-Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Informáciu o výsledku voľby starostu a volieb do Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka prednesenú predsedom miestnej volebnej komisie v Petržalke p. Ľudovítom Schlosárom"
+          ]
+        },
+        {
+          "sumar": "konštatuje",
+          "popis": [
+            "Novozvolený starosta mestskej časti Bratislava-Petržalka Ing. Ján Hrčka zložil zákonom predpísaný sľub starostu, novozvolení poslanci Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka zložili zákonom predpísaný sľub poslanca"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": ""
+    },
+    {
+      "id": 44,
+      "cislo": 2,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Poverenie poslanca ktorý bude zvolávať a viesť zasadnutia miestneho zastupiteľstva v prípadoch podľa § 12 ods. 2 prvá veta, ods. 3 tretia veta, ods. 5 piata veta a ods. 6 tretia veta zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "poveruje",
+          "popis": [
+            "poslankyňu Ing. Tatianu Kratochvílovú zvolávaním a vedením zasadnutí miestneho zastupiteľstva v prípadoch podľa § 12 ods. 2 prvá veta, ods. 3 tretia veta, ods. 5 piata veta a ods. 6 tretia veta zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov."
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/05_Poverenie_poslanca_12_zakona_369_1990.pdf"
+    },
+    {
+      "id": 45,
+      "cislo": 3,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Ustanovenie poslancov do funkcie sobášiacich",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "ustanovuje",
+          "popis": [
+            "v súlade s § 4 zákona NR SR č. 36/2005 Z.z. o rodine a o zmene a doplnení niektorých zákonov do funkcie sobášiacich týchto poslancov: Lena Bočkayová, Vladimír Dolinay, Miroslav Dragun, Ľudmila Farkašovská, Gabriela Fulová, Peter Hochschorner, Iveta Jančoková, Miroslava Makovníková Mosná, Lýdia Ovečková, Daniela Palúchová, Iveta Plšeková, Pavel Šesták, Ivan Uhlár"
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/06_Ustanovenie_poslancov_do_funkcie_sobasiacich_aktual.pdf"
+    },
+    {
+      "id": 46,
+      "cislo": 4,
+      "typ": "rozpocet",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na určenie mesačného platu Ing. Jánovi Hrčkovi, starostovi mestskej časti Bratislava-Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "určuje",
+          "popis": [
+            "Ing. Jánovi Hrčkovi, starostovi mestskej časti Bratislava-Petržalka, v súlade so zákonom Národnej rady Slovenskej republiky č. 253/1994 Z.z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov, v rozsahu úväzku určenom uznesením miestneho zastupiteľstva č. 511 zo dňa 26.6.2018 mesačný plat vo výške 3797, 00 Eur, s účinnosťou od 6. decembra 2018."
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/07_Urcenie_platu_starostu_aktual.pdf"
+    },
+    {
+      "id": 47,
+      "cislo": 5,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Návrh na zaradenie poslancov do komisií miestneho zastupiteľstva a voľba predsedov komisií",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "volí",
+          "popis": [
+            "poslancov do komisií Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka"
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/08_Zaradenie_poslancov_do_komisii_a_volba_predsedov_komisii.pdf"
+    },
+    {
+      "id": 48,
+      "cislo": 6,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Voľba členov Miestnej rady mestskej časti Bratislava-Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "volí",
+          "popis": [
+            "za členov Miestnej rady mestskej časti Bratislava-Petržalka poslancov: Peter Cmorej, Vlado Dolinay, Juraj Kríž, Tomáš Palkovič, Drahan Petrovič, Pavel Šesták, Pavol Škápik, Milan Vetrák"
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/10_Volba_clenov_miestnej_rady.pdf"
+    },
+    {
+      "id": 49,
+      "cislo": 7,
+      "typ": "rozpocet",
+      "spolok": 1,
+      "zasadnutie": 3,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na vysporiadanie nevyčerpanej dovolenky Vladimírovi Bajanovi v súvislosti s ukončením volebného obdobia 2015 –2018",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "v súlade s § 2 ods. 2 zákona Národnej rady Slovenskej republiky č. 253/1994 Z.z. o právnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov vyplatenie náhrady platu starostu Vladimíra Bajana za nevyčerpanú dovolenku za rok 2018 v rozsahu 9 dní vo výške 1862, 50 €."
+          ]
+        }
+      ],
+      "za": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "proti": [],
+      "pritomni": 34,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2018/11/09_Vysporiadanie_nevycerpanej_dovolenky_Vladimira_Bajana_new.pdf"
+    },
+    {
+      "id": 50,
+      "cislo": 8,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [],
+      "nadpis": "Zloženie sľubu poslanca Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Informáciu p. Ľudovíta Schlosára, predsedu miestnej volebnej komisie v Bratislave-Petržalke o výsledku volieb do orgánov samosprávy mestskej časti Bratislava-Petržalka"
+          ]
+        },
+        {
+          "sumar": "konštatuje",
+          "popis": [
+            "p. Jozef Vydra, zvolený za poslanca Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka, zložil zákonom predpísaný sľub poslanca."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        21,
+        12,
+        35,
+        18,
+        5,
+        6,
+        1,
+        10,
+        3,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 32,
+      "zdroj": ""
+    },
+    {
+      "id": 51,
+      "cislo": 9,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Zaradenie poslancov do komisií Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka a voľba predsedu komisie územného plánu, výstavby a dopravy",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "volí",
+          "popis": [
+            "poslanca Jozefa Vydru do komisie územného plánu, výstavby a dopravy a do komisie finančnej Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka,",
+            "poslankyňu Elenu Pätoprstú do komisie územného plánu, výstavby a dopravy",
+            "poslanca Miroslava Behúla do komisie správy majetku a miestnych podnikov",
+            "poslankyňu Ivetu Jančokovú do komisie sociálnej a bytovej",
+            "poslanca Jozefa Vydru za predsedu komisie územného plánu, výstavby a dopravy"
+          ]
+        },
+        {
+          "sumar": "odvoláva",
+          "popis": [
+            "poslankyňu Miroslavu Makovníkovú Mosnú z komisie sociálnej a bytovej",
+            "poslanca Ivana Uhlára z komisie športu"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        35,
+        18,
+        5,
+        6,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 33,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/02_Zaradenie_poslancov_do_komisi_a_volba_predsedu_komisie.pdf"
+    },
+    {
+      "id": 52,
+      "cislo": 10,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [],
+      "nadpis": "Ustanovenie poslancov do funkcie sobášiacich",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "ustanovuje",
+          "popis": [
+            " v súlade s § 4 zákona NR SR č. 36/2005 Z.z. o rodine a o zmene adoplnení niektorých zákonov do funkcie sobášiacich týchto poslancov:",
+            "Tomáš Palkovič",
+            "Pavol Škápik",
+            "Jozef Vydra"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/uznesenia_MZ_05_02_2019_Aktual-1.pdf"
+    },
+    {
+      "id": 53,
+      "cislo": 11,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Voľba člena Miestnej rady mestskej časti Bratislava-Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "volí",
+          "popis": [
+            "poslankyňu Ľudmilu Farkašovskú za členku Miestnej rady mestskej časti Bratislava-Petržalka s účinnosťou od 05. februára 2019 do 31. decembra 2020.",
+            "poslanca Miroslava Draguna za člena Miestnej rady mestskej časti Bratislava-Petržalka s účinnosťou od 01. januára 2021 do konca volebného obdobia 2018-2022."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        18,
+        5,
+        6,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 32,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/uznesenia_MZ_05_02_2019_Aktual-1.pdf"
+    },
+    {
+      "id": 54,
+      "cislo": 12,
+      "typ": "ziadost",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [],
+      "nadpis": "Odmietavé stanovisko mestskej časti Bratislava-Petržalka k trasovaniu ropovodu Bratislava–Schwechat Pipeline",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "odmieta",
+          "popis": [
+            "trasovanie ropovodu Bratislava–Schwechat Pipeline cez katastrálne územie Petržalky"
+          ]
+        },
+        {
+          "sumar": "žiada",
+          "popis": [
+            "starostu mestskej časti Bratislava-Petržalka, aby o odmietavom stanovisku informoval primátora hlavného mesta SR Bratislavy, predsedu Bratislavského samosprávneho kraja, ministra hospodárstva Slovenskej republiky, ministra životného prostredia Slovenskej republiky, vedenie spoločnosti Transpetrol, OMV a veľvyslanca Rakúskej republiky a pripravil komplexný materiál ako informáciu na najbližšie zasadnutie miestneho zastupiteľstva."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        23,
+        19,
+        15,
+        32,
+        8,
+        29,
+        30,
+        2,
+        27,
+        25,
+        21,
+        12,
+        18,
+        5,
+        6,
+        1,
+        3,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/uznesenia_MZ_05_02_2019_Aktual-1.pdf"
+    },
+    {
+      "id": 55,
+      "cislo": 13,
+      "typ": "rozpocet",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Návrh rozpočtu mestskej časti Bratislava-Petržalka na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "a) rozpočet mestskej časti Bratislava-Petržalka na rok 2019 s príjmami v čiastke 39 457 969 EUR a výdavkami v čiastke 39 457 969 EUR",
+            "b) použitie peňažných fondov mestskej časti Bratislava-Petržalka na rok 2019",
+            "c) poverenie starostu upravovať v priebehu roka záväzné ukazovatele a vykonávať rozpočtové opatrenia na rok 2019:",
+            "1. vplnej výške v prípade účelovo určených finančných prostriedkov poskytnutých zo štátneho rozpočtu, z Európskej únie a iných prostriedkov zo zahraničia poskytnutých na konkrétny účel, z rozpočtu iného subjektu verejnej správy a účelovo poskytnutých darov",
+            "2. vykonávať presun rozpočtovaných príjmov vrámci schváleného rozpočtu, pričom sa nemenia celkové príjmy",
+            "3. vykonávať presun rozpočtovaných výdavkov medzi programami do výšky 100000 EUR a medzi podprogramami a prvkami vrámci jedného programu do výšky 50000 EUR,",
+            "4. vykonávať rozpočtové opatrenia zmenou príjmov a výdavkov pri zabezpečení vyrovnanosti alebo prebytku rozpočtu do výšky 50000 EUR"
+          ]
+        },
+        {
+          "sumar": "žiada",
+          "popis": [
+            "starostu pravidelne štvrťročne informovať miestne zastupiteľstvo o vykonaných rozpočtových opatreniach počas roka 2019"
+          ]
+        },
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "a) výhľad rozpočtu mestskej časti Bratislava-Petržalka na roky 2020 a 2021",
+            "b) odborné stanovisko miestneho kontrolóra mestskej časti Bratislava-Petržalka k Návrhu rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 s výhľadom do roku 2021."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        18,
+        5,
+        6,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/Navrh_rozpoctu_2019_2021.pdf"
+    },
+    {
+      "id": 56,
+      "cislo": 14,
+      "typ": "vzn",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Návrh VZN, ktorým sa mení a dopĺňa VZN č. 13/2015 zo dňa 01.12.2015 o školských obvodoch základných škôl v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení VZN č. 2/2017 zo dňa 28.02.2017",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 13/2015 zo dňa 1.12.2015 o školských obvodoch základných škôl v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 2/2017"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/05_Navrh_VZN_o_skolskych_obvodoch.pdf"
+    },
+    {
+      "id": 57,
+      "cislo": 15,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Voľba členov Rady fondu rozvoja",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "odvoláva",
+          "popis": [
+            "súčasných členov Rady fondu rozvoja:",
+            "p. Ján Bučan",
+            "p. Peter Cmorej",
+            "p. Martin Jóna",
+            "p. Elena Pätoprstá"
+          ]
+        },
+        {
+          "sumar": "volí",
+          "popis": [
+            "členov Rady fondu rozvoja:",
+            "p. Drahan Petrovič",
+            "p. Matúš Repka",
+            "p. Elena Pätoprstá",
+            "p. Milan Vetrák",
+            "p. Peter Cmorej",
+            "p. Ivan Uhlár",
+            "p. Oliver Kríž"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/06_Rada_fondu_rozvoja_aktual.pdf"
+    },
+    {
+      "id": 58,
+      "cislo": 16,
+      "typ": "projekt",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Projekt: „Rekonštrukcia budovy ZŠ Turnianska, Bratislava za účelom navýšenia kapacít MŠ“",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "súhlasí",
+          "popis": [
+            "a) so vznikom novej materskej školy formou rekonštrukcie priestorov bývalej budovy ZŠ Turnianska a jej následné zaradenie do siete škôl a školských zariadení MŠVVaŠ SR;",
+            "b) s predložením ŽoNFP za účelom realizácie projektu „Rekonštrukcia budovy ZŠ Turnianska za účelom navýšenia kapacít MŠ“, realizovaného v rámci Výzvy na predkladanie žiadostí o nenávratný finančný príspevok na zvýšenie kapacít infraštruktúry materských škôl, ktorého ciele sú v súlade s platným územným plánom hl. mesta SR Bratislava a platným PHSR mestskej časti Bratislava-Petržalka;",
+            "c) so zabezpečením realizácie projektu v súlade spodmienkami poskytnutia pomoci;",
+            "d) so zabezpečením finančných prostriedkov na spolufinancovanie realizovaného projektu vo výške 18 740, 72 EUR, čo predstavuje 5% spolufinancovanie vrámci celkových oprávnených výdavkov projektu;",
+            "e) so zabezpečením financovania prípadných neoprávnených výdavkov z rozpočtu mestskej časti Bratislava-Petržalka."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/07_Rekonstrukcia_budovy_ZS_Turnianska.pdf"
+    },
+    {
+      "id": 59,
+      "cislo": 17,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na zverenie objektu MŠ Vyšehradská 17, Bratislava do správy Strediska služieb školám a školským zariadeniam Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "zverenie objektu materskej školy Vyšehradská 17, 851 06 Bratislava, súpis. č. 3035, postaveného na pozemku parc.č. 2376, LV 1748 a pozemkov parc.č. 2376, zastavané plochy a nádvoria vo výmere 3610 m2 a parc.č. 2377, zastavané plochy a nádvoria vo výmere 2815 m2, zapísaných na LV č. 1748 do správy Strediska služieb školám a školským zariadeniam Petržalka, Bohrova 1, 851 01 Bratislava, IČO: 31811 485."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        12,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/08_Navrh_na_zverenie_MS_Vysehradska_do_spravy_SSSaSZ.pdf"
+    },
+    {
+      "id": 60,
+      "cislo": 18,
+      "typ": "projekt",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Návrh zámeru zriadiť ZŠ Pankúchova 6, Bratislava ako súčasť budúcej spojenej školy -spolupráca s BSK",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Návrh zámeru zriadiť ZŠ Pankúchova 6 ako súčasť budúcej spojenej školy –spolupráca s Bratislavským samosprávnym krajom"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        18,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/09_Zamer_zriadenie_ZS_Pankuchova_6_Bratislava.pdf"
+    },
+    {
+      "id": 61,
+      "cislo": 19,
+      "typ": "delegovanie",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Návrh na zaradenie poslancov Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka do rád škôl pri ZŠ a MŠ na volebné obdobie 2019-2022",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "delegovanie poslancov Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka do rád škôl pri ZŠ a MŠ tak, ako je to uvedené v materiáli"
+          ]
+        },
+        {
+          "sumar": "splnomocňuje",
+          "popis": [
+            "I.zástupkyňu starostu mestskej časti Bratislava-Petržalka Ing. Lýdiu Ovečkovú na delegovanie poslancov Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka a ďalších zástupcov zriaďovateľa do rád škôl pri ZŠ a MŠ, ktorých zriaďovateľom je mestská časť Bratislava-Petržalka a riešiť prípadné zmeny v uvedených orgánoch počas celého volebného obdobia."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/10_Zaradenie_poslancov_do_rad_skol.pdf"
+    },
+    {
+      "id": 62,
+      "cislo": 20,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na predĺženie prenájmu pozemku v k.ú. Petržalka, parc. č. 1209 pre Ľuboslavu Mikulášovú ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa vzmysle § 9a ods. 9 písm. c) zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, nájom pozemku registra „C“ KN vk. ú. Petržalka, časť parc. č. 1209 vo výmere 4, 08 m2, ostatná plocha,LV č. 1748  pre  Ľuboslavu  Mikulášovú, Osuského 36, Bratislava, IČO: 11810092, za účelom využívania pozemku ako prístupový chodník  do prevádzky kaderníctva na dobu do 31.12.2023, za cenu 5, 20 €/m2/rok, čo predstavuje celkové ročné nájomné 21, 22 €."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/11_Prenajom_pozemku_Luboslavu_Mikulasovu.pdf"
+    },
+    {
+      "id": 63,
+      "cislo": 21,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na predĺženie prenájmu časti pozemku parc. č. 3073/66 pre Ministerstvo vnútra Slovenskej republiky",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa vzmysle § 9a, ods. 9 písm. c/ zákona č. 138/1991 Zb. omajetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN, parc. č. 3073/66 v k. ú. Petržalka o výmere 184, 00 m2 pre žiadateľa Ministerstvo vnútra Slovenskej Republiky, Pribinova 2, 812 72 Bratislava, IČO: 00151866, na dobu určitú do 31.12.2020, za cenu 13, 00 €/m2/rok, celkovo za 2 392, 00 €/rok."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/12_Prenajom_pozemku_pre_MV_SR.pdf"
+    },
+    {
+      "id": 64,
+      "cislo": 22,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na predĺženie prenájmu časti pozemku parc. č. 2810/2 pre Zuzanu Serinovú",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a, ods. 9 písm. c) zák. SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti pozemku parc. č. 2810/2 vo výmere 7, 20 m2, druh pozemku zastavané plochy a nádvoria, zapísaný na LV č. 1748, pre žiadateľa Zuzana Serinová, Lietavská 7, 851 06 Bratislava, IČO: 17429170, za účelom užívania pozemku, na ktorom je vybudovaný prístupový chodník a umiestnený stánok typu ESSEX za účelom predaja kvetín a viazania vencov v lokalite Jasovská ul.–Turnianska ul. v Bratislave-Petržalke, na dobu do 31.12.2023, za cenu: a) pre prístupový chodník (k stánku) na 5, 20 €/m2 ročne (t.j. 5, 20 € x 1, 20 m2 ) b) pre zastavanú plochu (pod stánkom) na 77, 80 €/m2 ročne ( t.j. 77, 80 € x 6, 00 m2 ) celkovo 479, 19 €/rok, vrátane inflácie za rok 2017."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/13_Prenajom_pozemku_pre_Zuzanu_Serinovu.pdf"
+    },
+    {
+      "id": 65,
+      "cislo": 23,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na predĺženie prenájmu nebytových priestorov v objekte Fedinovej 18, Bratislava pre CRAZY -LAZY s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa, podľa § 9a ods. 9 písm. c) zákona SNR č. 138/1991 Zb. omajetku obcí v znení neskorších predpisov prenájom nebytových priestorov - v objekte Fedinovej 18, 851 01 Bratislava, súpisné číslo 1140, s celkovou výmerou 185, 65 m2 v k. ú. Petržalka, zapísaného na LV č. 2930, pre žiadateľa CRAZY-LAZY 9 s.r.o., Mandľová 69, 851 10 Bratislava, IČO: 44750 838, na dobu určitú do 31.12.2023, za cenu 7217, 08 €/rok"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 30,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/14_Predlzenie_prenajmu_NP_pre_Crazy_Lazy.pdf"
+    },
+    {
+      "id": 66,
+      "cislo": 24,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na prenájom nebytových priestorov v objekte ZŠ Lachova 1, Bratislava pre Súkromnú strednú odbornú školu Johannes Senio Service s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa podľa § 9a ods.9 písm.c) zák.č.138/1991 Zb. v znení neskorších predpisov prenájom nebytových priestorov - štyri triedy, dva kabinety, chodba, sociálne zariadenia nachádzajúce sa v bloku B1, prízemie ocelkovej výmere 412, 2 m2 v objekte Základnej školy Lachova 1, 851 03 Bratislava pre Súkromnú strednú odbornú školu Johannes Senio Service , Lachova 1, 851 03 Bratislava IČO: 30849934, za účelom vzdelávania v súlade s platnou legislatívou na dobu určitú od 1.01.2019 do 31.07.2019 za cenu 10, 00 €/m2/rok, celkovo za 2 404, 50 €."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        32,
+        7,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/15_Prenajom_pozemku_pre_Johannes_Senio_Service.pdf"
+    },
+    {
+      "id": 67,
+      "cislo": 25,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na prenájom nebytových priestorov - šatní v objekte ZŠ Budatínska 61, Bratislava pre MŠK ISKRA Petržalka, o.z.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa podľa § 9a ods.9 písm.c) zák.č.138/1991 Zb. v znení neskorších predpisov prenájom nebytových priestorov – šatní, prízemie, trakt B3, miestnosť č.125 ač.127, spolu o výmere 83, 8 m2 v objekte Základnej školy Budatínska 61, 851 06 Bratislava pre Miestny športový klub ISKRA Petržalka, o.z. Údernícka 20, 851 01 Bratislava, IČO: 00686743, na dobu určitú od 01.02.2019 do 31.12.2023, mimo školských prázdnin, za cenu 10, 00 €/m2/rok, zvýšenú o 20% za užívanie spoločných priestorov, celkovo za 1 005, 60 €/rok."
+          ]
+        }
+      ],
+      "za": [
+        23,
+        15,
+        32,
+        7,
+        17,
+        24,
+        29,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        25,
+        31,
+        21,
+        12,
+        35,
+        5,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [
+        8
+      ],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/16_Prenajom_NP_pre_MSK_ISKRA.pdf"
+    },
+    {
+      "id": 68,
+      "cislo": 26,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na prenájom nebytových priestorov – školského bazéna v objekte ZŠ Budatínska 61, Bratislava pre Happy Kids o.z.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa podľa § 9a ods.9 písm.c) zák.č.138/1991 Zb. v znení neskorších predpisov prenájom nebytových priestorov – školského bazéna v objekte Základnej školy Budatínska 61, 851 06 Bratislava pre Happy Kids o.z., Nevädzová 5, 821 01 Bratislava, IČO: 42151783 za účelom plaveckého výcviku detí na dobu určitú od 04.02.2019 do 27.06.2019, 3 dni vtýždni (utorok, streda, štvrtok) v čase od 17.00 hod. do 19.00 hod., mimo školských prázdnin, za cenu 10, 00 €/hod."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 30,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/17_Prenajom_NP_pre_Happy_Kids.pdf"
+    },
+    {
+      "id": 69,
+      "cislo": 27,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na prenájom dvoch častí pozemku parc. č. 1466 pre vlastníkov bytov a nebytových priestorov na Starhradskej 2 – 4, Bratislava v zastúpení BPP, s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa vzmysle § 9a ods. 9 písm. c) zák. SNR č. 138/1991 Zb. omajetku obcí v znení neskorších predpisov, prenájom dvoch časti pozemku registra „C“ KN vk. ú. Petržalka, parc. č.1466 – zastavané plochy o výmere 11, 536 m2 a 6, 874 m2, zapísaného na LV 1748, pre vlastníkov bytov a nebytových priestorov bytových domov Starhradská 2-4 v zastúpení Bytového podniku Petržalka s.r.o., na dobu určitú do 31.12.2023 za cenu 0, 50 €/m2/rok, čo prestavuje ročne sumu 9, 21 €."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        32,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/18_Prenajom_casti_pozemkov_pre_BPP.pdf"
+    },
+    {
+      "id": 70,
+      "cislo": 28,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        53
+      ],
+      "nadpis": "Návrh na rozšírenie prenájmu časti pozemku parc. č. 1494 pre Haruna Eleziho",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa vzmysle § 9 aods. 9 písm. c) zák. SNR č. 138/1991 Zb. omajetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN vk. ú. Petržalka, parc. č.1494/2 o výmere 15, 84 m2 – zastavané plochy a nádvoria, LV 1784, pre žiadateľa Haruna Eleziho Roľnícka 9254/53, 831 07 Bratislava-Vajnory, 11 IČO: 40031489, nadobu určitú do 31.12.2023 za cenu 77,80 €/m2/rok, čo predstavuje ročne sumu 1232, 35 €"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        35,
+        5,
+        1,
+        3,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 31,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/19_Preajom_pozemku_pre_Harun_Elezi.pdf"
+    },
+    {
+      "id": 71,
+      "cislo": 29,
+      "typ": "info",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        36
+      ],
+      "nadpis": "Informácia o uzatvorených nájomných zmluvách k obecným bytom za IV. štvrťrok 2018",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Informáciu o uzatvorených nájomných zmluvách k obecným bytom v mestskej časti Bratislava-Petržalka za IV. štvrťrok 2018."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        20
+      ],
+      "proti": [],
+      "pritomni": 29,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/20_Informacia_o_uzatvorenych_NZ_k_obecnym_bytom_IV_stvrtrok_2018.pdf"
+    },
+    {
+      "id": 72,
+      "cislo": 30,
+      "typ": "kontrola",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        55
+      ],
+      "nadpis": "Správa o kontrole plnenia opatrení prijatých na odstránenie a nápravu nedostatkov zistených pri kontrole pokladničnej služby Miestneho úradu mestskej časti Bratislava-Petržalka ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Správu o kontrole plnenia opatrení, prijatých na odstránenie a nápravu nedostatkov, zistených pri kontrole pokladničnej služby Miestneho úradu mestskej časti Bratislava-Petržalka."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        26,
+        2,
+        14,
+        4,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        3,
+        28,
+        13,
+        34
+      ],
+      "proti": [],
+      "pritomni": 27,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/21_Sprava_kontrola_plnenia_opatreni_pokladnicna_slu%C5%BEba_MU.pdf"
+    },
+    {
+      "id": 73,
+      "cislo": 31,
+      "typ": "kontrola",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        55
+      ],
+      "nadpis": "Správa o kontrole plnenia opatrení prijatých na odstránenie a nápravu nedostatkov zistených pri kontrole prenájmov nebytových priestorov v Základnej škole Budatínska 61, Bratislava, Holíčska 50, Bratislava a Turnianska 10, Bratislava",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Správu o kontrole plnenia opatrení, prijatých na odstránenie a nápravu nedostatkov, zistených pri kontrole prenájmov nebytových priestorovv Základnej škole Budatínska 61, Bratislava, Holíčska 50, Bratislava a Turnianska 10, Bratislava"
+          ]
+        },
+        {
+          "sumar": "žiada",
+          "popis": [
+            "starostu predložiť návrh na riešenie zistených opatrení z kontroly pri kontrolách nebytových priestorov na dotknutých ZŠ."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        24,
+        9,
+        30,
+        2,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 29,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/22_Kontrola_opatreni_prenajmy_v_ZS.pdf"
+    },
+    {
+      "id": 74,
+      "cislo": 32,
+      "typ": "kontrola",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        55
+      ],
+      "nadpis": "Správa o kontrole aktuálnych dohôd o prácach vykonávaných mimo pracovného pomeru na referáte personálnej práce a miezd miestneho úradu",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Správu o kontrole aktuálnych dohôd o prácach vykonávaných mimo pracovného pomeru na referáte personálnej práce a miezd miestneho úradu"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 28,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/23_Sprava_Kontrola_dohod_o_pracach.pdf"
+    },
+    {
+      "id": 75,
+      "cislo": 33,
+      "typ": "kontrola",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        55
+      ],
+      "nadpis": "Správa o kontrolnej činnosti za rok 2018 ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Správu o kontrolnej činnosti za rok 2018"
+          ]
+        }
+      ],
+      "za": [
+        16,
+        11,
+        23,
+        19,
+        15,
+        7,
+        8,
+        17,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        14,
+        27,
+        31,
+        21,
+        12,
+        35,
+        5,
+        1,
+        10,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 28,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/24_Sprava_o_kontrolnej_cinnosti_2018.pdf"
+    },
+    {
+      "id": 76,
+      "cislo": 34,
+      "typ": "kontrola",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        55
+      ],
+      "nadpis": "Návrh plánu kontrolnej činnosti miestneho kontrolórana obdobie od 01. januára 2019 do 30. júna 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Plán kontrolnej činnosti miestneho kontrolóra mestskej časti Bratislava-Petržalka na obdobie od 1. januára 2019 do 30. júna 2019 so zmenami prijatými autoremedúrou a schválenými zmenami:",
+            "- Autoremedúrou zaradené vykonanie kontroly v Športových zariadeniach Petržalky, s.r.o",
+            "- Návrh na vykonanie kontroly vyúčtovania dotácií jednotlivých žiadateľov, ktorým bola dotácia poskytnutá v rok 2018 v zmysle VZN o dotáciách a VZN o dotáciách pre veľké športové kluby. Vykonanie kontroly na obdobie od 1.1.2019 do 31.6.2019",
+            "- Presun kontroly zameranej na správnosť, úplnosť a preukázateľnosť účtovných dokladov v Stredisku sociálnych služieb na 2. polrok 2019",
+            "- Presun kontroly spôsobu výberu a použitia miestneho poplatku za rozvoj za rok 2018 na 2. polrok 2019",
+            "- Doplnenie (ponechanie) kontroly plnenia opatrení prijatých na odstránenie nedostatkov zistených pri kontrole vybavovania žiadostí o vydanie povolenia k vyhradeniu parkovacieho miesta v zmysle VZN č. 5/2004."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        19,
+        8,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        31,
+        21,
+        12,
+        1,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 22,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/25_Navrh_planu_KC_I_polrok_2019.pdf"
+    },
+    {
+      "id": 76,
+      "cislo": 35,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        34
+      ],
+      "nadpis": "Uznesenia prijaté v bode Rôzne 1.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "žiada",
+          "popis": [
+            "starostu o predloženie informácie o všetkých voľných nebytových priestoroch vrámci jednotlivých MŠ a ZŠ v pôsobnosti mestskej časti s ich výmerou a súčasne predložiť informáciu o všetkých prenajatých nebytových priestoroch v MŠ a ZŠ spolu s rozmermi, výmerami a dobou nájmu s dňami predpokladaného skončenia nájmu pri nájomcoch na dobu určitú."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        15,
+        7,
+        8,
+        24,
+        29,
+        9,
+        26,
+        30,
+        2,
+        31,
+        21,
+        12,
+        1,
+        28,
+        13,
+        34,
+        33,
+        20
+      ],
+      "proti": [],
+      "pritomni": 19,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/uznesenia_MZ_05_02_2019_Aktual-1.pdf"
+    },
+    {
+      "id": 77,
+      "cislo": 36,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 4,
+      "predkladatel": [
+        15
+      ],
+      "nadpis": "Uznesenia prijaté v bode Rôzne 2.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka žiada starostu rokovať s hlavným mestom SR Bratislavou a Dopravným podnikom Bratislava, a.s. o zabezpečení bezplatnej dopravy na linkách č. 87 a 88 počas rekonštrukcie komunikácie pri Mlynských Nivách a pri výstavbe obchvatu D4/R7 na Prístavnom moste."
+          ]
+        }
+      ],
+      "za": [
+        16,
+        15,
+        20
+      ],
+      "proti": [
+        12,
+        10
+      ],
+      "pritomni": 20,
+      "zdroj": "https: //www.petrzalka.sk/wp-content/uploads/2019/01/uznesenia_MZ_05_02_2019_Aktual-1.pdf"
+    },
+    {
+      "id": 78,
+      "cislo": 37,
+      "typ": "peticia",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [19],
+      "nadpis": "Petícia proti výstavbe „Polyfunkčného bytového domu Topoľčianska“",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "predloženú správu Petícia proti výstavbe polyfunkčného bytového domu Topoľčianska,"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "starostu mestskej časti Bratislava - Petržalka aby v prebiehajúcom územnom konaní stavby Polyfunkčný bytový dom Topoľčianska Petržalka Bratislava zohľadnil požiadavky signatárov Petície proti výstavbe Polyfunkčného bytového domu Topoľčianska, v súlade s vyjadrením magistrátu hl. mesta SR Bratislavy zo 17.8.2015,"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "starostu o zaslanie žiadosti hlavnému mestu SR o preskúmanie záväzného stanoviska k predmetnému zámeru"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/1-MZ-peticia-Topolcianska.pdf"
+    },
+    {
+      "id": 79,
+      "cislo": 38,
+      "typ": "prenajom",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na prenájom časti pozemku parc. č. 982 za účelom zriadenia komunitnej záhrady pre OZ KoZa v Háji",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a ods.9 písm. c) zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN v k. ú. Petržalka, parc. č. 982 vo výmere 78,6 m2, ostatná plocha, pre žiadateľa, KoZa v Háji – občianske združenie, Hrobákova 1638/13, 851 02 Bratislava, IČO 51641721, za účelom vybudovania komunitnej záhrady za cenu 1,00 €/ rok, na dobu určitú do 31.12 2023. "
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/11-MZ-26.3.2019-KoZa-v-Háji-prenájom-pozemku.pdf"
+    },
+    {
+      "id": 80,
+      "cislo": 39,
+      "typ": "vzn",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh VZN, ktorým sa mení a dopĺňa VZN č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava - Petržalka v znení VZN č. 4/2013 a VZN č. 3/2015 ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Všeobecne záväzné nariadenie mestskej časti Bratislava - Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava - Petržalka v znení všeobecne záväzného nariadenia č. 4/2013 a všeobecne záväzného nariadenia č. 3/2015"
+          ]
+        }, {
+          "sumar": "splnomocňuje",
+          "popis": [
+            "starostu mestskej časti Bratislava - Petržalka vydať úplné znenie Všeobecne záväzného nariadenia č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava - Petržalka v znení všeobecne záväzného nariadenia č. 4/2013 a všeobecne záväzného nariadenia č. 3/2015 a všeobecne záväzného nariadenia schváleného dňa 26.03.2019."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/2-OŠaŠ_MZ_-Návrh_VZN-o-výške-príspevku-a-spôsobe-platby..-2019.pdf"
+    },
+    {
+      "id": 81,
+      "cislo": 40,
+      "typ": "vzn",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh VZN, ktorým sa mení a dopĺňa VZN mestskej časti Bratislava - Petržalka č. 7/2015 o poskytovaní finančných dotácií z rozpočtu mestskej časti Bratislava - Petržalka v znení VZN č. 7/2017",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "v prípade poskytnutia dotácie do 5.000 € poukazovať dotáciu v plnej výške,",
+            "všeobecne záväzné nariadenie mestskej časti Bratislava - Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava - Petržalka č. 7/2015 o poskytovaní finančných dotácií z rozpočtu mestskej časti Bratislava - Petržalka v znení všeobecne záväzného nariadenia č. 7/2017."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/3-Návrh-na-zmenu-VZN-č.72015-o-poskytovaní-dotácií.pdf"
+    },
+    {
+      "id": 82,
+      "cislo": 41,
+      "typ": "vzn",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh VZN, ktorým sa mení a dopĺňa VZN mestskej časti Bratislava - Petržalka č. 8/2009 zo dňa 15. decembra 2009 o určení výšky dotácie na prevádzku a mzdy na dieťa materskej školy a dieťa školského zariadenia",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Všeobecne záväzné nariadenie mestskej časti Bratislava - Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava - Petržalka č. 8/2009 zo dňa 15. decembra 2009 o určení výšky dotácie na prevádzku a mzdy na dieťa materskej školy a dieťa školského zariadenia."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/4-Návrh-VZN-škol-dotaciefin-do-MZ.pdf"
+    },
+    {
+      "id": 83,
+      "cislo": 42,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Stanovisko mestskej časti Bratislava - Petržalka k urbanistickej štúdii „Riešenie centrálnej rozvojovej osi Petržalka“",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "stanovisko mestskej časti Bratislava - Petržalka k urbanistickej štúdii „Riešenie centrálnej rozvojovej osi Petržalka“."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/Stanovisko-k-urbanistickej-%C5%A1t%C3%BAdii-_MZ-final.doc"
+    },
+    {
+      "id": 84,
+      "cislo": 43,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh Zásad hospodárenia s bytmi vo vlastníctve mestskej časti Bratislava - Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "návrh Zásad hospodárenia s bytmi vo vlastníctve mestskej časti Bratislava – Petržalka."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/5-BO-Návrh-Zásad-hospodárenia-s-bytmi-vo-vlastníctve-MČ.pdf"
+    },
+    {
+      "id": 85,
+      "cislo": 44,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh na odvolanie a voľbu členov Dozornej rady Bytového podniku Petržalka, s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "odvolanie členov Dozornej rady Bytového podniku Petržalka, s.r.o.:",
+            "Ing. Julián Lukáček",
+            "RNDr. Gabriel Gaži",
+            "Ing. Ján Karman",
+            "Mgr. Ivana Antošová",
+            "vymenovanie nových členov Dozornej rady Bytového podniku Petržalka, s.r.o.:",
+            "Miroslav Dragun",
+            "Adam Sarlós",
+            "MUDr. Iveta Plšeková",
+            "Mgr. Ivan Kezman"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "starostu, ako štatutárny orgán jediného spoločníka Bytového podniku Petržalka, s.r.o., aby zabezpečil:",
+            "výmaz odvolaných členov Dozornej rady Bytového podniku Petržalka, s.r.o.",
+            "Ing. Julián Lukáček",
+            "RNDr. Gabriel Gaži",
+            "Ing. Ján Karman",
+            "Mgr. Ivana Antošová",
+            "zápis novo vymenovaných členov Dozornej rady Bytového podniku Petržalka, s.r.o.",
+            "Miroslav Dragun",
+            "Adam Sarlós",
+            "MUDr. Iveta Plšeková",
+            "Mgr. Ivan Kezman"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/6-MZ-Zmena-v-DR-BPP-sro.pdf"
+    },
+    {
+      "id": 86,
+      "cislo": 45,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh na odvolanie a voľbu členov Dozornej rady Športových zariadení Petržalky, s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "odvolanie členov Dozornej rady Športových zariadení Petržalky, s.r.o.:",
+            "Mgr. Ján Bučan",
+            "Ing. Roman Masár",
+            "Mgr. Vladislav Chaloupka",
+            "Miroslav Lažo",
+            "vymenovanie nových členov Dozornej rady Športových zariadení Petržalky, s.r.o.:",
+            "Ing. Miroslav Behúl PhD.",
+            "Ing. Gabriela Fulová",
+            "Bc. Mgr. Jozef Fischer",
+            "Michal Vičan"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "starostu, ako štatutárny orgán jediného spoločníka Športových zariadení Petržalky, s.r.o., aby zabezpečil:",
+            "výmaz odvolaných členov Dozornej rady Športových zariadení Petržalky, s.r.o.:",
+            "Mgr. Ján Bučan",
+            "Ing. Roman Masár",
+            "Mgr. Vladislav Chaloupka",
+            "Miroslav Lažo",
+            "zápis novo vymenovaných členov Dozornej rady Športových zariadení Petržalky, s.r.o.:",
+            "Ing. Miroslav Behúl PhD.",
+            "Ing. Gabriela Fulová",
+            "Bc. Mgr. Jozef Fischer",
+            "Michal Vičan"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/7-MZ-Zmena-v-DR-ŠZP-sro.pdf"
+    },
+    {
+      "id": 87,
+      "cislo": 46,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Návrh na voľbu neposlancov do komisií Miestneho zastupiteľstva mestskej časti Bratislava – Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "zmenu Zásad odmeňovania poslancov miestneho zastupiteľstva a členov komisií – neposlancov v mestskej časti Bratislava - Petržalka (schválené uznesením Miestneho zastupiteľstva mestskej časti Bratislava - Petržalka č. 407 zo dňa 12. Decembra 2017 a v znení uznesenia MZ č. 425 z 23. Januára 2018) nasledovne:",
+            "V článku 8, odsek1",
+            "Odmena člena komisie – neposlanca za účasť na zasadnutí komisie sa vypočíta ako 8% priemernej mzdy v národnom hospodárstve za predchádzajúci rok, podľa údajov Štatistického úradu sa",
+            "sa nahrádza: ",
+            "Odmena člena komisie – neposlanca za účasť na zasadnutí komisie sa určuje vo výške 30 €.",
+            "V článku IX, odsek 4",
+            "Finančné prostriedky na mimoriadne odmeny sa vyčleňujú do výšky 165,96 € ročne na jedného člena komisie – neposlanca sa nahrádza:",
+            "Finančné prostriedky na mimoriadne odmeny sa vyčleňujú do výšky 50 € ročne na jedného člena komisie – neposlanca"
+          ]
+        }, {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "doplnenie Daniela Heviera do Komisie kultúry a mládeže"
+          ]
+        }, {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "Ivanu Antošovú do Komisie sociálnej a bytovej "
+          ]
+        }, {
+          "sumar": "volí",
+          "popis": [
+            "členov neposlancov do komisií Miestneho zastupiteľstva mestskej časti Bratislava - Petržalka nasledovne: ",
+            "Finančná komisia:",
+            "Eduard Demel",
+            "Lenka Jakubčová",
+            "Albín Mráz",
+            "Komisia správy majetku a miestnych podnikov:",
+            "Henrich Haščák",
+            "Michal Pavlík",
+            "Erich Stračina",
+            "Komisia investičných činností:",
+            "Viera Bieliková",
+            "Maroš Buberník",
+            "Gabriel Fekete",
+            "Katarína Sklenková",
+            "Komisia územného plánu, výstavby a dopravy:",
+            "Alica Hájková",
+            "Boris Hrbáň",
+            "Jozef Chajdiak",
+            "Štefan Wenchich",
+            "Bohumil Kováč",
+            "Komisia životného prostredia a verejného poriadku:",
+            "Roman Futo",
+            "Ernest Huska",
+            "Ján Kaľavský",
+            "Jakub Kuruc",
+            "Adam Sarlós",
+            "Komisia sociálna a bytová:",
+            "Ildikó Zórádová",
+            "Eva Surovková",
+            "Komisia kultúry a mládeže:",
+            "Michal Černý",
+            "Martin Kleibl",
+            "Marek Kovačič",
+            "Ivan Lučanič",
+            "Andrea Kutlíková",
+            "Komisia školská:",
+            "David Běhal",
+            "Michal Horváth",
+            "Viktor Križo",
+            "Katarína Okoličányová",
+            "Milan Polešenský",
+            "Viliam Ovsepian",
+            "Komisia športu:",
+            "Stanislav Horínek",
+            "Michal Vičan",
+            "Róbert Vančo"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/8-MZ-volba-neposlancov-komisii-MZ.pdf"
+    },
+    {
+      "id": 88,
+      "cislo": 47,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na predĺženie prenájmu pozemkov parc. č. 5735 a 5734 pre Ladislava Oláha",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "návrh na doplnok uznesenia MZ na zmenu textu ... na dobu určitú do 31.12.2020 ..."
+          ]
+        }, {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a ods. 9 písm. c) zák. SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN v k. ú. Petržalka, parc. č.5735 – zastavaná plocha a nádvorie a 5734 – záhrada spolu o výmere 375,00 m2, LV č.1, pre žiadateľa Ladislava Oláha, Mlynarovičova 7, 851 03 Bratislava, na dobu určitú do 31.12.2020 za cenu 0,50 €/m2/rok, čo predstavuje ročne sumu 187,50 €."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/9-MZ-26.3-2019-Ladislav-Oláh.pdf"
+    },
+    {
+      "id": 89,
+      "cislo": 48,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na predĺženie prenájmu časti pozemku parc. č. 5454 pre Milana Maráka CAFE CAPPUCCINO",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "návrh na doplnok uznesenia MZ na zmenu textu ... na dobu určitú do 31.12.2020 ..."
+          ]
+        }, {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a ods. 9 písm. c) zák. SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN v k. ú. Petržalka, parcela č. 5454 o výmere 2,00 m2 – ostatná plocha, LV č. 1784, pre žiadateľa Milana Maráka Šustekova 31, 851 04 Bratislava, na dobu určitú do 31.12.2020 za cenu 48,20 €/m2/rok, čo predstavuje ročne sumu 96,40 €."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/10-MZ-26.3-2019-Marák-Cafe-Capp..pdf"
+    },
+    {
+      "id": 90,
+      "cislo": 49,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na prenájom časti nebytových priestorov v objekte na Gercenovej ul. č. 8/F, Bratislava pre občianske združenie V-FIT-športovo-relaxačné centrum pre deti, mládež a ženy",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a ods.9 písm. c) zák.č.138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti nebytových priestorov č. 27 v polyfunkčnom objekte na Gercenovej ul. č. 8/F Bratislava o výmere 340,36 m2, pre občianske združenie V-FIT-športovo-relaxačné centrum pre deti, mládež a ženy, Gercenova 8/F, 851 01 Bratislava, IČO 42 180 287 na dobu určitú od 01. 05. 2019 do 31. 12. 2023. Výška nájomného je stanovená na 5 378,31 €/rok. "
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/12-MZ-V-FIT-2019.pdf"
+    },
+    {
+      "id": 91,
+      "cislo": 50,
+      "typ": "najom",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na predĺženie nájmu pozemkov pod prístupovými chodníkmi a nástupnými schodmi do nebytových priestorov",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako prípad hodný osobitného zreteľa v zmysle § 9a ods.9 písm. c) zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, nájom pozemkov registra „C“ KN v k.ú. Petržalka, o celkovej výmere 23,93 m2, za cenu 5,20 €/m2/ročne, čo celkovo predstavuje ročné nájomné vo výške 124,44 €, za účelom užívania pozemkov pod prístupovými chodníkmi, nástupnými schodmi do nebytových priestorov na prevádzkovanie podnikateľských aktivít na dobu do 31.12.2023 pre nasledovných užívateľov:",
+            "Juraj Cisár, Nám. Hraničiarov 16,851 03 Bratislava, IČO: 46 542 213, časť pozemkuregistra „C“ KN k.ú. Petržalka, parc. č. 1045/1 vo výmere 8,40 m2, ostatná plocha, LV 1748, v lokalite Nám. Hraničiarov 14, Bratislava,",
+            "Janka Bočová, Nám. Hraničiarov 19, 851 03 Bratislava, IČO: 40 230 406, časť pozemku registra „C“ KN k.ú. Petržalka, parc. č. 183/1 vo výmere 2,50 m2, ostatná plocha, LV 1748, v lokalite Nám. Hraničiarov 19, Bratislava,",
+            "JUKOsoft, s.r.o, Wolkrova 17, 851 01 Bratislava, IČO: 45 508 321, časť pozemku registra „C“ KN k.ú. Petržalka, parc. č. 4394/1 vo výmere 4,43 m2, zastavaná plocha a nádvorie, LV 1748, v lokalite Wolkrova 17, Bratislava,",
+            "Schwartzová Marta, Fedinova 1, 851 01 Bratislava, IČO: 40 231 682, časť pozemku registra „C“ KN k.ú. Petržalka, parc. č. 3417 vo výmere 2,60 m2, zastavaná plocha a nádvorie, LV 1748, v lokalite Fedinova 1, Bratislava,",
+            "Lubor Sárközi, Šintavská 10,851 01 Bratislava, IČO: 32 183 712, časť pozemku registra „C“ KN k.ú. Petržalka, parc. č. 1822 vo výmere 6,00 m2, ostatná plocha, LV 1748, v lokalite Šintavská 10, Bratislava."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/13-MZ-marec-2019-predĺženie-nájmov-pod-prístupovými-chodníkmi-II..pdf"
+    },
+    {
+      "id": 92,
+      "cislo": 51,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [36],
+      "nadpis": "Žiadosť o vysporiadanie pozemkov a zelene zverených do správy mestskej časti Bratislava - Petržalka protokolom č. 11 88 0279 12 00 zo dňa 13.04.2012, protokolom č. 11 88 0159 04 00 zo dňa 29.03.2004 a protokolom č. 5/92 zo dňa 07.01.1992",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "žiada",
+          "popis": [
+            "starostu mestskej časti Bratislava - Petržalka:",
+            "predložiť na nadchádzajúce rokovanie zastupiteľstva komplexnú informáciu o technickom, environmentálnom stave Sadu Janka Kráľa a informáciu o možnostiach financovania obnovy Sadu Janka Kráľa z vlastných zdrojov mestskej časti alebo externých finančných zdrojov,",
+            "predložiť na nadchádzajúce rokovanie zastupiteľstva komplexnú informáciu o technickom, environmentálnom stave Sadu Janka Kráľa a informáciu o možnostiach financovania obnovy Sadu Janka Kráľa z vlastných zdrojov mestskej časti alebo externých finančných zdrojov,",
+            "predložiť do konania ďalšieho zasadnutia MZ komplexnú informáciu o výbere dodávateľa na kosenie a čistenie a údržbu verejných priestranstiev v majetku a správe MČ,",
+            "aby sa obrátil na primátora hlavného mesta SR Bratislavy so žiadosťou o vysporiadanie pozemkov a zelene zverených do správy mestskej časti Bratislava -Petržalka protokolom č. 11 88 0279 12 00 zo dňa 13.04.2012, protokolom č. 11 88 0159 04 00 zo dňa 29.03.2004 a protokolom č. 5/92 zo dňa 07.01.1992."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/14-MZ-ziadost-o-vysporiadanie-pozemkov-a-zelene-Sad-J.Krala-a-Tyrsovo-nab..pdf"
+    },
+    {
+      "id": 93,
+      "cislo": 52,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Návrh na obstaranie a spracovanie urbanistickej štúdie „Sad Janka Kráľa“",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "návrh na doplnok uznesenia MZ na zmenu textu ... aby zabezpečil architektonickourbanistickú súťaž na štúdiu predmetnej lokality ..."
+          ]
+        }, {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "návrh na obstaranie a spracovanie urbanistickej štúdie „Sad Janka Kráľa“"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "primátora hlavného mesta SR Bratislavy, aby zabezpečil architektonicko-urbanistickú súťaž na štúdiu predmetnej lokality na základe petície občanov „Petícia proti výstavbe pri Sade Janka Kráľa a za zmenu funkcie územia Artmedia späť na šport“, ktorá bola adresovaná Hlavnému mestu SR Bratislava, zastúpeného primátorom."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/15-Návrh-na-obstaranie-UŠ-Sad-Janka-Kráľa_MZ_2.pdf"
+    },
+    {
+      "id": 94,
+      "cislo": 53,
+      "typ": "projekt",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Štúdia pešieho pohybu Bratislava - Petržalka, lokalita Dvory",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "súhlasí",
+          "popis": [
+            "so štúdiou „Pešieho pohybu, lokalita Dvory“ ako podkladom pre usmerňovanie investičného rozvoja mestskej časti,",
+            "odporúča štúdiu zaslať na Magistrát hlavného mesta SR Bratislavy Sekciu územného plánovania a Útvar hlavnej architektky,",
+            "odporúča štúdiu použiť ako podklad pre spracovanie generelu pešieho pohybu pre magistrát hlavného mesta SR Bratislavy."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/16-Prerokovanie-štúdie-pešieho-pohybu_-Dvory_-MZ_2.pdf"
+    },
+    {
+      "id": 95,
+      "cislo": 54,
+      "typ": "projekt",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [53],
+      "nadpis": "Projekt: „Klimatické zmeny a Dunaj v pohraničnom regióne – Cezhraničná spolupráca miestnych samospráv a základných škôl“ ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "súhlasí",
+          "popis": [
+            "s realizáciou malého projektu „Klimatické zmeny a Dunaj v pohraničnom regióne - Cezhraničná spolupráca miestnych samospráv a základných škôl“ schváleného v prípade žiadosti o poskytnutie finančného príspevku v rámci Programu spolupráce Interreg V-A Slovenská republika – Maďarsko predloženej v rámci výzvy na predkladanie projektov SKHU/WETA/1801 (Fond malých projektov) a evidovanej pod registračným číslom SKHU/WETA/1801/4.1/005;",
+            "s finančnou spôsobilosťou mestskej časti Bratislava - Petržalka v pozícii projektového partnera a so zabezpečením finančných prostriedkov na spolufinancovanie oprávnených výdavkov projektu vo výške 3 762,50 €, čo predstavuje 15% spolufinancovanie v rámci celkových oprávnených výdavkov projektu;",
+            "so zabezpečením dostatočných finančných zdrojov pre úspešnú realizáciu projektu a tiež so zabezpečením financovania prípadných neoprávnených výdavkov z rozpočtu mestskej časti Bratislava - Petržalka ako projektového partnera;",
+            "s podpisom Partnerskej dohody k projektu (druhou zmluvnou stranou je vedúci partner - Miestna samospráva XI. obvodu hlavného mesta Budapešť, Újbuda, Maďarsko)."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/17-Material-do-MZ_Klimaticke-zmeny-a-Dunaj_SK-HU.pdf"
+    },
+    {
+      "id": 96,
+      "cislo": 55,
+      "typ": "sprava",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [55],
+      "nadpis": "Správa o kontrole správnosti metodického postupu verejných obstarávaní na dodávku potravín pre jednotlivé Školské jedálne pri materských školách v zriaďovateľskej pôsobnosti Mestskej časti Bratislava - Petržalka a pre jednotlivé Školské jedálne pri základných školách v zriaďovateľskej pôsobnosti Mestskej časti Bratislava - Petržalka vykonaných v rokoch 2017 a 2018 Strediskom služieb školám a školským zariadeniam Petržalka a Základnými školami",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "Správu o kontrole správnosti metodického postupu verejných obstarávaní na dodávku potravín pre jednotlivé Školské jedálne pri materských školách v zriaďovateľskej pôsobnosti Mestskej časti Bratislava - Petržalka a pre jednotlivé Školské jedálne pri základných školách v zriaďovateľskej pôsobnosti Mestskej časti Bratislava - Petržalka vykonaných v rokoch 2017 a 2018 Strediskom služieb školám a školským zariadeniam Petržalka a Základnými školami."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/18-MZ-Správa-20.3..pdf"
+    },
+    {
+      "id": 97,
+      "cislo": 56,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [55],
+      "nadpis": "Novelizácia Pravidiel kontrolnej činnosti v podmienkach samosprávy mestskej časti Bratislava - Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "novelizáciu Pravidiel kontrolnej činnosti v podmienkach samosprávy mestskej časti Bratislava - Petržalka"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "miestneho kontrolóra o pravidelnú informáciu na zasadnutia Miestneho zastupiteľstva mestskej časti Bratislava - Petržalka o prijatých opatreniach z vykonaných kontrol."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/19-Noveliz.pravidla-kontrol.cinn_.2019.pdf"
+    },
+    {
+      "id": 98,
+      "cislo": 57,
+      "typ": "projekt",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [],
+      "nadpis": "Obnovenie funkcie MŠ na Hrobákovej ul., Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "poveruje",
+          "popis": [
+            "starostu mestskej časti Bratislava - Petržalka aby s primátorom Hlavného mesta SR Bratislavy začal konanie o zverenie objektu bývalej materskej školy na Hrobákovej ulici č. 5 do správy mestskej časti Bratislava - Petržalka,"
+          ]
+        }, {
+          "sumar": "schvaľuje",
+          "popis": [
+            "aby starosta mestskej časti Bratislava - Petržalka s príslušnými oddeleniami pripravil podklady s odhadom predpokladaných finančných nákladov na rekonštrukciu materskej školy,"
+          ]
+        }, {
+          "sumar": "schvaľuje",
+          "popis": [
+            "aby starosta mestskej časti Bratislava - Petržalka s príslušnými oddeleniami začal spracovávať projekt prípravy úpravy budovy na rekonštrukciu materskej školy po jej zverejnení od magistrátu,"
+          ]
+        }, {
+          "sumar": "žiada",
+          "popis": [
+            "mestskú časť o individuálne preverenie ďalších možností navrátenia budov MŠ Bratislava - Petržalka. "
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 99,
+      "cislo": 56,
+      "typ": "ine",
+      "spolok": 1,
+      "zasadnutie": 5,
+      "predkladatel": [],
+      "nadpis": "Návrh na vznik pracovnej skupiny na prenájom resp. predaj pozemkov v k.ú. Petržalka",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "Návrh na vznik pracovnej skupiny na prenájom resp. predaj pozemkov v k.ú. Petržalka parc.č. 5394/1 a 5394/2 pre spoločnosť VODOTIKA-MG, spol. s r.o. zloženej z poslancov, ktorí budú navrhnutí klubmi a z nezaradených poslancov do 1.4.2019."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    }
+  ]
+}

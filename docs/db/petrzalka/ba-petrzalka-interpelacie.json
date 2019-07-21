@@ -1,0 +1,100 @@
+{ "data" : [
+  {
+    "id": 1,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Miroslav Dragún ",
+    "title": "V akom stave je proces odstránenia čiernej stavby pod mostom SNP",
+    "otazka": "V akom stave je proces odstránenia čiernej stavby pod mostom SNP",
+    "otazkaDatum": "07.02.2019",
+    "odpoved": "Tunajší príslušný stavebný úrad vydal rozhodnutie, ktorým nariadil odstránenie nepovolenej zmeny dokončenej stavby 'Stavebné úpravy na odstránenie havarijného stavu nástupného priestoru do reštaurácie UFO na moste SNP v Bratislave'. V určenej lehote podal voči rozhodnutiu odvolanie stavebník. Stavebný úrad upovedomil účastníkov konania o podanom odvolaní a odstúpil obdržané odvolanie spolu s vyjadrením účastníkov konania k odvolaniu a so spisovým materiálom príslušnému odvolaciemu orgánu - Okresnému úradu Bratislava, odbor výstavby a bytovej politiky. ",
+    "odpovedDatum": "11.03.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Dragun.pdf",
+    "tags": []
+  }, {
+    "id": 2,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Miroslav Dragún ",
+    "title": "Akým spôsobom sa stará o Sad Janka Kráľa",
+    "otazka": "Starostlivost o Sad Janka Kráľa zo strany VPS. Akým spôsobom sa stará o Sad Janka Kráľa",
+    "otazkaDatum": "07.02.2019",
+    "odpoved": "Starostlivosť spočíva: vysypávanie smetných košov 3x týždenne, vyzbieranie odpadkov na celom území, odpratávanie popadanej haluziny na celej ploche, odstraňovanie suchých, vyvrátených a nebezpečných stromov, zametanie chodníkov, strihanie záhonov ruží, výrub schválených stromov postupne do 31. 03. v závislosti od počasia, plánuje sa vyzbieranie plochy od lístia, kosby ",
+    "odpovedDatum": "25.02.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Dragun2.pdf",
+    "tags": []
+  }, {
+    "id": 3,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "J Kriz ",
+    "title": "odstránenia zlomenej dopravnej značky na križovatke Rusovská cesta — Lenardova.",
+    "otazka": "odstránenia zlomenej dopravnej značky na križovatke Rusovská cesta — Lenardova.",
+    "otazkaDatum": "06.02.2019",
+    "odpoved": "Na základe obhliadky pracovníkom referátu technických činností bolo zistené, že údajná poškodená značka sa na danom mieste nenachádza. Dopravné značenie v správe MČ Petržalka nebolo poškodené. Poškodené bolo dopravné značenie P1 v správe Magistrátu hl. mesta, informáciu o poškodení sme zaslali na správu komunikácií.",
+    "odpovedDatum": "13.2.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Kriz-J..pdf",
+    "tags": []
+  }, {
+    "id": 4,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "J Kriz ",
+    "title": "vyčistenia parkoviska a trávnatej plochy pri bytovom dome PEGAS — Vyšehradská",
+    "otazka": "vyčistenia parkoviska a trávnatej plochy pri bytovom dome PEGAS — Vyšehradská",
+    "otazkaDatum": "06.02.2019",
+    "odpoved": "Oddelenie životného prostredia prešetrilo situáciu na Vyšehradskej ulici č. 8 v k. ú Petržalka a zistilo, že parkovisko aj priliehajúce trávnaté plochy sú výlučne v súkromnom vlastníctve a spoluvlastníctve spoločnosti VitaMAX, s. r. o., Vyšehradská 3713/8, Bratislava, PSČ 851 06, ktorá je zodpovedná za čistotu a poriadok na nehnuteľnostiach. Za znečistené plochy oddelenie životného prostredia písomne vyzve spoločnost', aby zabezpečila vyčistenie parkoviska ako aj trávnatých plôch. ",
+    "odpovedDatum": "13.2.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Kriz-J..pdf",
+    "tags": []
+  }, {
+    "id": 5,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Paluchova",
+    "title": "žiadost o úpravu bezprostredného okolia vrátane vybudovania prístupu na ihrisko za bytovým domom na ulici Sklodowskej",
+    "otazka": "interpelovali vo veci žiadosti o úpravu bezprostredného okolia vrátane vybudovania prístupu na ihrisko za bytovým domom na ulici Sklodowskej",
+    "otazkaDatum": "05.02.2019",
+    "odpoved": "Ihrisko vybudovalo hlavné mesto SR Bratislava prostredníctvom príspevkovej organizácie „Generálny investor Bratislava”, a je majetkom hlavného mesta SR Bratislavy. Vyššie uvedené ihrisko nie je v správe mestskej časti Bratislava-Petržalka, z toho dôvodu mestská časť nevykonáva jeho správu ani údržbu. ",
+    "odpovedDatum": "11.2.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Paluchova.pdf",
+    "tags": []
+  }, {
+    "id": 6,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Vydra",
+    "title": "opravy pripojenia ciest v križovatke Kopčianska — Bratská v mestskej časti Bratislava-Petržalka",
+    "otazka": "opravy pripojenia ciest v križovatke Kopčianska — Bratská v mestskej časti Bratislava-Petržalka",
+    "otazkaDatum": "06.02.2019",
+    "odpoved": "Uvedený úsek komunikácie je v správe hlavného mesta SR Bratislavy. Váš podnet so žiadosťou o opravu odstúpime listom na Magistrát hlavného mesta SR Bratislavy. ",
+    "odpovedDatum": "14.02.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Vydra_.pdf",
+    "tags": []
+  }, {
+    "id": 7,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Vydra",
+    "title": "vzniesli interpeláciu týkajúcu sa opravy parkoviska na Zadunajskej ulici č.7,9 smerom k ZS Nobelovo námestie č.6",
+    "otazka": "vzniesli interpeláciu týkajúcu sa opravy parkoviska na Zadunajskej ulici č.7,9 smerom k ZS Nobelovo námestie č.6",
+    "otazkaDatum": "06.02.2019",
+    "odpoved": "Opravu parkoviska na Zadunajskej ulici č. 7-9 spolu s vjazdom k tenisovej škole sme zaradili do plánu rekonštrukcií na rok 2018. Žiaľ vzhľadom k množstvu opráv a rekonštrukcií, ktoré sme v roku 2018 zrealizovali, nemohli sme Vám vyhovieť. V roku 2019 o použití finančných prostriedkoch v rozpočte na konkrétnu opravu komunikácií, rozhodne pracovná skupina ",
+    "odpovedDatum": "13.2.2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Vydra2_.pdf",
+    "tags": []
+  }
+  , {
+    "id": 8,
+    "spolok": 1,
+    "zasadnutie": 2,
+    "from": "Vydra",
+    "title": "Kedy bude NČ z vlastnej iniciatívy kontrolovat' vraky a polovraky a vozidlá, ktoré sú opustené, nepoužívané a zaberajú parkovacie miesta",
+    "otazka": "Kedy bude NČ z vlastnej iniciatívy kontrolovat' vraky a polovraky a vozidlá, ktoré sú opustené, nepoužívané a zaberajú parkovacie miesta? Jedno stojí na parkovisku pred domom Zadunajská cesta 7 už % roka, nemá platnú TK, EK, ale sfúknuté pneumatiky, má pritom EČV. MČ teda vie vyzvať majitel'a vozidla o jeho odstránenie. ",
+    "otazkaDatum": "05. 02. 2019",
+    "odpoved": "Mestská časť Bratislava — Petržalka kontroluje z vlastnej iniciatívy vozidlá, ktoré predstavujú potencionálne ohrozenie životného prostredia, životné prostredie poškodzujú alebo narúšajú vzhl'ad mestskej časti. Zároveň sa o takýchto vozidlách dozvedá z početných podnetov od obyvatel'ov. Držiterov takýchto vozidiel mestská čast' Bratislava — Petržalka oslovuje s výzvou na odstránenie. Ak si po doručení výzvy držitel' svoje vozidlo v udelenej lehote neodstráni, odstráni jeho vozidlo mestská časť Bratislava — Petržalka prostredníctvom svojho zmluvného partnera a zabezpečí jeho uloženie na určené parkovisko v zmysle zákona 79/2015 Z. z. o odpadoch. Napriek tomu že mestskej časti Bratislava — Petržalka sa v odstraňovaní starých vozidiel predovšetkým v posledných dvoch rokoch 2017/18 mimoriadne darilo, kedy bolo odstránených najviac vozidiel v histórii mestskej časti, stále sa môže nájsť vozidlo ktoré zatiar našej pozornosti unikalo. Na základe informácií obsiahnutých vo Vašej interpelácii však už v prípade vozidla Seat Inca s ečv: BA 553SF stojaceho na Zadunajskej ceste 7 boli po jeho zadokumentovaní prostredníctvom povereného orgánu na žiadosť mestskej časti Bratislava — Petržalka zistené osobné údaje držitel'a, ktorému bola následne odoslaná žiadosť o odstránenie vozidla z verejného priestranstva s následným postupom opísaným vyššie.",
+    "odpovedDatum": "01. 03. 2019",
+    "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/03/posl.Vydra3_.pdf",
+    "tags": []
+  }
+]}
