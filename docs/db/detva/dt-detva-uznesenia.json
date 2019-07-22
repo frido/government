@@ -996,6 +996,326 @@
       "proti": [],
       "pritomni": 14,
       "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1027,
+      "cislo": 31,
+      "typ": "kontrola",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Kontrola plnenia zročných uznesení",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berienavedomie",
+          "popis": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        },
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "ako spravodajcu bodu „ Kontrola plnenia zročných uznesení“ na všetky rokovania mestského zastupiteľstva v Detve prednostu MsÚ v Detve"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1028,
+      "cislo": 32,
+      "typ": "najom",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie nájmu zimného štadióna pre Technické služby Detva",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 14,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1029,
+      "cislo": 33,
+      "typ": "najom",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie nájmu kúpaliska pre Technické služby Detva s.r.o.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "neschvaľuje",
+          "popis": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1030,
+      "cislo": 34,
+      "typ": "rozpocet",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Plán investičných akcií mesta Detva na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Plán investičných akcií mesta Detva, ktorý je v súlade s rozpočtom mesta na rok 2019"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1031,
+      "cislo": 35,
+      "typ": "rozpocet",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Rozbor hospodárenia mesta Detva za rok 2018, Záverečný účet mesta Detva",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Celoročné hospodárenie mesta Detva za rok 2018 bez výhrad,",
+            "Usporiadanie prebytku rozpočtu nasledovne, z prebytku rozpočtu vo výške 1 254 180€ sa podľa § 16 ods. 6 zákona č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov vylučujú finančné prostriedky vo výške 46 922 €, ktoré boli nevyčerpané v predchádzajúcom rozpočtovom roku: Dopravné 2 420 €, IV.ZŠ inkluzívny tím 14 502 €, Hasičská zbrojnica 30 000 €",
+            "Rozdelenie usporiadaného prebytku rozpočtu vo výške 1 207 258 € a kladného zostatku finančných operácii vo výške 537 238 € nasledovne: Rezervný fond 120 726 €, Investičný a rozvojový fond 1 623 770 €",
+            "Prevod 1 623 770 € z Investičného a rozvojového fondu do rozpočtu mesta na čiastočné krytie neuhradených faktúr za rok 2018 a nových požiadaviek na rozpočet 2019,",
+            "Hospodársky výsledok mestskej príspevkovej organizácie KC A.Sládkoviča – prebytok vo výške 185,80 €, bude usporiadaný prevodom na rezervný fond.",
+            "Prevod 60 000 € z rezervného fondu účelovo určených na neoprávnené výdavky súvisiace s projektom zníženia energetickej náročnosti budovy MsÚ. (havarijný stav )"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1032,
+      "cislo": 36,
+      "typ": "kontrola",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": " Stanovisko hlavného kontrolóra mesta Detva k návrhu Záverečného účtu mesta Detva za rok 2018",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "stanovisko Hlavného kontrolóra mesta Detva k návrhu Záverečného účtu mesta Detva za rok 2018 "
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1033,
+      "cislo": 37,
+      "typ": "rozpocet",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Aktualizácia rozpočtov rozpočtových organizácii mesta Detva na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Mestské zastupiteľstvo v Detve schvaľuje na rok 2019 aktualizácie rozpočtových organizácii",
+            "Základná škola, Kukučínova 480/6, Detva s pripomienkou zaradiť do rozpočtu projekt Záleží nám na všetkých so spolufinancovaním pre rok 2019 vo výške 690 €",
+            "Základná škola s materskou školou Alexandra Vagača, Štúrova 12, Detva s pripomienkou zaradiť do rozpočtu projekt Dajme šancu byť úspešný so spolufinancovaním pre rok 2019 vo výške 690 €",
+            "Základná škola, Ul. Obrancov mieru, Detva",
+            "Základná škola, J. J. Thurzu, Bernoláka 20, Detva",
+            "Materská škola, Nám. SNP 17, Detva",
+            "Materská škola. M. R. Štefánika 908/40, Detva",
+            "Materská škola, Obrancov mieru 876/5, Detva",
+            "Materská škola, A. Bernoláka 19, Detva",
+            "Základná umelecká škola Svetozára Stračinu, Štúrova 12, Detva s pripomienkou do rozpočtu zaradiť: 8 000 € na dofinancovanie prevádzky ZUŠ, 2 793 € ako dotáciu na odstránenie nedostatkov vyplývajúcich zo štátnej školskej inšpekcie pre zachovanie výtvarného odboru, 7 000 € na nový odbor „Audiovizuálna multimediálna tvorba“"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 14,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1034,
+      "cislo": 38,
+      "typ": "rozpocet",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Aktualizácia rozpočtu mesta Detva na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "aktualizáciu rozpočtu mesta Detva na rok 2019 s nasledovnými úpravami",
+            "upraviť položku Kultúrne služby: materiál - 600 €, ZPOZ + 600 €",
+            "príjmy + 84 000 € v tom vstupné kúpalisko 12 000 €, bufet kúpalisko 12 000 €, rezervný fond 60 000 €",
+            "výdavky + 84 000 € v tom kúpalisko mzdy + 15 000 €, odvody + 5 000 €, materiál + 1 000 €, energia + 8 000 €, údržba + 1 000 €, služby + 2 000 €, tovar + 6 000 €, dotácia na kúpalisko - 14 000 €, zníženie energetickej náročnosti MsÚ + 60 000 €"
+
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1035,
+      "cislo": 39,
+      "typ": "projekt",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie spolufinancovania projektu 'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6, Detva",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "spolufinancovanie projektu 'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6, Detva vo výške 6 210 Eur na obdobie 36 mesiacov od začiatku realizácie projektu."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1036,
+      "cislo": 40,
+      "typ": "projekt",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie spolufinancovania projektu 'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača, Štúrova 12, Detva",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "spolufinancovanie projektu 'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača, Štúrova 12, Detva vo výške 6 210 Eur na obdobie 36 mesiacov od začiatku realizácie projektu."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1037,
+      "cislo": 41,
+      "typ": "projekt",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie dotácií na činnosť umeleckých súborov na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "v zmysle VZN 4/2013, § 4 ods. 2, pís. b) o poskytovaní dotácií z rozpočtu mesta Detva v úplnom znení, dotáciu z rozpočtu mesta na činnosť umeleckých súborov na rok 2019 nasledovne:",
+            "Folklórny súbor Detva, Občianske združenie: 2 150,-€ ",
+            "Folklórny súbor Podpoľanec, Občianske združenie: 2 150,-€"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1038,
+      "cislo": 42,
+      "typ": "projekt",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "Schválenie dotácií na činnosť športových klubov na rok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "poskytnutie dotácií z rozpočtu mesta na činnosť športových klubov na rok 2019 nasledovne:",
+            "Klub športovej gymnastiky Detva: 8 000 € ",
+            "Mestský volejbalový klub Detva: 8 000 €",
+            "Mestský futbalový klub Detva: 20 000 €, z toho: a) na činnosť mládeže: 10 000 €, b) na činnosť mužov: 10 000 €",
+            "HC 07 Detva s. r. o: 80 000 €, z toho: a) na extraligu v sezóne 2018/2019: 60 000 €, b) na činnosť mládeže: 20 000 €",
+            "Karate klub Detva: 6 000 €",
+            "Kraso klub Detva: 3 000 €",
+            "DTF team Detva ( florbalový klub ): 8 000 €",
+            "Športový klub Crazyrock Detva: 4 000 €"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1039,
+      "cislo": 43,
+      "typ": "vzn",
+      "spolok": 2,
+      "zasadnutie": 3,
+      "predkladatel": null,
+      "nadpis": "VZN mesta č. .../2019, ktorým sa mení a dopĺňa VZN č. 4/2013 o poskytovaní dotácií z rozpočtu mesta ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "uznáša sa",
+          "popis": [
+            "na VZN mesta č. 1/2019, ktorým sa mení a dopĺňa VZN č.4/2013 o poskytovaní dotácií z rozpočtu mesta"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 15,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     }
   ]
 }
