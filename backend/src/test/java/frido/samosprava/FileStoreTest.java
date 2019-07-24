@@ -3,7 +3,7 @@ package frido.samosprava;
 import org.junit.Assert;
 import org.junit.Test;
 
-import frido.samosprava.store.old.FileStore;
+import frido.samosprava.deprecated.FileStore;
 
 import java.io.IOException;
 

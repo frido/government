@@ -13,11 +13,11 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
-import frido.samosprava.client.JdkHttpClient;
-import frido.samosprava.collection.InMemoryCollections;
-import frido.samosprava.store.ClassPathStore;
-import frido.samosprava.store.DataStore;
-import frido.samosprava.store.HttpStore;
+import frido.samosprava.core.client.JdkHttpClient;
+import frido.samosprava.core.collection.InMemoryCollections;
+import frido.samosprava.core.store.ClassPathStore;
+import frido.samosprava.core.store.DataStore;
+import frido.samosprava.core.store.HttpStore;
 
 public class NewDesign {
 	

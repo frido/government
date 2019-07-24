@@ -3,9 +3,10 @@ package frido.samosprava;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import frido.samosprava.entity.ResponseList;
-import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.store.old.Store;
+
+import frido.samosprava.core.entity.ResponseList;
+import frido.samosprava.core.entity.ResponseObject;
+import frido.samosprava.deprecated.Store;
 
 import java.io.IOException;
 import java.util.function.Predicate;

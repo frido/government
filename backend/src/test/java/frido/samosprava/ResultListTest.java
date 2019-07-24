@@ -1,10 +1,10 @@
 package frido.samosprava;
 
-import frido.samosprava.entity.ResponseList;
-import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.interpellation.Interpellation;
-import frido.samosprava.store.old.FileStore;
-import frido.samosprava.store.old.MemoryStore;
+import frido.samosprava.core.entity.ResponseList;
+import frido.samosprava.core.entity.ResponseObject;
+import frido.samosprava.deprecated.FileStore;
+import frido.samosprava.deprecated.Interpellation;
+import frido.samosprava.deprecated.MemoryStore;
 
 import org.junit.Assert;
 import org.junit.BeforeClass;
