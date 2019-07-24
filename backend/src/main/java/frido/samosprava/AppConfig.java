@@ -75,10 +75,7 @@ public class AppConfig {
     
     @Bean
     public InMemoryCollections inMemoryCollections() throws IOException {
-    	InMemoryCollections collections = new InMemoryCollections();
-		DataStore store = dataStore();
-		String content = store.load("https://frido.github.io/government/db/petrzalka/ba-petrzalka-osoby.json");
-		collections.addContent(content);
+    	InMemoryCollections collections = new InMemoryCollections(dataStore(), "https://frido.github.io/government/db/");
         return collections;
     }
     
