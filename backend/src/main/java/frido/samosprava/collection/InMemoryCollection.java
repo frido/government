@@ -1,4 +1,4 @@
-package frido.samosprava.store;
+package frido.samosprava.collection;
 
 import java.util.LinkedList;
 import java.util.List;

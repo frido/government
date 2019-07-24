@@ -4,7 +4,8 @@ import frido.samosprava.*;
 import frido.samosprava.entities.Osoba;
 import frido.samosprava.entity.ResponseList;
 import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.store.StoreManager;
+import frido.samosprava.store.old.StoreManager;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

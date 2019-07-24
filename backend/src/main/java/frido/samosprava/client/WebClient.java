@@ -1,4 +1,4 @@
-package frido.samosprava.store;
+package frido.samosprava.client;
 
 import java.io.IOException;
 

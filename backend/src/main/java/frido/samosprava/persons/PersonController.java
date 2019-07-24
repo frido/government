@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.fasterxml.jackson.databind.JsonNode;
 
+import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.ResponseList;
 import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.store.InMemoryCollections;
 
 @RestController
 class PersonController {
