@@ -2424,12 +2424,12 @@
       "popis": "",
       "vysledok": [
         {
-          "sumar": "s c h v a ľ u j e",
+          "sumar": "schvaľuje",
           "popis": [
             "plán práce Mestského zastupiteľstva v Detve na I. polrok 2019"
           ]
         }, {
-          "sumar": "o d p o r ú č a",
+          "sumar": "odporúča",
           "popis": [
             "prednostovi MsÚ, vedúcemu ekonomického oddelenia, vedúcej správy majetku a právničke v spolupráci s predsedom komisie finančnej, podnikateľskej a správy majetku vypracovať nové Zásady hospodárenia mesta a predložiť ich na prerokovanie a schválenie do MsZ."
           ]
@@ -2439,6 +2439,101 @@
       "proti": [],
       "pritomni": 15,
       "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1089,
+      "cislo": 97,
+      "typ": "rozpocet",
+      "spolok": 2,
+      "zasadnutie": 4,
+      "predkladatel": null,
+      "nadpis": "Plán práce MsZ na I. polrok 2019",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "Bežné výdavky + 4 500 €",
+            "Kapitálové výdavky – 4 500€"
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 17,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+    },
+    {
+      "id": 1090,
+      "cislo": 98,
+      "typ": "volba",
+      "spolok": 2,
+      "zasadnutie": 4,
+      "predkladatel": null,
+      "nadpis": "Vyhlásenie voľby hlavného kontrolóra Mesta Detva",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "vzdanie sa funkcie hlavného kontrolóra Mesta Detva Ing. Rastislava Gondu ku dňu 30.04.2019."
+          ]
+        }, {
+          "sumar": "vyhlasuje",
+          "popis": [
+            "Podľa § 18a ods. 2 a 4 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov deň konania voľby hlavného kontrolóra Mesta Detva na 20.06.2019 na 5. zasadnutí Mestského zastupiteľstva v Detve"
+          ]
+        }, {
+          "sumar": "ustanovuje",
+          "popis": [
+            "Podľa § 18a ods. 3 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov (ďalej len „zákon“) podrobnosti o spôsobe a vykonaní voľby hlavného kontrolóra Mesta Detva"
+          ]
+        }, {
+          "sumar": "volí",
+          "popis": [
+            "komisiu na posúdenie náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva a riadenie voľby hlavného kontrolóra Mesta Detva v zložení",
+            "Mgr. Slavomír Ciglan",
+            "Pavel Golian",
+            "Ing. Vladimír Kučera"
+          ]
+        }, {
+          "sumar": "ukladá",
+          "popis": [
+            "komisii na posúdenie náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva, aby najmenej 7 dní pred konaním voľby hlavného kontrolóra Mesta Detva otvorili a vyhodnotili náležitosti písomných prihlášok kandidátov a predložili Mestskému zastupiteľstvu v Detve po posúdení náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva v súčinnosti s Mestským úradom v Detve písomný materiál za účelom vykonania voľby hlavného kontrolóra Mesta Detva. Kandidáti na funkciu hlavného kontrolóra Mesta Detva sa s krátkym verbálnym prejavom predstavia na zasadnutí mestského zastupiteľstva v Detve v deň konania voľby."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 17,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+    },
+    {
+      "id": 1091,
+      "cislo": 99,
+      "typ": "volba",
+      "spolok": 2,
+      "zasadnutie": 4,
+      "predkladatel": null,
+      "nadpis": "Informácia o stave miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I.",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "berie na vedomie",
+          "popis": [
+            "informáciu o stave miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I"
+          ]
+        }, {
+          "sumar": "odporúča",
+          "popis": [
+            "primátorovi mesta prioritne zaradiť do plánu údržby miestnych komunikácií, opravu miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 17,
+      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
     }
   ]
 }
