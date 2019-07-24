@@ -13,6 +13,27 @@
     "datum": "20.12.2018",
     "cas": "14:00",
     "miesto": "v obradnej a zasadacej miestnosti mesta Detva, J. G. Tajovského 1369/7"
+  },
+  {
+    "id": 103,
+    "spolok": 2,
+    "datum": "28.03.2019",
+    "cas": "15:30",
+    "miesto": "v Kongresovej sále Kultúrneho centra Andreja Sládkoviča, Obrancov mieru 871/1 v Detve na 1. poschodí"
+  },
+  {
+    "id": 104,
+    "spolok": 2,
+    "datum": "09.05.2019",
+    "cas": "16:30",
+    "miesto": "v Kongresovej sále Kultúrneho centra Andreja Sládkoviča, Obrancov mieru 871/1 v Detve na 1. poschodí"
+  },
+  {
+    "id": 105,
+    "spolok": 2,
+    "datum": "09.05.2019",
+    "cas": "16:30",
+    "miesto": "v Kongresovej sále Kultúrneho centra Andreja Sládkoviča, Obrancov mieru 871/1 v Detve na 1. poschodí"
   }
 ]
 }
