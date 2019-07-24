@@ -14,17 +14,17 @@ import frido.samosprava.entity.ResponseObject;
 @RestController
 class ResolutionController {
 
-    @Autowired
-    private ResolutionService service;
-
-    @GetMapping("/api/resolutions/{council}")
-    public ResponseList<Uznesenie> test(@PathVariable int council) throws IOException, URISyntaxException {
-        return new ResponseList<Uznesenie>(this.service.findByCouncil(council));
-    }
-
-    @GetMapping("/api/resolution/{id}")
-    public ResponseObject<Uznesenie> test2(@PathVariable int id) throws IOException, URISyntaxException {
-        return new ResponseObject<Uznesenie>(this.service.findById(Integer.valueOf(id)));
-    }
+//    @Autowired
+//    private ResolutionService service;
+//
+//    @GetMapping("/api/resolutions/{council}")
+//    public ResponseList<Uznesenie> test(@PathVariable int council) throws IOException, URISyntaxException {
+//        return new ResponseList<Uznesenie>(this.service.findByCouncil(council));
+//    }
+//
+//    @GetMapping("/api/resolution/{id}")
+//    public ResponseObject<Uznesenie> test2(@PathVariable int id) throws IOException, URISyntaxException {
+//        return new ResponseObject<Uznesenie>(this.service.findById(Integer.valueOf(id)));
+//    }
 
 }

@@ -1,9 +1,9 @@
 package frido.samosprava.interpellation;
 
 import frido.samosprava.*;
+import frido.samosprava.entities.Osoba;
 import frido.samosprava.entity.ResponseList;
 import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.persons.Osoba;
 import frido.samosprava.store.StoreManager;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -16,21 +16,21 @@ import java.net.URISyntaxException;
 @RestController
 class InterpellationController {
 
-    @Autowired
-    private StoreManager manager;
-
-    @GetMapping("/api/interpellations/{council}")
-    public ResponseList<Interpellation> test(@PathVariable int council) throws IOException, URISyntaxException {
-        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
-                .filter(x -> x.getSpolok() == council)
-                .buildList();
-    }
-
-    @GetMapping("/api/interpellation/{id}")
-    public ResponseObject<Interpellation> test2(@PathVariable int id) throws IOException, URISyntaxException {
-        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
-                .filter(x -> x.getId() == id)
-                .buildObject();
-    }
+//    @Autowired
+//    private StoreManager manager;
+//
+//    @GetMapping("/api/interpellations/{council}")
+//    public ResponseList<Interpellation> test(@PathVariable int council) throws IOException, URISyntaxException {
+//        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
+//                .filter(x -> x.getSpolok() == council)
+//                .buildList();
+//    }
+//
+//    @GetMapping("/api/interpellation/{id}")
+//    public ResponseObject<Interpellation> test2(@PathVariable int id) throws IOException, URISyntaxException {
+//        return new ResultList<Interpellation>(manager.get("interpellation"), Interpellation.class)
+//                .filter(x -> x.getId() == id)
+//                .buildObject();
+//    }
 
 }

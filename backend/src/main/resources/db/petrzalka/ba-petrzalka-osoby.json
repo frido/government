@@ -1,4 +1,4 @@
-{ "data" : [
+{ "persons" : [
   {
     "id": 1,
     "name": "Natália Podhorná",
@@ -139,7 +139,7 @@
     ],
     "departments": [
       { "council": 1, "period": "2018/2022", "department": 5, "role": 1 },
-      { "council": 1, "period": "2018/2022", "department": 17, "role": 1 }
+      { "council": 1, "period": "2018/2022", "department": 17, "role": 1 },
       { "council": 1, "period": "2018/2022", "department": 37, "role": 1 }
     ],
     "klub": "Mladá Petržalka",

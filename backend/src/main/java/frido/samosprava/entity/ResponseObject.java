@@ -1,19 +1,23 @@
 package frido.samosprava.entity;
 
-public class ResponseObject<T> {
-    private T data;
+import java.util.Optional;
+
+import com.fasterxml.jackson.databind.JsonNode;
+
+public class ResponseObject {
+    private Optional<JsonNode> data;
 
     public ResponseObject() {
     }
 
-    public ResponseObject(T data) {
+    public ResponseObject(Optional<JsonNode> data) {
         this.data = data;
     }
 
     /**
      * @return the data
      */
-    public T getData() {
+    public Optional<JsonNode> getData() {
         return data;
     }
 }

@@ -1,7 +1,8 @@
 package frido.samosprava;
 
-import frido.samosprava.store.FileStore;
-import frido.samosprava.store.MemoryStore;
+import frido.samosprava.store.old.FileStore;
+import frido.samosprava.store.old.MemoryStore;
+
 import org.junit.Assert;
 import org.junit.Test;
 

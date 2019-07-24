@@ -3,6 +3,8 @@ package frido.samosprava.budget;
 import java.util.ArrayList;
 import java.util.List;
 
+import frido.samosprava.entities.Rozpocet;
+
 public class ResponseBudgets {
 
     private List<Rozpocet> data;

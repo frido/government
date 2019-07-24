@@ -1,4 +1,4 @@
-package frido.samosprava.persons;
+package frido.samosprava.entities;
 
 public class Election {
     private Integer council;

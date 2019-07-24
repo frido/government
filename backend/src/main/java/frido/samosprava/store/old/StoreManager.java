@@ -1,4 +1,4 @@
-package frido.samosprava.store;
+package frido.samosprava.store.old;
 
 import java.util.HashMap;
 import java.util.Map;

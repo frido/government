@@ -1,7 +1,10 @@
-package frido.samosprava.persons;
+package frido.samosprava.deprecated;
 
 import java.util.List;
 
+import frido.samosprava.entities.Osoba;
+
+@Deprecated
 public class ResponseOsoba {
     private List<Osoba> data;
 

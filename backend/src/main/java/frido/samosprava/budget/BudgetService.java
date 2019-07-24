@@ -9,6 +9,7 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 
 import frido.samosprava.BaseService;
+import frido.samosprava.entities.Rozpocet;
 
 public class BudgetService extends BaseService<Rozpocet> {
 

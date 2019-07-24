@@ -1,16 +1,16 @@
-package frido.samosprava.budget;
+package frido.samosprava.entities;
 
 import java.math.BigDecimal;
 
-public class MoneyPrijmy {
-    private Integer year;
+public class UseKv {
+    private String title;
     private BigDecimal suma;
 
     /**
-     * @return the year
+     * @return the title
      */
-    public Integer getYear() {
-        return year;
+    public String getTitle() {
+        return title;
     }
 
     /**
@@ -28,9 +28,9 @@ public class MoneyPrijmy {
     }
 
     /**
-     * @param year the year to set
+     * @param title the title to set
      */
-    public void setYear(Integer year) {
-        this.year = year;
+    public void setTitle(String title) {
+        this.title = title;
     }
 }

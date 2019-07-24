@@ -1,5 +1,7 @@
 package frido.samosprava.budget;
 
+import frido.samosprava.entities.Rozpocet;
+
 public class ResponseBudget {
     private Rozpocet data;
 

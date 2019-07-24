@@ -13,11 +13,11 @@ import frido.samosprava.entity.ResponseObject;
 @RestController
 class BudgetController {
 
-    @Autowired
-    private BudgetService service;
-
-    @GetMapping("/api/budget/{council}")
-    public ResponseObject<Rozpocet> test(@PathVariable int council) throws IOException, URISyntaxException {
-        return new ResponseObject<Rozpocet>(this.service.findByCouncil(council).get(0));
-    }
+//    @Autowired
+//    private BudgetService service;
+//
+//    @GetMapping("/api/budget/{council}")
+//    public ResponseObject<Rozpocet> test(@PathVariable int council) throws IOException, URISyntaxException {
+//        return new ResponseObject<Rozpocet>(this.service.findByCouncil(council).get(0));
+//    }
 }

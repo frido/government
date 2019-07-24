@@ -3,9 +3,9 @@ package frido.samosprava.meeting;
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import frido.samosprava.BaseService;
-import frido.samosprava.budget.Rozpocet;
-import frido.samosprava.persons.Osoba;
-import frido.samosprava.persons.ResponseOsoba;
+import frido.samosprava.deprecated.ResponseOsoba;
+import frido.samosprava.entities.Osoba;
+import frido.samosprava.entities.Rozpocet;
 
 import java.io.IOException;
 import java.util.ArrayList;

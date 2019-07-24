@@ -13,15 +13,20 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.util.FileCopyUtils;
 
 import frido.samosprava.entity.Idable;
+import frido.samosprava.store.DataStore;
 
 public abstract class BaseService<T extends Idable> {
     protected Map<Integer, T> data;
     private String[] fileNames;
     protected ObjectMapper mapper = new ObjectMapper();
+    
+    @Autowired
+    DataStore store;
 
     public BaseService(String... fileNames){
         this.fileNames = fileNames;    
@@ -31,11 +36,7 @@ public abstract class BaseService<T extends Idable> {
     public void load() throws IOException {
         //ClassLoader classLoader = getClass().getClassLoader();
         for (String fileName : fileNames) {
-            //File file = new File(classLoader.getResource("db/" + fileName).getFile());
-            ClassPathResource cpr = new ClassPathResource("db/" + fileName);
-            byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
-            String content = new String(bdata, StandardCharsets.UTF_8);
-            //String content = new String(Files.readAllBytes(file.toPath()), StandardCharsets.UTF_8);
+            String content = store.load(fileName);
             for (T u : parse(content)) {
                 this.data.put(u.getId(), u);
             }    

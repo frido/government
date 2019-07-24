@@ -1,4 +1,4 @@
-package frido.samosprava.budget;
+package frido.samosprava.entities;
 
 import java.util.ArrayList;
 import java.util.List;

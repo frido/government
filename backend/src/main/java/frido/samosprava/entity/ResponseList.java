@@ -3,22 +3,24 @@ package frido.samosprava.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class ResponseList<T> {
+import com.fasterxml.jackson.databind.JsonNode;
 
-    private List<T> data;
+public class ResponseList {
+
+    private List<JsonNode> data;
 
     public ResponseList() {
         this.data = new ArrayList<>();
     }
 
-    public ResponseList(List<T> data) {
+    public ResponseList(List<JsonNode> data) {
         this.data = data;
     }
 
     /**
      * @return the data
      */
-    public List<T> getData() {
+    public List<JsonNode> getData() {
         return data;
     }
 }
