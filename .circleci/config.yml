@@ -19,7 +19,7 @@ jobs:
       - checkout
       - attach_workspace:
           at: backend/src/main/resources
-      - run: mvn package
+      - run: cd backend && mvn package
       - store_artifacts:
           path: backend/target/samosprava-0.0.1-SNAPSHOT.jar
           destination: samosprava-0.0.1-SNAPSHOT.jar
@@ -28,13 +28,13 @@ jobs:
       - image: library/maven:3.6.0-jdk-12
     steps:
       - checkout
-      - run: mvn compile sonar:sonar -Dsonar.login=$SONAR_TOKEN
+      - run: cd backend && mvn compile sonar:sonar -Dsonar.login=$SONAR_TOKEN
   test:
     docker:
       - image: library/maven:3.6.0-jdk-12
     steps:
       - checkout
-      - run: mvn test
+      - run: cd backend && mvn compile
       - store_test_results:
           path: backend/target/surefire-reports
 workflows:

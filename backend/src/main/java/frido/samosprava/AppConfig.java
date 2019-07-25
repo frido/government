@@ -2,57 +2,36 @@ package frido.samosprava;
 
 import java.io.IOException;
 
-import frido.samosprava.meeting.MeetingService;
-import frido.samosprava.store.FileStore;
-import frido.samosprava.store.MemoryStore;
-import frido.samosprava.store.StoreManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
-import frido.samosprava.budget.BudgetService;
-import frido.samosprava.persons.PersonService;
-import frido.samosprava.resolutions.ResolutionService;
+import frido.samosprava.core.client.JdkHttpClient;
+import frido.samosprava.core.client.WebClient;
+import frido.samosprava.core.collection.InMemoryCollections;
+import frido.samosprava.core.store.DataStore;
+import frido.samosprava.core.store.HttpStore;
 
 @Configuration
 public class AppConfig {
 
     @Bean
-    public StoreManager storeManager() {
-        StoreManager sm = new StoreManager();
-        MemoryStore ms = new MemoryStore(new FileStore("db/petrzalka/ba-petrzalka-interpelacie.json"));
-        sm.register("interpellation", ms);
-        return sm;
+    public WebClient webClient() throws IOException {
+        return new JdkHttpClient();
     }
-
+    
     @Bean
-    public ResolutionService uzneseniaService() throws IOException {
-        ResolutionService service = new ResolutionService();
-        service.load();
-        return service;
+    public DataStore dataStore() throws IOException {
+        //return new ClassPathStore();
+    	return new HttpStore(webClient());
     }
-
+    
     @Bean
-    public PersonService personService() throws IOException {
-        PersonService service = new PersonService();
-        service.load();
-        return service;
-    }
-
-    @Bean
-    public BudgetService budgetService() throws IOException {
-        BudgetService service = new BudgetService();
-        service.load();
-        return service;
-    }
-
-    @Bean
-    public MeetingService meetingService() throws IOException {
-        MeetingService service = new MeetingService();
-        service.load();
-        return service;
+    public InMemoryCollections inMemoryCollections() throws IOException {
+    	InMemoryCollections collections = new InMemoryCollections(dataStore(), "https://frido.github.io/government/db/");
+        return collections;
     }
 
     @Bean

@@ -1,9 +1,10 @@
 package frido.samosprava;
 
-import frido.samosprava.store.FileStore;
-import frido.samosprava.store.MemoryStore;
 import org.junit.Assert;
 import org.junit.Test;
+
+import frido.samosprava.deprecated.FileStore;
+import frido.samosprava.deprecated.MemoryStore;
 
 import java.io.IOException;
 

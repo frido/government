@@ -1,44 +1,46 @@
 package frido.samosprava;
 
+import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import frido.samosprava.entity.ResponseList;
-import frido.samosprava.entity.ResponseObject;
-import frido.samosprava.store.Store;
+
+import frido.samosprava.core.entity.ResponseList;
+import frido.samosprava.core.entity.ResponseObject;
+import frido.samosprava.deprecated.Store;
 
 import java.io.IOException;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class ResultList<T> {
+public class ResultList {
     private ObjectMapper mapper = new ObjectMapper();
-    private Stream<T> list;
+    private Stream<JsonNode> list;
     private int count = 0;
-    private Predicate<T> filter;
+    private Predicate<JsonNode> filter;
     private Integer skip;
     private Integer limit;
 
-    public ResultList(Store store, Class<T> clazz) throws IOException {
-        list = store.getAll().stream().map(x -> apply(x, clazz));
+    public ResultList(Store store) throws IOException {
+        list = store.getAll().stream().map(x -> apply(x));
     }
 
-    public ResultList<T> filter(Predicate<T> filter) {
+    public ResultList filter(Predicate filter) {
         this.filter = filter;
         return this;
     }
 
-    public ResultList<T> skip(int skip) {
+    public ResultList skip(int skip) {
         this.skip = skip;
         return this;
     }
 
-    public ResultList<T> limit(int limit) {
+    public ResultList limit(int limit) {
         this.limit = limit;
         return this;
     }
 
-    public ResponseList<T> buildList() {
+    public ResponseList buildList() {
         if (filter != null) {
             list = list.filter(filter).peek(x -> count++);
         }
@@ -48,19 +50,19 @@ public class ResultList<T> {
         if (limit != null) {
             list = list.limit(limit);
         }
-        return new ResponseList<T>(list.collect(Collectors.toUnmodifiableList()));
+        return new ResponseList(list.collect(Collectors.toUnmodifiableList()));
     }
 
-    public ResponseObject<T> buildObject() {
+    public ResponseObject buildObject() {
         if (filter != null) {
             list = list.filter(filter);
         }
-        return new ResponseObject<T>(list.findFirst().get());
+        return new ResponseObject(list.findFirst());
     }
 
-    private T apply(ObjectNode o, Class<T> clazz) {
+    private JsonNode apply(ObjectNode o) {
         try {
-            return mapper.readValue(o.traverse(), clazz);
+            return mapper.readTree(o.traverse());
         } catch (IOException e) {
             e.printStackTrace();
         }

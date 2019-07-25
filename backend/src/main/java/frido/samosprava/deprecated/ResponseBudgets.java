@@ -1,0 +1,31 @@
+package frido.samosprava.deprecated;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ResponseBudgets {
+
+    private List<Rozpocet> data;
+
+    public ResponseBudgets() {
+        this.data = new ArrayList<>();
+    }
+
+    public ResponseBudgets(List<Rozpocet> data) {
+        this.data = data;
+    }
+
+    /**
+     * @return the data
+     */
+    public List<Rozpocet> getData() {
+        return data;
+    }
+
+    /**
+     * @param data the data to set
+     */
+    public void setData(List<Rozpocet> data) {
+        this.data = data;
+    }
+}
