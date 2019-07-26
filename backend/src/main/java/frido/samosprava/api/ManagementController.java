@@ -2,36 +2,29 @@ package frido.samosprava.api;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.fasterxml.jackson.databind.JsonNode;
-
 import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.ResponseList;
 import frido.samosprava.core.entity.ResponseObject;
 
 @RestController
-class PersonController {
+class ManagementController {
 
 	InMemoryCollections collections;
 	
-	public PersonController(InMemoryCollections collections) {
+	public ManagementController(InMemoryCollections collections) {
 		this.collections = collections;
 	}
 
-    @GetMapping("/api/persons/{council}")
-    public ResponseList persons(@PathVariable int council) throws IOException, URISyntaxException {
-    	return new ResponseList(collections.collection("persons").councilNested(council));
-    }
-
-    @GetMapping("/api/person/{id}")
-    public ResponseObject person(@PathVariable int id) throws IOException, URISyntaxException {
-        return new ResponseObject(collections.collection("persons").id(id));
+    @GetMapping("/api/reload")
+    public ResponseObject budget(@PathVariable int council) throws IOException, URISyntaxException {
+    	collections.reload();
+    	return  null;
     }
 
 }

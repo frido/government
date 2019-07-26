@@ -25,12 +25,12 @@ class InterpellationController {
 	}
 
     @GetMapping("/api/interpellations/{council}")
-    public ResponseList test(@PathVariable int council) throws IOException, URISyntaxException {
+    public ResponseList interpellations(@PathVariable int council) throws IOException, URISyntaxException {
     	return new ResponseList(collections.collection("interpellations").council(council));
     }
 
     @GetMapping("/api/interpellation/{id}")
-    public ResponseObject test2(@PathVariable int id) throws IOException, URISyntaxException {
+    public ResponseObject interpellation(@PathVariable int id) throws IOException, URISyntaxException {
         return new ResponseObject(collections.collection("interpellations").id(id));
     }
 

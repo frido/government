@@ -24,12 +24,12 @@ class MeetingController {
 	}
 
     @GetMapping("/api/meetings/{council}")
-    public ResponseList test(@PathVariable int council) throws IOException, URISyntaxException {
+    public ResponseList meetings(@PathVariable int council) throws IOException, URISyntaxException {
     	return new ResponseList(collections.collection("meetings").council(council));
     }
 
     @GetMapping("/api/meeting/{id}")
-    public ResponseObject test2(@PathVariable int id) throws IOException, URISyntaxException {
+    public ResponseObject meeting(@PathVariable int id) throws IOException, URISyntaxException {
         return new ResponseObject(collections.collection("meetings").id(id));
     }
 

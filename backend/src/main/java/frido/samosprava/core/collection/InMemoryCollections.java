@@ -22,6 +22,7 @@ public class InMemoryCollections {
 	private Map<String, InMemoryCollection> data;
 	protected ObjectMapper mapper;
 	private DataStore store;
+	// TODO: link should be parameter of DataStore
 	private String link;
 	private String[] indexItems;
 	
@@ -72,6 +73,11 @@ public class InMemoryCollections {
 	
 	public InMemoryCollection collection(String collectionName) {
 		return this.data.get(collectionName);
+	}
+	
+	public void reload() {
+		this.data = new HashMap<>();
+		init();
 	}
 	
 }

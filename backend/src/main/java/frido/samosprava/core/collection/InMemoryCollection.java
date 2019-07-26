@@ -22,6 +22,13 @@ public class InMemoryCollection {
 		return this.list.stream().filter(x -> filter(x.get("council"), council)).collect(Collectors.toList());
 	}
 	
+	public List<JsonNode> councilNested(int council) {
+		return this.list.stream()
+				.filter(x -> x.findValues("council").stream()
+						.anyMatch(y -> y.asInt() == council))
+				.collect(Collectors.toList());
+	}
+	
 	public Optional<JsonNode> id(int id) {
 		return this.list.stream().filter(x ->  filter(x.get("id"), id)).findFirst();
 	}

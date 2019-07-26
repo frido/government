@@ -2,6 +2,7 @@ package frido.samosprava.api;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotEquals;
+import static org.junit.Assert.assertTrue;
 
 import java.util.List;
 
@@ -16,7 +17,7 @@ import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.store.DataStore;
 import frido.samosprava.core.store.HttpStore;
 
-public class ResolutionControllerTest {
+public class PersonControllerTest {
 	
 	private static InMemoryCollections collections;
 
@@ -28,18 +29,18 @@ public class ResolutionControllerTest {
 	}
 
 	@Test
-	public void testResolution() throws Exception {
-		ResolutionController controller = new ResolutionController(collections);
-		assertEquals(1001, controller.resolution(1001).getData().get().get("id").asInt());
+	public void testPerson() throws Exception {
+		PersonController controller = new PersonController(collections);
+		assertEquals(1, controller.person(1).getData().get().get("id").asInt());
 	}
 
 	@Test
-	public void testResolutions() throws Exception {
-		ResolutionController controller = new ResolutionController(collections);
-		List<JsonNode> resultList = controller.resolutions(2).getData();
+	public void testPersons() throws Exception {
+		PersonController controller = new PersonController(collections);
+		List<JsonNode> resultList = controller.persons(2).getData();
 		assertNotEquals(0, resultList.size());
 		for (JsonNode jsonNode : resultList) {
-			assertEquals(2, jsonNode.get("council").asInt());
+			assertTrue(jsonNode.findValues("council").stream().map(x -> x.asInt()).anyMatch(x -> x == 2));
 		}
 	}
 

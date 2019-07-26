@@ -16,8 +16,8 @@ import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.store.DataStore;
 import frido.samosprava.core.store.HttpStore;
 
-public class ResolutionControllerTest {
-	
+public class InterpellationControllerTest {
+
 	private static InMemoryCollections collections;
 
 	@BeforeAll
@@ -26,20 +26,20 @@ public class ResolutionControllerTest {
 		DataStore store = new HttpStore(client);
 		collections = new InMemoryCollections(store, "https://frido.github.io/government/db/");
 	}
-
+	
 	@Test
-	public void testResolution() throws Exception {
-		ResolutionController controller = new ResolutionController(collections);
-		assertEquals(1001, controller.resolution(1001).getData().get().get("id").asInt());
+	public void testInterpellation() throws Exception {
+		InterpellationController controller = new InterpellationController(collections);
+		assertEquals(1, controller.interpellation(1).getData().get().get("id").asInt());
 	}
 
 	@Test
-	public void testResolutions() throws Exception {
-		ResolutionController controller = new ResolutionController(collections);
-		List<JsonNode> resultList = controller.resolutions(2).getData();
+	public void testInterpellations() throws Exception {
+		InterpellationController controller = new InterpellationController(collections);
+		List<JsonNode> resultList = controller.interpellations(1).getData();
 		assertNotEquals(0, resultList.size());
 		for (JsonNode jsonNode : resultList) {
-			assertEquals(2, jsonNode.get("council").asInt());
+			assertEquals(1, jsonNode.get("council").asInt());
 		}
 	}
 

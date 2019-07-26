@@ -1,5 +1,6 @@
 package frido.samosprava.core.entity;
 
+import java.util.List;
 import java.util.Optional;
 
 import com.fasterxml.jackson.databind.JsonNode;
@@ -12,6 +13,10 @@ public class ResponseObject {
 
     public ResponseObject(Optional<JsonNode> data) {
         this.data = data;
+    }
+    
+    public ResponseObject(List<JsonNode> data) {
+        this.data = Optional.ofNullable(data.get(0));
     }
 
     /**

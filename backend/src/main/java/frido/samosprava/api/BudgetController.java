@@ -22,8 +22,8 @@ class BudgetController {
 	}
 
     @GetMapping("/api/budget/{council}")
-    public ResponseList test(@PathVariable int council) throws IOException, URISyntaxException {
-    	return new ResponseList(collections.collection("budget").council(council));
+    public ResponseObject budget(@PathVariable int council) throws IOException, URISyntaxException {
+    	return new ResponseObject(collections.collection("budget").council(council));
     }
 
 }
