@@ -1320,7 +1320,7 @@
     {
       "id": 1040,
       "cislo": 44,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1342,7 +1342,7 @@
     {
       "id": 1041,
       "cislo": 45,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1364,7 +1364,7 @@
     {
       "id": 1042,
       "cislo": 46,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1386,7 +1386,7 @@
     {
       "id": 1043,
       "cislo": 47,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1408,7 +1408,7 @@
     {
       "id": 1044,
       "cislo": 48,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1430,7 +1430,7 @@
     {
       "id": 1045,
       "cislo": 49,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1452,7 +1452,7 @@
     {
       "id": 1046,
       "cislo": 50,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1474,7 +1474,7 @@
     {
       "id": 1047,
       "cislo": 51,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1496,7 +1496,7 @@
     {
       "id": 1048,
       "cislo": 52,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1518,7 +1518,7 @@
     {
       "id": 1049,
       "cislo": 53,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1540,7 +1540,7 @@
     {
       "id": 1050,
       "cislo": 54,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1562,7 +1562,7 @@
     {
       "id": 1051,
       "cislo": 55,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1584,7 +1584,7 @@
     {
       "id": 1052,
       "cislo": 56,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1606,7 +1606,7 @@
     {
       "id": 1053,
       "cislo": 57,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1628,7 +1628,7 @@
     {
       "id": 1054,
       "cislo": 58,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1650,7 +1650,7 @@
     {
       "id": 1055,
       "cislo": 59,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1672,7 +1672,7 @@
     {
       "id": 1056,
       "cislo": 60,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1694,7 +1694,7 @@
     {
       "id": 1057,
       "cislo": 61,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1716,7 +1716,7 @@
     {
       "id": 1058,
       "cislo": 62,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1738,7 +1738,7 @@
     {
       "id": 1059,
       "cislo": 63,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1760,7 +1760,7 @@
     {
       "id": 1060,
       "cislo": 64,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1782,7 +1782,7 @@
     {
       "id": 1061,
       "cislo": 65,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1804,7 +1804,7 @@
     {
       "id": 1062,
       "cislo": 66,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1826,7 +1826,7 @@
     {
       "id": 1063,
       "cislo": 67,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1848,7 +1848,7 @@
     {
       "id": 1064,
       "cislo": 68,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1870,7 +1870,7 @@
     {
       "id": 1065,
       "cislo": 69,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1892,7 +1892,7 @@
     {
       "id": 1066,
       "cislo": 70,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1914,7 +1914,7 @@
     {
       "id": 1067,
       "cislo": 71,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1936,7 +1936,7 @@
     {
       "id": 1068,
       "cislo": 72,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -1958,7 +1958,7 @@
     {
       "id": 1069,
       "cislo": 73,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -2312,7 +2312,7 @@
     {
       "id": 1085,
       "cislo": 89,
-      "typ": "volba",
+      "typ": "delegovanie",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -2362,7 +2362,7 @@
     {
       "id": 1086,
       "cislo": 90,
-      "typ": "volba",
+      "typ": "delegovanie",
       "council": 2,
       "zasadnutie": 3,
       "predkladatel": null,
@@ -2466,7 +2466,7 @@
     {
       "id": 1090,
       "cislo": 98,
-      "typ": "volba",
+      "typ": "delegovanie",
       "council": 2,
       "zasadnutie": 4,
       "predkladatel": null,
@@ -2511,7 +2511,7 @@
     {
       "id": 1091,
       "cislo": 99,
-      "typ": "volba",
+      "typ": "delegovanie",
       "council": 2,
       "zasadnutie": 4,
       "predkladatel": null,
@@ -2714,7 +2714,7 @@
     {
       "id": 1099,
       "cislo": 109,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2736,7 +2736,7 @@
     {
       "id": 1100,
       "cislo": 110,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2758,7 +2758,7 @@
     {
       "id": 1101,
       "cislo": 111,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2779,7 +2779,7 @@
     {
       "id": 1102,
       "cislo": 112,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2800,7 +2800,7 @@
     {
       "id": 1103,
       "cislo": 113,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2821,7 +2821,7 @@
     {
       "id": 1104,
       "cislo": 114,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2842,7 +2842,7 @@
     {
       "id": 1105,
       "cislo": 115,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2863,7 +2863,7 @@
     {
       "id": 1106,
       "cislo": 116,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2884,7 +2884,7 @@
     {
       "id": 1107,
       "cislo": 117,
-      "typ": "predaj",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2905,7 +2905,7 @@
     {
       "id": 1108,
       "cislo": 118,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2926,7 +2926,7 @@
     {
       "id": 1109,
       "cislo": 119,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2947,7 +2947,7 @@
     {
       "id": 1110,
       "cislo": 120,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2968,7 +2968,7 @@
     {
       "id": 1111,
       "cislo": 121,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -2989,7 +2989,7 @@
     {
       "id": 1112,
       "cislo": 122,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3010,7 +3010,7 @@
     {
       "id": 1113,
       "cislo": 123,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3031,7 +3031,7 @@
     {
       "id": 1114,
       "cislo": 124,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3052,7 +3052,7 @@
     {
       "id": 1115,
       "cislo": 125,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3073,7 +3073,7 @@
     {
       "id": 1116,
       "cislo": 126,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3094,7 +3094,7 @@
     {
       "id": 1117,
       "cislo": 127,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3115,7 +3115,7 @@
     {
       "id": 1118,
       "cislo": 128,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3136,7 +3136,7 @@
     {
       "id": 1119,
       "cislo": 129,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3157,7 +3157,7 @@
     {
       "id": 1120,
       "cislo": 130,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3178,7 +3178,7 @@
     {
       "id": 1121,
       "cislo": 131,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3199,7 +3199,7 @@
     {
       "id": 1122,
       "cislo": 132,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3220,7 +3220,7 @@
     {
       "id": 1123,
       "cislo": 133,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3241,7 +3241,7 @@
     {
       "id": 1124,
       "cislo": 134,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3262,7 +3262,7 @@
     {
       "id": 1125,
       "cislo": 135,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3283,7 +3283,7 @@
     {
       "id": 1126,
       "cislo": 136,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3304,7 +3304,7 @@
     {
       "id": 1127,
       "cislo": 137,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3325,7 +3325,7 @@
     {
       "id": 1128,
       "cislo": 138,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3346,7 +3346,7 @@
     {
       "id": 1129,
       "cislo": 139,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3367,7 +3367,7 @@
     {
       "id": 1130,
       "cislo": 140,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3388,7 +3388,7 @@
     {
       "id": 1131,
       "cislo": 141,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3409,7 +3409,7 @@
     {
       "id": 1132,
       "cislo": 142,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3430,7 +3430,7 @@
     {
       "id": 1133,
       "cislo": 143,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3451,7 +3451,7 @@
     {
       "id": 1134,
       "cislo": 144,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3472,7 +3472,7 @@
     {
       "id": 1135,
       "cislo": 145,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3493,7 +3493,7 @@
     {
       "id": 1136,
       "cislo": 146,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3514,7 +3514,7 @@
     {
       "id": 1137,
       "cislo": 147,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3535,7 +3535,7 @@
     {
       "id": 1138,
       "cislo": 148,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3556,7 +3556,7 @@
     {
       "id": 1139,
       "cislo": 149,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3577,7 +3577,7 @@
     {
       "id": 1140,
       "cislo": 150,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3598,7 +3598,7 @@
     {
       "id": 1141,
       "cislo": 151,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3619,7 +3619,7 @@
     {
       "id": 1142,
       "cislo": 152,
-      "typ": "nakup",
+      "typ": "prevod",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
@@ -3766,7 +3766,7 @@
     {
       "id": 1149,
       "cislo": 159,
-      "typ": "volba",
+      "typ": "delegovanie",
       "council": 2,
       "zasadnutie": 5,
       "predkladatel": null,
