@@ -1,7 +1,7 @@
 { "interpellations" : [
   {
     "id": 1,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Miroslav Dragún ",
     "title": "V akom stave je proces odstránenia čiernej stavby pod mostom SNP",
@@ -13,7 +13,7 @@
     "tags": []
   }, {
     "id": 2,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Miroslav Dragún ",
     "title": "Akým spôsobom sa stará o Sad Janka Kráľa",
@@ -25,7 +25,7 @@
     "tags": []
   }, {
     "id": 3,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "J Kriz ",
     "title": "odstránenia zlomenej dopravnej značky na križovatke Rusovská cesta — Lenardova.",
@@ -37,7 +37,7 @@
     "tags": []
   }, {
     "id": 4,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "J Kriz ",
     "title": "vyčistenia parkoviska a trávnatej plochy pri bytovom dome PEGAS — Vyšehradská",
@@ -49,7 +49,7 @@
     "tags": []
   }, {
     "id": 5,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Paluchova",
     "title": "žiadost o úpravu bezprostredného okolia vrátane vybudovania prístupu na ihrisko za bytovým domom na ulici Sklodowskej",
@@ -61,7 +61,7 @@
     "tags": []
   }, {
     "id": 6,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Vydra",
     "title": "opravy pripojenia ciest v križovatke Kopčianska — Bratská v mestskej časti Bratislava-Petržalka",
@@ -73,7 +73,7 @@
     "tags": []
   }, {
     "id": 7,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Vydra",
     "title": "vzniesli interpeláciu týkajúcu sa opravy parkoviska na Zadunajskej ulici č.7,9 smerom k ZS Nobelovo námestie č.6",
@@ -86,7 +86,7 @@
   }
   , {
     "id": 8,
-    "spolok": 1,
+    "council": 1,
     "zasadnutie": 2,
     "from": "Vydra",
     "title": "Kedy bude NČ z vlastnej iniciatívy kontrolovat' vraky a polovraky a vozidlá, ktoré sú opustené, nepoužívané a zaberajú parkovacie miesta",
