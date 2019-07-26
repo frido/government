@@ -28,7 +28,7 @@ in `frontend` directory:
 ng build --prod
 ```
 
-in `government` directory:
+in `backend` directory:
 
 ```
 mvn package

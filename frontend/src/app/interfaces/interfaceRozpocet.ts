@@ -30,6 +30,7 @@ interface UseKv {
 
 interface Prijmy {
   title: string;
+  comment: string;
   current: MoneyPrijmy;
   money: MoneyPrijmy[];
   sub: Prijmy[];

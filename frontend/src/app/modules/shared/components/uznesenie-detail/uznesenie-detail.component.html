@@ -14,10 +14,6 @@
     <div>{{uznesenie.popis}}</div>
   </ng-container>
 
-  <ng-container *ngIf="uznesenie.typ === 'info'">
-    <div>{{uznesenie.zaver}}</div>
-    <small *ngIf="uznesenie.zaver && uznesenie.zaver != ''">výňatok z dokumentu (viď zdroj)</small>
-  </ng-container>
 </div>
 
 <div *ngIf="predkladatel && uznesenie.predkladatel && uznesenie.predkladatel.length" class="card-detail-item">

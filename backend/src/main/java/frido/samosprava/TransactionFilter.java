@@ -31,6 +31,12 @@ public class TransactionFilter implements Filter {
                 || link.endsWith(".jpg") || link.endsWith(".woff2") || link.endsWith(".woff") || link.endsWith(".ttf")
                 || link.endsWith(".svg")) {
             String fileName = link.substring(link.lastIndexOf("/"));
+            if(link.endsWith(".js")) {
+            	response.setContentType("text/javascript");
+            }
+            if(link.endsWith(".css")) {
+            	response.setContentType("text/css");
+            }
             response.getOutputStream().write(getContent(fileName));
         } else {
             response.getOutputStream().write(getContent("/index.html"));

@@ -22,7 +22,7 @@ class ManagementController {
 	}
 
     @GetMapping("/api/reload")
-    public ResponseObject budget(@PathVariable int council) throws IOException, URISyntaxException {
+    public ResponseObject budget() throws IOException, URISyntaxException {
     	collections.reload();
     	return  null;
     }
