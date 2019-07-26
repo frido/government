@@ -8,6 +8,8 @@
 
 [![buddy pipeline](https://app.buddy.works/fridrichpeter/government/pipelines/pipeline/179493/badge.svg?token=7e655371adbe49225d540916417d681bfffc656638c4af50ee9f6b6c2e1801bd "buddy pipeline")](https://app.buddy.works/fridrichpeter/government/pipelines/pipeline/179493)
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/samosprava/samosprava)
+
 # Government
 
 ## Requirements
