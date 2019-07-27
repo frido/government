@@ -1,18 +1,15 @@
 package frido.samosprava.api;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseList;
-import frido.samosprava.core.entity.ResponseObject;
-import frido.samosprava.deprecated.Osoba;
-import frido.samosprava.deprecated.PersonService;
+import java.io.IOException;
+import java.net.URISyntaxException;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
+import frido.samosprava.core.collection.InMemoryCollections;
+import frido.samosprava.core.entity.ResponseList;
+import frido.samosprava.core.entity.ResponseObject;
 
 @RestController
 class MeetingController {
@@ -23,7 +20,7 @@ class MeetingController {
 		this.collections = collections;
 	}
 
-    @GetMapping("/api/meetings/{council}")
+    @GetMapping("/api/meetings/{council}") 
     public ResponseList meetings(@PathVariable int council) throws IOException, URISyntaxException {
     	return new ResponseList(collections.collection("meetings").council(council));
     }

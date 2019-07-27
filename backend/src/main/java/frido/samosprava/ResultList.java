@@ -1,17 +1,18 @@
 package frido.samosprava;
 
+import java.io.IOException;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import org.apache.catalina.Store;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import frido.samosprava.core.entity.ResponseList;
 import frido.samosprava.core.entity.ResponseObject;
-import frido.samosprava.deprecated.Store;
-
-import java.io.IOException;
-import java.util.function.Predicate;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class ResultList {
     private ObjectMapper mapper = new ObjectMapper();
@@ -22,7 +23,7 @@ public class ResultList {
     private Integer limit;
 
     public ResultList(Store store) throws IOException {
-        list = store.getAll().stream().map(x -> apply(x));
+        //list = store.getAll().stream().map(x -> apply(x));
     }
 
     public ResultList filter(Predicate filter) {
@@ -37,7 +38,7 @@ public class ResultList {
 
     public ResultList limit(int limit) {
         this.limit = limit;
-        return this;
+        return this; 
     }
 
     public ResponseList buildList() {

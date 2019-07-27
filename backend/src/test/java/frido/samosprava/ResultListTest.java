@@ -1,17 +1,5 @@
 package frido.samosprava;
 
-import frido.samosprava.core.entity.ResponseList;
-import frido.samosprava.core.entity.ResponseObject;
-import frido.samosprava.deprecated.FileStore;
-import frido.samosprava.deprecated.Interpellation;
-import frido.samosprava.deprecated.MemoryStore;
-
-import org.junit.Assert;
-import org.junit.BeforeClass;
-import org.junit.Test;
-
-import java.io.IOException;
-
 public class ResultListTest {
 //
 //    private static String testFile = "ba-petrzalka-interpelacie.json";
@@ -21,7 +9,7 @@ public class ResultListTest {
 //    @BeforeClass
 //    public static void initialize(){
 //        fs = new MemoryStore(new FileStore(testFile));
-//    }
+//    } 
 //
 //    @Test
 //    public void buildList() throws IOException {
