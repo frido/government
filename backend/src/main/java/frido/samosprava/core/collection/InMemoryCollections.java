@@ -15,6 +15,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 
+import frido.samosprava.api.ApplicationException;
 import frido.samosprava.core.store.DataStore;
 
 public class InMemoryCollections {
@@ -47,7 +48,7 @@ public class InMemoryCollections {
 		try {
 			tree = mapper.readTree(content);
 		} catch (IOException e) {
-			e.printStackTrace();
+			throw new ApplicationException(e);
 		}
 		String collectionName = tree.fieldNames().next();
 		ArrayNode list = (ArrayNode) tree.get(collectionName);

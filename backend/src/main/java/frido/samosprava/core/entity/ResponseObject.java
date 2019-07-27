@@ -8,9 +8,6 @@ import com.fasterxml.jackson.databind.JsonNode;
 public class ResponseObject {
     private Optional<JsonNode> data;
 
-    public ResponseObject() {
-    }
-
     public ResponseObject(Optional<JsonNode> data) {
         this.data = data;
     }

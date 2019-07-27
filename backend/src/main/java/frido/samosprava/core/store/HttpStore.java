@@ -2,6 +2,7 @@ package frido.samosprava.core.store;
 
 import java.io.IOException;
 
+import frido.samosprava.api.ApplicationException;
 import frido.samosprava.core.client.WebClient;
 
 public class HttpStore implements DataStore {
@@ -17,9 +18,8 @@ public class HttpStore implements DataStore {
 		try {
 			return client.call(name);
 		} catch (InterruptedException | IOException e) {
-			e.printStackTrace();
+			throw new ApplicationException(e);
 		}
-		return null;
 	}
 
 }
