@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="sk"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>InMemoryCollections.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Government-REST-API</a> &gt; <a href="index.source.html" class="el_package">frido.samosprava.core.collection</a> &gt; <span class="el_source">InMemoryCollections.java</span></div><h1>InMemoryCollections.java</h1><pre class="source lang-java linenums">package frido.samosprava.core.collection;
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+import java.util.TreeMap;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ArrayNode;
+
+import frido.samosprava.core.store.DataStore;
+
+public class InMemoryCollections {
+
+	private Map&lt;String, InMemoryCollection&gt; data;
+	protected ObjectMapper mapper;
+	private DataStore store;
+	// TODO: link should be parameter of DataStore
+	private String link;
+	private String[] indexItems;
+	
+<span class="fc" id="L29">	public InMemoryCollections(DataStore store, String link) {</span>
+<span class="fc" id="L30">		this.data = new HashMap&lt;&gt;();</span>
+<span class="fc" id="L31">		this.mapper = new ObjectMapper();</span>
+<span class="fc" id="L32">		this.store = store;</span>
+<span class="fc" id="L33">		this.link = link;</span>
+<span class="fc" id="L34">		init();</span>
+<span class="fc" id="L35">	}</span>
+
+	private void init() {
+<span class="fc" id="L38">		String indexDb = this.store.load(this.link + &quot;index.db&quot;);</span>
+<span class="fc" id="L39">		indexItems = indexDb.split(&quot;\n&quot;);</span>
+<span class="fc bfc" id="L40" title="All 2 branches covered.">		for (String indexItem : indexItems) {</span>
+<span class="fc" id="L41">			addContent(store.load(link + indexItem));</span>
+		}
+<span class="fc" id="L43">	}</span>
+	
+	private void addContent(String content) {
+<span class="fc" id="L46">		JsonNode tree = null;</span>
+		try {
+<span class="fc" id="L48">			tree = mapper.readTree(content);</span>
+<span class="nc" id="L49">		} catch (IOException e) {</span>
+<span class="nc" id="L50">			e.printStackTrace();</span>
+<span class="fc" id="L51">		}</span>
+<span class="fc" id="L52">		String collectionName = tree.fieldNames().next();</span>
+<span class="fc" id="L53">		ArrayNode list = (ArrayNode) tree.get(collectionName);</span>
+<span class="fc" id="L54">		Iterator&lt;JsonNode&gt; i = list.iterator();</span>
+<span class="fc bfc" id="L55" title="All 2 branches covered.">		while(i.hasNext()) {</span>
+<span class="fc" id="L56">			JsonNode node = i.next();</span>
+<span class="fc" id="L57">			InMemoryCollection collection = data.get(collectionName);</span>
+<span class="fc bfc" id="L58" title="All 2 branches covered.">			if (collection == null) {</span>
+<span class="fc" id="L59">				collection = new InMemoryCollection();</span>
+<span class="fc" id="L60">				data.put(collectionName, collection);</span>
+			}
+<span class="fc" id="L62">			collection.add(node);</span>
+<span class="fc" id="L63">		}</span>
+<span class="fc" id="L64">	}</span>
+	
+	public List&lt;String&gt; getIndexItems(){
+<span class="fc" id="L67">		return Arrays.asList(indexItems);</span>
+	}
+	
+	public Set&lt;String&gt; collections() {
+<span class="fc" id="L71">		return this.data.keySet();</span>
+	}
+	
+	public InMemoryCollection collection(String collectionName) {
+<span class="fc" id="L75">		return this.data.get(collectionName);</span>
+	}
+	
+	public void reload() {
+<span class="nc" id="L79">		this.data = new HashMap&lt;&gt;();</span>
+<span class="nc" id="L80">		init();</span>
+<span class="nc" id="L81">	}</span>
+	
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.3.201901230119</span></div></body></html>

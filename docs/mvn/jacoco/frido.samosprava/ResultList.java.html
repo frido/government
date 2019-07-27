@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="sk"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>ResultList.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">Government-REST-API</a> &gt; <a href="index.source.html" class="el_package">frido.samosprava</a> &gt; <span class="el_source">ResultList.java</span></div><h1>ResultList.java</h1><pre class="source lang-java linenums">package frido.samosprava;
+
+import java.io.IOException;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import org.apache.catalina.Store;
+
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.node.ObjectNode;
+
+import frido.samosprava.core.entity.ResponseList;
+import frido.samosprava.core.entity.ResponseObject;
+
+public class ResultList {
+<span class="nc" id="L18">    private ObjectMapper mapper = new ObjectMapper();</span>
+    private Stream&lt;JsonNode&gt; list;
+<span class="nc" id="L20">    private int count = 0;</span>
+    private Predicate&lt;JsonNode&gt; filter;
+    private Integer skip;
+    private Integer limit;
+
+<span class="nc" id="L25">    public ResultList(Store store) throws IOException {</span>
+        //list = store.getAll().stream().map(x -&gt; apply(x));
+<span class="nc" id="L27">    }</span>
+
+    public ResultList filter(Predicate filter) {
+<span class="nc" id="L30">        this.filter = filter;</span>
+<span class="nc" id="L31">        return this;</span>
+    }
+
+    public ResultList skip(int skip) {
+<span class="nc" id="L35">        this.skip = skip;</span>
+<span class="nc" id="L36">        return this;</span>
+    }
+
+    public ResultList limit(int limit) {
+<span class="nc" id="L40">        this.limit = limit;</span>
+<span class="nc" id="L41">        return this; </span>
+    }
+
+    public ResponseList buildList() {
+<span class="nc bnc" id="L45" title="All 2 branches missed.">        if (filter != null) {</span>
+<span class="nc" id="L46">            list = list.filter(filter).peek(x -&gt; count++);</span>
+        }
+<span class="nc bnc" id="L48" title="All 2 branches missed.">        if (skip != null) {</span>
+<span class="nc" id="L49">            list = list.skip(skip);</span>
+        }
+<span class="nc bnc" id="L51" title="All 2 branches missed.">        if (limit != null) {</span>
+<span class="nc" id="L52">            list = list.limit(limit);</span>
+        }
+<span class="nc" id="L54">        return new ResponseList(list.collect(Collectors.toUnmodifiableList()));</span>
+    }
+
+    public ResponseObject buildObject() {
+<span class="nc bnc" id="L58" title="All 2 branches missed.">        if (filter != null) {</span>
+<span class="nc" id="L59">            list = list.filter(filter);</span>
+        }
+<span class="nc" id="L61">        return new ResponseObject(list.findFirst());</span>
+    }
+
+    private JsonNode apply(ObjectNode o) {
+        try {
+<span class="nc" id="L66">            return mapper.readTree(o.traverse());</span>
+<span class="nc" id="L67">        } catch (IOException e) {</span>
+<span class="nc" id="L68">            e.printStackTrace();</span>
+        }
+<span class="nc" id="L70">        return null;</span>
+    }
+
+
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.3.201901230119</span></div></body></html>

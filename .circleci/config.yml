@@ -28,7 +28,7 @@ jobs:
       - image: library/maven:3.6.0-jdk-12
     steps:
       - checkout
-      - run: cd backend && mvn compile sonar:sonar -Dsonar.login=$SONAR_TOKEN
+      - run: cd backend && mvn compile verify install sonar:sonar -Dsonar.login=$SONAR_TOKEN
   test:
     docker:
       - image: library/maven:3.6.0-jdk-12

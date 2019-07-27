@@ -1,0 +1,19 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Government-REST-API,frido.samosprava.core.collection,InMemoryCollection,2,84,1,5,1,13,1,12,0,10
+Government-REST-API,frido.samosprava.core.collection,InMemoryCollections,11,125,0,6,5,30,1,9,1,6
+Government-REST-API,frido.samosprava,AppConfig,27,0,0,0,6,0,5,0,5,0
+Government-REST-API,frido.samosprava,TransactionFilter,100,0,24,0,20,0,15,0,3,0
+Government-REST-API,frido.samosprava,ResultList,110,0,8,0,24,0,12,0,8,0
+Government-REST-API,frido.samosprava,AppConfig.new WebMvcConfigurerAdapter() {...},38,0,0,0,4,0,2,0,2,0
+Government-REST-API,frido.samosprava,DemoApplication,8,0,0,0,3,0,2,0,2,0
+Government-REST-API,frido.samosprava.core.entity,ResponseObject,3,19,0,0,2,7,1,3,1,3
+Government-REST-API,frido.samosprava.core.entity,ResponseList,8,9,0,0,3,4,1,2,1,2
+Government-REST-API,frido.samosprava.core.client,JdkHttpClient,0,22,0,0,0,10,0,2,0,2
+Government-REST-API,frido.samosprava.api,ResolutionController,0,26,0,0,0,5,0,3,0,3
+Government-REST-API,frido.samosprava.api,BudgetController,0,16,0,0,0,4,0,2,0,2
+Government-REST-API,frido.samosprava.api,InterpellationController,0,26,0,0,0,5,0,3,0,3
+Government-REST-API,frido.samosprava.api,ManagementController,11,0,0,0,5,0,2,0,2,0
+Government-REST-API,frido.samosprava.api,MeetingController,0,26,0,0,0,5,0,3,0,3
+Government-REST-API,frido.samosprava.api,PersonController,0,26,0,0,0,5,0,3,0,3
+Government-REST-API,frido.samosprava.core.store,ClassPathStore,23,0,0,0,7,0,2,0,2,0
+Government-REST-API,frido.samosprava.core.store,HttpStore,5,11,0,0,3,4,0,2,0,2
