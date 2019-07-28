@@ -3,6 +3,7 @@ package frido.samosprava.core.store;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 
+import frido.samosprava.api.ApplicationException;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.util.FileCopyUtils;
 
@@ -16,10 +17,8 @@ public class ClassPathStore implements DataStore{
 			bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
 			return new String(bdata, StandardCharsets.UTF_8);
 		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
+			throw new ApplicationException(e);
 		}
-		return null;
 	}
 
 }
