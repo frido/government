@@ -8,10 +8,10 @@ import java.util.stream.Collectors;
 import com.fasterxml.jackson.databind.JsonNode;
 
 public class InMemoryCollection {
-	private List<JsonNode> list;
+	private final List<JsonNode> list;
 	
 	public InMemoryCollection() {
-		list = new LinkedList<JsonNode>();
+		list = new LinkedList<>();
 	}
 	
 	public void add(JsonNode item) {

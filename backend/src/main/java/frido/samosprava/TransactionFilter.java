@@ -37,8 +37,6 @@ public class TransactionFilter implements Filter {
 
     private byte[] getContent(String name) throws IOException {
         ClassPathResource cpr = new ClassPathResource("static" + name);
-        byte[] bdata = FileCopyUtils.copyToByteArray(cpr.getInputStream());
-        //String content = new String(bdata, StandardCharsets.UTF_8);
-        return bdata;
+        return FileCopyUtils.copyToByteArray(cpr.getInputStream());
     }
 }

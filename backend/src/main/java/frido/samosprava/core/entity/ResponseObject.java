@@ -6,20 +6,20 @@ import java.util.Optional;
 import com.fasterxml.jackson.databind.JsonNode;
 
 public class ResponseObject {
-    private Optional<JsonNode> data;
+    private final JsonNode data;
 
     public ResponseObject(Optional<JsonNode> data) {
-        this.data = data;
+        this.data = data.orElse(null);
     }
     
     public ResponseObject(List<JsonNode> data) {
-        this.data = Optional.ofNullable(data.get(0));
+        this.data = data.get(0);
     }
 
     /**
      * @return the data
      */
-    public Optional<JsonNode> getData() {
+    public JsonNode getData() {
         return data;
     }
 }

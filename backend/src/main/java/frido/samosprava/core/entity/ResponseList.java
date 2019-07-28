@@ -6,7 +6,7 @@ import com.fasterxml.jackson.databind.JsonNode;
 
 public class ResponseList {
 
-    private List<JsonNode> data;
+    private final List<JsonNode> data;
 
     public ResponseList(List<JsonNode> data) {
         this.data = data;

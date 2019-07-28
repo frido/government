@@ -1,45 +1,33 @@
 package frido.samosprava.core.collection;
 
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.TreeMap;
-
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.node.ArrayNode;
-
 import frido.samosprava.api.ApplicationException;
 import frido.samosprava.core.store.DataStore;
+
+import java.io.IOException;
+import java.util.*;
 
 public class InMemoryCollections {
 
 	private Map<String, InMemoryCollection> data;
-	protected ObjectMapper mapper;
-	private DataStore store;
-	// TODO: link should be parameter of DataStore
-	private String link;
+	private final ObjectMapper mapper;
+	private final DataStore store;
 	private String[] indexItems;
 	
-	public InMemoryCollections(DataStore store, String link) {
+	public InMemoryCollections(DataStore store) {
 		this.data = new HashMap<>();
 		this.mapper = new ObjectMapper();
 		this.store = store;
-		this.link = link;
 		init();
 	}
 
 	private void init() {
-		String indexDb = this.store.load(this.link + "index.db");
+		String indexDb = this.store.load( "index.db");
 		indexItems = indexDb.split("\n");
 		for (String indexItem : indexItems) {
-			addContent(store.load(link + indexItem));
+			addContent(store.load(indexItem));
 		}
 	}
 	

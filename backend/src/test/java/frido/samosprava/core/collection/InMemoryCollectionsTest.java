@@ -10,13 +10,13 @@ import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.store.DataStore;
 import frido.samosprava.core.store.HttpStore;
 
-public class InMemoryCollectionsTest {
+class InMemoryCollectionsTest {
 
 	@Test
-	public void testGetIndexItems() throws Exception {
+	void testGetIndexItems() {
 		WebClient client = new JdkHttpClient();
-		DataStore store = new HttpStore(client);
-		InMemoryCollections collections = new InMemoryCollections(store, "https://frido.github.io/government/db/");
+		DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
+		InMemoryCollections collections = new InMemoryCollections(store);
 		assertEquals(9, collections.getIndexItems().size());
 		System.out.println(collections.collections());
 		assertEquals(5, collections.collections().size());

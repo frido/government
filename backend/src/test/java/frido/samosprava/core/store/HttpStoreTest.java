@@ -7,13 +7,13 @@ import org.junit.jupiter.api.Test;
 import frido.samosprava.core.client.JdkHttpClient;
 import frido.samosprava.core.client.WebClient;
 
-public class HttpStoreTest {
+class HttpStoreTest {
 
 	@Test
-	public void testLoad() throws Exception {
+	void testLoad() {
 		WebClient client = new JdkHttpClient();
-		DataStore store = new HttpStore(client);
-		String response = store.load("https://frido.github.io/government/db/detva/dt-detva-osoby.json");
+		DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
+		String response = store.load("detva/dt-detva-osoby.json");
 		assertFalse(response.isEmpty());
 	}
 

@@ -17,7 +17,7 @@
 	<description>Government REST API</description>
 
 	<properties>
-		<start-class>frido.samosprava.DemoApplication</start-class>
+		<start-class>frido.samosprava.SamospravaApplication</start-class>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<sonar.organization>frido-github</sonar.organization>
 		<junit-platform.version>5.3.1</junit-platform.version>

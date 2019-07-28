@@ -7,16 +7,18 @@ import frido.samosprava.core.client.WebClient;
 
 public class HttpStore implements DataStore {
 
-	WebClient client;
+	private final WebClient client;
+	private final String link;
 	
-	public HttpStore(WebClient client) {
+	public HttpStore(WebClient client, String link) {
 		this.client = client;
+		this.link = link;
 	}
 	
 	@Override
 	public String load(String name) {
 		try {
-			return client.call(name);
+			return client.call(link + name);
 		} catch (InterruptedException | IOException e) {
 			throw new ApplicationException(e);
 		}

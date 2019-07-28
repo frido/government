@@ -1,30 +1,27 @@
 package frido.samosprava.api;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
-
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RestController;
-
 import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseList;
 import frido.samosprava.core.entity.ResponseObject;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 class ManagementController {
 
-	InMemoryCollections collections;
+	private final InMemoryCollections collections;
+	private final static Logger log = LoggerFactory.getLogger(ManagementController.class);
 	
 	public ManagementController(InMemoryCollections collections) {
 		this.collections = collections;
 	}
 
     @GetMapping("/api/reload")
-    public ResponseObject budget() throws IOException, URISyntaxException {
+    public ResponseObject budget() {
+		log.info("FRIDO: /api/reload");
     	collections.reload();
-    	return  null;
+    	return null;
     }
 
 }

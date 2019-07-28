@@ -1,6 +1,6 @@
 package frido.samosprava;
 
-public class ResultListTest {
+class ResultListTest {
 //
 //    private static String testFile = "ba-petrzalka-interpelacie.json";
 //
