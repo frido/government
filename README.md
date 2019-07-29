@@ -22,6 +22,8 @@
 
 `node -v` - `v12.6.0`
 
+TODO: Heroku
+
 ## Build
 
 in `frontend` directory:
@@ -36,17 +38,14 @@ in `backend` directory:
 mvn package
 ```
 
-build docker:
+## Deploy
 
-```
-docker build .
-```
+Copy `target/samosprava.jar` file to heroku git. Commit and push changes.
 
-upload to Heroku:
+# Stack Decision
 
-```
-heroku container:push web --app samosprava
-heroku container:release web --app samosprava
-```
+## Javascript vs Typescript
+I use _TypeScript_ because it is strongly typed superset of _JavaScript_ that provides many benefits. Integration with _IDE_ like _Visual Studio Code_ is excellent. The main benefit is maintainability. Many error can be caught before code running. Also _Angular_ recommends _TypeScript_ as better alternative to _JavaScript_ . Syntax is very easy to learn especially for people from the _Java_ world.
+
 
 reinitializen on 20.7.2019
