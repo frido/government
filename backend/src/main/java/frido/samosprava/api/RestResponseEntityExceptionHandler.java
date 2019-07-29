@@ -10,8 +10,8 @@ import org.springframework.web.server.ResponseStatusException;
 @ControllerAdvice
 public class RestResponseEntityExceptionHandler {
 
-    @ExceptionHandler(value = { ApplicationException.class })
-    protected ResponseEntity<Object> handleConflict(RuntimeException ex, WebRequest request){
-        throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Foo Not Found", ex);
-    }
+  @ExceptionHandler(value = { ApplicationException.class })
+  protected ResponseEntity<Object> handleConflict(RuntimeException ex, WebRequest request) {
+    throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Foo Not Found", ex);
+  }
 }

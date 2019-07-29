@@ -10,18 +10,18 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 class ManagementController {
 
-	private final InMemoryCollections collections;
-	private final static Logger log = LoggerFactory.getLogger(ManagementController.class);
-	
-	public ManagementController(InMemoryCollections collections) {
-		this.collections = collections;
-	}
+  private static final Logger log = LoggerFactory.getLogger(ManagementController.class);
+  private final InMemoryCollections collections;
 
-    @GetMapping("/api/reload")
-    public ResponseObject budget() {
-		log.info("FRIDO: /api/reload");
-    	collections.reload();
-    	return null;
-    }
+  public ManagementController(InMemoryCollections collections) {
+    this.collections = collections;
+  }
+
+  @GetMapping("/api/reload")
+  public ResponseObject budget() {
+    log.info("FRIDO: /api/reload");
+    collections.reload();
+    return null;
+  }
 
 }

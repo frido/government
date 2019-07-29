@@ -9,12 +9,12 @@ import frido.samosprava.core.client.WebClient;
 
 class HttpStoreTest {
 
-	@Test
-	void testLoad() {
-		WebClient client = new JdkHttpClient();
-		DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
-		String response = store.load("detva/dt-detva-osoby.json");
-		assertFalse(response.isEmpty());
-	}
+  @Test
+  void testLoad() {
+    WebClient client = new JdkHttpClient();
+    DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
+    String response = store.load("detva/dt-detva-osoby.json");
+    assertFalse(response.isEmpty());
+  }
 
 }

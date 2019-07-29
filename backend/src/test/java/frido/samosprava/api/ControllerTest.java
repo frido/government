@@ -9,12 +9,12 @@ import org.junit.jupiter.api.BeforeAll;
 
 public class ControllerTest {
 
-    static InMemoryCollections collections;
+  static InMemoryCollections collections;
 
-    @BeforeAll
-    static void init(){
-        WebClient client = new JdkHttpClient();
-        DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
-        collections = new InMemoryCollections(store);
-    }
+  @BeforeAll
+  static void init() {
+    WebClient client = new JdkHttpClient();
+    DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
+    collections = new InMemoryCollections(store);
+  }
 }

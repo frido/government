@@ -10,20 +10,20 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 class PersonController {
 
-	private final InMemoryCollections collections;
-	
-	public PersonController(InMemoryCollections collections) {
-		this.collections = collections;
-	}
+  private final InMemoryCollections collections;
 
-    @GetMapping("/api/persons/{council}")
-    public ResponseList persons(@PathVariable int council) {
-    	return new ResponseList(collections.collection("persons").councilNested(council));
-    }
+  public PersonController(InMemoryCollections collections) {
+    this.collections = collections;
+  }
 
-    @GetMapping("/api/person/{id}")
-    public ResponseObject person(@PathVariable int id) {
-        return new ResponseObject(collections.collection("persons").id(id));
-    }
+  @GetMapping("/api/persons/{council}")
+  public ResponseList persons(@PathVariable int council) {
+    return new ResponseList(collections.collection("persons").councilNested(council));
+  }
+
+  @GetMapping("/api/person/{id}")
+  public ResponseObject person(@PathVariable int id) {
+    return new ResponseObject(collections.collection("persons").id(id));
+  }
 
 }

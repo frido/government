@@ -8,22 +8,22 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-class InterpellationController { 
+class InterpellationController {
 
-	private final InMemoryCollections collections;
-	
-	public InterpellationController(InMemoryCollections collections) {
-		this.collections = collections;
-	}
+  private final InMemoryCollections collections;
 
-    @GetMapping("/api/interpellations/{council}")
-    public ResponseList interpellations(@PathVariable int council) {
-    	return new ResponseList(collections.collection("interpellations").council(council));
-    }
+  public InterpellationController(InMemoryCollections collections) {
+    this.collections = collections;
+  }
 
-    @GetMapping("/api/interpellation/{id}")
-    public ResponseObject interpellation(@PathVariable int id) {
-        return new ResponseObject(collections.collection("interpellations").id(id));
-    }
+  @GetMapping("/api/interpellations/{council}")
+  public ResponseList interpellations(@PathVariable int council) {
+    return new ResponseList(collections.collection("interpellations").council(council));
+  }
+
+  @GetMapping("/api/interpellation/{id}")
+  public ResponseObject interpellation(@PathVariable int id) {
+    return new ResponseObject(collections.collection("interpellations").id(id));
+  }
 
 }

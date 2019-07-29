@@ -84,3 +84,6 @@ I've never decided which one is better. _Heroku_ is easier to configure. _Opensh
 
 Logentries, LogDNA, Timber.io, Papertrail and Sumo Logic provide free pricing plan for Heroku application. You can add these applications as add-ons very easily. After light preview of each tool I choosed to use _Papertrail_. 
 
+## Checkstyle and Editorconfig
+TODO
+
