@@ -412,11 +412,8 @@ export const spolky: Spolok[] = [
           'id': 1,
           'name': 'Mestsky urad',
           'role': [
-            {
-              'id': 1,
-              'name': 'Primator',
-              'icon': 'fas fa-chess-king'
-            }
+            { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' }
+            { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' }
           ]
         }, {
           'id': 2,
@@ -428,7 +425,27 @@ export const spolky: Spolok[] = [
               'icon': 'fas fa-briefcase'
             }
           ]
-        }
+        }, {
+            'id': 3,
+            'name': 'Technické služby Detva s.r.o.',
+            'role': [
+              {
+                'id': 1,
+                'name': 'člen dozornej rady',
+                'icon': 'fas fa-stamp'
+              }
+            ]
+          }, {
+            'id': 4,
+            'name': 'BYTES, s.r.o.',
+            'role': [
+              {
+                'id': 1,
+                'name': 'člen dozornej rady',
+                'icon': 'fas fa-stamp'
+              }
+            ]
+          }
       ],
       'fb': {
         'title': 'Detva.info',
