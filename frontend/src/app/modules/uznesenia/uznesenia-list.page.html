@@ -3,9 +3,15 @@
   <div class="uznesenie-filter">
     <strong>Filter</strong>
     <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
+    <strong>Hladaj</strong>
+    <app-search [search]="search" (onSearch)="onSearch($event)"></app-search>
   </div>
-  <ng-container *ngFor="let u of $uznesenia | async">
-    <app-uznesenie *ngIf="isVisible(u)" [uznesenie]="u"></app-uznesenie>
+
+  <ng-container *ngFor="let u of uzneseniaVisible">
+    <app-uznesenie [uznesenie]="u"></app-uznesenie>
+  </ng-container>
+  <ng-container *ngFor="let m of meetings">
+    <a (click)="selectMeeting(m)" class="linkable">{{m.datum}}</a>
   </ng-container>
 </div>
 <app-footer></app-footer>
