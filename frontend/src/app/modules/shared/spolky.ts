@@ -412,7 +412,7 @@ export const spolky: Spolok[] = [
           'id': 1,
           'name': 'Mestsky urad',
           'role': [
-            { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' }
+            { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' },
             { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' }
           ]
         }, {
