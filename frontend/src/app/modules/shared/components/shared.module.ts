@@ -25,19 +25,20 @@ import { LinkableComponent } from './linkable/linkable.component';
 import { ExternalLinkComponent } from './external-link/external-link.component';
 import { PoslanecResultComponent } from './poslanec-result/poslanec-result.component';
 import { FilterComponent } from './filter/filter.component';
+import { SearchComponent } from './search/search.component';
 //import { PoslanecDetailComponent } from '../../poslanci/poslanec-detail.component';
 
 @NgModule({
   declarations: [
     MenuComponent, IconTypeComponent, IconResultComponent, UznesenieComponent, UznesenieDetailComponent,
-    IconDetailComponent, InterpelaciaComponent, FilterComponent, InterpelaciaDetailComponent,
+    IconDetailComponent, InterpelaciaComponent, FilterComponent, SearchComponent, InterpelaciaDetailComponent,
     TabComponent, TabsComponent, PoslanecMenoComponent, PoslanecClickableComponent, IconKomisiaComponent,
     VtabComponent, VtabsComponent, FooterComponent, BacklinkDirective, LinkableComponent, ExternalLinkComponent,
     PoslanecResultComponent
   ],
   exports: [
     MenuComponent, IconTypeComponent, IconResultComponent, UznesenieComponent, UznesenieDetailComponent,
-    IconDetailComponent, InterpelaciaComponent, FilterComponent, InterpelaciaDetailComponent,
+    IconDetailComponent, InterpelaciaComponent, FilterComponent, SearchComponent, InterpelaciaDetailComponent,
     TabComponent, TabsComponent, PoslanecMenoComponent, PoslanecClickableComponent, IconKomisiaComponent,
     VtabComponent, VtabsComponent, FooterComponent, BacklinkDirective, LinkableComponent, ExternalLinkComponent,
     PoslanecResultComponent

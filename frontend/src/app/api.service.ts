@@ -48,6 +48,17 @@ export class ApiService {
     )
   }
 
+  getUzneseniaMeeting(spolokId: string, meetingId: number): Observable<Uznesenie[]> {
+    return this.get(this.base + 'resolutions/' + spolokId + "/" + meetingId).pipe(
+      map((list: Uznesenie[]) => list.sort((a, b) => b.cislo - a.cislo))
+    )
+  }
+
+  // TODO: order by date
+  getMeetings(spolokId: string): Observable<Meeting[]> {
+    return this.get(this.base + 'meetings/' + spolokId)
+  }
+
   getUznesenie(uznesenieId: number): Observable<Uznesenie> {
     return this.get(this.base + 'resolution/' + uznesenieId);
   }
