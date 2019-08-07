@@ -2624,7 +2624,7 @@
     },
     {
       "id": 99,
-      "cislo": 56,
+      "cislo": 58,
       "typ": "ine",
       "council": 1,
       "zasadnutie": 5,
@@ -2643,6 +2643,74 @@
       "proti": [],
       "pritomni": 0,
       "zdroj": ""
+    },
+    {
+      "id": 100,
+      "cislo": 59,
+      "typ": "ine",
+      "council": 1,
+      "zasadnutie": 5,
+      "predkladatel": [],
+      "nadpis": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu Všeobecne záväzného nariadenia hlavného mesta SR Bratislavy o dočasnom parkovaní motorových vozidiel ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "súhlasné stanovisko k návrhu Všeobecne záväzného nariadenia hlavného mesta SR Bratislavy o dočasnom parkovaní motorových vozidiel s pripomienkami",
+            "zapojenie mestskej časti Bratislava-Petržalka do systému dočasného parkovania na území hlavného mesta",
+            "návrh úsekov miestnych komunikácií na účely dočasného parkovania uvedený v bode 2 tohto stanoviska."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/05/1-MMZ-Stanovisko-mestskej-%C4%8Dasti-k-N%C3%A1vrhu-VZN_parkovanie_MZ.pdf"
+    },
+    {
+      "id": 101,
+      "cislo": 60,
+      "typ": "ine",
+      "council": 1,
+      "zasadnutie": 5,
+      "predkladatel": [],
+      "nadpis": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu dodatku Štatútu hlavného mesta SR Bratislavy – parkovacia politika ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "súhlasné stanovisko k návrhu dodatku Štatútu hlavného mesta SR Bratislavy s pripomienkami."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/05/2-MMZ-Stanovisko-mestskej-%C4%8Dasti-k-N%C3%A1vrhu-dodatku-%C5%A0tat%C3%BAtu_parkovanie_MZ.pdf"
+    },
+    {
+      "id": 102,
+      "cislo": 61,
+      "typ": "ine",
+      "council": 1,
+      "zasadnutie": 5,
+      "predkladatel": [],
+      "nadpis": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu dodatku Štatútu hlavného mesta SR Bratislavy vo veci vymedzenia pôsobnosti mestskej časti so zriadením nízkoemisnej zóny ",
+      "popis": "",
+      "vysledok": [
+        {
+          "sumar": "schvaľuje",
+          "popis": [
+            "súhlasné stanovisko návrhu dodatku Štatútu hlavného mesta SR Bratislavy vo veci vymedzenia pôsobnosti mestskej časti so zriadením nízkoemisnej zóny s pripomienkou."
+          ]
+        }
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": "https://www.petrzalka.sk/wp-content/uploads/2019/05/3-MMZ-Stanovisko-mestskej-%C4%8Dasti-k-N%C3%A1vrhu-dodatku-%C5%A0tat%C3%BAtu_emisn%C3%A9-zony_MZ.pdf"
     }
   ]
 }

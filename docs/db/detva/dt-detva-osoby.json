@@ -345,6 +345,14 @@
           "chairman": false
         }
       ],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2019/2022",
+          "department": 3,
+          "role": 1
+        }
+      ],
       "klub": null,
       "fb": null,
       "role": 1
@@ -507,6 +515,14 @@
           "chairman": false
         }
       ],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2019/2022",
+          "department": 3,
+          "role": 1
+        }
+      ],
       "klub": null,
       "fb": null,
       "role": 1
@@ -547,6 +563,14 @@
           "period": "2018/2022",
           "fk": 100,
           "chairman": false
+        }
+      ],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2019/2022",
+          "department": 3,
+          "role": 1
         }
       ],
       "klub": null,
@@ -787,6 +811,51 @@
           "council": 2,
           "period": "2018/2022",
           "department": 2,
+          "role": 1
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1036,
+      "name": "Mojmír Chalupský",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "department": 4,
+          "role": 1
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1037,
+      "name": "Pavel Golian",
+      "prefix": "",
+      "commission": [],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "department": 4,
+          "role": 1
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1038,
+      "name": "Štefan Baláž",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [
+        {
+          "council": 2,
+          "period": "2018/2022",
+          "department": 4,
           "role": 1
         }
       ],
