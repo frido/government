@@ -11,7 +11,9 @@
     <app-uznesenie [uznesenie]="u"></app-uznesenie>
   </ng-container>
   <ng-container *ngFor="let m of meetings">
-    <a (click)="selectMeeting(m)" class="linkable">{{m.datum}}</a>
+    <div>
+      <a (click)="selectMeeting(m)" class="linkable">Načítať uznesenia zo zasadnutia dňa {{m.datum}}</a>
+    </div>
   </ng-container>
 </div>
 <app-footer></app-footer>

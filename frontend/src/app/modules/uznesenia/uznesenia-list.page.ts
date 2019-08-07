@@ -34,7 +34,7 @@ export class UzneseniaListPage implements OnInit {
 
   selectMeeting(meeting: Meeting) {
     console.log("selectMeeting");
-    this.service.getUznesenia(this.route.snapshot.data.spolok.id).subscribe(
+    this.service.getUzneseniaMeeting(this.route.snapshot.data.spolok.id, meeting.id).subscribe(
       x => {
         this.uzneseniaAll = this.uzneseniaAll.concat(x);
         this.applyFilter();

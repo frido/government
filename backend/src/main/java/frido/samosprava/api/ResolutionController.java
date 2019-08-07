@@ -22,6 +22,11 @@ class ResolutionController {
     return new ResponseList(collections.collection("resolutions").council(council));
   }
 
+  @GetMapping("/api/resolutions/{council}/{meeting}")
+  public ResponseList resolutions(@PathVariable int council, @PathVariable int meeting) {
+    return new ResponseList(collections.collection("resolutions").councilMeeting(council, meeting));
+  }
+
   @GetMapping("/api/resolution/{id}")
   public ResponseObject resolution(@PathVariable int id) {
     return new ResponseObject(collections.collection("resolutions").id(id));
