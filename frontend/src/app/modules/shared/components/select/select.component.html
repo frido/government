@@ -1,0 +1,5 @@
+<div style="display: flex">
+    <div *ngFor="let filter of filter.items()" (click)="vote(filter.key)" [class.inactive]="!filter.flag">
+      <span class="tooltiptext">{{filter.title}}</span>
+    </div>
+  </div>

@@ -19,6 +19,9 @@ export class DepartmentView {
   title: string;
   role: string;
   icon: string;
+  roleId: number;
+  departmentId: number;
+  councilId: number;
 }
 
 export class ElectionView {
@@ -38,6 +41,8 @@ export class CommissionView {
   name: string;
   period: string;
   chairman: boolean;
+  commissionId: number;
+  councilId: number;
 
   constructor() {}
 }

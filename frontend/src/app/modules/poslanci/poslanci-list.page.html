@@ -1,8 +1,14 @@
 <app-menu></app-menu>
 <div class="content">
   <div class="uznesenie-filter">
-    <strong>Filter</strong>
-    <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
+    <strong>Rola</strong>
+    <app-filter [filter]="filterRole" (onFilter)="onFilterRole($event)"></app-filter>
+  </div><div class="uznesenie-filter">
+      <strong>Komisia</strong>
+    <app-select [filter]="filterCommision" (onFilter)="onFilterCommision($event)"></app-select>
+  </div><div class="uznesenie-filter">
+      <strong>Oddelenie</strong>
+    <app-select [filter]="filterDepartment" (onFilter)="onFilterDepartment($event)"></app-select>
   </div>
   <ng-container *ngFor="let p of $poslanci | async">
     <app-poslanec *ngIf="isVisible(p)" [poslanec]="p"></app-poslanec>

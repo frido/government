@@ -1,10 +1,10 @@
 import { Component, Input, EventEmitter, Output } from '@angular/core';
 
 @Component({
-  selector: 'app-filter',
-  templateUrl: './filter.component.html'
+  selector: 'app-select',
+  templateUrl: './select.component.html'
 })
-export class FilterComponent {
+export class SelectComponent {
   @Output() onFilter = new EventEmitter<FilterHolder>();
   @Input() filter: FilterHolder;
 
@@ -33,21 +33,19 @@ export class FilterHolder {
   }
 
   add(filter: Filter): void {
-    if (this.map[filter.key] == null) {
-      this.map[filter.key] = filter;
-      this.list.push(filter);
-    }
+    this.map[filter.key] = filter;
+    this.list.push(filter);
   }
 
   items(): Filter[] {
     return this.list
   }
 
-  item(key: string): Filter {
+  item(key: string) :Filter {
     return this.map[key];
   }
 
-  check(key: string): boolean {
+  check(key: string) :boolean {
     const f = this.map[key];
     return f ? f.flag : false
   }
@@ -58,15 +56,17 @@ export class FilterHolder {
   }
 
   vote(key: string) {
-    const f = this.item(key);
-    if (this.multi == false) {
-      const tmp = f.flag ? true : false;
+    if(this.multi == false) {
       this.list.forEach(e => {
         e.flag = false;
       });
-      f.flag = !tmp;
+    }
+
+    const f = this.item(key);
+    if (f.flag) {
+      f.flag = false;
     } else {
-      f.flag = f.flag ? false : true;
+      f.flag = true;
     }
   }
 }

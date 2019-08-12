@@ -100,7 +100,7 @@ export class ApiService {
         });
     }
     if (poslanec.commission) {
-      const currentCommissions = poslanec.commission.filter(e => e.period.endsWith('2022'));
+      const currentCommissions = poslanec.commission.filter(e => true);
       let selectedCommission = currentCommissions.shift();
       while (selectedCommission) {
         const c = new CommissionView();
@@ -109,6 +109,8 @@ export class ApiService {
         c.name = council.commission.find(cc => cc.id === selectedCommission.fk).name;
         c.chairman = selectedCommission.chairman;
         c.period = selectedCommission.period;
+        c.commissionId = selectedCommission.fk;
+        c.councilId = selectedCommission.council;
         if (poslanec.election) {
           const election = personView.elections.find(e => e.councilName == c.councilName && e.period == c.period);
           if (election) {
@@ -131,6 +133,9 @@ export class ApiService {
         const councilDepartmentRole = councilDepartment.role.find(r => r.id === d.role);
         departmentView.role = councilDepartmentRole.name;
         departmentView.icon = councilDepartmentRole.icon;
+        departmentView.roleId = councilDepartmentRole.id;
+        departmentView.departmentId = councilDepartment.id;
+        departmentView.councilId =  council.id;
         return departmentView;
       });
     }
