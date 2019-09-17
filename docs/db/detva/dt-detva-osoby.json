@@ -6,8 +6,9 @@
       "prefix": "Ing.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 2560,
           "mayor": true
@@ -15,6 +16,9 @@
       ],
       "commission": [],
       "departments": [],
+      "office": [
+        { "council": 2, "fk": 1, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "klub": null,
       "fb": null,
       "role": 4
@@ -25,22 +29,26 @@
       "prefix": "Ing.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "ŠANCA",
           "votes": 170
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
           "chairman": false
         }
@@ -55,22 +63,26 @@
       "prefix": "Ing.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "KDH",
           "votes": 163
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
           "chairman": false
         }
@@ -85,22 +97,26 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 202
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -115,16 +131,20 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 601
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -140,15 +160,18 @@
       "election": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 457
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -163,22 +186,26 @@
       "prefix": "Mgr.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 455
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -193,22 +220,26 @@
       "prefix": "Ing.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "KDH",
           "votes": 454
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -223,22 +254,26 @@
       "prefix": "Mgr.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 686
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -253,34 +288,38 @@
       "prefix": "Mgr.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "SMER-SD",
           "votes": 520
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -295,16 +334,20 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 498
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -319,28 +362,32 @@
       "prefix": "Mgr.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "KDH",
           "votes": 496
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -363,22 +410,26 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 416
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -393,28 +444,32 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 387
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -429,16 +484,20 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 380
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -453,22 +512,26 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
           "votes": 346
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -483,34 +546,38 @@
       "prefix": "PhDr.",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "KDH",
           "votes": 315
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": true
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -533,34 +600,38 @@
       "prefix": "",
       "election": [
         {
+          "id": 1,
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "KDH",
           "votes": 195
         }
       ],
+      "deputy": [
+        { "council": 2, "from": "01.12.2018", "to": null, "election": 1 }
+      ],
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -584,7 +655,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         }
@@ -598,7 +669,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 1,
           "chairman": false
         }
@@ -612,7 +683,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -626,7 +697,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -640,7 +711,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -654,7 +725,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -668,7 +739,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -682,7 +753,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -696,7 +767,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -710,7 +781,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -724,7 +795,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -738,7 +809,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -752,7 +823,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -766,7 +837,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -780,7 +851,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -794,7 +865,7 @@
       "commission": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -809,7 +880,7 @@
       "departments": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "department": 2,
           "role": 1
         }
@@ -824,7 +895,7 @@
       "departments": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "department": 4,
           "role": 1
         }
@@ -839,7 +910,7 @@
       "departments": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "department": 4,
           "role": 1
         }
@@ -854,7 +925,7 @@
       "departments": [
         {
           "council": 2,
-          "period": "2018/2022",
+          "period": "2018/2022", "from": "01.12.2018", "to": null,
           "department": 4,
           "role": 1
         }

@@ -1,0 +1,8 @@
+<app-menu></app-menu>
+<div class="content">
+  <div (click)="selectAll()">SELECT ALL</div>
+  <ng-container *ngFor="let p of poslanci">
+    <div (click)="click(p)" [class.active]="isSelected(p)">{{p.name}}</div>
+  </ng-container>
+  {{selectedIds | json}}
+<app-footer></app-footer>

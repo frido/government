@@ -14,7 +14,14 @@ interface Spolok {
   //employee?: Employee[];
   commission?: Commission[];
   department?: Department[];
+  office?: Office[];
   fb?: Fb;
+}
+
+interface Office {
+  id: number;
+  name: string;
+  icon: string
 }
 
 interface Department {

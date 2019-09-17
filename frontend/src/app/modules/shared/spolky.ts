@@ -407,15 +407,12 @@ export const spolky: Spolok[] = [
           'desc': ''
         }
       ],
+      'office': [
+        { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' },
+        { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' }
+      ],
       'department': [
-        {
-          'id': 1,
-          'name': 'Mestsky urad',
-          'role': [
-            { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' },
-            { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' }
-          ]
-        }, {
+         {
           'id': 2,
           'name': 'Kultúrne centrum A. Sládkoviča v Detve',
           'role': [

@@ -7,10 +7,11 @@ import { CommonModule } from '@angular/common';
 import { PoslanciRoutingModule } from './poslanci.routes';
 import { PoslanecComponent } from './poslanec.component';
 import { PoslanecDetailComponent } from './poslanec-detail.component';
+import { PoslanciHelperPage } from './poslanci-helper.page';
 
 @NgModule({
   declarations: [
-    PoslanciListPage, PoslanciShowPage, PoslanecComponent, PoslanecDetailComponent
+    PoslanciListPage, PoslanciShowPage, PoslanecComponent, PoslanecDetailComponent, PoslanciHelperPage
   ],
   exports: [
     PoslanciListPage, PoslanciShowPage

@@ -2,6 +2,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { PoslanciListPage } from './poslanci-list.page';
 import { PoslanciShowPage } from './poslanci-show.page';
 import { NgModule } from '@angular/core';
+import { PoslanciHelperPage } from './poslanci-helper.page';
 
 const poslanciRoutes: Routes = [
   {
@@ -12,6 +13,10 @@ const poslanciRoutes: Routes = [
   {
     path: 'list',
     component: PoslanciListPage
+  },
+  {
+    path: 'helper',
+    component: PoslanciHelperPage
   },
   {
     path: 'show/:id',

@@ -6,19 +6,21 @@ exports.ludia = [
     'prefix': 'Ing.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 2560,
         'mayor': true
       }
     ],
     'commission': [ ],
-    'departments': [
+    'departments': [ ],
+    'office': [
+      { 'council': 2, 'fk': 1, 'from': '01.12.2018', 'to': null, 'election': 1 }
     ],
     'klub': null,
-    'fb': null,
-    'role': 4
+    'fb': null
   },
   {
     'id': 1002,
@@ -26,19 +28,22 @@ exports.ludia = [
     'prefix': 'Ing.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'ŠANCA',
         'votes': 170
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 2, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 2, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1003,
@@ -46,19 +51,22 @@ exports.ludia = [
     'prefix': 'Ing.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'KDH',
         'votes': 163
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 2, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 2, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1004,
@@ -66,19 +74,22 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 202
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 2, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 2, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1005,
@@ -86,18 +97,21 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 601
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1006,
@@ -105,18 +119,21 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 457
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1007,
@@ -124,19 +141,22 @@ exports.ludia = [
     'prefix': 'Mgr.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 455
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1008,
@@ -144,19 +164,22 @@ exports.ludia = [
     'prefix': 'Ing.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'KDH',
         'votes': 454
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1009,
@@ -164,19 +187,22 @@ exports.ludia = [
     'prefix': 'Mgr.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 686
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 8, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 8, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false }
     ],
     'klub': null,
-    'fb': null,
-    'role': 1
+    'fb': null
   },
   {
     'id': 1010,
@@ -184,17 +210,21 @@ exports.ludia = [
     'prefix': 'Mgr.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'SMER-SD',
         'votes': 520
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 8, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 2, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 100, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 8, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 2, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 100, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -206,14 +236,18 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 498
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -225,16 +259,20 @@ exports.ludia = [
     'prefix': 'Mgr.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'KDH',
         'votes': 496
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 100, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 100, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -246,15 +284,19 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 416
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 100, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 100, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -266,16 +308,20 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 387
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 2, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 2, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -287,14 +333,18 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 380
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -306,15 +356,19 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'NEKA',
         'votes': 346
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -326,17 +380,21 @@ exports.ludia = [
     'prefix': 'PhDr.',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'KDH',
         'votes': 315
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': true },
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 100, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': true },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 100, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -348,17 +406,21 @@ exports.ludia = [
     'prefix': '',
     'election': [
       {
+        'id': 1,
         'council': 2,
-        'period': '2018/2022',
+        'from': '01.12.2018', 'to': null,
         'party': 'KDH',
         'votes': 195
       }
     ],
+    'deputy': [
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'election': 1 }
+    ],
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 8, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false },
-      { 'council': 2, 'period': '2018/2022', 'fk': 100, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 8, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false },
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 100, 'chairman': false }
     ],
     'klub': null,
     'fb': null,
@@ -369,7 +431,7 @@ exports.ludia = [
     'name': 'Mikuláš Klimo',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false }
     ],
     'role': 3
   },
@@ -378,7 +440,7 @@ exports.ludia = [
     'name': 'Martina Ostrihoň',
     'prefix': 'Ing.',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 1, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 1, 'chairman': false }
     ],
     'role': 3
   },
@@ -387,7 +449,7 @@ exports.ludia = [
     'name': 'Elena Nôtová',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': false }
     ],
     'role': 3
   },
@@ -396,7 +458,7 @@ exports.ludia = [
     'name': 'Ivan Horváth',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 3, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 3, 'chairman': false }
     ],
     'role': 3
   },
@@ -405,7 +467,7 @@ exports.ludia = [
     'name': 'Ján Parobek',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false }
     ],
     'role': 3
   },
@@ -414,7 +476,7 @@ exports.ludia = [
     'name': 'Dušan Vepřek',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false }
     ],
     'role': 3
   },
@@ -423,7 +485,7 @@ exports.ludia = [
     'name': 'Ivan Kollárik',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 5, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 5, 'chairman': false }
     ],
     'role': 3
   },
@@ -432,7 +494,7 @@ exports.ludia = [
     'name': 'Tomáš Dom',
     'prefix': 'PhDr.',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'role': 3
   },
@@ -441,7 +503,7 @@ exports.ludia = [
     'name': 'Michaela Fekiačová',
     'prefix': 'Ing.',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'role': 3
   },
@@ -450,7 +512,7 @@ exports.ludia = [
     'name': 'Helena Gajdošová',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 4, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 4, 'chairman': false }
     ],
     'role': 3
   },
@@ -459,7 +521,7 @@ exports.ludia = [
     'name': 'Ladislava Ruščáková',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false }
     ],
     'role': 3
   },
@@ -468,7 +530,7 @@ exports.ludia = [
     'name': 'Anna Bartóková',
     'prefix': 'Mgr.',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false }
     ],
     'role': 3
   },
@@ -477,7 +539,7 @@ exports.ludia = [
     'name': 'Vladimír Oláh',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 7, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 7, 'chairman': false }
     ],
     'role': 3
   },
@@ -486,7 +548,7 @@ exports.ludia = [
     'name': 'Ľubomír Ostrihoň',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false }
     ],
     'role': 3
   },
@@ -495,7 +557,7 @@ exports.ludia = [
     'name': 'František Schmidt',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false }
     ],
     'role': 3
   },
@@ -504,7 +566,7 @@ exports.ludia = [
     'name': 'Štefan Závodný',
     'prefix': '',
     'commission': [
-      { 'council': 2, 'period': '2018/2022', 'fk': 6, 'chairman': false }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'fk': 6, 'chairman': false }
     ],
     'role': 3
   },
@@ -514,7 +576,7 @@ exports.ludia = [
     'prefix': 'Ing.',
     'commission': [ ],
     'departments': [
-      { 'council': 2, 'period': '2018/2022', 'department': 2, 'role': 1 }
+      { 'council': 2, 'from': '01.12.2018', 'to': null, 'department': 2, 'role': 1 }
     ],
     'role': 3
   }
