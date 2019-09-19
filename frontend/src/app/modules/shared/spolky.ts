@@ -409,7 +409,12 @@ export const spolky: Spolok[] = [
       ],
       'office': [
         { 'id': 1, 'name': 'primator', 'icon': 'fas fa-chess-king' },
-        { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' }
+        { 'id': 2, 'name': 'miestny kontrolór', 'icon': 'fas fa-chess-knight' },
+        { 'id': 3, 'name': 'vedúci EO', 'icon': 'fas fa-chess-knight' },
+        { 'id': 4, 'name': 'vedúci OVaŽP', 'icon': 'fas fa-chess-knight' },
+        { 'id': 5, 'name': 'právnik mesta', 'icon': 'fas fa-chess-knight' },
+        { 'id': 6, 'name': 'prednosta', 'icon': 'fas fa-chess-knight' },
+        { 'id': 7, 'name': 'vedúca OSM', 'icon': 'fas fa-chess-knight' }
       ],
       'department': [
          {

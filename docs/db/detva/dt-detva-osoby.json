@@ -660,6 +660,13 @@
           "chairman": false
         }
       ],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 7
+        }
+      ],
       "role": 3
     },
     {
@@ -931,6 +938,82 @@
         }
       ],
       "role": 3
+    },
+    {
+      "id": 1039,
+      "name": "Mojmír Chalupský",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 3
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1040,
+      "name": "Peter Jamnický",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 4
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1041,
+      "name": "Viera Rubaninská",
+      "prefix": "JUDr.",
+      "commission": [],
+      "departments": [],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 5
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1042,
+      "name": "Štefan Slemenský",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 6
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1043,
+      "name": "Jana Hamaliarová",
+      "prefix": "Ing.",
+      "commission": [],
+      "departments": [],
+      "office": [
+        {
+          "council": 2,
+          "from": "01.12.2018", "to": null,
+          "role": 7
+        }
+      ],
+      "role": 3
     }
+
   ]
 }
