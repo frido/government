@@ -1,9 +1,8 @@
-detva/dt-detva-osoby.json
-detva/dt-detva-rozpocet.json
-detva/dt-detva-uznesenia.json
-detva/dt-detva-zasadnutia.json
-petrzalka/ba-petrzalka-interpelacie.json
-petrzalka/ba-petrzalka-osoby.json
-petrzalka/ba-petrzalka-rozpocet.json
-petrzalka/ba-petrzalka-uznesenia.json
-petrzalka/ba-petrzalka-zasadnutia.json
+resolutions-dt.json
+resolutions-ba.json
+persons-dt.json
+persons-ba.json
+meetings-dt.json
+meetings-ba.json
+budget-dt.json
+budget-ba.json
