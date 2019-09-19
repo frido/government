@@ -3812,6 +3812,227 @@
       "proti": [],
       "pritomni": 16,
       "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1151,
+      "cislo": 0,
+      "typ": "rozpocet",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Schválenie investičného úveru na obnovu Komunitného centra",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1152,
+      "cislo": 0,
+      "typ": "rozpocet",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Aktualizácia rozpočtov rozpočtových organizácií mesta Detva na rok 2019",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1153,
+      "cislo": 0,
+      "typ": "rozpocet",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Aktualizácia rozpočtu mesta Detva na rok 2019",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1154,
+      "cislo": 0,
+      "typ": "projekt",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Schválenie 'Programu odpadového hospodárstva mesta Detva na roky 2016-2020'",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1155,
+      "cislo": 0,
+      "typ": "vzn",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Schválenie VZN o určení názvu ulice",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1156,
+      "cislo": 0,
+      "typ": "vzn",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Schválenie VZN o podmienkach prevádzkovania hazardných hier v meste Detva",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1157,
+      "cislo": 0,
+      "typ": "info",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Informácia o výsledku kontroly a prijatých opatreniach kontroly vykonanej NKÚ SR v Meste Detva",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1158,
+      "cislo": 0,
+      "typ": "prevod",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Odpredaj a odkúpenie pozemkov",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1159,
+      "cislo": 0,
+      "typ": "ine",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Zriadenie vecných bremien",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1160,
+      "cislo": 0,
+      "typ": "ine",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Schválenie prijatia prebýtočného majetku štátu",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1161,
+      "cislo": 0,
+      "typ": "kontrola",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Plán práce hlavného kontrolóra na 2.polrok 2019",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1162,
+      "cislo": 0,
+      "typ": "info",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Informácia o vzdaní sa funkcie člena dozornej rady",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
+    },
+    {
+      "id": 1163,
+      "cislo": 0,
+      "typ": "info",
+      "council": 2,
+      "zasadnutie": 106,
+      "predkladatel": null,
+      "nadpis": "Informácia o vzdaní sa funkcie člena Komisie finančnej, podnikateľskej a správy majetku a voľba člena Komisie finančnej, podnikateľskej a správy majetku",
+      "popis": "",
+      "vysledok": [
+        
+      ],
+      "za": [],
+      "proti": [],
+      "pritomni": 0,
+      "zdroj": ""
     }
   ]
 }
