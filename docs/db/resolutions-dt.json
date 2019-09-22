@@ -3819,7 +3819,7 @@
       "type": "rozpocet",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1039,
+      "creatorIds": [1039],
       "title": "Schválenie investičného úveru na obnovu Komunitného centra",
       "description": "",
       "results": [
@@ -3836,7 +3836,7 @@
       "type": "rozpocet",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1039,
+      "creatorIds": [1039],
       "title": "Aktualizácia rozpočtov rozpočtových organizácií mesta Detva na rok 2019",
       "description": "",
       "results": [
@@ -3853,7 +3853,7 @@
       "type": "rozpocet",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1039,
+      "creatorIds": [1039],
       "title": "Aktualizácia rozpočtu mesta Detva na rok 2019",
       "description": "",
       "results": [
@@ -3870,7 +3870,7 @@
       "type": "projekt",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1040,
+      "creatorIds": [1040],
       "title": "Schválenie 'Programu odpadového hospodárstva mesta Detva na roky 2016-2020'",
       "description": "",
       "results": [
@@ -3887,7 +3887,7 @@
       "type": "vzn",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1041,
+      "creatorIds": [1041],
       "title": "Schválenie VZN o určení názvu ulice",
       "description": "",
       "results": [
@@ -3904,7 +3904,7 @@
       "type": "vzn",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1041,
+      "creatorIds": [1041],
       "title": "Schválenie VZN o podmienkach prevádzkovania hazardných hier v meste Detva",
       "description": "",
       "results": [
@@ -3921,7 +3921,7 @@
       "type": "info",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1042,
+      "creatorIds": [1042],
       "title": "Informácia o výsledku kontroly a prijatých opatreniach kontroly vykonanej NKÚ SR v Meste Detva",
       "description": "",
       "results": [
@@ -3938,7 +3938,7 @@
       "type": "prevod",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1043,
+      "creatorIds": [1043],
       "title": "Odpredaj a odkúpenie pozemkov",
       "description": "",
       "results": [
@@ -3955,7 +3955,7 @@
       "type": "ine",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1043,
+      "creatorIds": [1043],
       "title": "Zriadenie vecných bremien",
       "description": "",
       "results": [
@@ -3972,7 +3972,7 @@
       "type": "ine",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1043,
+      "creatorIds": [1043],
       "title": "Schválenie prijatia prebýtočného majetku štátu",
       "description": "",
       "results": [
@@ -3989,7 +3989,7 @@
       "type": "kontrola",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1019,
+      "creatorIds": [1019],
       "title": "Plán práce hlavného kontrolóra na 2.polrok 2019",
       "description": "",
       "results": [
@@ -4006,7 +4006,7 @@
       "type": "info",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1041,
+      "creatorIds": [1041],
       "title": "Informácia o vzdaní sa funkcie člena dozornej rady",
       "description": "",
       "results": [
@@ -4023,7 +4023,7 @@
       "type": "info",
       "councilId": 2,
       "meetingId": 106,
-      "creatorIds": 1041,
+      "creatorIds": [1041],
       "title": "Informácia o vzdaní sa funkcie člena Komisie finančnej, podnikateľskej a správy majetku a voľba člena Komisie finančnej, podnikateľskej a správy majetku",
       "description": "",
       "results": [
