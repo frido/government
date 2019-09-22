@@ -31,7 +31,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
     },
     {
       "id": 1002,
@@ -65,7 +65,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
     },
     {
       "id": 1003,
@@ -92,7 +92,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
     },
     {
       "id": 1004,
@@ -127,7 +127,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
     },
     {
       "id": 1005,
@@ -162,7 +162,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
     },
     {
       "id": 1006,
@@ -207,7 +207,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1007,
@@ -245,7 +245,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1008,
@@ -277,7 +277,7 @@
       "voteYesIds": [1017, 1007, 1008, 1014, 1012, 1018, 1004, 1011, 1003],
       "voteNoIds": [1005, 1010, 1015],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1009,
@@ -315,7 +315,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1010,
@@ -368,7 +368,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1011,
@@ -401,7 +401,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1012,
@@ -442,7 +442,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1013,
@@ -484,7 +484,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1014,
@@ -524,7 +524,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1015,
@@ -565,7 +565,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1016,
@@ -606,7 +606,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1017,
@@ -647,7 +647,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1018,
@@ -688,7 +688,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1019,
@@ -729,7 +729,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1020,
@@ -770,7 +770,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1021,
@@ -811,7 +811,7 @@
       ],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1022,
@@ -849,7 +849,7 @@
       ],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1023,
@@ -887,7 +887,7 @@
       ],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1024,
@@ -924,7 +924,7 @@
       ],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1025,
@@ -961,7 +961,7 @@
       ],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1026,
@@ -995,7 +995,7 @@
       "voteYesIds": [1017, 1016, 1007, 1008, 1014, 1018, 1004, 1011, 1013, 1003],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
     },
     {
       "id": 1027,
@@ -1023,7 +1023,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1028,
@@ -1045,7 +1045,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1029,
@@ -1067,7 +1067,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1030,
@@ -1089,7 +1089,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1031,
@@ -1116,7 +1116,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1032,
@@ -1138,7 +1138,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1033,
@@ -1169,7 +1169,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1034,
@@ -1195,7 +1195,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1035,
@@ -1217,7 +1217,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1036,
@@ -1239,7 +1239,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1037,
@@ -1263,7 +1263,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1038,
@@ -1293,7 +1293,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1039,
@@ -1315,7 +1315,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1040,
@@ -1337,7 +1337,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1041,
@@ -1359,7 +1359,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1042,
@@ -1381,7 +1381,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1043,
@@ -1403,7 +1403,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1044,
@@ -1425,7 +1425,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1045,
@@ -1447,7 +1447,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1046,
@@ -1469,7 +1469,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1047,
@@ -1491,7 +1491,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1048,
@@ -1513,7 +1513,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 12,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1049,
@@ -1535,7 +1535,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 13,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1050,
@@ -1557,7 +1557,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1051,
@@ -1579,7 +1579,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1052,
@@ -1601,7 +1601,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1053,
@@ -1623,7 +1623,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1054,
@@ -1645,7 +1645,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1055,
@@ -1667,7 +1667,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1056,
@@ -1689,7 +1689,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1057,
@@ -1711,7 +1711,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1058,
@@ -1733,7 +1733,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1059,
@@ -1755,7 +1755,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1060,
@@ -1777,7 +1777,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1061,
@@ -1799,7 +1799,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1062,
@@ -1821,7 +1821,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1063,
@@ -1843,7 +1843,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1064,
@@ -1865,7 +1865,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1065,
@@ -1887,7 +1887,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1066,
@@ -1909,7 +1909,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1067,
@@ -1931,7 +1931,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1068,
@@ -1953,7 +1953,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 13,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1069,
@@ -1975,7 +1975,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 13,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1070,
@@ -1997,7 +1997,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1071,
@@ -2019,7 +2019,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1072,
@@ -2041,7 +2041,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1073,
@@ -2063,7 +2063,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1074,
@@ -2085,7 +2085,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1075,
@@ -2107,7 +2107,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1076,
@@ -2129,7 +2129,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1077,
@@ -2151,7 +2151,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1078,
@@ -2173,7 +2173,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1079,
@@ -2195,7 +2195,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1080,
@@ -2219,7 +2219,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1081,
@@ -2241,7 +2241,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1082,
@@ -2263,7 +2263,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1083,
@@ -2285,7 +2285,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1084,
@@ -2307,7 +2307,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1085,
@@ -2357,7 +2357,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1086,
@@ -2389,7 +2389,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1087,
@@ -2411,7 +2411,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1088,
@@ -2438,7 +2438,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
     },
     {
       "id": 1089,
@@ -2461,7 +2461,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
     },
     {
       "id": 1090,
@@ -2506,7 +2506,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
     },
     {
       "id": 1091,
@@ -2533,7 +2533,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 17,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
     },
     {
       "id": 1092,
@@ -2555,7 +2555,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1093,
@@ -2592,7 +2592,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1094,
@@ -2614,7 +2614,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1095,
@@ -2636,7 +2636,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1096,
@@ -2658,7 +2658,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1097,
@@ -2687,7 +2687,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1098,
@@ -2709,7 +2709,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1099,
@@ -2731,7 +2731,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1100,
@@ -2753,7 +2753,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1101,
@@ -2774,7 +2774,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1102,
@@ -2795,7 +2795,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1103,
@@ -2816,7 +2816,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1104,
@@ -2837,7 +2837,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1105,
@@ -2858,7 +2858,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1106,
@@ -2879,7 +2879,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1107,
@@ -2900,7 +2900,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1108,
@@ -2921,7 +2921,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1109,
@@ -2942,7 +2942,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1110,
@@ -2963,7 +2963,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1111,
@@ -2984,7 +2984,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1112,
@@ -3005,7 +3005,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1113,
@@ -3026,7 +3026,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1114,
@@ -3047,7 +3047,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1115,
@@ -3068,7 +3068,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1116,
@@ -3089,7 +3089,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1117,
@@ -3110,7 +3110,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1118,
@@ -3131,7 +3131,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1119,
@@ -3152,7 +3152,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1120,
@@ -3173,7 +3173,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1121,
@@ -3194,7 +3194,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1122,
@@ -3215,7 +3215,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1123,
@@ -3236,7 +3236,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1124,
@@ -3257,7 +3257,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1125,
@@ -3278,7 +3278,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1126,
@@ -3299,7 +3299,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1127,
@@ -3320,7 +3320,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1128,
@@ -3341,7 +3341,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1129,
@@ -3362,7 +3362,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1130,
@@ -3383,7 +3383,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1131,
@@ -3404,7 +3404,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1132,
@@ -3425,7 +3425,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1133,
@@ -3446,7 +3446,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1134,
@@ -3467,7 +3467,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1135,
@@ -3488,7 +3488,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1136,
@@ -3509,7 +3509,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1137,
@@ -3530,7 +3530,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1138,
@@ -3551,7 +3551,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1139,
@@ -3572,7 +3572,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1140,
@@ -3593,7 +3593,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1141,
@@ -3614,7 +3614,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1142,
@@ -3635,7 +3635,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1143,
@@ -3656,7 +3656,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1144,
@@ -3677,7 +3677,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1145,
@@ -3698,7 +3698,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1146,
@@ -3719,7 +3719,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1147,
@@ -3740,7 +3740,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1148,
@@ -3761,7 +3761,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1149,
@@ -3790,7 +3790,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 14,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1150,
@@ -3811,7 +3811,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 16,
-      "zdroj": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
     },
     {
       "id": 1151,
@@ -3828,7 +3828,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1152,
@@ -3845,7 +3845,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1153,
@@ -3862,7 +3862,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1154,
@@ -3879,7 +3879,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1155,
@@ -3896,7 +3896,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1156,
@@ -3913,7 +3913,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1157,
@@ -3930,7 +3930,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1158,
@@ -3947,7 +3947,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1159,
@@ -3964,7 +3964,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1160,
@@ -3981,7 +3981,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1161,
@@ -3998,7 +3998,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1162,
@@ -4015,7 +4015,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     },
     {
       "id": 1163,
@@ -4032,7 +4032,7 @@
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
-      "zdroj": ""
+      "source": ""
     }
   ]
 }
