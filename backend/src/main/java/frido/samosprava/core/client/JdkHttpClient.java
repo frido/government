@@ -11,7 +11,9 @@ public class JdkHttpClient implements WebClient {
 
   @Override
   public String call(String link) throws IOException, InterruptedException {
-    HttpClient client = HttpClient.newBuilder().build();
+    System.out.println("..................:" + link);
+
+    HttpClient client = HttpClient.newBuilder().build(); //TODO: HttpClient is immutable, can be use for more requests
 
     HttpRequest request = HttpRequest.newBuilder().uri(URI.create(link)).GET().build();
 
