@@ -15,10 +15,7 @@
         "primator": 5316,
         "primatorMin": 3797,
         "primatorMax": 6076,
-        "miestny poslanec": {
-
-        },
-        "mestsky poslanec": {
+        "poslanec": {
           "poslanec": "0.8 * (1/12) * primatorMin",
           "rada/predseda": "0.1 * (1/12) * primatorMin",
           "clen": "0.1 * (1/12) * primatorMin"
@@ -95,223 +92,223 @@
         {
           "id": 2,
           "name": "ZŠ Budatínska",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 3,
           "name": "ZŠ Černyševského",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 4,
           "name": "ZŠ Dudova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 5,
           "name": "ZŠ Gessayova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 6,
           "name": "ZŠ Holíčska",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 7,
           "name": "ZŠ Lachova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 8,
           "name": "ZŠ Nobelovo nám.",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 9,
           "name": "ZŠ Pankúchova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 10,
           "name": "ZŠ Prokofievova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 11,
           "name": "ZŠ Tupolevova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 12,
           "name": "ZŠ Turnianska",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 13,
           "name": "MŠ Bohrova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 14,
           "name": "MŠ Bradáčova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 15,
           "name": "MŠ Bulíkova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 16,
           "name": "MŠ Bzovícka",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 17,
           "name": "MŠ Gessayova 2",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 18,
           "name": "MŠ Gessayova 31",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 19,
           "name": "MŠ Haanova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 20,
           "name": "MŠ Holíčska 30",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 21,
           "name": "MŠ Holíčska 50",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 22,
           "name": "MŠ Iľjušinova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 23,
           "name": "MŠ Jankolova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 24,
           "name": "MŠ Lachova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 25,
           "name": "MŠ Lietavská",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 26,
           "name": "MŠ Macharova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 27,
           "name": "MŠ Nobelovo nám.",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 28,
           "name": "MŠ Pifflova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 29,
           "name": "MŠ Rontgenova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 30,
           "name": "MŠ Rovniankova ",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 31,
           "name": "MŠ Strečnianska",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 32,
           "name": "MŠ Ševčenkova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 33,
           "name": "MŠ Šustekova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 34,
           "name": "MŠ Tupolevova",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 35,
           "name": "MŠ Turnianska",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 36,
           "name": "MŠ Vyšehradská",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
           ]
         }, {
           "id": 37,
           "name": "Bytový podnik Petržalka, s.r.o.",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-stamp"}
           ]
         }, {
           "id": 38,
           "name": "Športové zariadenia Petržalky, s.r.o.",
-          "role": [
+          "roles": [
             { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-stamp"}
           ]
         }
@@ -391,7 +388,7 @@
          {
           "id": 2,
           "name": "Kultúrne centrum A. Sládkoviča v Detve",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "Riaditeľ",
@@ -401,7 +398,7 @@
         }, {
             "id": 3,
             "name": "Technické služby Detva s.r.o.",
-            "role": [
+            "roles": [
               {
                 "id": 1,
                 "name": "člen dozornej rady",
@@ -411,7 +408,7 @@
           }, {
             "id": 4,
             "name": "BYTES, s.r.o.",
-            "role": [
+            "roles": [
               {
                 "id": 1,
                 "name": "člen dozornej rady",
@@ -470,7 +467,7 @@
         {
           "id": 1,
           "name": "Bratislava",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "Primator",
@@ -480,7 +477,7 @@
         }, {
           "id": 2,
           "name": "Bratislavská vodárenská spoločnosť, a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen predstavenstva",
@@ -494,7 +491,7 @@
         }, {
           "id": 3,
           "name": "Dopravný  podnik  Bratislava,  akciová  spoločnosť",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen predstavenstva",
@@ -512,7 +509,7 @@
         }, {
           "id": 4,
           "name": "Odvoz  a likvidácia  odpadu  a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen predstavenstva",
@@ -530,7 +527,7 @@
         }, {
           "id": 5,
           "name": "Incheba,  a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -540,7 +537,7 @@
         }, {
           "id": 6,
           "name": "KSP,  s.r.o.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -550,7 +547,7 @@
         }, {
           "id": 7,
           "name": "Národné tenisové centrum, a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -560,7 +557,7 @@
         }, {
           "id": 8,
           "name": "METRO Bratislava a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "Predseda predstavenstva",
@@ -570,25 +567,25 @@
         }, {
           "id": 9,
           "name": "Bratislavská integrovaná doprava, a.s.",
-          "role": [
+          "roles": [
 
           ]
         }, {
           "id": 10,
           "name": "Bratislavská organizácia cestovného ruchu – Bratislava Tourist Board",
-          "role": [
+          "roles": [
 
           ]
         }, {
           "id": 11,
           "name": "Združenie správy námestia",
-          "role": [
+          "roles": [
 
           ]
         }, {
           "id": 12,
           "name": "Infra Services, a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -598,7 +595,7 @@
         }, {
           "id": 13,
           "name": "BIONERGY, a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -608,7 +605,7 @@
         }, {
           "id": 14,
           "name": "RECAR Bratislava a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
@@ -671,7 +668,7 @@
         {
           "id": 1,
           "name": "Bratislavský samosprávny kraj",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "Župan",
@@ -685,7 +682,7 @@
         }, {
           "id": 2,
           "name": "Regionálne cesty Bratislava, a.s.",
-          "role": [
+          "roles": [
             {
               "id": 1,
               "name": "člen dozornej rady",
