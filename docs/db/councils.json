@@ -17,7 +17,7 @@
         "primatorMax": 6076,
         "poslanec": {
           "poslanec": "0.8 * (1/12) * primatorMin",
-          "rada/predseda": "0.1 * (1/12) * primatorMin",
+          "rada": "0.1 * (1/12) * primatorMin",
           "clen": "0.1 * (1/12) * primatorMin"
         }
       },
