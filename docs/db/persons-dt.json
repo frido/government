@@ -17,7 +17,7 @@
       "commissions": [],
       "departments": [],
       "offices": [
-        { "councilId": 2, "role": 1, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "roleId": 1, "from": "01.12.2018", "to": null, "electionId": 1 }
       ],
       "club": null,
       "fb": null,
@@ -159,6 +159,7 @@
       "prefix": "",
       "elections": [
         {
+          "id": 1,
           "councilId": 2,
           "period": "2018/2022", "from": "01.12.2018", "to": null,
           "party": "NEKA",
@@ -397,7 +398,7 @@
           "councilId": 2,
           "period": "2019/2022",
           "fk": 3,
-          "role": 1
+          "roleId": 1
         }
       ],
       "club": null,
@@ -587,7 +588,7 @@
           "councilId": 2,
           "period": "2019/2022",
           "fk": 3,
-          "role": 1
+          "roleId": 1
         }
       ],
       "club": null,
@@ -641,7 +642,7 @@
           "councilId": 2,
           "period": "2019/2022",
           "fk": 3,
-          "role": 1
+          "roleId": 1
         }
       ],
       "club": null,
@@ -664,7 +665,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 7
+          "roleId": 7
         }
       ],
       "role": 3
@@ -889,7 +890,7 @@
           "councilId": 2,
           "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 2,
-          "role": 1
+          "roleId": 1
         }
       ],
       "role": 3
@@ -904,7 +905,7 @@
           "councilId": 2,
           "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
-          "role": 1
+          "roleId": 1
         }
       ],
       "role": 3
@@ -919,7 +920,7 @@
           "councilId": 2,
           "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
-          "role": 1
+          "roleId": 1
         }
       ],
       "role": 3
@@ -934,7 +935,7 @@
           "councilId": 2,
           "period": "2018/2022", "from": "01.12.2018", "to": null,
           "fk": 4,
-          "role": 1
+          "roleId": 1
         }
       ],
       "role": 3
@@ -949,7 +950,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 3
+          "roleId": 3
         }
       ],
       "role": 3
@@ -964,7 +965,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 4
+          "roleId": 4
         }
       ],
       "role": 3
@@ -979,7 +980,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 5
+          "roleId": 5
         }
       ],
       "role": 3
@@ -994,7 +995,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 6
+          "roleId": 6
         }
       ],
       "role": 3
@@ -1009,7 +1010,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "role": 7
+          "roleId": 7
         }
       ],
       "role": 3
