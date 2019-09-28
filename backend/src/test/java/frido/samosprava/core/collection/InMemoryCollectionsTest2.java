@@ -23,18 +23,24 @@ class InMemoryCollectionsTest2 {
   }
 
   @Test
-  void resolutions() {
+  void getIndexItems() {
     assertEquals(8, collections.getIndexItems().size());
+  }
+
+  @Test
+  void resolutions() {
     assertTrue(collections.resolutions().getAll().size() > 0);
   }
   @Test
   void persons() {
-    assertEquals(8, collections.getIndexItems().size());
     assertTrue(collections.persons().getAll().size() > 0);
   }
   @Test
   void meetings() {
-    assertEquals(8, collections.getIndexItems().size());
     assertTrue(collections.meetings().getAll().size() > 0);
+  }
+  @Test
+  void councils() {
+    assertTrue(collections.councils().getAll().size() > 0);
   }
 }

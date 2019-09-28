@@ -1,11 +1,11 @@
 package frido.samosprava.core.entity;
 
 public class OfficeRef extends Record {
-  private String period;
-  private String from;
-  private String to;
-  private Integer role;
-  private Integer electionId;
+  protected String period;
+  protected String from;
+  protected String to;
+  protected Integer roleId;
+  protected Integer electionId;
 
   public String getPeriod() {
     return period;
@@ -25,11 +25,11 @@ public class OfficeRef extends Record {
   public void setTo(String to) {
     this.to = to;
   }
-  public Integer getRole() {
-    return role;
+  public Integer getRoleId() {
+    return roleId;
   }
-  public void setRole(Integer role) {
-    this.role = role;
+  public void setRole(Integer roleId) {
+    this.roleId = roleId;
   }
   public Integer getElectionId() {
     return electionId;

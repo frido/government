@@ -1,8 +1,8 @@
 package frido.samosprava.core.entity;
 
 public class Record {
-  private Integer id;
-  private Integer councilId;
+  protected Integer id;
+  protected Integer councilId;
 
   public Integer getId() {
     return id;

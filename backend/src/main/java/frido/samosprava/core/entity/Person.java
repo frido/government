@@ -3,18 +3,18 @@ package frido.samosprava.core.entity;
 import java.util.List;
 
 public class Person  extends Record{
-  private String name;
-  private String firstname;
-  private String surname;
-  private String prefix;
-  private List<Election> elections;
-  private List<CommissionRef> commissions;
-  private List<DepartmentRef> departments;
-  private List<OfficeRef> offices;
-  private List<DeputyRef> deputies;
-  private String club;
-  private String fb;
-  private String role;
+  protected String name;
+  protected String firstname;
+  protected String surname;
+  protected String prefix;
+  protected List<Election> elections;
+  protected List<OfficeRef> offices;
+  protected List<DepartmentRef> departments;
+  protected List<DeputyRef> deputies;
+  protected List<CommissionRef> commissions;
+  protected String club;
+  protected String fb;
+  protected String role;
 
   public String getName() {
     return name;

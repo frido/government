@@ -13,7 +13,7 @@ import frido.samosprava.core.entity.Record;
 public class InMemoryBaseCollection <T extends Record> {
 
 
-  private final Map<Integer, T> data = new TreeMap<>();
+  protected final Map<Integer, T> data = new TreeMap<>();
 
   public InMemoryBaseCollection(List<T> list) {
     addAll(list);
@@ -23,11 +23,11 @@ public class InMemoryBaseCollection <T extends Record> {
     item.forEach(x -> data.put(x.getId(), x));
   }
 
-  public List<T> council(Integer councilId) {
+  public List<T> findByCouncilId(Integer councilId) {
     return data.values().stream().filter(x -> x.getCouncilId().equals(councilId)).collect(Collectors.toList());
   }
 
-  public Optional<T> id(Integer id) {
+  public Optional<T> findById(Integer id) {
     return Optional.ofNullable(data.get(id));
   }
 
