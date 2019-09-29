@@ -1,3 +1,4 @@
-<i *ngFor="let election of poslanec.elections" class="fas fa-user-tie fa-2x icon-result"></i>
-<i *ngFor="let department of poslanec.departments" class="{{department.icon}} fa-2x icon-result"></i>
-<i *ngFor="let commission of poslanec.commissions" class="fas fa-chess-pawn fa-2x icon-result"></i>
+<i *ngFor="let office of poslanec.officesView" class="{{office.office.icon}} fa-2x icon-result"></i>
+<i *ngFor="let deputy of poslanec.deputiesView" class="fas fa-chess-pawn fa-2x icon-result"></i>
+<i *ngFor="let commission of poslanec.commissionsView" class="fas fa-chess-pawn fa-2x icon-result"></i>
+<i *ngFor="let department of poslanec.departmentsView" class="{{department.role.icon}} fa-2x icon-result"></i>

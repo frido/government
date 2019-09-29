@@ -1,9 +1,5 @@
 <div class="card" [class.opened]="opened">
   <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
-    <i *ngIf="poslanec.role == 1" class="far fa-user fa-2x icon-type"></i>
-    <i *ngIf="poslanec.role == 2" class="far fa-user fa-2x icon-type"></i>
-    <i *ngIf="poslanec.role == 3" class="far fa-user fa-2x icon-type"></i>
-    <i *ngIf="poslanec.role == 4" class="far fa-user fa-2x icon-type"></i>
     <span class="card-title">{{poslanec.prefix}} {{poslanec.name}} {{poslanec.suffix}}</span>
     <app-poslanec-result class="icon-result" *ngIf="!opened" [poslanec]="poslanec"></app-poslanec-result>
   </div>

@@ -34,9 +34,7 @@ export class ApiService {
   // }
 
   getClenovia(spolokId: string): Observable<OsobaView[]> {
-    return this.get(this.base + 'persons/' + spolokId).pipe(
-      map((poslanci: Osoba[]) => poslanci.map(p => this.mapOsoba(p)))
-    )
+    return this.get(this.base + 'persons/' + spolokId)
     // return this.get(this.base + 'clenovia/' + spolokKey).pipe(
     //   map((poslanci: Osoba[]) => poslanci.map(p => this.mapOsoba(p)))
     // );
@@ -72,9 +70,11 @@ export class ApiService {
   // }
 
   getPoslanec(osobaId: number): Observable<OsobaView> {
-    return this.get(this.base + 'person/' + osobaId).pipe(
-      map((poslanec: Osoba) => this.mapOsoba(poslanec))
-    )
+    return this.get(this.base + 'person/' + osobaId)
+
+    // return this.get(this.base + 'person/' + osobaId).pipe(
+    //   map((poslanec: Osoba) => this.mapOsoba(poslanec))
+    // )
   }
 
   mapOsoba(poslanec: Osoba): OsobaView {
