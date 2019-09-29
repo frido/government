@@ -13,6 +13,6 @@ export class IconResultComponent implements OnInit {
   constructor(private service: ApiService, private icons: IconResultService) {}
 
   ngOnInit(): void {
-    this.classes = this.vysledok.map(v => this.icons.getIconClass(v.sumar));
+    this.classes = this.vysledok.map(v => this.icons.getIconClass(v.title));
   }
 }

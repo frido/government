@@ -34,7 +34,7 @@ export class UzneseniaListPage implements OnInit {
 
   selectMeeting(meeting: Meeting) {
     console.log("selectMeeting");
-    this.service.getUzneseniaMeeting(this.route.snapshot.data.spolok.id, meeting.id).subscribe(
+    this.service.getUzneseniaMeeting(meeting.id).subscribe(
       x => {
         this.uzneseniaAll = this.uzneseniaAll.concat(x);
         this.applyFilter();
@@ -56,8 +56,10 @@ export class UzneseniaListPage implements OnInit {
 
   applyFilter() {
     console.log("applyFilter");
-    this.uzneseniaVisible = this.uzneseniaAll.filter(u => this.filter.check(u.typ));
-    this.uzneseniaVisible = this.uzneseniaVisible.filter(u => this.search.check(u.nadpis));
+    console.log(this.uzneseniaAll);
+    this.uzneseniaVisible = this.uzneseniaAll.filter(u => this.filter.check(u.type));
+    this.uzneseniaVisible = this.uzneseniaVisible.filter(u => this.search.check(u.title));
+    console.log(this.uzneseniaVisible);
   }
 
   onFilter(filter: FilterHolder) {

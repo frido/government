@@ -4,21 +4,21 @@ interface ResponseUznesenie {
 
 interface Uznesenie {
   id: number;
-  cislo: number;
-  typ: string;
-  spolok: number;
-  zasadnutie: number;
-  predkladatel?: number[];
-  nadpis: string;
-  popis: string;
-  vysledok: Vysledok[];
-  za: number[];
-  proti: number[];
-  pritomni: number;
-  zdroj: string;
+  number: number;
+  type: string;
+  councilId: number;
+  meetingId: number;
+  creatorIds?: number[];
+  title: string;
+  description: string;
+  results: Vysledok[];
+  voteYesIds: number[];
+  voteNoIds: number[];
+  presented: number;
+  source: string;
 }
 
 interface Vysledok {
-  sumar: string;
-  popis: string[];
+  title: string;
+  descriptions: string[];
 }

@@ -40,16 +40,16 @@ export class ApiService {
     // );
   }
 
-  getUznesenia(spolokId: string): Observable<Uznesenie[]> {
-    return this.get(this.base + 'resolutions/' + spolokId).pipe(
-      map((list: Uznesenie[]) => list.sort((a, b) => b.cislo - a.cislo))
-    )
+  getUzneseniaCouncil(spolokId: string): Observable<Uznesenie[]> {
+    return this.get(this.base + 'resolutions?councilId=' + spolokId)
   }
 
-  getUzneseniaMeeting(spolokId: string, meetingId: number): Observable<Uznesenie[]> {
-    return this.get(this.base + 'resolutions/' + spolokId + "/" + meetingId).pipe(
-      map((list: Uznesenie[]) => list.sort((a, b) => b.cislo - a.cislo))
-    )
+  getUzneseniaMeeting(meetingId: number): Observable<Uznesenie[]> {
+    return this.get(this.base + 'resolutions?meetingId=' + meetingId)
+  }
+
+  getUzneseniaCreator(personId: string): Observable<Uznesenie[]> {
+    return this.get(this.base + 'resolutions?creatorId=' + personId)
   }
 
   // TODO: order by date
@@ -109,7 +109,7 @@ export class ApiService {
         c.name = council.commission.find(cc => cc.id === selectedCommission.fk).name;
         c.chairman = selectedCommission.chairman;
         c.period = selectedCommission.period;
-        c.commissionId = selectedCommission.fk;
+        c.fk = selectedCommission.fk;
         c.councilId = selectedCommission.council;
         if (poslanec.election) {
           const election = personView.elections.find(e => e.councilName == c.councilName && e.period == c.period);
@@ -134,7 +134,7 @@ export class ApiService {
         departmentView.role = councilDepartmentRole.name;
         departmentView.icon = councilDepartmentRole.icon;
         departmentView.roleId = councilDepartmentRole.id;
-        departmentView.departmentId = councilDepartment.id;
+        departmentView.fk = councilDepartment.id;
         departmentView.councilId =  council.id;
         return departmentView;
       });

@@ -1,5 +1,5 @@
 <div *ngIf="popis" class="card-detail-text">
-  <ng-container *ngIf="uznesenie.typ === 'najom'">
+  <ng-container *ngIf="uznesenie.type === 'najom'">
     <!--
         <div><strong>Predmet: </strong>{{uznesenie.predmet}}</div>
         <div><strong>Adresa: </strong>{{uznesenie.adresa}} {{uznesenie.adresaCislo}}</div>
@@ -10,49 +10,49 @@
         -->
   </ng-container>
 
-  <ng-container *ngIf="uznesenie.typ === 'ine' || uznesenie.typ === 'peticia'">
-    <div>{{uznesenie.popis}}</div>
+  <ng-container *ngIf="uznesenie.type === 'ine' || uznesenie.type === 'peticia'">
+    <div>{{uznesenie.title}}</div>
   </ng-container>
 
 </div>
 
-<div *ngIf="predkladatel && uznesenie.predkladatel && uznesenie.predkladatel.length" class="card-detail-item">
+<div *ngIf="predkladatel && uznesenie.creatorIds && uznesenie.creatorIds.length" class="card-detail-item">
   <i class="fas fa-user-tie fa-2x"></i>
   <div><strong>predkladatel</strong></div>
   <div>
-    <app-poslanec-clickable *ngFor="let p of uznesenie.predkladatel" [poslanecId]="p"></app-poslanec-clickable>
+    <app-poslanec-clickable *ngFor="let p of uznesenie.creatorIds" [poslanecId]="p"></app-poslanec-clickable>
   </div>
 </div>
 
-<div *ngIf="vote && (uznesenie.za.length || uznesenie.proti.length)" class="card-detail-item">
+<div *ngIf="vote && (uznesenie.voteYesIds.length || uznesenie.voteNoIds.length)" class="card-detail-item">
   <i class="fas fa-thumbs-up fa-2x"></i>
   <div>
-    <div *ngIf="uznesenie.za.length" class="card-detail-item-za">
+    <div *ngIf="uznesenie.voteYesIds.length" class="card-detail-item-za">
       <div><strong>za</strong></div>
       <div>
-        <app-poslanec-clickable *ngFor="let p of uznesenie.za" [poslanecId]="p"></app-poslanec-clickable>
+        <app-poslanec-clickable *ngFor="let p of uznesenie.voteYesIds" [poslanecId]="p"></app-poslanec-clickable>
       </div>
     </div>
-    <div *ngIf="uznesenie.proti.length" class="card-detail-item-proti">
+    <div *ngIf="uznesenie.voteNoIds.length" class="card-detail-item-proti">
       <div><strong>proti</strong></div>
       <div>
-        <app-poslanec-clickable *ngFor="let p of uznesenie.proti" [poslanecId]="p"></app-poslanec-clickable>
+        <app-poslanec-clickable *ngFor="let p of uznesenie.voteNoIds" [poslanecId]="p"></app-poslanec-clickable>
       </div>
     </div>
   </div>
 </div>
 
 <div *ngIf="sumar">
-  <div class="card-detail-item" *ngFor="let v of uznesenie.vysledok">
-    <i class="fas {{getClass(v.sumar)}} fa-2x"></i>
-    <div><strong>{{v.sumar}}</strong></div>
+  <div class="card-detail-item" *ngFor="let v of uznesenie.results">
+    <i class="fas {{getClass(v.title)}} fa-2x"></i>
+    <div><strong>{{v.title}}</strong></div>
     <div>
-      <div *ngFor="let p of v.popis">{{p}}</div>
+      <div *ngFor="let p of v.descriptions">{{p}}</div>
     </div>
   </div>
 </div>
 
 <div *ngIf="footer" class="card-detail-footer">
-  <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="'uznesenie č. ' + uznesenie.cislo"></app-linkable>
-  <app-external-link [href]="uznesenie.zdroj"></app-external-link>
+  <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="'uznesenie č. ' + uznesenie.number"></app-linkable>
+  <app-external-link [href]="uznesenie.source"></app-external-link>
 </div>
