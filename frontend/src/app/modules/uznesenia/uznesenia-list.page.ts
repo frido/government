@@ -10,9 +10,9 @@ import { SearchHolder } from '../shared/components/search/search.component';
   templateUrl: './uznesenia-list.page.html'
 })
 export class UzneseniaListPage implements OnInit {
-  uzneseniaAll: Uznesenie[] = [];
-  uzneseniaVisible: Uznesenie[] = [];
-  meetings: Meeting[];
+  // uzneseniaAll: Uznesenie[] = [];
+  // uzneseniaVisible: Uznesenie[] = [];
+  meetings: MeetingResolutionList[] = [];
   // $uznesenia: Observable<Uznesenie[]>;
   filter: FilterHolder = null;
   search: SearchHolder = null;
@@ -27,39 +27,47 @@ export class UzneseniaListPage implements OnInit {
       this.filter.add({ flag: true, icon: icon.class, key: icon.key, title: icon.title });
     });
     this.service.getMeetings(this.route.snapshot.data.spolok.id).subscribe(m => {
-      this.meetings = m.reverse();
-      this.selectMeeting(m[0])
+      console.log(m);
+      m.reverse().forEach(x => {
+        this.meetings.push({ meeting: x, resolutions: [], fResolutions: [], loaded: false});
+      })
+
+      this.selectMeeting(this.meetings[0])
     })
   }
 
-  selectMeeting(meeting: Meeting) {
+  selectMeeting(meeting: MeetingResolutionList) {
     console.log("selectMeeting");
-    this.service.getUzneseniaMeeting(meeting.id).subscribe(
+    console.log(meeting);
+    this.service.getUzneseniaMeeting(meeting.meeting.id).subscribe(
       x => {
-        this.uzneseniaAll = this.uzneseniaAll.concat(x);
+        console.log("x");
+        console.log(x);
+        meeting.resolutions = x;
+        meeting.loaded = true;
         this.applyFilter();
-        this.deleteMeeting(meeting);
       }
     );
   }
 
-  private deleteMeeting(item: Meeting) {
-    console.log("deleteMeeting");
-    console.log(item);
-    console.log(this.meetings);
-    const index: number = this.meetings.indexOf(item);
-    if (index !== -1) {
-      this.meetings.splice(index, 1);
-    }
-    console.log(this.meetings);
-}
+//   private deleteMeeting(item: Meeting) {
+//     console.log("deleteMeeting");
+//     console.log(item);
+//     const index: number = this.meetings.indexOf(item);
+//     if (index !== -1) {
+//       this.meetings.splice(index, 1);
+//     }
+//     console.log(this.meetings);
+// }
 
   applyFilter() {
     console.log("applyFilter");
-    console.log(this.uzneseniaAll);
-    this.uzneseniaVisible = this.uzneseniaAll.filter(u => this.filter.check(u.type));
-    this.uzneseniaVisible = this.uzneseniaVisible.filter(u => this.search.check(u.title));
-    console.log(this.uzneseniaVisible);
+    // console.log(this.uzneseniaAll);
+    this.meetings.forEach(m => {
+      m.fResolutions = m.resolutions.filter(u => this.filter.check(u.type));
+      m.fResolutions = m.fResolutions.filter(u => this.search.check(u.title));
+    })
+    console.log(this.meetings);
   }
 
   onFilter(filter: FilterHolder) {

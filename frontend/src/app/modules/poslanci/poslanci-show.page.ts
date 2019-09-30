@@ -13,9 +13,6 @@ export class PoslanciShowPage {
   $poslanec: Observable<OsobaView>;
   $uznesenia: Observable<Uznesenie[]>;
   uznesenia: Uznesenie[] = [];
-  uznesenia_pred: Uznesenie[] = [];
-  uznesenia_za: Uznesenie[] = [];
-  uznesenia_proti: Uznesenie[] = [];
   poslanecId: number;
   filter: FilterHolder;
 
@@ -26,22 +23,11 @@ export class PoslanciShowPage {
     this.$poslanec = this.route.params.pipe(
       tap(params => this.poslanecId = +params['id']),
       switchMap(params => this.service.getPoslanec(+params['id'])
-      ));
+    ));
 
+    this.$uznesenia = this.route.params.pipe(
+      tap(params => this.poslanecId = +params['id']),
+      switchMap(params => this.service.getUzneseniaCreator(+params['id'])
+    ));
   }
-
-  onFilter(filter: FilterHolder) {
-    const selection = filter.selection();
-    if ('pred' == selection) {
-      this.uznesenia = this.uznesenia_pred
-    }
-    if ('za' == selection) {
-      this.uznesenia = this.uznesenia_za
-    }
-    if ('proti' == selection) {
-      this.uznesenia = this.uznesenia_proti
-    }
-    console.log('onFilter');
-  }
-  // TODO: unsubscribe
 }

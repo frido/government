@@ -34,6 +34,9 @@ class ResolutionController {
     if(meetingId != null) {
       return new ResolutionListView(collections, collections.resolutions().findByMeetingId(meetingId));
     }
+    if(creatorId != null) {
+      return new ResolutionListView(collections, collections.resolutions().findByCreatorId(creatorId));
+    }
 
 
     return new ResolutionListView(collections, new ArrayList<Resolution>());

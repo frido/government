@@ -9,8 +9,9 @@
       <strong>Filter hlasovania poslanca</strong>
       <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
     </div> -->
-    <ng-container *ngFor="let u of uznesenia">
-      <app-uznesenie [uznesenie]="u"></app-uznesenie>
+    <h3>Predlozil</h3>
+    <ng-container *ngFor="let uznesenie of $uznesenia | async">
+      <app-uznesenie [uznesenie]="uznesenie"></app-uznesenie>
     </ng-container>
     <a class="linkable" appBacklink>back</a>
   </div>

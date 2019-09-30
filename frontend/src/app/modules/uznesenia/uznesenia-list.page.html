@@ -7,12 +7,14 @@
     <app-search [search]="search" (onSearch)="onSearch($event)"></app-search>
   </div>
 
-  <ng-container *ngFor="let u of uzneseniaVisible">
-    <app-uznesenie [uznesenie]="u"></app-uznesenie>
-  </ng-container>
+
   <ng-container *ngFor="let m of meetings">
     <div>
-      <a (click)="selectMeeting(m)" class="linkable">Načítať uznesenia zo zasadnutia dňa {{m.datum}}</a>
+      <a *ngIf="m.loaded == false" (click)="selectMeeting(m)" class="linkable">Načítať uznesenia zo zasadnutia dňa {{m.meeting.date}}</a>
+      <h2 *ngIf="m.loaded == true">Uznesenie {{m.meeting.date}}</h2>
+      <ng-container *ngFor="let u of m.fResolutions">
+          <app-uznesenie [uznesenie]="u"></app-uznesenie>
+        </ng-container>
     </div>
   </ng-container>
 </div>

@@ -40,7 +40,7 @@ export class ApiService {
     // );
   }
 
-  getUzneseniaCouncil(spolokId: string): Observable<Uznesenie[]> {
+  getUzneseniaCouncil(spolokId: number): Observable<Uznesenie[]> {
     return this.get(this.base + 'resolutions?councilId=' + spolokId)
   }
 
@@ -48,7 +48,7 @@ export class ApiService {
     return this.get(this.base + 'resolutions?meetingId=' + meetingId)
   }
 
-  getUzneseniaCreator(personId: string): Observable<Uznesenie[]> {
+  getUzneseniaCreator(personId: number): Observable<Uznesenie[]> {
     return this.get(this.base + 'resolutions?creatorId=' + personId)
   }
 

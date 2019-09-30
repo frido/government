@@ -3,34 +3,34 @@
   [
     {
       "id": 1,
-      "council": 1,
-      "datum": "23.10.2018",
-      "cas": "9:00",
-      "miesto": "obradnej sieni CC Centra, Jiráskova 5, Bratislava"
+      "councilId": 1,
+      "date": "23.10.2018",
+      "time": "9:00",
+      "place": "obradnej sieni CC Centra, Jiráskova 5, Bratislava"
     }, {
       "id": 2,
-      "council": 1,
-      "datum": "25.09.2018",
-      "cas": "9:00",
-      "miesto": "v kongresovej sále Technopolservices na Kutlíkovej ulici č. 17."
+      "councilId": 1,
+      "date": "25.09.2018",
+      "time": "9:00",
+      "place": "v kongresovej sále Technopolservices na Kutlíkovej ulici č. 17."
     }, {
       "id": 3,
-      "council": 1,
-      "datum": "06.12.2018",
-      "cas": "10:00",
-      "miesto": "v obradnej sieni CC Centra, Jiráskova 5, Bratislava"
+      "councilId": 1,
+      "date": "06.12.2018",
+      "time": "10:00",
+      "place": "v obradnej sieni CC Centra, Jiráskova 5, Bratislava"
     }, {
       "id": 4,
-      "council": 1,
-      "datum": "05.02.2019",
-      "cas": "09:00",
-      "miesto": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+      "councilId": 1,
+      "date": "05.02.2019",
+      "time": "09:00",
+      "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }, {
       "id": 5,
-      "council": 1,
-      "datum": "26.03.2019",
-      "cas": "09:00",
-      "miesto": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+      "councilId": 1,
+      "date": "26.03.2019",
+      "time": "09:00",
+      "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }
   ]
 }

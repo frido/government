@@ -27,7 +27,7 @@ export const spolky: Spolok[] = [
       'menu': [
         'uznesenia',
         'poslanci',
-        'rozpocet',
+        // 'rozpocet',
         // 'starosta'
         // 'vystavba'
       ],
@@ -366,7 +366,7 @@ export const spolky: Spolok[] = [
       'menu': [
         'uznesenia',
         'poslanci',
-        'rozpocet'
+        // 'rozpocet'
       ],
       'commission': [
         {
