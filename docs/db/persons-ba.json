@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Natália Podhorná",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -11,7 +11,7 @@
         "votes": 2116
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": true }
     ],
@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Branislav Kleinert",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -34,7 +34,7 @@
         "votes": 1866
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 3, "chairman": true }
     ],
     "departments": [
@@ -48,7 +48,7 @@
     "id": 3,
     "name": "Branislav Sepši",
     "prefix": "Ing. arch.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -56,7 +56,7 @@
         "votes": 1861
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false }
     ],
     "departments": [
@@ -70,7 +70,7 @@
     "id": 4,
     "name": "Tatiana Kratochvílová",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -83,7 +83,7 @@
         "party": "Progresívne Slovensko, SPOLU"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 3, "period": "2018/2022", "fk": 1, "chairman": false },
@@ -100,7 +100,7 @@
     "id": 5,
     "name": "Drahan Petrovič",
     "prefix": "Ing. arch",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -108,7 +108,7 @@
         "votes": 1859
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false }
     ],
@@ -124,7 +124,7 @@
     "id": 6,
     "name": "Iveta Plšeková",
     "prefix": "MUDr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -132,7 +132,7 @@
         "votes": 1728
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 3, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
@@ -150,7 +150,7 @@
     "id": 7,
     "name": "Jozef Fischer",
     "prefix": "Bc. Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -158,7 +158,7 @@
         "votes": 1710
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 5, "chairman": true }
     ],
     "departments": [
@@ -173,7 +173,7 @@
     "id": 8,
     "name": "Gabriela Fulová",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -181,7 +181,7 @@
         "votes": 1708
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
@@ -199,7 +199,7 @@
     "id": 9,
     "name": "Iveta Jančoková",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -207,7 +207,7 @@
         "votes": 1702
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 7, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
@@ -225,7 +225,7 @@
     "id": 10,
     "name": "Matúš Repka",
     "prefix": "Ing. arch.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -233,7 +233,7 @@
         "votes": 1678
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 9, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false }
     ],
@@ -248,7 +248,7 @@
     "id": 11,
     "name": "Lena Bočkayová",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -256,7 +256,7 @@
         "votes": 1664
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 10, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
@@ -274,7 +274,7 @@
     "id": 12,
     "name": "Tomáš Palkovič",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -287,7 +287,7 @@
         "party": "Progresívne Slovensko, SPOLU"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false },
@@ -305,7 +305,7 @@
     "id": 13,
     "name": "Pavol Škápik",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -313,7 +313,7 @@
         "votes": 1558
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 10, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
@@ -332,7 +332,7 @@
     "id": 14,
     "name": "Michala Kozáková",
     "prefix": "Ing. arch.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -340,7 +340,7 @@
         "votes": 1369
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 9, "chairman": true },
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false }
@@ -356,7 +356,7 @@
     "id": 15,
     "name": "Miroslav Dragun",
     "prefix": "",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -364,7 +364,7 @@
         "votes": 1328
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 9, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
@@ -384,7 +384,7 @@
     "name": "Miroslav Behúl",
     "prefix": "Ing.",
     "suffix": "PhD.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -392,7 +392,7 @@
         "votes": 1317
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 9, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
@@ -411,7 +411,7 @@
     "id": 17,
     "name": "Ivan Halmo",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2018/2022",
@@ -419,7 +419,7 @@
         "votes": 1317
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 5, "chairman": false }
     ],
@@ -434,7 +434,7 @@
     "id": 36,
     "name": "Ján Hrčka",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -453,7 +453,7 @@
         "party": "NEKA"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 3, "period": "2018/2022", "fk": 4, "chairman": false },
       { "council": 3, "period": "2018/2022", "fk": 5, "chairman": false }
     ],
@@ -468,7 +468,7 @@
     "id": 18,
     "name": "Elena Pätoprstá",
     "prefix": "Ing. arch., Mgr. art.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -491,7 +491,7 @@
         "votes": 10665
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
@@ -512,7 +512,7 @@
     "id": 19,
     "name": "Vladimír Dolinay",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -535,7 +535,7 @@
         "votes": 7770
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false },
@@ -558,7 +558,7 @@
     "id": 20,
     "name": "Jozef Vydra",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -571,7 +571,7 @@
         "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": true },
       { "council": 1, "period": "2018/2022", "fk": 3, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
@@ -587,7 +587,7 @@
     "id": 21,
     "name": "Lýdia Ovečková",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -606,7 +606,7 @@
         "votes": 8474
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false },
@@ -627,7 +627,7 @@
     "id": 22,
     "name": "Peter Cmorej",
     "prefix": "Mgr., Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -645,7 +645,7 @@
         "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 12, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false },
       { "council": 3, "period": "2018/2022", "fk": 6, "chairman": false }
@@ -661,7 +661,7 @@
     "id": 23,
     "name": "Ján Bučan",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -675,7 +675,7 @@
         "votes": 1957
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 12, "chairman": true },
       { "council": 1, "period": "2018/2022", "fk": 5, "chairman": false }
     ],
@@ -690,7 +690,7 @@
     "id": 24,
     "name": "Peter Hochschorner",
     "prefix": "",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -713,7 +713,7 @@
         "votes": 9671
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 5, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false },
       { "council": 3, "period": "2018/2022", "fk": 4, "chairman": false },
@@ -731,7 +731,7 @@
     "id": 25,
     "name": "Oliver Kríž",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -745,7 +745,7 @@
         "votes": 1715
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 12, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 1, "chairman": false }
     ],
@@ -762,7 +762,7 @@
     "name": "Ľuboš Kačírek",
     "prefix": "Mgr.",
     "suffix": "PhD.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -776,7 +776,7 @@
         "votes": 1861
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": true }
     ],
@@ -791,7 +791,7 @@
     "id": 27,
     "name": "Juraj Kríž",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -805,7 +805,7 @@
         "votes": 1527
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false }
@@ -820,7 +820,7 @@
     "id": 28,
     "name": "Pavel Šesták",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -834,7 +834,7 @@
         "votes": 1288
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 3, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 10, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false },
@@ -851,7 +851,7 @@
     "id": 29,
     "name": "Jana Hrehorová",
     "prefix": "",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -871,7 +871,7 @@
         "votes": 5541
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 7, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
       { "council": 4, "period": "2017/2022", "fk": 7, "chairman": false }
@@ -890,7 +890,7 @@
     "id": 30,
     "name": "Ján Karman",
     "prefix": "Ing.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -913,7 +913,7 @@
         "votes": 5622
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 11, "chairman": true },
       { "council": 3, "period": "2018/2022", "fk": 3, "chairman": true },
       { "council": 3, "period": "2018/2022", "fk": 7, "chairman": false },
@@ -936,7 +936,7 @@
     "id": 31,
     "name": "Miroslava Makovníková Mosná",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -950,7 +950,7 @@
         "votes": 1900
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": true },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
     ],
@@ -964,7 +964,7 @@
     "id": 32,
     "name": "Ľudmila Farkašovská",
     "prefix": "PhDr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -978,7 +978,7 @@
         "votes": 1352
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 2, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 6, "chairman": false },
@@ -996,7 +996,7 @@
     "name": "Milan Vetrák",
     "prefix": "JUDr.",
     "suffix": "PhD.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -1014,7 +1014,7 @@
         "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 9, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 4, "chairman": false },
@@ -1034,7 +1034,7 @@
     "id": 34,
     "name": "Ivan Uhlár",
     "prefix": "Mgr.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -1048,7 +1048,7 @@
         "votes": 1895
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 10, "chairman": true },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
     ],
@@ -1064,7 +1064,7 @@
     "name": "Daniela Palúchová",
     "prefix": "Mgr.",
     "suffix": "PhD., MPH.",
-    "election": [
+    "elections":: [
       {
         "council": 1,
         "period": "2014/2018",
@@ -1078,7 +1078,7 @@
         "votes": 1289
       }
     ],
-    "commission": [
+    "commissions": [
       { "council": 1, "period": "2018/2022", "fk": 7, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 8, "chairman": false },
       { "council": 1, "period": "2018/2022", "fk": 100, "chairman": false }
@@ -1110,7 +1110,7 @@
     "id": 56,
     "name": "Adam Sarlós",
     "prefix": "",
-    "commission": [],
+    "commissions": [],
     "departments": [
       {
         "council": 1,
@@ -1124,7 +1124,7 @@
     "id": 57,
     "name": "Ivan Kezman",
     "prefix": "Mgr.",
-    "commission": [],
+    "commissions": [],
     "departments": [
       {
         "council": 1,
@@ -1138,7 +1138,7 @@
     "id": 58,
     "name": "Michal Vičan",
     "prefix": "",
-    "commission": [],
+    "commissions": [],
     "departments": [
       {
         "council": 1,
@@ -1152,7 +1152,7 @@
     "id": 59,
     "name": "Eduard Demel",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1165,7 +1165,7 @@
     "id": 60,
     "name": "Lenka Jakubčová",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1178,7 +1178,7 @@
     "id": 61,
     "name": "Albín Mráz",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1191,7 +1191,7 @@
     "id": 62,
     "name": "Henrich Haščák",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1204,7 +1204,7 @@
     "id": 63,
     "name": "Michal Pavlík",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1217,7 +1217,7 @@
     "id": 64,
     "name": "Erich Stračina",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1230,7 +1230,7 @@
     "id": 65,
     "name": "Viera Bieliková",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1243,7 +1243,7 @@
     "id": 66,
     "name": "Maroš Buberník",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1256,7 +1256,7 @@
     "id": 67,
     "name": "Gabriel Fekete",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1269,7 +1269,7 @@
     "id": 68,
     "name": "Katarína Sklenková",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1282,7 +1282,7 @@
     "id": 69,
     "name": "Alica Hájková",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1295,7 +1295,7 @@
     "id": 70,
     "name": "Boris Hrbáň",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1308,7 +1308,7 @@
     "id": 71,
     "name": "Jozef Chajdiak",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1321,7 +1321,7 @@
     "id": 72,
     "name": "Štefan Wenchich",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1334,7 +1334,7 @@
     "id": 73,
     "name": "Bohumil Kováč",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1347,7 +1347,7 @@
     "id": 74,
     "name": "Roman Futo",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1360,7 +1360,7 @@
     "id": 75,
     "name": "Ernest Huska",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1373,7 +1373,7 @@
     "id": 76,
     "name": "Ján Kaľavský",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1386,7 +1386,7 @@
     "id": 77,
     "name": "Jakub Kuruc",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1399,7 +1399,7 @@
     "id": 78,
     "name": "Adam Sarlós",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1412,7 +1412,7 @@
     "id": 79,
     "name": "Ildikó Zórádová",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1425,7 +1425,7 @@
     "id": 80,
     "name": "Eva Surovková",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1438,7 +1438,7 @@
     "id": 81,
     "name": "Michal Černý",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1451,7 +1451,7 @@
     "id": 82,
     "name": "Martin Kleibl",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1464,7 +1464,7 @@
     "id": 83,
     "name": "Marek Kovačič",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1477,7 +1477,7 @@
     "id": 84,
     "name": "Ivan Lučanič",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1490,7 +1490,7 @@
     "id": 85,
     "name": "Andrea Kutlíková",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1503,7 +1503,7 @@
     "id": 86,
     "name": "David Běhal",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1516,7 +1516,7 @@
     "id": 87,
     "name": "Michal Horváth",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1529,7 +1529,7 @@
     "id": 88,
     "name": "Viktor Križo",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1542,7 +1542,7 @@
     "id": 89,
     "name": "Katarína Okoličányová",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1555,7 +1555,7 @@
     "id": 90,
     "name": "Milan Polešenský",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1568,7 +1568,7 @@
     "id": 91,
     "name": "Viliam Ovsepian",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1581,7 +1581,7 @@
     "id": 92,
     "name": "Stanislav Horínek",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1594,7 +1594,7 @@
     "id": 93,
     "name": "Michal Vičan",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -1607,7 +1607,7 @@
     "id": 94,
     "name": "Róbert Vančo",
     "prefix": "",
-    "commission": [
+    "commissions": [
       {
         "council": 1,
         "period": "2018/2022",

@@ -24,7 +24,7 @@ class InMemoryCollectionsTest2 {
 
   @Test
   void getIndexItems() {
-    assertEquals(8, collections.getIndexItems().size());
+    assertEquals(9, collections.getIndexItems().size());
   }
 
   @Test
