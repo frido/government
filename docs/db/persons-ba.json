@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Natália Podhorná",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -26,7 +26,7 @@
     "id": 2,
     "name": "Branislav Kleinert",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -48,7 +48,7 @@
     "id": 3,
     "name": "Branislav Sepši",
     "prefix": "Ing. arch.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -70,7 +70,7 @@
     "id": 4,
     "name": "Tatiana Kratochvílová",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -100,7 +100,7 @@
     "id": 5,
     "name": "Drahan Petrovič",
     "prefix": "Ing. arch",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -124,7 +124,7 @@
     "id": 6,
     "name": "Iveta Plšeková",
     "prefix": "MUDr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -150,7 +150,7 @@
     "id": 7,
     "name": "Jozef Fischer",
     "prefix": "Bc. Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -173,7 +173,7 @@
     "id": 8,
     "name": "Gabriela Fulová",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -199,7 +199,7 @@
     "id": 9,
     "name": "Iveta Jančoková",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -225,7 +225,7 @@
     "id": 10,
     "name": "Matúš Repka",
     "prefix": "Ing. arch.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -248,7 +248,7 @@
     "id": 11,
     "name": "Lena Bočkayová",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -274,7 +274,7 @@
     "id": 12,
     "name": "Tomáš Palkovič",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -305,7 +305,7 @@
     "id": 13,
     "name": "Pavol Škápik",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -332,7 +332,7 @@
     "id": 14,
     "name": "Michala Kozáková",
     "prefix": "Ing. arch.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -356,7 +356,7 @@
     "id": 15,
     "name": "Miroslav Dragun",
     "prefix": "",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -384,7 +384,7 @@
     "name": "Miroslav Behúl",
     "prefix": "Ing.",
     "suffix": "PhD.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -411,7 +411,7 @@
     "id": 17,
     "name": "Ivan Halmo",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2018/2022",
@@ -434,7 +434,7 @@
     "id": 36,
     "name": "Ján Hrčka",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -468,7 +468,7 @@
     "id": 18,
     "name": "Elena Pätoprstá",
     "prefix": "Ing. arch., Mgr. art.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -512,7 +512,7 @@
     "id": 19,
     "name": "Vladimír Dolinay",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -558,7 +558,7 @@
     "id": 20,
     "name": "Jozef Vydra",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -587,7 +587,7 @@
     "id": 21,
     "name": "Lýdia Ovečková",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -627,7 +627,7 @@
     "id": 22,
     "name": "Peter Cmorej",
     "prefix": "Mgr., Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -661,7 +661,7 @@
     "id": 23,
     "name": "Ján Bučan",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -690,7 +690,7 @@
     "id": 24,
     "name": "Peter Hochschorner",
     "prefix": "",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -731,7 +731,7 @@
     "id": 25,
     "name": "Oliver Kríž",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -762,7 +762,7 @@
     "name": "Ľuboš Kačírek",
     "prefix": "Mgr.",
     "suffix": "PhD.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -791,7 +791,7 @@
     "id": 27,
     "name": "Juraj Kríž",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -820,7 +820,7 @@
     "id": 28,
     "name": "Pavel Šesták",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -851,7 +851,7 @@
     "id": 29,
     "name": "Jana Hrehorová",
     "prefix": "",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -890,7 +890,7 @@
     "id": 30,
     "name": "Ján Karman",
     "prefix": "Ing.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -936,7 +936,7 @@
     "id": 31,
     "name": "Miroslava Makovníková Mosná",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -964,7 +964,7 @@
     "id": 32,
     "name": "Ľudmila Farkašovská",
     "prefix": "PhDr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -996,7 +996,7 @@
     "name": "Milan Vetrák",
     "prefix": "JUDr.",
     "suffix": "PhD.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -1034,7 +1034,7 @@
     "id": 34,
     "name": "Ivan Uhlár",
     "prefix": "Mgr.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
@@ -1064,7 +1064,7 @@
     "name": "Daniela Palúchová",
     "prefix": "Mgr.",
     "suffix": "PhD., MPH.",
-    "elections":: [
+    "elections": [
       {
         "council": 1,
         "period": "2014/2018",
