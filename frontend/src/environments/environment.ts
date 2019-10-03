@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  backendLink: 'http://samosprava.info/api/'
+  backendLink: 'http://localhost:5000/api/'
 };
 
 /*

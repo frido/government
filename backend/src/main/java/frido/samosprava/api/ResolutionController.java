@@ -1,35 +1,50 @@
 package frido.samosprava.api;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseList;
-import frido.samosprava.core.entity.ResponseObject;
+import java.util.ArrayList;
+
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+
+import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.entity.Resolution;
+import frido.samosprava.core.entity.ResponseObject2;
+import frido.samosprava.core.entity.view.ResolutionListView;
 
 @RestController
 class ResolutionController {
 
-  private final InMemoryCollections collections;
+  private final InMemoryCollections2 collections;
 
   // NOTE: Since version ~4.3 parameters in constructor are injected automatically
-  public ResolutionController(InMemoryCollections collections) {
+  public ResolutionController(InMemoryCollections2 collections) {
     this.collections = collections;
   }
 
-  @GetMapping("/api/resolutions/{council}")
-  public ResponseList resolutions(@PathVariable int council) {
-    return new ResponseList(collections.collection("resolutions").council(council));
-  }
+  @GetMapping("/api/resolutions")
+  public ResolutionListView resolutions(
+      @RequestParam(required = false) Integer councilId,
+      @RequestParam(required = false) Integer meetingId,
+      @RequestParam(required = false) Integer creatorId
+  ) {
+    if(councilId != null) {
+      return new ResolutionListView(collections, collections.resolutions().findByCouncilId(councilId));
+    }
+    if(meetingId != null) {
+      return new ResolutionListView(collections, collections.resolutions().findByMeetingId(meetingId));
+    }
+    if(creatorId != null) {
+      return new ResolutionListView(collections, collections.resolutions().findByCreatorId(creatorId));
+    }
 
-  @GetMapping("/api/resolutions/{council}/{meeting}")
-  public ResponseList resolutions(@PathVariable int council, @PathVariable int meeting) {
-    return new ResponseList(collections.collection("resolutions").councilMeeting(council, meeting));
+
+    return new ResolutionListView(collections, new ArrayList<Resolution>());
   }
 
   @GetMapping("/api/resolution/{id}")
-  public ResponseObject resolution(@PathVariable int id) {
-    return new ResponseObject(collections.collection("resolutions").id(id));
+  public ResponseObject2 resolution(@PathVariable int id) {
+    return new ResponseObject2(collections.resolutions().findById(id));
   }
 
 }

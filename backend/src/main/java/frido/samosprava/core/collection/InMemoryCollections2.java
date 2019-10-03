@@ -6,6 +6,7 @@ import java.util.List;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import frido.samosprava.core.entity.CouncilList;
 import frido.samosprava.core.entity.MeetingList;
 import frido.samosprava.core.entity.PersonList;
 import frido.samosprava.core.entity.ResolutionList;
@@ -20,6 +21,7 @@ public class InMemoryCollections2 {
   private InMemoryResolutionCollection resolutionCollection;
   private InMemoryPersonCollection personCollection;
   private InMemoryMeetingCollection meetingCollection;
+  private InMemoryCouncilCollection councilCollection;
 
 
   public InMemoryCollections2(DataStore store) {
@@ -30,9 +32,11 @@ public class InMemoryCollections2 {
 
   private void init() {
     String indexDb = this.store.load("index2.db");
+    System.out.println(indexDb);
     indexItems = indexDb.split("\n");
     for (String indexItem : indexItems) {
-      String collectionName = indexItem.split("-")[0];
+      String collectionName = indexItem.substring(0, indexItem.indexOf(".json")).split("-")[0];
+      System.out.println(collectionName);
       if("resolutions".equals(collectionName)){
         System.out.println(indexItem);
         initResolutions(store.load(indexItem));
@@ -45,13 +49,16 @@ public class InMemoryCollections2 {
         System.out.println(indexItem);
         initMeetings(store.load(indexItem));
       }
+      if("councils".equals(collectionName)){
+        System.out.println(indexItem);
+        initCouncils(store.load(indexItem));
+      }
 
     }
   }
 
   private void initResolutions(String content) {
     ResolutionList list;
-    System.out.println(content);
     try {
       list = mapper.readValue(content, ResolutionList.class);
       resolutionCollection = new InMemoryResolutionCollection(list.getResolutions());
@@ -62,7 +69,6 @@ public class InMemoryCollections2 {
 
   private void initPersons(String content) {
     PersonList list;
-    System.out.println(content);
     try {
       list = mapper.readValue(content, PersonList.class);
       personCollection = new InMemoryPersonCollection(list.getPersons());
@@ -73,10 +79,19 @@ public class InMemoryCollections2 {
 
   private void initMeetings(String content) {
     MeetingList list;
-    System.out.println(content);
     try {
       list = mapper.readValue(content, MeetingList.class);
       meetingCollection = new InMemoryMeetingCollection(list.getMeetings());
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
+  }
+
+  private void initCouncils(String content) {
+    CouncilList list;
+    try {
+      list = mapper.readValue(content, CouncilList.class);
+      councilCollection = new InMemoryCouncilCollection(list.getCouncils());
     } catch (IOException e) {
       e.printStackTrace();
     }
@@ -96,6 +111,10 @@ public class InMemoryCollections2 {
 
   public InMemoryMeetingCollection meetings() {
     return meetingCollection;
+  }
+
+  public InMemoryCouncilCollection councils() {
+    return councilCollection;
   }
 
   public void reload() {

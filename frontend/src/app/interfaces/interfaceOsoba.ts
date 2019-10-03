@@ -8,11 +8,32 @@ export class OsobaView {
   role: number;
   elections: ElectionView[];
   departments: DepartmentView[];
-  commissions: CommissionView[]
+  commissions: CommissionView[];
+  offices: OfficeView[];
+  deputies: DeputyView[];
   klub?: string;
   fb?: string;
 
   constructor() {}
+}
+
+export class DeputyView {
+  id: number;
+  councilId: number;
+  period: string;
+  from: string;
+  to: string;
+  electionId: number;
+}
+
+export class OfficeView {
+  id: number;
+  councilId: number;
+  period: string;
+  from: string;
+  to: string;
+  roleId: number;
+  electioId: number;
 }
 
 export class DepartmentView {
@@ -20,7 +41,7 @@ export class DepartmentView {
   role: string;
   icon: string;
   roleId: number;
-  departmentId: number;
+  fk: number; // TODO: change to departmentId
   councilId: number;
 }
 
@@ -41,7 +62,7 @@ export class CommissionView {
   name: string;
   period: string;
   chairman: boolean;
-  commissionId: number;
+  fk: number; // TODO: change to commissionId
   councilId: number;
 
   constructor() {}

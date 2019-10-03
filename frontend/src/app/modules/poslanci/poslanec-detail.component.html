@@ -1,39 +1,42 @@
-<ng-container *ngFor="let election of poslanec.elections">
+<ng-container *ngFor="let office of poslanec.officesView">
   <div class="card-detail-item">
-    <i class="fas fa-user-tie fa-2x"></i>
+    <i class="{{office.office.icon}} fa-2x"></i>
     <div>
-      <div><strong>{{election.title}}</strong></div>
-      <div><small>{{election.councilName}}</small></div>
+      <div><strong>{{office.office.name}}</strong></div>
+      <div><small>{{office.council.name}}</small></div>
     </div>
     <div>
-      <div><small>{{election.party}}</small></div>
-      <div *ngFor="let commission of election.commission">
-        {{commission.name}}
-        <b *ngIf="commission.chairman"> (Predseda)</b>
-      </div>
+      <div *ngIf="office.election">{{office.election.votes}} hlasov <small>( {{office.election.party}} )</small></div>
     </div>
   </div>
 </ng-container>
-<ng-container *ngFor="let department of poslanec.departments">
+<ng-container *ngFor="let deputy of poslanec.deputiesView">
   <div class="card-detail-item">
-    <i class="{{department.icon}} fa-2x"></i>
+    <i class="fas fa-chess-pawn fa-2x"></i>
     <div>
-      <div><strong>{{department.role}}</strong></div>
+      <div><strong>{{deputy.council.title}}</strong></div>
+      <div><small>{{deputy.council.name}}</small></div>
     </div>
     <div>
-      {{department.title}}
+      <div *ngIf="deputy.election">{{deputy.election.votes}} hlasov <small>( {{deputy.election.party}} )</small></div>
     </div>
   </div>
 </ng-container>
-<ng-container *ngFor="let commission of poslanec.commissions">
+<ng-container *ngFor="let commission of poslanec.commissionsView">
     <div class="card-detail-item">
       <i class="fas fa-chess-pawn fa-2x"></i>
       <div>
-        <div><strong>{{commission.chairman ? 'Predseda' : 'Člen'}} komisie</strong></div>
-        <div><small>{{commission.councilName}}</small></div>
-      </div>
-      <div>
-        {{commission.name}}
+        <div><strong><span *ngIf="commission.chairman">Predseda </span> {{commission.commission.name}}</strong></div>
+        <div><small>{{commission.council.name}}</small></div>
       </div>
     </div>
   </ng-container>
+<ng-container *ngFor="let department of poslanec.departmentsView">
+  <div class="card-detail-item">
+    <i class="{{department.role.icon}} fa-2x"></i>
+    <div>
+      <div><strong>{{department.role.name}}</strong></div>
+      <div><small>{{department.department.name}}</small></div>
+    </div>
+  </div>
+</ng-container>

@@ -1,29 +1,30 @@
 package frido.samosprava.api;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseList;
-import frido.samosprava.core.entity.ResponseObject;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
+import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.entity.ResponseObject2;
+import frido.samosprava.core.entity.view.MeetingListView;
+
 @RestController
 class MeetingController {
 
-  private final InMemoryCollections collections;
+  private final InMemoryCollections2 collections;
 
-  public MeetingController(InMemoryCollections collections) {
+  public MeetingController(InMemoryCollections2 collections) {
     this.collections = collections;
   }
 
-  @GetMapping("/api/meetings/{council}")
-  public ResponseList meetings(@PathVariable int council) {
-    return new ResponseList(collections.collection("meetings").council(council));
+  @GetMapping("/api/meetings/{councilId}")
+  public MeetingListView meetings(@PathVariable int councilId) {
+    return new MeetingListView(collections, collections.meetings().findByCouncilId(councilId));
   }
 
   @GetMapping("/api/meeting/{id}")
-  public ResponseObject meeting(@PathVariable int id) {
-    return new ResponseObject(collections.collection("meetings").id(id));
+  public ResponseObject2 meeting(@PathVariable int id) {
+    return new ResponseObject2(collections.meetings().findById(id));
   }
 
 }

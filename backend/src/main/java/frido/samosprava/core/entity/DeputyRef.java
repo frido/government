@@ -1,10 +1,10 @@
 package frido.samosprava.core.entity;
 
 public class DeputyRef extends Record {
-  private String period;
-  private String from;
-  private String to;
-  private Integer electionId;
+  protected String period;
+  protected String from;
+  protected String to;
+  protected Integer electionId;
 
   public String getPeriod() {
     return period;

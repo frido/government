@@ -1,11 +1,11 @@
 package frido.samosprava.core.entity;
 
 public class CommissionRef extends Record {
-  private String period;
-  private String from;
-  private String to;
-  private Integer fk;
-  private Boolean chairman;
+  protected String period;
+  protected String from;
+  protected String to;
+  protected Integer fk;
+  protected Boolean chairman;
 
   public String getPeriod() {
     return period;

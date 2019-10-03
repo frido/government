@@ -1,36 +1,94 @@
 package frido.samosprava.core.entity.view;
 
 import java.util.List;
+import java.util.stream.Collectors;
 
 import frido.samosprava.core.collection.InMemoryCollections2;
-import frido.samosprava.core.entity.CommissionRef;
-import frido.samosprava.core.entity.DepartmentRef;
-import frido.samosprava.core.entity.DeputyRef;
-import frido.samosprava.core.entity.Election;
-import frido.samosprava.core.entity.OfficeRef;
 import frido.samosprava.core.entity.Person;
 
-public class PersonView {
+public class PersonView extends Person {
 
-  private Integer id;
-  private String name;
-  private String firstname;
-  private String surname;
-  private String prefix;
-  private List<Election> elections;
-  private List<OfficeRef> offices;
-  private List<DepartmentRef> departments;
-  private List<DeputyRef> deputies;
-  private List<CommissionRef> commissions;
-  private String club;
-  private String fb;
-  private String role;
+  private List<OfficeRefView> officesView;
+  private List<DepartmentRefView> departmentsView;
+  private List<DeputyRefView> deputiesView;
+  private List<CommissionRefView> commissionsView;
+
+//  protected String name;
+//  protected String firstname;
+//  protected String surname;
+//  protected String prefix;
+//  protected List<Election> elections;
+//  protected List<OfficeRef> offices;
+//  protected List<DepartmentRef> departments;
+//  protected List<DeputyRef> deputies;
+//  protected List<CommissionRef> commissions;
+//  protected String club;
+//  protected String fb;
+//  protected String role;
 
   public PersonView(InMemoryCollections2 collections, Person person) {
     this.id = person.getId();
+    this.councilId = person.getCouncilId();
     this.name = person.getName();
-    // TODO: TO BE CONTINUE ...
+    this.firstname = person.getFirstname();
+    this.surname = person.getSurname();
+    this.prefix = person.getPrefix();
+    this.elections = person.getElections();
+    this.offices = person.getOffices();
+    this.departments = person.getDepartments();
+    this.deputies = person.getDeputies();
+    this.commissions = person.getCommissions();
+    this.club = person.getClub();
+    this.fb = person.getFb();
+    this.role = person.getRole();
 
+    if (offices != null) {
+      officesView = offices.stream().map(x -> new OfficeRefView(collections, x, person)).collect(Collectors.toList());
+    }
+
+    if (departments != null) {
+      departmentsView = departments.stream().map(x -> new DepartmentRefView(collections, x)).collect(Collectors.toList());
+    }
+
+    if (deputies != null) {
+      deputiesView = deputies.stream().map(x -> new DeputyRefView(collections, x, person)).collect(Collectors.toList());
+    }
+
+    if (commissions != null) {
+      commissionsView = commissions.stream().map(x -> new CommissionRefView(collections, x)).collect(Collectors.toList());
+    }
+  }
+
+  public List<OfficeRefView> getOfficesView() {
+    return officesView;
+  }
+
+  public void setOfficesView(List<OfficeRefView> officesView) {
+    this.officesView = officesView;
+  }
+
+  public List<DepartmentRefView> getDepartmentsView() {
+    return departmentsView;
+  }
+
+  public void setDepartmentsView(List<DepartmentRefView> departmentsView) {
+    this.departmentsView = departmentsView;
+  }
+
+  public List<DeputyRefView> getDeputiesView() {
+    return deputiesView;
+  }
+
+  public void setDeputiesView(List<DeputyRefView> deputiesView) {
+    this.deputiesView = deputiesView;
+  }
+
+  public List<CommissionRefView> getCommissionsView() {
+    return commissionsView;
+  }
+
+  public void setCommissionsView(List<CommissionRefView> commissionsView) {
+    this.commissionsView = commissionsView;
   }
 
 }
