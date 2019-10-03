@@ -7,6 +7,7 @@ public class Person  extends Record{
   protected String firstname;
   protected String surname;
   protected String prefix;
+  protected String suffix;
   protected List<Election> elections;
   protected List<OfficeRef> offices;
   protected List<DepartmentRef> departments;
@@ -87,5 +88,11 @@ public class Person  extends Record{
   }
   public void setRole(String role) {
     this.role = role;
+  }
+  public String getSuffix() {
+    return suffix;
+  }
+  public void setSuffix(String suffix) {
+    this.suffix = suffix;
   }
 }
