@@ -22,7 +22,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 7, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "natalia.podhorna",
     "role": 1
   },
@@ -48,7 +48,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "branislav.kleinert",
     "role": 1
   },
@@ -74,7 +74,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 3, "roleId": 1 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "branislav.sepsi.52",
     "role": 1
   },
@@ -110,7 +110,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": null,
     "role": 1
   },
@@ -138,7 +138,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 33, "roleId": 1 },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": null,
     "role": 1
   },
@@ -168,7 +168,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 17, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 37, "roleId": 1 }
     ],
-    "klub": "Mladá Petržalka",
+    "club": "Mladá Petržalka",
     "fb": "iveta.plsekova",
     "role": 1
   },
@@ -195,7 +195,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 16, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 38, "roleId": 1 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "fischo",
     "role": 1
   },
@@ -225,7 +225,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 28, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 38, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": null,
     "role": 1
   },
@@ -255,7 +255,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 5, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 34, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "iveta.fecova",
     "role": 1
   },
@@ -282,7 +282,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 12, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": "profile.php?id=100014573430873",
     "role": 1
   },
@@ -312,7 +312,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 25, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": null,
     "role": 1
   },
@@ -349,7 +349,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": "tomolas",
     "role": 1
   },
@@ -380,7 +380,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 5, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 18, "roleId": 1 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "pavol.skapik",
     "role": 1
   },
@@ -408,7 +408,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 27, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": "michala.basova.5",
     "role": 1
   },
@@ -439,7 +439,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 23, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 37, "roleId": 1 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "MiroslavDragun",
     "role": 1
   },
@@ -471,7 +471,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 20, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 38, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "miroslav.behul",
     "role": 1
   },
@@ -498,7 +498,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 13, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": null,
     "role": 1
   },
@@ -540,7 +540,7 @@
     "offices": [
       { "councilId": 1, "roleId": 1, "from": "01.12.2018", "to": null, "electionId": 2 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "jan.hrcka.98",
     "role": 4
   },
@@ -593,7 +593,7 @@
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 12, "roleId": 1 },
       { "councilId": 4, "period": "2017/2022", "fk": 1, "roleId": 2 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "elena.patoprsta",
     "role": 1
   },
@@ -650,7 +650,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "roleId": 1 },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 3, "roleId": 3 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "dolinay",
     "role": 1
   }, {
@@ -685,7 +685,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 29, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "jozef.vydra.3",
     "role": 1
   }, {
@@ -735,7 +735,7 @@
     "offices": [
       { "councilId": 1, "roleId": 2, "from": "01.12.2018", "to": null }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "lydia.oveckova",
     "role": 1
   }, {
@@ -777,7 +777,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 26, "roleId": 1 },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "roleId": 2 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "peter.cmorej",
     "role": 1
   }, {
@@ -812,7 +812,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 7, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 24, "roleId": 1 }
     ],
-    "klub": "My sme Petržalka",
+    "club": "My sme Petržalka",
     "fb": "jan.bucan.33",
     "role": 1
   }, {
@@ -898,7 +898,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 30, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 35, "roleId": 1 }
     ],
-    "klub": "Mladá Petržalka",
+    "club": "Mladá Petržalka",
     "fb": "oliver.petrzalsky?ref=br_rs",
     "role": 1
   },
@@ -935,7 +935,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 14, "roleId": 1 }
     ],
-    "klub": "Team Vallo",
+    "club": "Team Vallo",
     "fb": "lubos.kacirek.7",
     "role": 1
   }, {
@@ -970,7 +970,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "roleId": 1 }
     ],
-    "klub": "Mladá Petržalka",
+    "club": "Mladá Petržalka",
     "fb": "juraj.kriz.3",
     "role": 1
   }, {
@@ -1006,7 +1006,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 11, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "pavel.sestak.98",
     "role": 1
   },
@@ -1055,7 +1055,7 @@
     "offices": [
       { "councilId": 1, "roleId": 3, "from": "01.12.2018", "to": null }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "jana.hrehorova",
     "role": 1
   },
@@ -1111,7 +1111,7 @@
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 5, "roleId": 1 },
       { "councilId": 4, "period": "2017/2022", "fk": 2, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "jan.karman.7",
     "role": 1
   },
@@ -1146,7 +1146,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 12, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "mirka.m.mosna",
     "role": 1
   }, {
@@ -1183,7 +1183,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 21, "roleId": 1 }
     ],
-    "klub": null,
+    "club": null,
     "fb": "farkasovskaludmila",
     "role": 1
   }, {
@@ -1229,7 +1229,7 @@
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "roleId": 3 },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 6, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "milan.vetrak",
     "role": 1
   },
@@ -1264,7 +1264,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 3, "roleId": 1 }
     ],
-    "klub": "PRE Petržalku",
+    "club": "PRE Petržalku",
     "fb": "ivan.uhlar.9",
     "role": 1
   },
@@ -1302,7 +1302,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 9, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 15, "roleId": 1 }
     ],
-    "klub": "Mladá Petržalka",
+    "club": "Mladá Petržalka",
     "fb": null,
     "role": 1
   }, {

@@ -69,6 +69,7 @@ public class InMemoryCollections2 {
 
   private void initPersons(String content) {
     PersonList list;
+    System.out.println(content);
     try {
       list = mapper.readValue(content, PersonList.class);
       personCollection = new InMemoryPersonCollection(list.getPersons());

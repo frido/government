@@ -15,7 +15,12 @@ public class JdkHttpClient implements WebClient {
 
     HttpClient client = HttpClient.newBuilder().build(); //TODO: HttpClient is immutable, can be use for more requests
 
-    HttpRequest request = HttpRequest.newBuilder().uri(URI.create(link)).GET().build();
+    HttpRequest request = HttpRequest.newBuilder()
+        .uri(URI.create(link))
+        .setHeader("Prama", "no-cache")
+        .setHeader("Cache-Control", "no-cache")
+        .GET()
+        .build();
 
     HttpResponse<String> response = client.send(request, BodyHandlers.ofString());
 
