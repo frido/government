@@ -14,12 +14,14 @@ import { GoogleChartPieVydavkyComponent } from './components/rozpocet-card/googl
 import { GoogleChartPiePrijmyComponent } from './components/rozpocet-card/google-chart-pie-prijmy.component';
 import { GoogleChartLineSumarComponent } from './components/rozpocet-card/google-chart-line-sumar.component';
 import { GoogleChartLinePrijmyComponent } from './components/rozpocet-card/google-chart-line-prijmy.component';
+import { BudgetComponent } from './pages/budget.component';
+import { BudgetDetailComponent } from './pages/budget-detail.component';
 
 @NgModule({
   declarations: [
     RozpocetListPage, VydavkyCardComponent, PrijmyCardComponent,
     GoogleChartSumarComponent, GoogleChartPieVydavkyComponent,
-    GoogleChartPiePrijmyComponent, GoogleChartLineSumarComponent, GoogleChartLinePrijmyComponent
+    GoogleChartPiePrijmyComponent, GoogleChartLineSumarComponent, GoogleChartLinePrijmyComponent, BudgetComponent, BudgetDetailComponent
   ],
   exports: [
     RozpocetListPage

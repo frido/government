@@ -142,10 +142,11 @@ export class ApiService {
     return personView;
   }
 
-  getRozpocet(spolokId: number): Observable<Rozpocet> {
-    return this.get(this.base + 'budget/' + spolokId).pipe(
-      map((r: Rozpocet) => this.mapRozpocet(r))
-    )
+  getRozpocet(spolokId: number): Observable<Budget[]> {
+    return this.get(this.base + 'budget/' + spolokId)
+    // return this.get(this.base + 'budget/' + spolokId).pipe(
+    //   map((r: Rozpocet) => this.mapRozpocet(r))
+    // )
   }
 
   mapRozpocet(r: Rozpocet): Rozpocet {

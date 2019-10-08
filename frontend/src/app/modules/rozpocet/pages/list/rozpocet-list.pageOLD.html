@@ -1,0 +1,46 @@
+<app-menu></app-menu>
+<div *ngIf="rozpocet" class="content">
+    <app-tabs>
+        <app-tab tabTitle="Sumár">
+            <div class="paragraph">
+                <strong>Príjmy: </strong>
+                <span>{{rozpocet.current.prijmy | currency : "EUR" }}</span>
+            </div>
+            <div class="paragraph">
+                <strong>Výdavky: </strong>
+                <span>{{rozpocet.current.vydavky | currency : "EUR" }}</span>
+            </div>
+            <app-google-chart-sumar [sumar]="rozpocet.sumar"></app-google-chart-sumar>
+        </app-tab>
+        <app-tab tabTitle="Príjmy">
+            <app-prijmy-card *ngFor="let level1 of rozpocet.prijmy" [level]="1" [rozpocet]="level1"></app-prijmy-card>
+            <div style="display:flex">
+                <div style="width:50%">
+                    <app-google-chart-pie-prijmy [prijmy]="rozpocet.prijmy"></app-google-chart-pie-prijmy>
+                </div>
+                <div style="width:50%">
+                    <app-google-chart-line-sumar [sumar]="rozpocet.sumar"></app-google-chart-line-sumar>
+                </div>
+            </div>
+        </app-tab>
+        <app-tab tabTitle="Výdavky">
+            <div class="legenda">
+                <strong>Legenda</strong>
+                <i class="fas fa-paperclip"></i>
+                <span>Bezne vydavky</span>
+                <i class="fas fa-wrench"></i>
+                <span>Kapitalove vydavky</span>
+                <i class="fas fa-exchange-alt"></i>
+                <span>Financne vydavky</span>
+            </div>
+            <app-vydavky-card *ngFor="let level1 of rozpocet.vydavky" [level]="1" [rozpocet]="level1"></app-vydavky-card>
+            <app-google-chart-pie-vydavky [vydavky]="rozpocet.vydavky"></app-google-chart-pie-vydavky>
+        </app-tab>
+        <app-tab *ngIf="useKv.length > 0" [active]="query == 'vystavba'" tabTitle="Výstavba / Rekonštrukcie">
+            <div *ngFor="let kv of useKv" class="paragraph">
+                <strong>{{kv.title}}:</strong>
+                <span>{{kv.suma | currency : "EUR" }}</span>
+            </div>
+        </app-tab>
+    </app-tabs>
+</div>
