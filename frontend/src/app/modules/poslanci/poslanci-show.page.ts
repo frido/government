@@ -4,7 +4,6 @@ import { ApiService } from '../../api.service';
 import { switchMap, tap } from 'rxjs/operators';
 import { Observable } from 'rxjs';
 import { OsobaView } from 'src/app/interfaces/interfaceOsoba';
-import { FilterHolder } from '../shared/components/filter/filter.component';
 
 @Component({
   templateUrl: './poslanci-show.page.html'
@@ -14,7 +13,6 @@ export class PoslanciShowPage {
   $uznesenia: Observable<Uznesenie[]>;
   uznesenia: Uznesenie[] = [];
   poslanecId: number;
-  filter: FilterHolder;
 
   constructor(private route: ActivatedRoute, private service: ApiService) { }
 

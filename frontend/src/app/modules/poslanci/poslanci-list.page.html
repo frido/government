@@ -2,13 +2,13 @@
 <div class="content">
   <div class="uznesenie-filter">
     <strong>Rola</strong>
-    <app-filter [filter]="filterRole" (onFilter)="onFilterRole($event)"></app-filter>
+    <app-filter [options]="optionsRole" (onFilter)="onFilterRole($event)"></app-filter>
   </div><div class="uznesenie-filter">
       <strong>Komisia</strong>
-    <app-select [filter]="filterCommision" (onFilter)="onFilterCommision($event)"></app-select>
+    <app-filter [options]="optionsCommision" (onFilter)="onFilterCommision($event)"></app-filter>
   </div><div class="uznesenie-filter">
       <strong>Oddelenie</strong>
-    <app-select [filter]="filterDepartment" (onFilter)="onFilterDepartment($event)"></app-select>
+    <app-filter [options]="optionsDepartment" (onFilter)="onFilterDepartment($event)"></app-filter>
   </div>
   <ng-container *ngFor="let p of $poslanci | async">
     <app-poslanec *ngIf="isVisible(p)" [poslanec]="p"></app-poslanec>

@@ -3,7 +3,7 @@
     <i class="{{office.office.icon}} fa-2x"></i>
     <div>
       <div><strong>{{office.office.name}}</strong></div>
-      <div><small>{{office.council.name}}</small></div>
+      <div>{{office.council.name}}</div>
     </div>
     <div>
       <div *ngIf="office.election">{{office.election.votes}} hlasov <small>( {{office.election.party}} )</small></div>
@@ -11,11 +11,12 @@
   </div>
 </ng-container>
 <ng-container *ngFor="let deputy of poslanec.deputiesView">
-  <div class="card-detail-item">
+  <div [class.mutted]="deputy.to != null" class="card-detail-item">
     <i class="fas fa-chess-pawn fa-2x"></i>
     <div>
       <div><strong>{{deputy.council.title}}</strong></div>
-      <div><small>{{deputy.council.name}}</small></div>
+      <div>{{deputy.council.name}}</div>
+      <div *ngIf="deputy.to != null"><small>{{deputy.from}}/{{deputy.to}}</small></div>
     </div>
     <div>
       <div *ngIf="deputy.election">{{deputy.election.votes}} hlasov <small>( {{deputy.election.party}} )</small></div>
@@ -27,7 +28,7 @@
       <i class="fas fa-chess-pawn fa-2x"></i>
       <div>
         <div><strong><span *ngIf="commission.chairman">Predseda </span> {{commission.commission.name}}</strong></div>
-        <div><small>{{commission.council.name}}</small></div>
+        <div>{{commission.council.name}}</div>
       </div>
     </div>
   </ng-container>
@@ -36,7 +37,7 @@
     <i class="{{department.role.icon}} fa-2x"></i>
     <div>
       <div><strong>{{department.role.name}}</strong></div>
-      <div><small>{{department.department.name}}</small></div>
+      <div>{{department.department.name}}</div>
     </div>
   </div>
 </ng-container>

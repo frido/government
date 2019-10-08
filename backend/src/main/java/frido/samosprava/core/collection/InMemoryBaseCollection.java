@@ -15,11 +15,8 @@ public class InMemoryBaseCollection <T extends Record> {
 
   protected final Map<Integer, T> data = new TreeMap<>();
 
-  public InMemoryBaseCollection(List<T> list) {
-    addAll(list);
-  }
 
-  private void addAll(List<T> item) {
+  public void addAll(List<T> item) {
     item.forEach(x -> data.put(x.getId(), x));
   }
 

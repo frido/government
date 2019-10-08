@@ -3,7 +3,6 @@ import { ActivatedRoute } from '@angular/router';
 import { ApiService } from '../../api.service';
 import { Observable } from 'rxjs';
 import { OsobaView } from 'src/app/interfaces/interfaceOsoba';
-import { FilterHolder } from '../shared/components/filter/filter.component';
 
 @Component({
   styles: ['.active {color: red}'],

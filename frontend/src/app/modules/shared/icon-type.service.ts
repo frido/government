@@ -24,7 +24,8 @@ export class IconTypeService {
     { 'key': 'obstaranie', 'title': 'Obstaranie', 'class': 'far fa-paper-plane' },
     { 'key': 'vzn', 'title': 'VZN', 'class': 'far fa-list-alt' },
     { 'key': 'rozpocet', 'title': 'Rozpočet', 'class': 'far fa-money-bill-alt' },
-    { 'key': 'delegovanie', 'title': 'Delegovanie', 'class': 'far fa-lightbulb' }
+    { 'key': 'delegovanie', 'title': 'Delegovanie', 'class': 'far fa-lightbulb' },
+    { 'key': 'xxx', 'title': 'XXX', 'class': 'far fa-lightbulb' }
   ];
 
   getIcon(key: string): IconType {

@@ -12,6 +12,11 @@ export class IconTypeComponent implements OnInit {
   constructor(private icons: IconTypeService) {}
 
   ngOnInit(): void {
-    this.class = this.icons.getIcon(this.type).class;
+    const icon = this.icons.getIcon(this.type);
+    if (icon) {
+      this.class = icon.class;
+    } else {
+      this.class = this.icons.getIcon('xxx').class;
+    }
   }
 }

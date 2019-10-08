@@ -2,7 +2,7 @@
 <div class="content">
   <div class="uznesenie-filter">
     <strong>Filter</strong>
-    <app-filter [filter]="filter" (onFilter)="onFilter($event)"></app-filter>
+    <app-filter [options]="options" (onFilter)="onFilter($event)"></app-filter>
     <strong>Hladaj</strong>
     <app-search [search]="search" (onSearch)="onSearch($event)"></app-search>
   </div>

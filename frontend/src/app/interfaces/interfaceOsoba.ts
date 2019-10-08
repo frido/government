@@ -11,6 +11,10 @@ export class OsobaView {
   commissions: CommissionView[];
   offices: OfficeView[];
   deputies: DeputyView[];
+  departmentsView: DepartmentView[];
+  deputiesView: DeputyView[];
+  commissionsView: CommissionView[];
+  officesView: OfficeView[];
   klub?: string;
   fb?: string;
 

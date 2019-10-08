@@ -7,7 +7,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import frido.samosprava.core.client.JdkHttpClient;
 import frido.samosprava.core.client.WebClient;
-import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.collection.InMemoryCollections2;
 import frido.samosprava.core.store.DataStore;
 import frido.samosprava.core.store.HttpStore;
@@ -26,10 +25,10 @@ public class AppConfig {
     return new HttpStore(webClient(), "https://frido.github.io/government/db/");
   }
 
-  @Bean
-  public InMemoryCollections inMemoryCollections() {
-    return new InMemoryCollections(dataStore());
-  }
+//  @Bean
+//  public InMemoryCollections inMemoryCollections() {
+//    return new InMemoryCollections(dataStore());
+//  }
 
   @Bean
   public InMemoryCollections2 inMemoryCollections2() {

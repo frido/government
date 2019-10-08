@@ -1,4 +1,12 @@
-<i *ngFor="let office of poslanec.officesView" class="{{office.office.icon}} fa-2x icon-result"></i>
-<i *ngFor="let deputy of poslanec.deputiesView" class="fas fa-chess-pawn fa-2x icon-result"></i>
-<i *ngFor="let commission of poslanec.commissionsView" class="fas fa-chess-pawn fa-2x icon-result"></i>
-<i *ngFor="let department of poslanec.departmentsView" class="{{department.role.icon}} fa-2x icon-result"></i>
+<ng-container *ngFor="let office of poslanec.officesView">
+  <i *ngIf="office.to == null"  class="{{office.office.icon}} fa-2x icon-result"></i>
+</ng-container>
+<ng-container *ngFor="let deputy of poslanec.deputiesView">
+  <i *ngIf="deputy.to == null" class="fas fa-chess-pawn fa-2x icon-result"></i>
+</ng-container>
+<ng-container *ngFor="let commission of poslanec.commissionsView">
+  <i *ngIf="commission.to == null"  class="fas fa-chess-pawn fa-2x icon-result"></i>
+</ng-container>
+<ng-container *ngFor="let department of poslanec.departmentsView">
+  <i *ngIf="department.to == null"  class="{{department.role.icon}} fa-2x icon-result"></i>
+</ng-container>

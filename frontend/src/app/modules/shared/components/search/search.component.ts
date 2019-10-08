@@ -4,6 +4,7 @@ import { Component, Input, EventEmitter, Output } from '@angular/core';
   selector: 'app-search',
   templateUrl: './search.component.html'
 })
+// TODO: rewrite to be more easy
 export class SearchComponent {
   @Output() onSearch = new EventEmitter<SearchHolder>();
   @Input() search: SearchHolder;
