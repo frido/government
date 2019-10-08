@@ -43,4 +43,8 @@ class InMemoryCollectionsTest2 {
   void councils() {
     assertTrue(collections.councils().getAll().size() > 0);
   }
+  @Test
+  void budgets() {
+    assertTrue(collections.budgets().getAll().size() > 0);
+  }
 }

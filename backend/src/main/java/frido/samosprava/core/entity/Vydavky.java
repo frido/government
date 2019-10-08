@@ -6,6 +6,7 @@ public class Vydavky {
   private String program;
   private String title;
   private String comment;
+  private List<String> use;
   private List<Money> money;
   private List<Vydavky> sub;
 
@@ -38,5 +39,11 @@ public class Vydavky {
   }
   public void setSub(List<Vydavky> sub) {
     this.sub = sub;
+  }
+  public List<String> getUse() {
+    return use;
+  }
+  public void setUse(List<String> use) {
+    this.use = use;
   }
 }

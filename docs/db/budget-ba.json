@@ -2,7 +2,7 @@
   "budget": [
     {
       "id": 1,
-      "council": 1,
+      "councilId": 1,
       "sumar": [
         {
           "year": 2019,
