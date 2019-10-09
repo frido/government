@@ -1,0 +1,8 @@
+<div class="card" [class.opened]="opened">
+  <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
+    <span class="card-title">{{project.title}} - {{project.value | currency:'€'}}</span>
+  </div>
+  <div *ngIf="opened" class="card-detail">
+    <app-linkable section="uznesenia" [id]="project.resolutionId" [text]="'uznesenie č. ' + project.resolutionNumber"></app-linkable>
+  </div>
+</div>

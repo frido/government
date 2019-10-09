@@ -6,3 +6,11 @@ interface Budget {
   program: string;
   number: string;
 }
+
+interface Project {
+  title: string;
+  value: number;
+  resolutionId: number;
+  resolutionNumber: number;
+  resolutionTitle: string;
+}

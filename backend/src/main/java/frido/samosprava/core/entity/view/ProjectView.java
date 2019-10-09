@@ -6,6 +6,8 @@ public class ProjectView {
   private String title;
   private BigDecimal value;
   private Integer resolutionId;
+  private String resolutionTitle;
+  private Integer resolutionNumber;
 
   public String getTitle() {
     return title;
@@ -24,5 +26,17 @@ public class ProjectView {
   }
   public void setResolutionId(Integer resolutionId) {
     this.resolutionId = resolutionId;
+  }
+  public String getResolutionTitle() {
+    return resolutionTitle;
+  }
+  public void setResolutionTitle(String resolutionTitle) {
+    this.resolutionTitle = resolutionTitle;
+  }
+  public Integer getResolutionNumber() {
+    return resolutionNumber;
+  }
+  public void setResolutionNumber(Integer resolutionNumber) {
+    this.resolutionNumber = resolutionNumber;
   }
 }

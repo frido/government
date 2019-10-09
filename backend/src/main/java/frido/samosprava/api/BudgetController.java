@@ -42,15 +42,17 @@ class BudgetController {
     return new ResponseObject2(views);
   }
 
+  // TODO: zobrazit len tie pre tento rok, alebo zobrazit datum
   @GetMapping("/api/projects/{councilId}")
   public ProjectListView projects(@PathVariable int councilId) {
-    List<Resolution> resolutions = collections.resolutions().findByType("projekt");
+    List<Resolution> resolutions = collections.resolutions().findByTypeAndCouncilId("projekt", councilId);
     return new ProjectListView(collections, collectProjects(resolutions));
   }
 
+//TODO: zobrazit len tie pre tento rok, alebo zobrazit datum
   @GetMapping("/api/grants/{councilId}")
   public ProjectListView grants(@PathVariable int councilId) {
-    List<Resolution> resolutions = collections.resolutions().findByType("grants");
+    List<Resolution> resolutions = collections.resolutions().findByTypeAndCouncilId("grants", councilId);
     return new ProjectListView(collections, collectProjects(resolutions));
   }
 
@@ -63,11 +65,13 @@ class BudgetController {
           pv.setTitle(p.getTitle());
           pv.setValue(p.getValue());
           pv.setResolutionId(r.getId());
+          pv.setResolutionNumber(r.getNumber());
+          pv.setResolutionTitle(r.getTitle());
           projects.add(pv);
         }
       }
     }
-    return projects;
+    return projects.stream().sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(Collectors.toList());
   }
 
   private void collectBudgetView(List<BudgetView> views, Vydavky vydavky) {

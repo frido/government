@@ -144,9 +144,14 @@ export class ApiService {
 
   getRozpocet(spolokId: number): Observable<Budget[]> {
     return this.get(this.base + 'budget/' + spolokId)
-    // return this.get(this.base + 'budget/' + spolokId).pipe(
-    //   map((r: Rozpocet) => this.mapRozpocet(r))
-    // )
+  }
+
+  getProjects(spolokId: number): Observable<Budget[]> {
+    return this.get(this.base + 'projects/' + spolokId)
+  }
+
+  getGrants(spolokId: number): Observable<Budget[]> {
+    return this.get(this.base + 'grants/' + spolokId)
   }
 
   mapRozpocet(r: Rozpocet): Rozpocet {

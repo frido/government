@@ -1,7 +1,25 @@
 <app-menu></app-menu>
 <div class="content">
-  <ng-container *ngFor="let r of $rozpocet | async">
-    <app-budget [budget]="r"></app-budget>
-  </ng-container>
+  <app-tabs>
+
+    <app-tab tabTitle="Kapitalove vydavky">
+      <ng-container *ngFor="let r of $rozpocet | async">
+        <app-budget [budget]="r"></app-budget>
+      </ng-container>
+    </app-tab>
+
+    <app-tab tabTitle="Projekty">
+      <ng-container *ngFor="let p of $projects | async">
+        <app-project [project]="p"></app-project>
+      </ng-container>
+    </app-tab>
+
+    <app-tab tabTitle="Granty">
+      <ng-container *ngFor="let g of $grants | async">
+        <app-project [project]="g"></app-project>
+      </ng-container>
+    </app-tab>
+
+  </app-tabs>
 </div>
 <app-footer></app-footer>

@@ -7,3 +7,10 @@ http://localhost:5000/api/persons/2
 ###
 
 http://localhost:5000/api/budget/2
+###
+
+http://localhost:5000/api/projects/2
+
+###
+
+http://localhost:5000/api/grants/2
