@@ -1214,6 +1214,12 @@
           ]
         }
       ],
+      "projects": [
+        {
+          "title": "'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6",
+          "value": 6210
+        }
+      ],
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,

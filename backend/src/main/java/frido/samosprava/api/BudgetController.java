@@ -11,10 +11,14 @@ import org.springframework.web.bind.annotation.RestController;
 import frido.samosprava.core.collection.InMemoryCollections2;
 import frido.samosprava.core.entity.Budget;
 import frido.samosprava.core.entity.Money;
+import frido.samosprava.core.entity.Project;
+import frido.samosprava.core.entity.Resolution;
 import frido.samosprava.core.entity.ResponseObject2;
 import frido.samosprava.core.entity.UseKv;
 import frido.samosprava.core.entity.Vydavky;
 import frido.samosprava.core.entity.view.BudgetView;
+import frido.samosprava.core.entity.view.ProjectListView;
+import frido.samosprava.core.entity.view.ProjectView;
 
 @RestController
 class BudgetController {
@@ -36,6 +40,24 @@ class BudgetController {
     }
     views = views.stream().filter(v -> YEAR.equals(v.getYear())).sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(Collectors.toList());
     return new ResponseObject2(views);
+  }
+
+  @GetMapping("/api/projects/{councilId}")
+  public ProjectListView projects(@PathVariable int councilId) {
+    List<Resolution> resolutions = collections.resolutions().findByType("projekt");
+    List<ProjectView> projects = new ArrayList<>();
+    for (Resolution r : resolutions) {
+      if (r.getProjects() != null) {
+        for(Project p : r.getProjects() ) {
+          ProjectView pv = new ProjectView();
+          pv.setTitle(p.getTitle());
+          pv.setValue(p.getValue());
+          pv.setResolutionId(r.getId());
+          projects.add(pv);
+        }
+      }
+    }
+    return new ProjectListView(collections, projects);
   }
 
   private void collectBudgetView(List<BudgetView> views, Vydavky vydavky) {

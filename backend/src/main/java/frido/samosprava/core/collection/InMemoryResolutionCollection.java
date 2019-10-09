@@ -15,4 +15,8 @@ public class InMemoryResolutionCollection extends InMemoryBaseCollection<Resolut
     return data.values().stream().filter(x -> x.getCreatorIds() != null && x.getCreatorIds().contains(creatorId)).collect(Collectors.toList());
   }
 
+  public List<Resolution> findByType(String type) {
+    return data.values().stream().filter(x -> x.getType().equals(type)).collect(Collectors.toList());
+  }
+
 }

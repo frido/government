@@ -15,6 +15,7 @@ public class Resolution extends Record {
   private List<Integer> voteNoIds;
   private String presented;
   private String source;
+  private List<Project> projects;
 
 
 
@@ -104,5 +105,13 @@ public class Resolution extends Record {
 
   public void setSource(String source) {
     this.source = source;
+  }
+
+  public List<Project> getProjects() {
+    return projects;
+  }
+
+  public void setProjects(List<Project> projects) {
+    this.projects = projects;
   }
 }
