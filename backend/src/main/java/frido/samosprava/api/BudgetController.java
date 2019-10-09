@@ -55,6 +55,12 @@ class BudgetController {
         }
       }
     }
+
+    if (vydavky.getSub() != null) {
+      for (Vydavky sub : vydavky.getSub() ) {
+        collectBudgetView(views, sub);
+      }
+    }
   }
 
 }

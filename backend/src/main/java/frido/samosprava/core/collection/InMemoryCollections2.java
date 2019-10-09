@@ -109,8 +109,10 @@ public class InMemoryCollections2 {
 
   private void initBudget(String content) {
     BudgetList list;
+    System.out.println(content);
     try {
       list = mapper.readValue(content, BudgetList.class);
+      list.getBudget().forEach(System.out::println);
       budgetCollection.addAll(list.getBudget());
     } catch (IOException e) {
       e.printStackTrace();
