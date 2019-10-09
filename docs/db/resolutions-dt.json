@@ -1250,7 +1250,7 @@
     {
       "id": 1037,
       "number": 41,
-      "type": "projekt",
+      "type": "grants",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": null,
@@ -1264,6 +1264,15 @@
             "Folklórny súbor Detva, Občianske združenie: 2 150,-€ ",
             "Folklórny súbor Podpoľanec, Občianske združenie: 2 150,-€"
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Folklórny súbor Detva, Občianske združenie",
+          "value": 2150
+        }, {
+          "title": "Folklórny súbor Podpoľanec, Občianske združenie",
+          "value": 2150
         }
       ],
       "voteYesIds": [],

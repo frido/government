@@ -45,6 +45,16 @@ class BudgetController {
   @GetMapping("/api/projects/{councilId}")
   public ProjectListView projects(@PathVariable int councilId) {
     List<Resolution> resolutions = collections.resolutions().findByType("projekt");
+    return new ProjectListView(collections, collectProjects(resolutions));
+  }
+
+  @GetMapping("/api/grants/{councilId}")
+  public ProjectListView grants(@PathVariable int councilId) {
+    List<Resolution> resolutions = collections.resolutions().findByType("grants");
+    return new ProjectListView(collections, collectProjects(resolutions));
+  }
+
+  private List<ProjectView> collectProjects(List<Resolution> resolutions) {
     List<ProjectView> projects = new ArrayList<>();
     for (Resolution r : resolutions) {
       if (r.getProjects() != null) {
@@ -57,7 +67,7 @@ class BudgetController {
         }
       }
     }
-    return new ProjectListView(collections, projects);
+    return projects;
   }
 
   private void collectBudgetView(List<BudgetView> views, Vydavky vydavky) {
