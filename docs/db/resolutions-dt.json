@@ -1242,6 +1242,12 @@
           ]
         }
       ],
+      "projects": [
+        {
+          "title": "'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača",
+          "value": 6210
+        }
+      ],
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 15,
@@ -1283,7 +1289,7 @@
     {
       "id": 1038,
       "number": 42,
-      "type": "projekt",
+      "type": "grants",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": null,
@@ -1303,6 +1309,39 @@
             "DTF team Detva ( florbalový klub ): 8 000 €",
             "Športový klub Crazyrock Detva: 4 000 €"
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Klub športovej gymnastiky Detva",
+          "value": 8000
+        }, {
+          "title": "Mestský volejbalový klub Detva",
+          "value": 8000
+        }, {
+            "title": "Mestský futbalový klub Detva - na činnosť mládeže",
+            "value": 10000
+        }, {
+            "title": "Mestský futbalový klub Detva - na činnosť mužov",
+            "value": 10000
+        }, {
+            "title": "HC 07 Detva s.r.o - na extraligu v sezóne 2018/2019",
+            "value": 60000
+        }, {
+            "title": "HC 07 Detva s.r.o - na činnosť mládeže",
+            "value": 20000
+        }, {
+            "title": "Karate klub Detva",
+            "value": 6000
+        }, {
+            "title": "Kraso klub Detva",
+            "value": 3000
+        }, {
+            "title": "DTF team Detva ( florbalový klub )",
+            "value": 8000
+        }, {
+            "title": "Športový klub Crazyrock Detva",
+            "value": 4000
         }
       ],
       "voteYesIds": [],
@@ -2719,6 +2758,12 @@
           "descriptions": [
             "spolufinancovanie projektu „Zdravie na tanieri“ pre Základnú školu, Obrancov mieru 884/23, 962 12 Detva vo výške 750,-€"
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "'Zdravie na tanieri' pre Základnú školu, Obrancov mieru 884/23",
+          "value": 750
         }
       ],
       "voteYesIds": [],
