@@ -900,6 +900,12 @@
           ]
         }
       ],
+      "projects": [
+        {
+          "title": "Rekonštrukcia budovy ZŠ Turnianska, Bratislava za účelom navýšenia kapacít MŠ",
+          "value": 18740.72
+        }
+      ],
       "voteYesIds": [
         16,
         11,
@@ -2194,7 +2200,7 @@
     {
       "id": 86,
       "number": 45,
-      "type": "ine",
+      "type": "delegovanie",
       "councilId": 1,
       "meetingId": 5,
       "creatorIds": [36],
@@ -2458,7 +2464,7 @@
     {
       "id": 93,
       "number": 52,
-      "type": "ine",
+      "type": "projekt",
       "councilId": 1,
       "meetingId": 5,
       "creatorIds": [53],
@@ -2480,6 +2486,12 @@
           "descriptions":  [
             "primátora hlavného mesta SR Bratislavy, aby zabezpečil architektonicko-urbanistickú súťaž na štúdiu predmetnej lokality na základe petície občanov „Petícia proti výstavbe pri Sade Janka Kráľa a za zmenu funkcie územia Artmedia späť na šport“, ktorá bola adresovaná Hlavnému mestu SR Bratislava, zastúpeného primátorom."
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Urbanistická štúdia „Sad Janka Kráľa“",
+          "value": 0
         }
       ],
       "voteYesIds": [],
@@ -2504,6 +2516,12 @@
             "odporúča štúdiu zaslať na Magistrát hlavného mesta SR Bratislavy Sekciu územného plánovania a Útvar hlavnej architektky,",
             "odporúča štúdiu použiť ako podklad pre spracovanie generelu pešieho pohybu pre magistrát hlavného mesta SR Bratislavy."
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Štúdia pešieho pohybu Bratislava - Petržalka, lokalita Dvory",
+          "value": 0
         }
       ],
       "voteYesIds": [],
@@ -2531,6 +2549,12 @@
           ]
         }
       ],
+      "projects": [
+        {
+          "title": "Klimatické zmeny a Dunaj v pohraničnom regióne – Cezhraničná spolupráca miestnych samospráv a základných škôl",
+          "value": 3762.50
+        }
+      ],
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
@@ -2539,7 +2563,7 @@
     {
       "id": 96,
       "number": 55,
-      "type": "sprava",
+      "type": "info",
       "councilId": 1,
       "meetingId": 5,
       "creatorIds": [55],
@@ -2561,7 +2585,7 @@
     {
       "id": 97,
       "number": 56,
-      "type": "ine",
+      "type": "kontrola",
       "councilId": 1,
       "meetingId": 5,
       "creatorIds": [55],
@@ -2615,6 +2639,12 @@
           "descriptions":  [
             "mestskú časť o individuálne preverenie ďalších možností navrátenia budov MŠ Bratislava - Petržalka. "
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Obnovenie funkcie MŠ na Hrobákovej ul., Petržalka",
+          "value": 0
         }
       ],
       "voteYesIds": [],
@@ -3058,6 +3088,12 @@
           ]
         }
       ],
+      "projects": [
+        {
+          "title": "Rozšírenie kamerového systému v mestskej časti Bratislava-Petržalka",
+          "value": 28675.20
+        }
+      ],
       "voteYesIds": [],
       "voteNoIds": [],
       "presented": 0,
@@ -3107,7 +3143,7 @@
     }, {
       "id": 121,
       "number": 80,
-      "type": "ine",
+      "type": "odmena",
       "councilId": 1,
       "meetingId": 6,
       "creatorIds": [],
@@ -3170,7 +3206,7 @@
     }, {
       "id": 124,
       "number": 83,
-      "type": "projekt",
+      "type": "grants",
       "councilId": 1,
       "meetingId": 6,
       "creatorIds": [],
@@ -3233,6 +3269,12 @@
             "OZ JOKERIT, Smolenícka 12, 851 05 Bratislava na projekt „Výchova mládeže formou hokejbalu a účasť tímov Jokerit Petržalka na organizovaných súťažiach v roku 2019“ v sume 2 405,- EUR.",
             ". OZ DOMKA - Združenie saleziánskej mládeže, stredisko Bratislava - Mamateyova, Mamateyova 4, 851 04 Bratislava na projekt 'Darujem čas mladým' - 6 táborových podujatí ,v sume 2 500,-EUR. "
           ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "xxx",
+          "value": 0
         }
       ],
       "voteYesIds": [],
@@ -3372,6 +3414,12 @@
             ]
           }
         ],
+        "projects": [
+            {
+              "title": "Príprava osláv 100. výročia pripojenia Petržalky k ČSR",
+              "value": 31610
+            }
+          ],
         "voteYesIds": [],
         "voteNoIds": [],
         "presented": 0,
@@ -3470,7 +3518,7 @@
       }, {
         "id": 134,
         "number": 93,
-        "type": "ine",
+        "type": "projekt",
         "councilId": 1,
         "meetingId": 6,
         "creatorIds": [],
@@ -3518,6 +3566,12 @@
               "za prvého šéfredaktora novín vedúceho Oddelenia komunikácie s verejnosťou Radovana Cholevu."
             ]
           }
+        ],
+        "projects": [
+            {
+              "title": "Vznik regionálneho periodika pre mestskú časť Bratislava – Petržalka",
+              "value": 0
+            }
         ],
         "voteYesIds": [],
         "voteNoIds": [],
