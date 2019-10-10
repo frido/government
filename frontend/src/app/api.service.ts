@@ -29,15 +29,12 @@ export class ApiService {
       );
   }
 
-  // getSpolok(spolokKey: string): Observable<Spolok> {
-  //   return this.get(this.base + 'spolok/' + spolokKey);
-  // }
-
   getClenovia(spolokId: string): Observable<OsobaView[]> {
     return this.get(this.base + 'persons/' + spolokId)
-    // return this.get(this.base + 'clenovia/' + spolokKey).pipe(
-    //   map((poslanci: Osoba[]) => poslanci.map(p => this.mapOsoba(p)))
-    // );
+  }
+
+  getCouncil(spolokId: string): Observable<Spolok> {
+    return this.get(this.base + 'council/' + spolokId)
   }
 
   getUzneseniaCouncil(spolokId: number): Observable<Uznesenie[]> {

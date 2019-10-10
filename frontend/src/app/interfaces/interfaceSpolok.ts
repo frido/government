@@ -5,15 +5,15 @@ interface ResponseSpolok {
 interface Spolok {
   id: number;
   key: string;
-  meno: string;
-  title: string;
-  mayorTitle: string;
+  meno?: string;
+  title?: string;
+  mayorTitle?: string;
   clenovia?: number[];
   plat?: Plat;
   menu?: string[];
   //employee?: Employee[];
-  commission?: Commission[];
-  department?: Department[];
+  commissions?: Commission[];
+  departments?: Department[];
   office?: Office[];
   fb?: Fb;
 }

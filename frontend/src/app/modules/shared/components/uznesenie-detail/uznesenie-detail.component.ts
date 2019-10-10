@@ -13,12 +13,11 @@ export class UznesenieDetailComponent implements OnInit {
   @Input() vote = true;
   @Input() sumar = true;
   @Input() footer = true;
-  spolok: Spolok;
 
   constructor(private route: ActivatedRoute, private icons: IconResultService) { }
 
   ngOnInit(): void {
-    this.spolok = this.route.snapshot.data.spolok;
+
   }
 
   getClass(key: string): string {

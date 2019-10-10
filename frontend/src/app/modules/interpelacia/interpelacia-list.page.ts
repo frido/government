@@ -12,6 +12,5 @@ export class InterpelaciaListPage implements OnInit {
   constructor(private route: ActivatedRoute, private service: ApiService) {}
 
   ngOnInit() {
-    //this.$interpelacie = this.service.getInterpelacie(this.route.snapshot.data.spolok.key)
   }
 }

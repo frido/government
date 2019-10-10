@@ -10,15 +10,13 @@ import { OsobaView } from 'src/app/interfaces/interfaceOsoba';
 })
 export class PoslanciHelperPage implements OnInit {
   poslanci: OsobaView[];
-  spolok: Spolok = null;
   selected: OsobaView[] = [];
 
   constructor(private route: ActivatedRoute, private service: ApiService) { }
 
   ngOnInit() {
-    this.spolok = this.route.snapshot.data.spolok;
-
-    this.service.getClenovia("" + this.spolok.id).subscribe(data => this.poslanci = data);
+    const spolok = this.route.snapshot.data.spolok;
+    this.service.getClenovia("" + spolok.id).subscribe(data => this.poslanci = data);
   }
 
   selectAll() {

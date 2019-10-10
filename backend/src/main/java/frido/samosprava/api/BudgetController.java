@@ -42,6 +42,12 @@ class BudgetController {
     return new ResponseObject2(views);
   }
 
+  //TODO: presunit do vlastneho controllera
+   @GetMapping("/api/council/{councilId}")
+   public ResponseObject2 council(@PathVariable int councilId) {
+     return new ResponseObject2(collections.councils().findById(councilId));
+   }
+
   // TODO: zobrazit len tie pre tento rok, alebo zobrazit datum
   @GetMapping("/api/projects/{councilId}")
   public ProjectListView projects(@PathVariable int councilId) {
