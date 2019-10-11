@@ -4525,6 +4525,72 @@
             "voteNoIds": [],
             "presented": 0,
             "source": ""
+        },
+        {
+            "id": 158,
+            "number": 117,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 8,
+            "creatorIds": [],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č...../2019 zo dňa ......2019 o dočasnom parkovaní motorových vozidiel ",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka o dočasnom parkovaní motorových vozidiel"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 159,
+            "number": 118,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 8,
+            "creatorIds": [],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č..../2019 z 09. septembra 2019, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 6/2015 z 22. septembra 2015 o poskytovaní nenávratného finančného príspevku na vzdelávanie detí v súkromných materských školách v znení všeobecne záväzného nariadenia č. 3/2016 z 28. júna 2016",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č..../2019 z 09. septembra 2019, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti BratislavaPetržalka č. 6/2015 z 22. septembra 2015 o poskytovaní nenávratného finančného príspevku na vzdelávanie detí v súkromných materských školách v znení všeobecne záväzného nariadenia č. 3/2016 z 28. júna 2016. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 160,
+            "number": 119,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 8,
+            "creatorIds": [],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 12/2017 z 12. decembra 2017 o poskytovaní dotácií pre veľké kluby v oblasti športu z rozpočtu mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 5/2018 a všeobecne záväzného nariadenia č. 5/2019 ",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 12/2017 z 12. decembra 2017 o poskytovaní dotácií pre veľké kluby v oblasti športu z rozpočtu mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 5/2018 a všeobecne záväzného nariadenia č. 5/2019. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
         }
     ]
 }
