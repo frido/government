@@ -49,6 +49,12 @@
       "date": "09.09.2019",
       "time": "18:00",
       "place": "v sále CC Centra, Jiráskova č.3, Bratislava"
+    }, {
+      "id": 9,
+      "councilId": 1,
+      "date": "30.09.2019",
+      "time": "09:00",
+      "place": "v spoločenskej miestnosti č. 2, Ekonomickej Univerzity v Bratislave, Dolnozemská cesta č. 1, Bratislava"
     }
   ]
 }
