@@ -29,6 +29,9 @@ Stanovisko
 
 ---Rozpocet
 Návrh rozpočtu
+Návrh úpravy rozpočtu
+Aktualizácia rozpočtu
+Záverečný účet
 
 ---Vzn
 vzn
@@ -40,17 +43,16 @@ projekt
 Návrh plánu kontrolnej činnosti
 Plán práce hlavného kontrolóra 
 Plán práce
+Plán investičných akcií
+Návrh zámeru -- Projekt
 
 ---Peticia
 Petícia
+Memorandum 
 
 ---Prenajom
 predĺženie prenájmu
 prenájom nebytových priestorov
-
----Rozpocet
-Návrh úpravy rozpočtu
-Aktualizácia rozpočtu
 
 ---Pravidelne
 Kontrola plnenia uznesení
@@ -82,25 +84,22 @@ Schválenie investičného úveru
 ---Novelizacia
 Návrh Dodatku
 Novelizácia Pravidiel kontrolnej činnosti
-
----
-
-zverenie objektu ... do ...
-Návrh zámeru
-Zásad hospodárenia
-Žiadosť o vysporiadanie pozemkov
-Návrh na obstaranie a spracovanie urbanistickej štúdie
-Záverečný účet
 Oprava uznesenia
-Vstúpenie do sporu
-Zásady hospodárenia
-Návrh uznesenia na zverejňovanie miezd
-Memorandum 
-Poskytovanie nenávratného finančného
 Dodatok č.1 k Zásadám
-podporu študentských projektov
-Návrh na podporu vybudovania
-Plán investičných akcií
+Zásady hospodárenia
+Zásad hospodárenia
+Návrh uznesenia na zverejňovanie miezd
+
+---Pozemky
+zverenie objektu ... do ...
+Žiadosť o vysporiadanie pozemkov
 Zámena pozemkov 
 Zriadenie vecného bremena
+
+--Support
+Návrh na obstaranie a spracovanie urbanistickej štúdie
+Vstúpenie do sporu
+Poskytovanie nenávratného finančného
+podporu študentských projektov
+Návrh na podporu vybudovania
 Zaradenie elokovaného pracoviska
