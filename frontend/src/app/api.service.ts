@@ -103,7 +103,7 @@ export class ApiService {
         const c = new CommissionView();
         const council = spolky.find(s => s.id === selectedCommission.council);
         c.councilName = council.meno;
-        c.name = council.commission.find(cc => cc.id === selectedCommission.fk).name;
+        c.name = council.commissions.find(cc => cc.id === selectedCommission.fk).name;
         c.chairman = selectedCommission.chairman;
         c.period = selectedCommission.period;
         c.fk = selectedCommission.fk;
@@ -125,7 +125,7 @@ export class ApiService {
       personView.departments = poslanec.departments.map(d => {
         const council = spolky.find(s => s.id === d.council);
         const departmentView = new DepartmentView();
-        const councilDepartment = council.department.find(cd => cd.id === d.department)
+        const councilDepartment = council.departments.find(cd => cd.id === d.department)
         departmentView.title = councilDepartment.name;
         const councilDepartmentRole = councilDepartment.role.find(r => r.id === d.role);
         departmentView.role = councilDepartmentRole.name;
