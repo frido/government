@@ -37,6 +37,12 @@
       "date": "10.06.2019",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+    }, {
+      "id": 7,
+      "councilId": 1,
+      "date": "25.06.2019",
+      "time": "09:00",
+      "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }
   ]
 }
