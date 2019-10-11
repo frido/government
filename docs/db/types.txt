@@ -1,0 +1,106 @@
+--- Info
+Informacia
+Správa o kontrole
+Správa o plnení
+Informácia o vzdaní sa 
+Informácia o kontrolnej činnosti
+Aktuálny stav
+Pedagogicko-organizačné zabezpečenie školského roka
+
+---Delegovanie
+poverenie poslanca
+ustanovenie poslancov
+zaradenie do komusii
+volba clenov
+voľbu neposlancov
+Ustanovenie poslancov do funkcie
+vznik pracovnej skupiny
+Zriadenie komisie dopravy
+Návrh na zriadenie
+Vyhlásenie voľby hlavného kontrolóra
+
+---Plat
+urcenie platu
+priznanie odmeny
+
+---Stanovisko
+Odmietavé stanovisko
+Stanovisko
+
+---Rozpocet
+Návrh rozpočtu
+
+---Vzn
+vzn
+
+---Project
+projekt
+
+---Plan
+Návrh plánu kontrolnej činnosti
+Plán práce hlavného kontrolóra 
+Plán práce
+
+---Peticia
+Petícia
+
+---Prenajom
+predĺženie prenájmu
+prenájom nebytových priestorov
+
+---Rozpocet
+Návrh úpravy rozpočtu
+Aktualizácia rozpočtu
+
+---Pravidelne
+Kontrola plnenia uznesení
+Informácia o prijatých opatreniach
+
+---Dotacie
+Poskytnutie dotácií
+
+---Predaj
+Odpredaj pozemku
+
+---Nakup
+Odkúpenie pozemku
+
+---Rozne
+rozne
+
+---Grants
+Schválenie dotácií
+
+---Schvalenie
+Schválenie Územného plánu
+Schválenie zmlúv
+Schválenie ceny vody
+schválenie mesačného platu
+Schválenie nájmu
+Schválenie investičného úveru
+
+---Novelizacia
+Návrh Dodatku
+Novelizácia Pravidiel kontrolnej činnosti
+
+---
+
+zverenie objektu ... do ...
+Návrh zámeru
+Zásad hospodárenia
+Žiadosť o vysporiadanie pozemkov
+Návrh na obstaranie a spracovanie urbanistickej štúdie
+Záverečný účet
+Oprava uznesenia
+Vstúpenie do sporu
+Zásady hospodárenia
+Návrh uznesenia na zverejňovanie miezd
+Memorandum 
+Poskytovanie nenávratného finančného
+Dodatok č.1 k Zásadám
+podporu študentských projektov
+Návrh na podporu vybudovania
+Plán investičných akcií
+Zámena pozemkov 
+Zriadenie vecného bremena
+Zaradenie elokovaného pracoviska
