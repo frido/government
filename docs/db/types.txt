@@ -1,0 +1,105 @@
+--- Info
+Informacia
+Správa o kontrole
+Správa o plnení
+Informácia o vzdaní sa 
+Informácia o kontrolnej činnosti
+Aktuálny stav
+Pedagogicko-organizačné zabezpečenie školského roka
+
+---Delegovanie
+poverenie poslanca
+ustanovenie poslancov
+zaradenie do komusii
+volba clenov
+voľbu neposlancov
+Ustanovenie poslancov do funkcie
+vznik pracovnej skupiny
+Zriadenie komisie dopravy
+Návrh na zriadenie
+Vyhlásenie voľby hlavného kontrolóra
+
+---Plat
+urcenie platu
+priznanie odmeny
+
+---Stanovisko
+Odmietavé stanovisko
+Stanovisko
+
+---Rozpocet
+Návrh rozpočtu
+Návrh úpravy rozpočtu
+Aktualizácia rozpočtu
+Záverečný účet
+
+---Vzn
+vzn
+
+---Project
+projekt
+
+---Plan
+Návrh plánu kontrolnej činnosti
+Plán práce hlavného kontrolóra 
+Plán práce
+Plán investičných akcií
+Návrh zámeru -- Projekt
+
+---Peticia
+Petícia
+Memorandum 
+
+---Prenajom
+predĺženie prenájmu
+prenájom nebytových priestorov
+
+---Pravidelne
+Kontrola plnenia uznesení
+Informácia o prijatých opatreniach
+
+---Dotacie
+Poskytnutie dotácií
+
+---Predaj
+Odpredaj pozemku
+
+---Nakup
+Odkúpenie pozemku
+
+---Rozne
+rozne
+
+---Grants
+Schválenie dotácií
+
+---Schvalenie
+Schválenie Územného plánu
+Schválenie zmlúv
+Schválenie ceny vody
+schválenie mesačného platu
+Schválenie nájmu
+Schválenie investičného úveru
+
+---Novelizacia
+Návrh Dodatku
+Novelizácia Pravidiel kontrolnej činnosti
+Oprava uznesenia
+Dodatok č.1 k Zásadám
+Zásady hospodárenia
+Zásad hospodárenia
+Návrh uznesenia na zverejňovanie miezd
+
+---Pozemky
+zverenie objektu ... do ...
+Žiadosť o vysporiadanie pozemkov
+Zámena pozemkov 
+Zriadenie vecného bremena
+
+--Support
+Návrh na obstaranie a spracovanie urbanistickej štúdie
+Vstúpenie do sporu
+Poskytovanie nenávratného finančného
+podporu študentských projektov
+Návrh na podporu vybudovania
+Zaradenie elokovaného pracoviska

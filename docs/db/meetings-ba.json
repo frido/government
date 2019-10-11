@@ -37,6 +37,24 @@
       "date": "10.06.2019",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+    }, {
+      "id": 7,
+      "councilId": 1,
+      "date": "25.06.2019",
+      "time": "09:00",
+      "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
+    }, {
+      "id": 8,
+      "councilId": 1,
+      "date": "09.09.2019",
+      "time": "18:00",
+      "place": "v sále CC Centra, Jiráskova č.3, Bratislava"
+    }, {
+      "id": 9,
+      "councilId": 1,
+      "date": "30.09.2019",
+      "time": "09:00",
+      "place": "v spoločenskej miestnosti č. 2, Ekonomickej Univerzity v Bratislave, Dolnozemská cesta č. 1, Bratislava"
     }
   ]
 }
