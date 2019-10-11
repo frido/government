@@ -3980,6 +3980,551 @@
             "voteNoIds": [],
             "presented": 0,
             "source": ""
+        },
+        {
+            "id": 139,
+            "number": 98,
+            "type": "kontrola",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Kontrola plnenia uznesení Miestneho zastupiteľstva mestskej časti Bratislava k 18.06.2019 ",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "Kontrolu plnenia uznesení Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka k 18. 06. 2019. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 140,
+            "number": 99,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Zásady hospodárenia a nakladania s majetkom mestskej časti BratislavaPetržalka a s majetkom zvereným jej do správy hlavným mestom Bratislavou",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "Zásady hospodárenia a nakladania s majetkom mestskej časti Bratislava-Petržalka a s majetkom zvereným jej do správy hlavným mestom SR Bratislavou s prílohou. ",
+                        "V článku 18 ods.2 sa za písmenom h) vkladá nové písmeno i) „poskytnutie zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v MŠ v zriaďovateľskej pôsobnosti MČ“. Doterajšie písmená i) až l) sa označujú ako písmená j) až m)"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 141,
+            "number": 100,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 4/2013, všeobecne záväzného nariadenia č. 3/2015 a všeobecne záväzného nariadenia č. 4/2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 4/2013, všeobecne záväzného nariadenia č. 3/2015 a všeobecne záväzného nariadenia č. 4/2019 "
+                    ]
+                }, {
+                    "title": "splnomocňuje",
+                    "descriptions": [
+                        "starostu mestskej časti Bratislava-Petržalka vydať úplné znenie Všeobecne záväzného nariadenia č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 4/2013 a všeobecne záväzného nariadenia č. 3/2015, všeobecne záväzného nariadenia č. 4/2019 a všeobecne záväzného nariadenia schváleného dňa 25.06.2019. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 142,
+            "number": 101,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka o poskytnutí zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole v zriaďovateľskej pôsobnosti mestskej časti BratislavaPetržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka o poskytnutí zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 143,
+            "number": 102,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Pedagogicko-organizačné zabezpečenie školského roka 2019/2020 v základných školách a v materských školách v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "Pedagogicko-organizačné zabezpečenie školského roka 2019/2020 v základných školách a v materských školách v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka "
+                    ]
+                }, {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "počty tried I. ročníka a z toho počty špeciálnych tried v základných školách v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka na školský rok 2019/2020"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 144,
+            "number": 103,
+            "type": "rozpocet",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 ",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 nasledovne: ",
+                        " zvýšenie bežných príjmov o 50 000 € ",
+                        " zvýšenie príjmových finančných operácií o 600 000 €",
+                        " zvýšenie bežných výdavkov o 50 000 € ",
+                        " zvýšenie kapitálových výdavkov o 600 000 € z prostriedkov rezervného fondu "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 145,
+            "number": 104,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Stanovisko miestneho zastupiteľstva k vráteniu zvereného majetku",
+            "description": "",
+            "results": [
+                {
+                    "title": "súhlasí",
+                    "descriptions": [
+                        "v súlade s článkom 84 ods. 2 Štatútu hlavného mesta SR Bratislavy a v súčinnosti s článkom 84 ods. 1 písm. c) Štatútu hlavného mesta SR Bratislavy s vrátením nehnuteľného majetku zvereného do správa mestskej časti Bratislava-Petržalka, na ktorých hlavné mesto zabezpečí obnovu celého Sadu Janka Kráľa, zrealizuje nové verejné osvetlenie pozdĺž Chorvátskeho ramena a vybuduje bezbariérové priechody na nasledovných komunikáciách v správe mestskej časti Bratislava-Petržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 146,
+            "number": 105,
+            "type": "najom",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na predĺženie prenájmu časti pozemku, parc. č. 2844/1 pre Great Foods Slovakia s.r.o.",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "ako prípad hodný osobitného zreteľa v zmysle §9a ods. 9 písm. c) zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, nájom časti pozemku registra „C“KN v k.ú. Petržalka, parc. č. 2844/1 vo výmere 177,16 m2, ostatná plocha, pre Great Foods Slovakia s.r.o., Mlynarovičova 19, Bratislava, IČO : 52358917, za cenu 77,80 €/m2/rok pod stánkom (29,12 m2) , 26,- €/m2/rok pod terasou (65,42 m2), 10,- € vonkajšie sedenie – štrková plocha ( 50,38 m2) a 5,20 €/m2/rok manipulačná plocha (32,24 m2), celkovo za 4 637,89 €/rok , na dobu určitú do 31.12.2023"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 147,
+            "number": 106,
+            "type": "najom",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte na Osuského 1, 851 03 Bratislava pre D&T CARS s.r.o.",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "ako prípad hodný osobitného zreteľa, podľa § 9a ods. 9 písm. c) zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov prenájom nebytových priestorov - v objekte na Osuského 1, 851 03 Bratislava, súpisné číslo 2476, s celkovou výmerou 94,95 m2 v k. ú. Petržalka, zapísaného na LV č. 2732, pre žiadateľa D&T CARS s.r.o., Kočánkova 7, 851 04 Bratislava, IČO: 45 687 064, na dobu určitú do 31. 12. 2023, za cenu 5 032,35 €/rok. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 148,
+            "number": 107,
+            "type": "najom",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na prenájom nebytových priestorov v objekte ZŠ Gessayova 2 pre MUDr. Annu Takáčovú",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "ako prípad hodný osobitného zreteľa podľa § 9a ods.9 písm. c) zák.č.138/1991 Zb. v znení neskorších predpisov prenájom nebytových priestorov (ambulancia, čakáreň, sociálne zariadenie) o celkovej výmere 38,1m2 v pavilóne B3, II. nadzemné podlažie v objekte Základnej školy Gessayova 2, 851 03 Bratislava, súpisné číslo 1629, postaveného na pozemku reg. „C“ KN parc.č. 1060, zapísaného na LV 4550, pre MUDr. Annu Takáčovú, bytom Smikova 1, 831 02 Bratislava, IČO: 31760961, za účelom prevádzky zubnej ambulancie Gessayova 2, 852 66 Bratislava, na dobu určitú od 01.07.2019 do 30.06.2022, za cenu 50,00 €/m2 /rok, celkovo za 1905,00 Eur/rok "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 149,
+            "number": 108,
+            "type": "najom",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na predlženie prenájmu časti pozemku, parc. č. 155 pre Reného Krumpála – Mareti, Furdekova 8, 851 03 Bratislava ",
+            "description": "",
+            "results": [
+                {
+                    "title": "neschvaľuje",
+                    "descriptions": [
+                        "ako prípad hodný osobitného zreteľa v zmysle § 9 a ods. 9 písm. c) zák. SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov, prenájom časti pozemku registra „C“ KN v k. ú. Petržalka, parc. č.155 o výmere 4,00 m2 – ostatné plochy, LV 1784, pre žiadateľa Reného Krumpála – Mareti , Furdekova 8, 851 03 Bratislava, za účelom umiestnenia informačnej tabule, na dobu určitú do 31.12.2023 za cenu 48,20 €/m2/rok, čo prestavuje ročne sumu 192,80 €. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 150,
+            "number": 109,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na odvolanie a voľbu členov rady Fondu statickej dopravy mestskej časti Bratislava-Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "ruší",
+                    "descriptions": [
+                        "Uznesenie č. 121 zo dňa 8.2.2000, ktorým sa zriaďuje účelový mimorozpočtový peňažný Fond statickej dopravy, určený na prípravu, uskutočnenie výstavby, prevádzku a údržbu zariadení statickej dopravy v správe mestskej časti, ",
+                        "zostatok finančných prostriedkov vo Fonde statickej dopravy vo výške 1 826,26 € presunúť na účet Rezervného fondu  "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 151,
+            "number": 110,
+            "type": "grants",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na poskytnutie dotácií z rozpočtu mestskej časti v zmysle VZN č. 12/2017 o poskytovaní dotácií pre veľké kluby v oblasti športu",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "poskytnutie dotácií pre: ",
+                        "FC Petržalka, družstvo v sume 30 713,92 € ",
+                        "Hockey club Petržalka 2010, o.z. v sume 10 140,84 € ",
+                        "ŠK Juventa Bratislava, o.z. v sume 3962,92 € ",
+                        "MŠK Iskra Petržalka, o.z. v sume 11 364,73 € ",
+                        "Športový klub polície Bratislava, o.z. v sume 14 438,74 €",
+                        "Rekreačný beh, o.z. v sume 8334,14 €",
+                        "Klub modernej gymnastiky Danubia, o.z. v sume 10 001,99 €",
+                        "Snipers, o.z. v sume 2 124,21 €"
+                    ]
+                }, {
+                    "title": "neschvaľuje",
+                    "descriptions": [
+                        "poskytnutie dotácií pre: ",
+                        "Školský športový klub B.S.C. Bratislava, o.z. v sume 15 559,28 €",
+                        "Gymnastické centrum, o.z. v sume 10 390,80 €",
+                        "Presunúť schvaľovanie dotácií pre tieto dva kluby na nasledujúce MiZ, po novele VZN."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "FC Petržalka, družstvo",
+                    "value": 30713.92
+                }, {
+                    "title": "Hockey club Petržalka 2010, o.z.",
+                    "value": 10140.84
+                }, {
+                    "title": "ŠK Juventa Bratislava, o.z.",
+                    "value": 3962.92
+                }, {
+                    "title": "MŠK Iskra Petržalka, o.z.",
+                    "value": 11364.73
+                }, {
+                    "title": "Športový klub polície Bratislava, o.z.",
+                    "value": 14438.74
+                }, {
+                    "title": "Rekreačný beh, o.z.",
+                    "value": 8334.14
+                }, {
+                    "title": "Klub modernej gymnastiky Danubia, o.z.",
+                    "value": 10001.99
+                }, {
+                    "title": "Snipers, o.z.",
+                    "value": 2124.21
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 152,
+            "number": 111,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh uznesenia na zverejňovanie miezd, platov, odmien alebo platových pomerov",
+            "description": "",
+            "results": [
+                {
+                    "title": "deklaruje",
+                    "descriptions": [
+                        "záujem zvýšiť transparentnosť a zlepšiť informovanosť obyvateľov mestskej časti BratislavaPetržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 153,
+            "number": 112,
+            "type": "kontrola",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh plánu kontrolnej činnosti miestneho kontrolóra mestskej časti BratislavaPetržalka na obdobie od 1. júla do 31. decembra 2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Plán kontrolnej činnosti miestneho kontrolóra mestskej časti Bratislava-Petržalka na obdobie od 1. júla 2019 do 31. decembra 2019"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 154,
+            "number": 113,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na zriadenie Mediálnej rady Petržalky, návrh na voľbu predsedu a členov tejto rady a návrh na schválenie jej Štatútu",
+            "description": "",
+            "results": [
+                {
+                    "title": "zriaďuje",
+                    "descriptions": [
+                        "Mediálnu radu Petržalky ako svoj stály iniciatívny, poradný a kontrolný orgán plniaci úlohy v rámci svojej pôsobnosti v zmysle svojho Štatútu schváleného podľa bodu F. tohto uznesenia, "
+                    ]
+                }, {
+                    "title": "žiada",
+                    "descriptions": [
+                        "starostu aby rozhodol o tom, že Mediálna rada Petržalky bude aj jeho poradným orgánom a nominoval do tohto orgánu svojho zástupcu",
+                        "starostu aby zabezpečoval pre potreby Mediálnej rady Petržalky monitoring mediálnych formátov zmluvných partnerov a iných mediálnych partnerov mestskej časti Bratislava – Petržalka, ktorého rozsah a obsah spresní táto rada svojím uznesením, s cieľom umožniť plnenie jej úloh, najmä kontroly objektívnosti a vyváženosti týchto formátov",
+                        "formou dodatkov k zmluvám so zmluvnými partnermi, ktorí sa podieľajú na propagácii mestskej časti Bratislava – Petržalka, upravil tieto zmluvy tak, aby boli v súlade s ustanoveniami Štatútu Mediálnej rady Petržalky a zaslal tieto dodatky predsedovi Mediálnej rady Petržalky na vedomie, ",
+                        "upravil interné predpisy mestskej časti Bratislava – Petržalka a Miestneho úradu mestskej časti Bratislava – Petržalka tak, aby boli v súlade s ustanoveniami Štatútu Mediálnej rady Petržalky a zaslal ich predsedovi Mediálnej rady Petržalky na vedomie, ",
+                        "aby poskytoval technické, administratívne, organizačné a finančné zabezpečenie potrebné na činnosť Mediálnej rady Petržalky v súlade so Štatútom tejto rady",
+                        "aby vyčlenil v rozpočte mestskej časti Bratislava – Petržalka potrebné finančné prostriedky na zaobstaranie monitoringu podľa bodu G. tohto uznesenia"
+                    ]
+                }, {
+                    "title": "volí",
+                    "descriptions": [
+                        "za predsedu Mediálnej rady Petržalky: Ľuboša Kačírka"
+                    ]
+                }, {
+                    "title": "volí",
+                    "descriptions": [
+                        "za členov Mediálnej rady Petržalky týchto poslancov Miestneho zastupiteľstva mestskej časti Bratislava - Petržalka: ",
+                        "Miroslav Dragun ",
+                        "Ľuboš Kačírek",
+                        "Juraj Kríž ",
+                        "Natália Podhorná ",
+                        "Milan Vetrák"
+                    ]
+                }, {
+                    "title": "ukladá",
+                    "descriptions": [
+                        "predsedovi Mediálnej rady Petržalky predložiť na zasadnutie Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka návrhy na voľbu ďalších členov Mediálnej rady Petržalky z radov občanov – neposlancov, "
+                    ]
+                }, {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Štatút Mediálnej rady Petržalky v znení uvedenom v prílohe č. 1 k tomuto materiálu, "
+                    ]
+                }, {
+                    "title": "ukladá",
+                    "descriptions": [
+                        " riaditeľom rozpočtových a príspevkových organizácií mestskej časti Bratislava-Petržalka, aby upravili interné predpisy svojich organizácií tak, aby boli v súlade s ustanoveniami Štatútu Mediálnej rady Petržalky a zaslali tieto predpisy predsedovi Mediálnej rady Petržalky na vedomie "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 155,
+            "number": 114,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na voľbu vedúceho a členov pracovnej skupiny na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "že zástupcom starostu v Pracovnej skupine na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov bude prednosta Miestneho úradu mestskej časti Bratislava – Petržalka Peter Šinály"
+                    ]
+                }, {
+                    "title": "volí",
+                    "descriptions": [
+                        "za vedúceho Pracovnej skupiny na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov prednostu Miestneho úradu mestskej časti Bratislava – Petržalka Petra Šinályho "
+                    ]
+                }, {
+                    "title": "volí",
+                    "descriptions": [
+                        "za členov Pracovnej skupiny na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov týchto poslancov miestneho zastupiteľstva: ",
+                        "Ján Karman ",
+                        "Branislav Kleinert",
+                        "Pavel Šesták",
+                        "Milan Vetrák"
+                    ]
+                }, {
+                    "title": "volí",
+                    "descriptions": [
+                        "za členov Pracovnej skupiny na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov týchto odborníkov z radov občanov – neposlancov: ",
+                        "Ing. Ivan Krechňák ",
+                        "JUDr. Peter Marič",
+                        "Ing. Ľuboš Plšek",
+                        "Ing. Miroslav Verčimák"
+                    ]
+                }, {
+                    "title": "ukladá",
+                    "descriptions": [
+                        "vedúcemu Pracovnej skupiny na revíziu zmluvy č. 023/93 o nájme v znení jej dodatkov vypracovať rokovací poriadok tejto pracovnej skupiny a predložiť ho jej členom na schválenie"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 156,
+            "number": 115,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Návrh na voľbu Daniela Heviera za člena komisie kultúry a mládeže",
+            "description": "",
+            "results": [
+                {
+                    "title": "neschvaľuje",
+                    "descriptions": [
+                        "Daniela Heviera za člena Komisie kultúry a mládeže "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
+        },
+        {
+            "id": 157,
+            "number": 116,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 7,
+            "creatorIds": [],
+            "title": "Memorandum o vzájomnej spolupráci Mestskej časti Bratislava-Petržalka s Fakultou elektrotechniky a informatiky Slovenskej technickej univerzity v Bratislave",
+            "description": "",
+            "results": [
+                {
+                    "title": "súhlasí",
+                    "descriptions": [
+                        "s vytvorením vzájomnej spolupráce medzi Mestskou časťou Bratislava-Petržalka a Fakultou elektrotechniky a informatiky Slovenskej technickej univerzity v Bratislave na základe memoranda o vzájomnej spolupráci uvedeného v Prílohe - MEMORANDUM O VZÁJOMNEJ SPOLUPRÁCI. "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": ""
         }
     ]
 }
