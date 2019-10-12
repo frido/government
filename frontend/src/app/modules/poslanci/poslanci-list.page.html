@@ -3,11 +3,9 @@
   <div class="uznesenie-filter">
     <strong>Rola</strong>
     <app-filter [options]="optionsRole" (onFilter)="onFilterRole($event)"></app-filter>
-  </div><div class="uznesenie-filter">
-      <strong>Komisia</strong>
+    <strong>Komisia</strong>
     <app-filter [options]="optionsCommision" (onFilter)="onFilterCommision($event)"></app-filter>
-  </div><div class="uznesenie-filter">
-      <strong>Oddelenie</strong>
+    <strong>Oddelenie</strong>
     <app-filter [options]="optionsDepartment" (onFilter)="onFilterDepartment($event)"></app-filter>
   </div>
   <ng-container *ngFor="let p of $poslanci | async">

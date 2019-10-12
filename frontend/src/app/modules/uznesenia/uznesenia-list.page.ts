@@ -37,7 +37,7 @@ export class UzneseniaListPage implements OnInit {
   selectMeeting(meeting: MeetingResolutionList) {
     this.service.getUzneseniaMeeting(meeting.meeting.id).subscribe(
       x => {
-        meeting.resolutions = x;
+        meeting.resolutions = x.reverse();
         meeting.loaded = true;
         this.applyFilter();
       }

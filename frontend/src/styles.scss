@@ -4,7 +4,7 @@
 body {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    background-color: $background;
+    // background-color: $background;
     color: $text-color;
 }
 a {
@@ -282,7 +282,13 @@ a.header-nav-item:hover {
         color: $disable-color;
     }
     strong {
-        padding-right: $margin * 2;
+        padding-right: $margin;
+    }
+    select, input {
+      margin-right: $margin * 2;
+      padding: 3px 0;
+      border: solid 1px $primary-color;
+      border-radius: $border-radius;
     }
 }
 .uznesenie-filter-item {

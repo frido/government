@@ -663,7 +663,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "01.12.2018", "to": "01.07.2019",
           "fk": 1,
           "chairman": false
         }
@@ -1081,7 +1081,20 @@
         }
       ],
       "role": 3
-    }
+    }, {
+      "id": 1048,
+      "name": "Peter Ondriáš",
+      "prefix": "",
+      "commissions": [
+        {
+          "councilId": 2,
+          "period": "2018/2022", "from": "01.07.2019", "to": null,
+          "fk": 1,
+          "chairman": false
+        }
+      ],
+      "role": 3
+    },
 
   ]
 }
