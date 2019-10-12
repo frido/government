@@ -353,6 +353,13 @@
           "chairman": false
         }
       ],
+      "offices": [
+        {
+          "councilId": 2,
+          "from": "01.12.2018", "to": null,
+          "roleId": 9
+        }
+      ],
       "club": null,
       "fb": null,
       "role": 1
@@ -665,7 +672,7 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
-          "roleId": 7
+          "roleId": 2
         }
       ],
       "role": 3
@@ -1010,6 +1017,66 @@
         {
           "councilId": 2,
           "from": "01.12.2018", "to": null,
+          "roleId": 7
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1044,
+      "name": "Beáta Mikušová",
+      "prefix": "Ing. arch.",
+      "commissions": [],
+      "departments": [],
+      "offices": [
+        {
+          "councilId": 2,
+          "from": "01.12.2018", "to": null,
+          "roleId": 8
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1045,
+      "name": "Rastislav Gonda",
+      "prefix": "Ing.",
+      "commissions": [],
+      "departments": [],
+      "offices": [
+        {
+          "councilId": 2,
+          "from": "01.12.2018", "to": null,
+          "roleId": 2
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1046,
+      "name": "Eva Budáčová",
+      "prefix": "Ing.",
+      "commissions": [],
+      "departments": [],
+      "offices": [
+        {
+          "councilId": 2,
+          "from": "01.12.2018", "to": null,
+          "roleId": 10
+        }
+      ],
+      "role": 3
+    },
+    {
+      "id": 1047,
+      "name": "Jana Pálková",
+      "prefix": "Ing.",
+      "commissions": [],
+      "departments": [],
+      "offices": [
+        {
+          "councilId": 2,
+          "from": "01.12.2018", "to": "23.03.2019",
           "roleId": 7
         }
       ],
