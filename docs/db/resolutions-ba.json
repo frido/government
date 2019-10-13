@@ -2706,7 +2706,7 @@
             "voteYesIds": [],
             "voteNoIds": [],
             "presented": 0,
-            "source": ""
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/03/Uznesenia-MZ-26.03.2019.pdf"
         },
         {
             "id": 99,
@@ -2728,7 +2728,7 @@
             "voteYesIds": [],
             "voteNoIds": [],
             "presented": 0,
-            "source": ""
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/03/Uznesenia-MZ-26.03.2019.pdf"
         },
         {
             "id": 100,
@@ -2736,7 +2736,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 5,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu Všeobecne záväzného nariadenia hlavného mesta SR Bratislavy o dočasnom parkovaní motorových vozidiel ",
             "description": "",
             "results": [
@@ -2760,7 +2760,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 5,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu dodatku Štatútu hlavného mesta SR Bratislavy – parkovacia politika ",
             "description": "",
             "results": [
@@ -2782,7 +2782,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 5,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu dodatku Štatútu hlavného mesta SR Bratislavy vo veci vymedzenia pôsobnosti mestskej časti so zriadením nízkoemisnej zóny ",
             "description": "",
             "results": [
@@ -2804,7 +2804,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Kontrola plnenia uznesení Miestneho zastupiteľstva mestskej časti BratislavaPetržalka k 30.04.2019 ",
             "description": "",
             "results": [
@@ -2826,7 +2826,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh VZN mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa VZN mestskej časti Bratislava-Petržalka č. 4/2012 zo dňa 25. septembra 2012 o poskytovaní sociálnych služieb a výške úhrady za sociálne služby poskytované Strediskom sociálnych služieb Petržalka",
             "description": "",
             "results": [
@@ -2848,7 +2848,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh VZN mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa VZN mestskej časti Bratislava-Petržalka č. 2/2014 zo dňa 25.02.2014 o dodržiavaní čistoty a poriadku na území mestskej časti Bratislava-Petržalka ",
             "description": "",
             "results": [
@@ -2870,7 +2870,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na rozšírenie nájmu nebytových priestorov v objekte DK Zrkadlový Háj, Bratislava pre G.MAL s.r.o. ",
             "description": "",
             "results": [
@@ -2897,7 +2897,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie nájmu časti pozemku v k. ú. Petržalka, parc. č. 2844/1 pre Gavia s.r.o. ",
             "description": "",
             "results": [
@@ -2919,7 +2919,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie nájmu pozemku, parc. č. 4287 pre Ing. Jozefa Škaláka a Ing. Veroniku Škalákovú",
             "description": "",
             "results": [
@@ -2941,7 +2941,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu časti pozemku parc. č. 2843/47 pre Martina Majora ",
             "description": "",
             "results": [
@@ -2963,7 +2963,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu pozemku, parc. č. 4281, pre Ing. Petra Ševčoviča",
             "description": "",
             "results": [
@@ -2985,7 +2985,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom častí pozemkov pod prístupovými chodníkmi k nebytovým priestorom",
             "description": "",
             "results": [
@@ -3007,7 +3007,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom nebytových priestorov – telocvične, skladu v objekte ZŠ Dudova 2, Bratislava a školského areálu pre 1.školský lukostrelecký klub Petržalka o.z. ",
             "description": "",
             "results": [
@@ -3033,7 +3033,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom nebytového priestoru – skladu v objekte ZŠ Anatolija Karpova, Černyševského 8, Bratislava pre Športový klub FbO Florpédo Bratislava ",
             "description": "",
             "results": [
@@ -3055,7 +3055,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom nebytového priestoru – telocvične v objekte ZŠ Holíčska 50, Bratislava pre ROSLY s.r.o.",
             "description": "",
             "results": [
@@ -3077,7 +3077,7 @@
             "type": "rozpocet",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Záverečný účet a finančné usporiadanie mestskej časti Bratislava-Petržalka za rok 2018",
             "description": "",
             "results": [
@@ -3099,7 +3099,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [21],
             "title": "Návrh VZN mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa VZN mestskej časti Bratislava-Petržalka č. 12/2017 z 12. decembra 2017 o poskytovaní dotácií pre veľké kluby v oblasti športu z rozpočtu mestskej časti BratislavaPetržalka v znení VZN č. 5/2018",
             "description": "",
             "results": [
@@ -3121,7 +3121,7 @@
             "type": "rozpocet",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 ",
             "description": "",
             "results": [
@@ -3147,7 +3147,7 @@
             "type": "projekt",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Rozšírenie kamerového systému v mestskej časti Bratislava-Petržalka",
             "description": "",
             "results": [
@@ -3177,7 +3177,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Oprava uznesenia č. 28 zo dňa 5. februára 2019",
             "description": "",
             "results": [
@@ -3199,7 +3199,7 @@
             "type": "kotrola",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Správa o kontrole vyúčtovania dotácií jednotlivých žiadateľov, ktorým bola dotácia poskytnutá v roku 2018 v zmysle VZN o dotáciách a VZN o dotáciách pre veľké športové kluby ",
             "description": "",
             "results": [
@@ -3243,7 +3243,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh VZN mestskej časti Bratislava-Petržalka, ktorým sa bližšie upravujú niektoré podmienky držania psov na území mestskej časti Bratislava-Petržalka",
             "description": "",
             "results": [
@@ -3265,7 +3265,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrh Všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy o prevádzkovaní hazardních hier na území hlavního mesta SR Bratislavy",
             "description": "",
             "results": [
@@ -3287,7 +3287,7 @@
             "type": "grants",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na poskytnutie dotácií z rozpočtu mestskej časti v zmysle VZN č. 7/2015 v znení VZN č. 7/2017",
             "description": "",
             "results": [
@@ -3570,7 +3570,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom pozemkov v k.ú. Petržalka, parc. č. 5394/1 a 5394/2 pre spoločnosť VODOTIKA-MG, spol. s r.o. ",
             "description": "",
             "results": [
@@ -3592,7 +3592,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie nájmu nebytových priestorov v objekte PDI na Bulíkovej 27, Bratislava pre Martina Valentíka",
             "description": "",
             "results": [
@@ -3614,7 +3614,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu častí pozemkov parc. č. 1316, 1366 a 2200 pre spoločnosť MEDIAPRESS BRATISLAVA, spol. s.r.o. ",
             "description": "",
             "results": [
@@ -3636,7 +3636,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu časti pozemku, parc. č. 3640/4, na ktorom je umiestnené reklamné zariadenie pre Outdoor Media, s.r.o ",
             "description": "",
             "results": [
@@ -3658,7 +3658,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom pozemku v objekte ZŠ Dudova 2 Bratislava pre Adam Bohumil Bemer s.r.o., IČO:50535099 ",
             "description": "",
             "results": [
@@ -3721,7 +3721,7 @@
             "type": "volba",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Dodatku č. 1 Štatútu Fondu rozvoja mestskej časti Bratislava-Petržalka",
             "description": "",
             "results": [
@@ -3749,7 +3749,7 @@
             "type": "volba",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [13, 27, 17, 18],
             "title": "Zriadenie komisie dopravy, mobility a bezbariérovosti pri MZ ",
             "description": "",
             "results": [
@@ -3790,7 +3790,7 @@
             "type": "info",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Informácia o prijatých opatreniach z vykonaných kontrol miestnym kontrolórom mestskej časti Bratislava-Petržalka za rok 2018 ",
             "description": "",
             "results": [
@@ -3818,7 +3818,7 @@
             "type": "projekt",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [1, 22, 20],
             "title": "Vznik regionálneho periodika pre mestskú časť Bratislava – Petržalka ",
             "description": "",
             "results": [
@@ -3887,7 +3887,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [15],
             "title": "Vstúpenie mestskej časti Bratislava-Petržalka do sporu „Pečniansky les“, ako dotknutý subjekt ",
             "description": "",
             "results": [
@@ -3937,7 +3937,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [15],
             "title": "Zóny bez pesticídov ",
             "description": "",
             "results": [
@@ -3965,7 +3965,7 @@
             "type": "info",
             "councilId": 1,
             "meetingId": 6,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Informácia o uzatvorených nájomných zmluvách k obecným bytom za I. štvrťrok 2019 ",
             "description": "",
             "results": [
@@ -3987,7 +3987,7 @@
             "type": "kontrola",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Kontrola plnenia uznesení Miestneho zastupiteľstva mestskej časti Bratislava k 18.06.2019 ",
             "description": "",
             "results": [
@@ -4009,7 +4009,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Zásady hospodárenia a nakladania s majetkom mestskej časti BratislavaPetržalka a s majetkom zvereným jej do správy hlavným mestom Bratislavou",
             "description": "",
             "results": [
@@ -4032,7 +4032,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 4/2013, všeobecne záväzného nariadenia č. 3/2015 a všeobecne záväzného nariadenia č. 4/2019",
             "description": "",
             "results": [
@@ -4059,7 +4059,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka o poskytnutí zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole v zriaďovateľskej pôsobnosti mestskej časti BratislavaPetržalka",
             "description": "",
             "results": [
@@ -4081,7 +4081,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Pedagogicko-organizačné zabezpečenie školského roka 2019/2020 v základných školách a v materských školách v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka",
             "description": "",
             "results": [
@@ -4108,7 +4108,7 @@
             "type": "rozpocet",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 ",
             "description": "",
             "results": [
@@ -4134,7 +4134,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Stanovisko miestneho zastupiteľstva k vráteniu zvereného majetku",
             "description": "",
             "results": [
@@ -4156,7 +4156,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu časti pozemku, parc. č. 2844/1 pre Great Foods Slovakia s.r.o.",
             "description": "",
             "results": [
@@ -4178,7 +4178,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte na Osuského 1, 851 03 Bratislava pre D&T CARS s.r.o.",
             "description": "",
             "results": [
@@ -4200,7 +4200,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na prenájom nebytových priestorov v objekte ZŠ Gessayova 2 pre MUDr. Annu Takáčovú",
             "description": "",
             "results": [
@@ -4222,7 +4222,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predlženie prenájmu časti pozemku, parc. č. 155 pre Reného Krumpála – Mareti, Furdekova 8, 851 03 Bratislava ",
             "description": "",
             "results": [
@@ -4244,7 +4244,7 @@
             "type": "delegovanie",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh na odvolanie a voľbu členov rady Fondu statickej dopravy mestskej časti Bratislava-Petržalka",
             "description": "",
             "results": [
@@ -4267,7 +4267,7 @@
             "type": "grants",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na poskytnutie dotácií z rozpočtu mestskej časti v zmysle VZN č. 12/2017 o poskytovaní dotácií pre veľké kluby v oblasti športu",
             "description": "",
             "results": [
@@ -4332,7 +4332,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh uznesenia na zverejňovanie miezd, platov, odmien alebo platových pomerov",
             "description": "",
             "results": [
@@ -4354,7 +4354,7 @@
             "type": "kontrola",
             "councilId": 1,
             "meetingId": 7,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Návrh plánu kontrolnej činnosti miestneho kontrolóra mestskej časti BratislavaPetržalka na obdobie od 1. júla do 31. decembra 2019",
             "description": "",
             "results": [
@@ -4532,7 +4532,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 8,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č...../2019 zo dňa ......2019 o dočasnom parkovaní motorových vozidiel ",
             "description": "",
             "results": [
@@ -4554,7 +4554,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 8,
-            "creatorIds": [],
+            "creatorIds": [29],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č..../2019 z 09. septembra 2019, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 6/2015 z 22. septembra 2015 o poskytovaní nenávratného finančného príspevku na vzdelávanie detí v súkromných materských školách v znení všeobecne záväzného nariadenia č. 3/2016 z 28. júna 2016",
             "description": "",
             "results": [
@@ -4576,7 +4576,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 8,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 12/2017 z 12. decembra 2017 o poskytovaní dotácií pre veľké kluby v oblasti športu z rozpočtu mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 5/2018 a všeobecne záväzného nariadenia č. 5/2019 ",
             "description": "",
             "results": [
@@ -4620,7 +4620,7 @@
             "type": "kontrola",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Kontrola plnenia uznesení Miestneho zastupiteľstva mestskej časti Bratislava k 30.08.2019 ",
             "description": "",
             "results": [
@@ -4642,7 +4642,7 @@
             "type": "sprava",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Správa o plnení rozpočtu mestskej časti Bratislava-Petržalka k 30.06.2019 ",
             "description": "",
             "results": [
@@ -4664,7 +4664,7 @@
             "type": "rozpocet",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019 ",
             "description": "",
             "results": [
@@ -4695,7 +4695,7 @@
             "type": "vzn",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti BratislavaPetržalka č. 4/2012 zo dňa 25.septembra 2012 o poskytovaní sociálnych služieb a výške úhrady za sociálne služby poskytované Strediskom sociálnych služieb Petržalka",
             "description": "",
             "results": [
@@ -4722,7 +4722,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [29],
             "title": "Poskytovanie nenávratného finančného príspevku na vzdelávanie detí v súkromných materských školách ",
             "description": "",
             "results": [
@@ -4745,7 +4745,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení všeobecne záväzného nariadenia č. 4/2013, všeobecne záväzného nariadenia č. 3/2015, všeobecne záväzného nariadenia č. 4/2019 a všeobecne záväzného nariadenia č. 7/2019 ",
             "description": "",
             "results": [
@@ -4767,7 +4767,7 @@
             "type": "stanovisko",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [30, 2, 28, 33],
             "title": "Návrh stanoviska mestskej časti Bratislava-Petržalka k Aktualizácii koncepcie rozvoja hlavného mesta Slovenskej republiky Bratislavy v oblasti tepelnej energetiky ",
             "description": "na základe odporúčania Pracovnej skupiny pre energetiku starostu a miestneho zastupiteľstva ",
             "results": [
@@ -4809,7 +4809,7 @@
             "type": "stanovisko",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Stanovisko Miestneho zastupiteľstva mestskej časti Bratislava-Petržalka k návrhu dodatku Štatútu hlavného mesta SR Bratislavy v znení dodatkov vo veci pôsobnosti udeľovať súhlas v súlade s § 32 ods. 2 písm. k) zákona o pobyte cudzincov",
             "description": "",
             "results": [
@@ -4831,7 +4831,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Dodatok č.1 k Zásadám hospodárenia a nakladania s majetkom mestskej časti Bratislava-Petržalka a s majetkom zvereným jej do správy hlavným mestom SR Bratislavou s prílohou",
             "description": "",
             "results": [
@@ -4853,7 +4853,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte na Lietavskej 8, 851 06 Bratislava pre Viditeľne Nový Pohľad n.o. ",
             "description": "",
             "results": [
@@ -4875,7 +4875,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte PDI Hrobákova 25 pre BRISK PRINT s.r.o. ",
             "description": "",
             "results": [
@@ -4897,7 +4897,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte PDI Lietavská 14 pre KOMA SECURITY s.r.o. ",
             "description": "",
             "results": [
@@ -4919,7 +4919,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu časti pozemku parc. č. 1257 pre Michaleu Kolářsku",
             "description": "",
             "results": [
@@ -4941,7 +4941,7 @@
             "type": "najom",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Návrh na predĺženie prenájmu nebytových priestorov v objekte PDI Hrobákova 25 pre Ing. Milan Chudada-MERIX",
             "description": "",
             "results": [
@@ -4963,7 +4963,7 @@
             "type": "info",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [36],
             "title": "Informácia o uzatvorených nájomných zmluvách k obecným bytom za II. štvrťrok 2019 ",
             "description": "",
             "results": [
@@ -4987,7 +4987,7 @@
             "meetingId": 9,
             "creatorIds": [],
             "title": "Zóny bez pesticídov ",
-            "description": "",
+            "description": "95",
             "results": [
                 {
                     "title": "berie na vedomie",
@@ -5062,7 +5062,7 @@
             "type": "sprava",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Správa o kontrole v Športových zariadeniach Petržalky, s.r.o. ",
             "description": "",
             "results": [
@@ -5084,7 +5084,7 @@
             "type": "sprava",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Správa o kontrole plnenia opatrení prijatých na odstránenie nedostatkov zistených pri kontrole vybavovania žiadostí o vydanie povolenia k vyhradeniu parkovacieho miesta v zmysle VZN č. 5/2004 ",
             "description": "",
             "results": [
@@ -5106,7 +5106,7 @@
             "type": "sprava",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Správa o kontrole súladu so zákonom „Zákazky na kosenie“ konkrétne jej rozdelenie na viac častí",
             "description": "",
             "results": [
@@ -5128,7 +5128,7 @@
             "type": "sprava",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [55],
             "title": "Správa o kontrole spôsobu výberu a použitia miestneho poplatku za rozvoj za rok 2018.",
             "description": "",
             "results": [

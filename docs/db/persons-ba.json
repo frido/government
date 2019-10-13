@@ -17,7 +17,8 @@
     ],
     "commissions": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": true }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "25.06.2019", "to": null, "fk": 14, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 7, "roleId": 1 }
@@ -105,7 +106,8 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
-      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false }
+      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "roleId": 1 }
@@ -344,7 +346,8 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 100, "chairman": false },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 3, "chairman": false },
-      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false }
+      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": true }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "roleId": 1 }
@@ -403,7 +406,8 @@
     "commissions": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 9, "chairman": true },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 27, "roleId": 1 }
@@ -432,6 +436,7 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 9, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "25.06.2019", "to": null, "fk": 14, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 100, "chairman": false }
     ],
     "departments": [
@@ -464,7 +469,8 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 9, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 11, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "chairman": false }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 10, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 6, "roleId": 1 },
@@ -493,7 +499,8 @@
     ],
     "commissions": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 5, "chairman": false }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 5, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 13, "roleId": 1 }
@@ -586,7 +593,8 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 2, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 11, "chairman": false },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 1, "chairman": false },
-      { "councilId": 4, "period": "2017/2022", "fk": 1, "chairman": false }
+      { "councilId": 4, "period": "2017/2022", "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 11, "roleId": 1 },
@@ -966,7 +974,8 @@
     "commissions": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 6, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 11, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "chairman": false }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "25.06.2019", "to": null, "fk": 14, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "roleId": 1 }
@@ -1223,7 +1232,8 @@
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 4, "chairman": false },
       { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 7, "chairman": true },
-      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "chairman": false }
+      { "councilId": 3, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "25.06.2019", "to": null, "fk": 14, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 19, "roleId": 1 },
@@ -1297,7 +1307,8 @@
     "commissions": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 7, "chairman": false },
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 8, "chairman": false },
-      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 100, "chairman": false }
+      { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
     ],
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "01.12.2018", "to": null, "fk": 9, "roleId": 1 },
@@ -1311,7 +1322,7 @@
     "name": "Miroslav Štefánik",
     "prefix": "",
     "offices": [
-      { "councilId": 1, "roleId": 4, "from": "01.12.2018", "to": null }
+      { "councilId": 1, "roleId": 4, "from": "01.12.2018", "to": "16.05.2019" }
     ],
     "role": 2
   }, {
@@ -1832,6 +1843,46 @@
       }
     ],
     "role": 3
+  }, {
+    "id": 95,
+    "name": "Peter Šinály",
+    "prefix": "Ing",
+    "offices": [
+      { "councilId": 1, "roleId": 4, "from": "16.05.2019", "to": null }
+    ],
+    "role": 2
+  }, {
+    "id": 96,
+    "name": "Dušan Beneš",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 97,
+    "name": "Martin Dait",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 98,
+    "name": "Oľga Bohuslavová",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "28.05.2019", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 99,
+    "name": "Ľuboš Kačírka",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "25.06.2019", "to": null, "fk": 14, "chairman": true }
+    ],
+    "role": 2
   }
 ]
 }
