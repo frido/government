@@ -1,9 +1,9 @@
 <app-menu></app-menu>
 <div class="content">
   <div class="uznesenie-filter">
-    <strong>Filter</strong>
+    <strong>Filter:</strong>
     <app-filter [options]="options" (onFilter)="onFilter($event)"></app-filter>
-    <strong>Hladaj</strong>
+    <strong>Hľadaj:</strong>
     <app-search [search]="search" (onSearch)="onSearch($event)"></app-search>
   </div>
 
@@ -11,7 +11,7 @@
   <ng-container *ngFor="let m of meetings">
     <div>
       <a *ngIf="m.loaded == false" (click)="selectMeeting(m)" class="linkable">Načítať uznesenia zo zasadnutia dňa {{m.meeting.date}}</a>
-      <h2 *ngIf="m.loaded == true">Uznesenie {{m.meeting.date}}</h2>
+      <h3 *ngIf="m.loaded == true">Zasadnutia zo dňa {{m.meeting.date}}</h3>
       <ng-container *ngFor="let u of m.fResolutions">
           <app-uznesenie [uznesenie]="u"></app-uznesenie>
         </ng-container>

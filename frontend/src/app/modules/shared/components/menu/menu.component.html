@@ -1,4 +1,6 @@
 <div id="header">
+  <img src="assets/imgs/logo-small-black.png">
+
   <h5 *ngIf="spolok" id="header-title">{{spolok.meno}}</h5>
   <nav *ngIf="spolok" id="header-nav">
     <a *ngFor="let m of spolok.menu" class="header-nav-item" [class.active]="active == m"

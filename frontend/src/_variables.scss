@@ -1,19 +1,18 @@
 //$primary-color: #6200EE;
-$primary-color: #1976D2;
-$primary-variant-color: #3700B3;
-$secondary-color: #03DAC6;
-$secondary-variant-color: #018786;
-$background: #fafafa;
+$primary-color: #033246;
+$secondary-color: #287094;
+$background: #F6F6F6;
+
 $background-opened: $primary-color;
 $background-hover: rgba( $background-opened, .05 );
 $background-footer: rgba($primary-color, 1);
-$background-tag: #ebebeb;
-$surface: #fff;
+$background-tag: #F6F6F6;
+$surface: #F6F6F6;
 $text-color: rgba(0, 0, 0, .87);
 $small-color: rgba(0, 0, 0, .5);
 $disable-color: rgba(0, 0, 0, .25);
 $color-hover: $text-color;
-$color-opened: #fff;
+$color-opened: #F6F6F6;
 $border-radius: 4px;
 $margin: 15px;
 $margin-content: 40px;
@@ -21,10 +20,26 @@ $poslanec-za: #C8E6C9;
 $poslanec-proti: #FFCDD2;
 $poslanec-predkladatel: #FFF9C4;
 
+
+
+body {
+  background: #F6F6F6;
+}
+
+.fa, .far, .fas {
+  color: #287094;
+}
+
+.card-detail-item {
+  strong {
+    color: #287094;
+  }
+}
+
 %card {
     border-radius: $border-radius;
-    // box-shadow: 0 2px 1px -1px rgba(0, 0, 0, .2), 0 1px 1px 0 rgba(0, 0, 0, .14), 0 1px 3px 0 rgba(0, 0, 0, .12);
     border: solid 1px $primary-color;
+    box-shadow: 0 3.2px 7.2px 0 rgba(0,0,0,.132), 0 0.6px 1.8px 0 rgba(0,0,0,.108);
 }
 
 %shadow-bottom {

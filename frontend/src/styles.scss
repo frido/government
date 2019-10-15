@@ -19,15 +19,17 @@ small {
 }
 #header {
     @extend %shadow-bottom;
-    padding: 1rem;
-    /*box-shadow: 0 .125rem .25rem rgba($primary-color, .075);*/
     flex-direction: row;
     align-items: center;
     display: flex;
-    //border-bottom: 1px solid rgba($primary-variant-color, .01);
     margin-bottom: $margin;
     background-color: $primary-color;
     color: $color-opened;
+    padding: 1rem 40px;
+
+    img {
+      height: 38px;
+    }
 
     a {
         color: $color-opened;
@@ -48,11 +50,13 @@ small {
 }
 
 #header-title {
-    font-weight: 600;
-    margin-right: auto;
-    margin-bottom: 0;
-    margin-top: 0;
-    font-size: 1.5rem;
+  font-weight: 600;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-top: 0;
+  font-size: 1.5rem;
+  margin-left: auto;
+  font-size: 2rem;
 }
 
 #header-nav {
@@ -96,6 +100,7 @@ a.header-nav-item:hover {
 .card {
     display: block;
     background: $surface;
+    border-bottom: solid 1px #E8E8E8;
 
     .card-head {
         padding: $margin;
@@ -275,7 +280,6 @@ a.header-nav-item:hover {
 }
 
 .uznesenie-filter {
-    margin-left: $margin;
     margin-bottom: $margin;
     display: flex;
     .inactive {
@@ -287,8 +291,9 @@ a.header-nav-item:hover {
     select, input {
       margin-right: $margin * 2;
       padding: 3px 0;
-      border: solid 1px $primary-color;
+      border: solid 1px $secondary-color;
       border-radius: $border-radius;
+      background: $background;
     }
 }
 .uznesenie-filter-item {
@@ -361,7 +366,6 @@ a.header-nav-item:hover {
     margin: 10px 20px;
     display: block;
     background: $surface;
-    //font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 .poslanec-header{
     padding: $margin;
@@ -462,14 +466,26 @@ a.header-nav-item:hover {
     }
 }
 .intro {
-    display: flex;
-    height: 100vh;
+    // height: 100vh;
+    margin: 0 10em;
+    color: $primary-color;
+    .intro-header {
+      font-size: 40px;
+      text-align: center;
+    }
+    .intro-abstract{
+      font-size: 15px;
+      text-align: center;
+      color: $secondary-color;
+    }
+    .intro-cards {
+      display: flex;
+    }
     .intro-item {
         width: 50%;
         text-align: center;
         margin-top: auto;
         margin-bottom: auto;
-        height: 100vh;
         &:hover {
             background: $background-hover;
             color: $color-hover;
