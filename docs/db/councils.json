@@ -94,7 +94,8 @@
             { "id": 2, "name": "1. vicestarostka", "icon": "fas fa-chess-queen" },
             { "id": 3, "name": "2. vicestarostka", "icon": "fas fa-chess-queen" },
             { "id": 4, "name": "prednosta", "icon": "fas fa-chess-rook" },
-            { "id": 5, "name": "miestny kontrolór", "icon": "fas fa-chess-knight" }
+            { "id": 5, "name": "miestny kontrolór", "icon": "fas fa-chess-knight" },
+            { "id": 6, "name": "zástupca starostu", "icon": "fas fa-chess-knight" }
       ],
       "departments": [
         {
