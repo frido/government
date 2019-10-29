@@ -143,11 +143,11 @@ export class ApiService {
     return this.get(this.base + 'budget/' + spolokId)
   }
 
-  getProjects(spolokId: number): Observable<Budget[]> {
+  getProjects(spolokId: number): Observable<Project[]> {
     return this.get(this.base + 'projects/' + spolokId)
   }
 
-  getGrants(spolokId: number): Observable<Budget[]> {
+  getGrants(spolokId: number): Observable<Project[]> {
     return this.get(this.base + 'grants/' + spolokId)
   }
 

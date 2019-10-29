@@ -13,4 +13,5 @@ interface Project {
   resolutionId: number;
   resolutionNumber: number;
   resolutionTitle: string;
+  year: number;
 }

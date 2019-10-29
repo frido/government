@@ -24,6 +24,12 @@ SEE: https://frido.github.io/government-page/
 
 `node -v` - `v12.6.0`
 
+`npm install` in frontend directory 
+
+`npm install -g @angular/cli`
+
+`git --version` - `git version 2.23.0.windows.1`
+
 TODO: Heroku
 
 ## Build

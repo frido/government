@@ -8,17 +8,29 @@ import { Observable } from 'rxjs';
 })
 export class RozpocetListPage implements OnInit {
   spolok: Spolok;
-  $rozpocet: Observable<Budget[]>;
-  $projects: Observable<Budget[]>;
-  $grants: Observable<Budget[]>;
+  rozpocet: Budget[];
+  projects: Project[];
+  grants: Project[];
+  years: Set<number> = new Set();
 
   constructor(private route: ActivatedRoute, private service: ApiService) { }
 
+  // TODO: unsubscribe
+
   ngOnInit() {
     this.spolok = this.route.snapshot.data.spolok;
-    this.$rozpocet = this.service.getRozpocet(this.spolok.id);
-    this.$projects = this.service.getProjects(this.spolok.id);
-    this.$grants = this.service.getGrants(this.spolok.id);
+    this.service.getRozpocet(this.spolok.id).subscribe(data => {
+      this.rozpocet = data;
+      this.rozpocet.forEach(r => {console.log(r.year); this.years.add(r.year); console.log(this.years);});
+    });
+    this.service.getProjects(this.spolok.id).subscribe(data => {
+      this.projects = data;
+      this.projects.forEach(r => this.years.add(r.year));
+    });
+    this.service.getGrants(this.spolok.id).subscribe(data => {
+      this.grants = data;
+      this.grants.forEach(r => this.years.add(r.year));
+    });
   }
 
 }

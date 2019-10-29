@@ -8,6 +8,7 @@ public class ProjectView {
   private Integer resolutionId;
   private String resolutionTitle;
   private Integer resolutionNumber;
+  private Integer year;
 
   public String getTitle() {
     return title;
@@ -38,5 +39,11 @@ public class ProjectView {
   }
   public void setResolutionNumber(Integer resolutionNumber) {
     this.resolutionNumber = resolutionNumber;
+  }
+  public Integer getYear() {
+    return year;
+  }
+  public void setYear(Integer year) {
+    this.year = year;
   }
 }

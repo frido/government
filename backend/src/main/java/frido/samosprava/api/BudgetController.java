@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import frido.samosprava.core.collection.InMemoryCollections2;
 import frido.samosprava.core.entity.Budget;
+import frido.samosprava.core.entity.Meeting;
 import frido.samosprava.core.entity.Money;
 import frido.samosprava.core.entity.Project;
 import frido.samosprava.core.entity.Resolution;
@@ -55,7 +56,7 @@ class BudgetController {
     return new ProjectListView(collections, collectProjects(resolutions));
   }
 
-//TODO: zobrazit len tie pre tento rok, alebo zobrazit datum
+  //TODO: zobrazit len tie pre tento rok, alebo zobrazit datum
   @GetMapping("/api/grants/{councilId}")
   public ProjectListView grants(@PathVariable int councilId) {
     List<Resolution> resolutions = collections.resolutions().findByTypeAndCouncilId("grants", councilId);
@@ -68,6 +69,8 @@ class BudgetController {
       if (r.getProjects() != null) {
         for(Project p : r.getProjects() ) {
           ProjectView pv = new ProjectView();
+          Meeting meeting = collections.meetings().findById(r.getMeetingId()).get();
+          pv.setYear(DateFormat.toYear(meeting.getDate()));
           pv.setTitle(p.getTitle());
           pv.setValue(p.getValue());
           pv.setResolutionId(r.getId());
