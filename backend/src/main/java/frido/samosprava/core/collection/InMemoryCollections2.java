@@ -42,25 +42,19 @@ public class InMemoryCollections2 {
     budgetCollection = new InMemoryBudgetCollection();
     for (String indexItem : indexItems) {
       String collectionName = indexItem.substring(0, indexItem.indexOf(".json")).split("-")[0];
-      System.out.println(collectionName);
       if("resolutions".equals(collectionName)){
-        System.out.println(indexItem);
         initResolutions(store.load(indexItem));
       }
       if("persons".equals(collectionName)){
-        System.out.println(indexItem);
         initPersons(store.load(indexItem));
       }
       if("meetings".equals(collectionName)){
-        System.out.println(indexItem);
         initMeetings(store.load(indexItem));
       }
       if("councils".equals(collectionName)){
-        System.out.println(indexItem);
         initCouncils(store.load(indexItem));
       }
       if("budget".equals(collectionName)){
-        System.out.println(indexItem);
         initBudget(store.load(indexItem));
       }
 
@@ -109,10 +103,8 @@ public class InMemoryCollections2 {
 
   private void initBudget(String content) {
     BudgetList list;
-    System.out.println(content);
     try {
       list = mapper.readValue(content, BudgetList.class);
-      list.getBudget().forEach(System.out::println);
       budgetCollection.addAll(list.getBudget());
     } catch (IOException e) {
       e.printStackTrace();

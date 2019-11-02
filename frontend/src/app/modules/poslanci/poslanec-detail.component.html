@@ -25,15 +25,15 @@
   </div>
 </ng-container>
 <ng-container *ngFor="let commission of poslanec.commissionsView">
-    <div [class.mutted]="commission.to != null" class="card-detail-item">
-      <i class="fas fa-chess-pawn fa-2x"></i>
-      <div>
-        <div><strong><span *ngIf="commission.chairman">Predseda </span> {{commission.commission.name}}</strong></div>
-        <div>{{commission.council.name}}</div>
-        <div *ngIf="commission.to != null"><small>{{commission.from}}/{{commission.to}}</small></div>
-      </div>
+  <div [class.mutted]="commission.to != null" class="card-detail-item">
+    <i class="fas fa-chess-pawn fa-2x"></i>
+    <div>
+      <div><strong><span *ngIf="commission.chairman">Predseda </span> {{commission.commission.name}}</strong></div>
+      <div>{{commission.council.name}}</div>
+      <div *ngIf="commission.to != null"><small>{{commission.from}}/{{commission.to}}</small></div>
     </div>
-  </ng-container>
+  </div>
+</ng-container>
 <ng-container *ngFor="let department of poslanec.departmentsView">
   <div [class.mutted]="department.to != null" class="card-detail-item">
     <i class="{{department.role.icon}} fa-2x"></i>
@@ -43,4 +43,10 @@
       <div *ngIf="department.to != null"><small>{{department.from}}/{{department.to}}</small></div>
     </div>
   </div>
+</ng-container>
+<ng-container *ngIf="resolutions?.length > 0">
+  <h3>Predložené návrhy</h3>
+  <ng-container *ngFor="let r of resolutions">
+    <app-uznesenie [uznesenie]="r"></app-uznesenie>
+  </ng-container>
 </ng-container>

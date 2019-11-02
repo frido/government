@@ -10,6 +10,7 @@ import java.util.stream.Collectors;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import frido.samosprava.core.collection.InMemoryCollections2;
@@ -63,7 +64,7 @@ class BudgetController {
    */
 
   @GetMapping("/api/stats/{councilId}/{year}")
-  public StatView stats(@PathVariable int councilId, @PathVariable int year) {
+  public StatView stats(@PathVariable int councilId, @PathVariable int year, @RequestParam(defaultValue = "0") int type) {
     List<Meeting> meetings = collections.meetings().findByYear(councilId, year);
     int meetingsNo = meetings.size();
 
@@ -95,6 +96,8 @@ class BudgetController {
           stat.calcType(councilId, year);
           return stat;
         })
+        .filter(s -> s.getType() != null)
+        .filter(s -> type == 0 || s.getType() == type)
         .sorted((s2, s1) -> s1.getValue().compareTo(s2.getValue()))
         .collect(Collectors.toList());
 
