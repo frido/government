@@ -23,9 +23,9 @@ export class PoslanciShowPage {
       switchMap(params => this.service.getPoslanec(+params['id'])
     ));
 
-    this.$uznesenia = this.route.params.pipe(
-      tap(params => this.poslanecId = +params['id']),
-      switchMap(params => this.service.getUzneseniaCreator(+params['id'])
-    ));
+    // this.$uznesenia = this.route.params.pipe(
+    //   tap(params => this.poslanecId = +params['id']),
+    //   switchMap(params => this.service.getUzneseniaCreator(+params['id'])
+    // ));
   }
 }
