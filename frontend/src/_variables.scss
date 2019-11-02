@@ -1,18 +1,18 @@
 //$primary-color: #6200EE;
-$primary-color: #033246;
-$secondary-color: #287094;
-$background: #F6F6F6;
+$primary-color: #003459;
+$secondary-color: #00A8E8;
+$background: #FFFFFF;
 
 $background-opened: $primary-color;
 $background-hover: rgba( $background-opened, .05 );
 $background-footer: rgba($primary-color, 1);
-$background-tag: #F6F6F6;
-$surface: #F6F6F6;
+$background-tag: $background;
+$surface: $background;
 $text-color: rgba(0, 0, 0, .87);
 $small-color: rgba(0, 0, 0, .5);
 $disable-color: rgba(0, 0, 0, .25);
 $color-hover: $text-color;
-$color-opened: #F6F6F6;
+$color-opened: $background;
 $border-radius: 4px;
 $margin: 15px;
 $margin-content: 40px;
@@ -23,16 +23,16 @@ $poslanec-predkladatel: #FFF9C4;
 
 
 body {
-  background: #F6F6F6;
+  background: $background;
 }
 
 .fa, .far, .fas {
-  color: #287094;
+  color: $secondary-color;
 }
 
 .card-detail-item {
   strong {
-    color: #287094;
+    color: $secondary-color;
   }
 }
 

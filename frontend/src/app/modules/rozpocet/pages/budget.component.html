@@ -1,6 +1,8 @@
 <div class="card" [class.opened]="opened">
   <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
-    <span class="card-title">{{budget.title}} - {{budget.value | currency:'€'}}</span>
+    <i class="fas fa-hammer fa-2x icon-type"></i>
+    <span class="card-title">{{budget.title}}</span>
+    <span class="icon-result">{{budget.value | currency:'€'}}</span>
   </div>
   <div *ngIf="opened" class="card-detail">
     <app-budget-detail  [budget]="budget"></app-budget-detail>

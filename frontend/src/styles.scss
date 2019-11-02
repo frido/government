@@ -100,7 +100,7 @@ a.header-nav-item:hover {
 .card {
     display: block;
     background: $surface;
-    border-bottom: solid 1px #E8E8E8;
+    border-bottom: solid 1px $surface;
 
     .card-head {
         padding: $margin;
@@ -120,6 +120,8 @@ a.header-nav-item:hover {
 
         .icon-result {
             flex: none;
+            color: $secondary-color;
+            font-size: 1.3em;
             i {
                 margin-left: $margin;
             }
@@ -178,6 +180,9 @@ a.header-nav-item:hover {
             }
             strong {
                 margin-right: $margin * 2;
+            }
+            .card-detail-item-strong {
+                // width: 150px;
             }
             .card-detail-item-za {
                 display: flex;

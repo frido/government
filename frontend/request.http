@@ -20,7 +20,7 @@ http://localhost:5000/api/grants/2
 http://localhost:5000/api/council/2
 ###
 
-http://localhost:5000/api/stats/2/2019?type=1
+http://localhost:5000/api/stats/2/2019?type=2
 ###
 
-http://localhost:5000/api/resolutions?creatorId=1043
+http://localhost:5000/api/resolutions?creatorId=1007

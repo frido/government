@@ -16,17 +16,30 @@
 
 </div>
 
+<div class="card-detail-item">
+  <i class="fas fa-fingerprint fa-2x"></i>
+  <div>
+    <strong>číslo</strong>
+    <div>
+      <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="uznesenie.number"></app-linkable>
+    </div>
+  </div>
+</div>
+
 <div *ngIf="predkladatel && uznesenie.creatorIds && uznesenie.creatorIds.length" class="card-detail-item">
   <i class="fas fa-user-tie fa-2x"></i>
-  <div><strong>predkladatel</strong></div>
+  <!-- <div class="card-detail-item-strong"><strong>predkladatel</strong></div> -->
   <div>
-    <app-poslanec-clickable *ngFor="let p of uznesenie.creatorIds" [poslanecId]="p"></app-poslanec-clickable>
+    <strong>predkladatel</strong>
+    <div>
+      <app-poslanec-clickable *ngFor="let p of uznesenie.creatorIds" [poslanecId]="p"></app-poslanec-clickable>
+    </div>
   </div>
 </div>
 
 <div *ngIf="vote && (uznesenie.voteYesIds.length || uznesenie.voteNoIds.length)" class="card-detail-item">
   <i class="fas fa-thumbs-up fa-2x"></i>
-  <div>
+  <div class="card-detail-item-strong">
     <div *ngIf="uznesenie.voteYesIds.length" class="card-detail-item-za">
       <div><strong>za</strong></div>
       <div>
@@ -45,14 +58,24 @@
 <div *ngIf="sumar">
   <div class="card-detail-item" *ngFor="let v of uznesenie.results">
     <i class="fas {{getClass(v.title)}} fa-2x"></i>
-    <div><strong>{{v.title}}</strong></div>
+    <!-- <div class="card-detail-item-strong"></div> -->
     <div>
+      <strong>{{v.title}}</strong>
       <div *ngFor="let p of v.descriptions">{{p}}</div>
     </div>
   </div>
 </div>
 
-<div *ngIf="footer" class="card-detail-footer">
-  <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="'uznesenie č. ' + uznesenie.number"></app-linkable>
-  <app-external-link [href]="uznesenie.source"></app-external-link>
+<div class="card-detail-item">
+  <i class="fas fa-external-link-alt fa-2x"></i>
+  <div>
+    <strong>zdroj</strong>
+    <div>
+      <a class="linkable" href="{{uznesenie.source}}" target="blank">{{uznesenie.source}}</a>
+    </div>
+  </div>
 </div>
+
+<div class="poslanec-viac">
+    <app-linkable section="uznesenia" [id]="uznesenie.id" text="Viac"></app-linkable>
+  </div>
