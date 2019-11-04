@@ -22,7 +22,8 @@ public class TransactionFilter implements Filter {
     } else if (link.endsWith(".js") || link.endsWith(".ico") || link.endsWith(".css") || link.endsWith(".png")
         || link.endsWith(".jpg") || link.endsWith(".woff2") || link.endsWith(".woff") || link.endsWith(".ttf")
         || link.endsWith(".svg")) {
-      String fileName = link.substring(link.lastIndexOf("/"));
+      // String fileName = link.substring(link.lastIndexOf("/"));
+      String fileName = link;
       if (link.endsWith(".js")) {
         response.setContentType("text/javascript");
       }

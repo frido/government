@@ -1,10 +1,10 @@
 <div id="header">
-  <img src="assets/imgs/logo-small-black.png">
+  <img src="assets/imgs/logoblack.png">
 
   <h5 *ngIf="spolok" id="header-title">{{spolok.meno}}</h5>
   <nav *ngIf="spolok" id="header-nav">
     <a *ngFor="let m of spolok.menu" class="header-nav-item" [class.active]="active == m"
       [routerLink]="['/', spolok.key, m]">{{names[m]}}</a>
-    <a class="header-nav-item" [class.active]="active == 'intro'" [routerLink]="['/']"><i class="fas fa-home"></i></a>
+    <a class="header-nav-item" [class.active]="active == 'intro'" [routerLink]="['/']">Úvod</a>
   </nav>
 </div>
