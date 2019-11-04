@@ -32,7 +32,7 @@ public class OfficeRefView extends OfficeRef{
 
     Council councilTmp = collections.councils().findById(councilId).get();
     council = new CouncilView(councilTmp);
-    office = collections.councils().findOfficeById(councilId, roleId);
+    office = collections.councils().findOfficeById(councilId, roleId).get();
     if (electionId != null)  {
       election = person.getElections().stream().filter(x -> x.getId() == electionId).findFirst().get();
     }

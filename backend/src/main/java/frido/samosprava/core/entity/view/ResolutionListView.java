@@ -1,23 +1,24 @@
 package frido.samosprava.core.entity.view;
 
 import java.util.List;
+import java.util.stream.Stream;
 
 import frido.samosprava.core.collection.InMemoryCollections2;
 import frido.samosprava.core.entity.Resolution;
 
 public class ResolutionListView {
 
-  private List<Resolution> data;
+  private Stream<Resolution> data;
 
-  public ResolutionListView(InMemoryCollections2 collections, List<Resolution> list) {
+  public ResolutionListView(InMemoryCollections2 collections, Stream<Resolution> list) {
     data = list;
   }
 
-  public List<Resolution> getData() {
+  public Stream<Resolution> getData() {
     return data;
   }
 
-  public void setData(List<Resolution> data) {
+  public void setData(Stream<Resolution> data) {
     this.data = data;
   }
 

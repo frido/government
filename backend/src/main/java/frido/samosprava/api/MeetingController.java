@@ -5,8 +5,9 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.entity.Meeting;
 import frido.samosprava.core.entity.ResponseObject2;
-import frido.samosprava.core.entity.view.MeetingListView;
+import frido.samosprava.core.entity.view.ResponseWrapper;
 
 @RestController
 class MeetingController {
@@ -18,8 +19,8 @@ class MeetingController {
   }
 
   @GetMapping("/api/meetings/{councilId}")
-  public MeetingListView meetings(@PathVariable int councilId) {
-    return new MeetingListView(collections, collections.meetings().findByCouncilId(councilId));
+  public ResponseWrapper<Meeting> meetings(@PathVariable int councilId) {
+    return collections.meetings().findByCouncilId(councilId).collect(new ResponseWrapper<>());
   }
 
   @GetMapping("/api/meeting/{id}")

@@ -1,12 +1,10 @@
 package frido.samosprava.core.collection;
 
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.TreeMap;
-import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import frido.samosprava.core.entity.Record;
 
@@ -20,15 +18,15 @@ public class InMemoryBaseCollection <T extends Record> {
     item.forEach(x -> data.put(x.getId(), x));
   }
 
-  public List<T> findByCouncilId(Integer councilId) {
-    return data.values().stream().filter(x -> x.getCouncilId().equals(councilId)).collect(Collectors.toList());
+  public Stream<T> findByCouncilId(Integer councilId) {
+    return getAll().filter(x -> x.getCouncilId().equals(councilId));
   }
 
   public Optional<T> findById(Integer id) {
     return Optional.ofNullable(data.get(id));
   }
 
-  public Collection<T> getAll(){
-    return Collections.unmodifiableCollection(data.values());
+  public Stream<T> getAll(){
+    return data.values().stream();
   }
 }

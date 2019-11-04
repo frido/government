@@ -2,15 +2,15 @@ package frido.samosprava.core.collection;
 
 import java.util.LinkedList;
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import frido.samosprava.core.entity.Person;
 import frido.samosprava.core.entity.Record;
 
 public class InMemoryPersonCollection extends InMemoryBaseCollection<Person> {
 
-  public List<Person> findInCouncilId(Integer councilId) {
-    return data.values().stream().filter(p -> isInCouncilId(p, councilId)).collect(Collectors.toList());
+  public Stream<Person> findInCouncilId(Integer councilId) {
+    return data.values().stream().filter(p -> isInCouncilId(p, councilId));
   }
 
   private Boolean isInCouncilId(Person p, Integer councilId) {

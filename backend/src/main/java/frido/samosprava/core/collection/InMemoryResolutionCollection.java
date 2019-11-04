@@ -6,6 +6,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import frido.samosprava.core.entity.Person;
 
 import frido.samosprava.core.entity.Meeting;
@@ -13,28 +15,28 @@ import frido.samosprava.core.entity.Resolution;
 
 public class InMemoryResolutionCollection extends InMemoryBaseCollection<Resolution> {
 
+  // TODO: the same used on more places
   private static final SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy"); // 25.09.2018
   private static final String Person = null;
 
-  public List<Resolution> findByMeetingId(Integer meetingId) {
-    return data.values().stream().filter(x -> x.getMeetingId().equals(meetingId)).collect(Collectors.toList());
+  public Stream<Resolution> findByMeetingId(Integer meetingId) {
+    return data.values().stream().filter(x -> x.getMeetingId().equals(meetingId));
   }
 
-  public List<Resolution> findByMeetingIds(List<Integer> meetings) {
-    return data.values().stream().filter(x -> meetings.contains(x.getMeetingId())).collect(Collectors.toList());
+  public Stream<Resolution> findByMeetingIds(List<Integer> meetings) {
+    return data.values().stream().filter(x -> meetings.contains(x.getMeetingId()));
   }
 
-  public List<Resolution> findByCreatorId(Integer creatorId) {
-    return data.values().stream().filter(x -> x.getCreatorIds() != null && x.getCreatorIds().contains(creatorId))
-        .collect(Collectors.toList());
+  public Stream<Resolution> findByCreatorId(Integer creatorId) {
+    return data.values().stream().filter(x -> x.getCreatorIds() != null && x.getCreatorIds().contains(creatorId));
   }
 
-  public List<Resolution> findByTypeAndCouncilId(String type, Integer councilId) {
-    return findByCouncilId(councilId).stream().filter(x -> x.getType().equals(type)).collect(Collectors.toList());
+  public Stream<Resolution> findByTypeAndCouncilId(String type, Integer councilId) {
+    return findByCouncilId(councilId).filter(x -> x.getType().equals(type));
   }
 
   // uznesenia kde creator je poslanec
-  public List<Resolution> findByCreatorIdAsDeputy(InMemoryCollections2 collections, Integer creatorId) {
+  public Stream<Resolution> findByCreatorIdAsDeputy(InMemoryCollections2 collections, Integer creatorId) {
     return data.values().stream().filter(x -> {
       try {
         Meeting meeting = collections.meetings().findById(x.getMeetingId()).get();
@@ -51,9 +53,10 @@ public class InMemoryResolutionCollection extends InMemoryBaseCollection<Resolut
         e.printStackTrace();
       }
       return false;
-    }).collect(Collectors.toList());
+    });
   }
 
+  // TODO: responsibility Enumberation
   private int responsibilityType(Person person, int councilId, Date inDate) {
     if (person.getDeputies() != null) {
       if (person.getDeputies().stream()
