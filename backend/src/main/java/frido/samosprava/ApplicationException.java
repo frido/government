@@ -1,4 +1,4 @@
-package frido.samosprava.api;
+package frido.samosprava;
 
 @SuppressWarnings(value = "serial")
 public class ApplicationException extends RuntimeException {

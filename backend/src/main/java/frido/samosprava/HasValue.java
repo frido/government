@@ -1,4 +1,4 @@
-package frido.samosprava.api;
+package frido.samosprava;
 
 import java.math.BigDecimal;
 import java.util.Comparator;

@@ -1,6 +1,6 @@
 package frido.samosprava.store;
 
-import frido.samosprava.api.ApplicationException;
+import frido.samosprava.ApplicationException;
 import frido.samosprava.client.WebClient;
 
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package frido.samosprava.api;
+package frido.samosprava;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;

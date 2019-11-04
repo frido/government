@@ -1,8 +1,9 @@
 package frido.samosprava.store;
 
-import frido.samosprava.api.ApplicationException;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.util.FileCopyUtils;
+
+import frido.samosprava.ApplicationException;
 
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;

@@ -1,7 +1,7 @@
 package frido.samosprava.view;
 
-import frido.samosprava.api.DateFormat;
-import frido.samosprava.api.HasValue;
+import frido.samosprava.DateFormat;
+import frido.samosprava.HasValue;
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Project;
 import frido.samosprava.entity.Resolution;
