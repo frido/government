@@ -1,6 +1,6 @@
 package frido.samosprava.core.entity.view;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Council;
 import frido.samosprava.core.entity.DeputyRef;
 import frido.samosprava.core.entity.Election;
@@ -11,7 +11,7 @@ public class DeputyRefView extends DeputyRef {
   protected CouncilView council;
   protected Election election;
 
-  public DeputyRefView(InMemoryCollections2 collections, DeputyRef ref, Person person) {
+  public DeputyRefView(InMemoryCollections collections, DeputyRef ref, Person person) {
     id = ref.getId();
     councilId = ref.getCouncilId();
     period = ref.getPeriod();

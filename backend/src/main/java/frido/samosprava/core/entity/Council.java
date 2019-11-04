@@ -1,5 +1,6 @@
 package frido.samosprava.core.entity;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Council extends Record {
@@ -57,6 +58,9 @@ public class Council extends Record {
     this.commissions = commissions;
   }
   public List<Office> getOffices() {
+    if (offices == null) {
+      return new ArrayList<>();
+    }
     return offices;
   }
   public void setOffices(List<Office> offices) {

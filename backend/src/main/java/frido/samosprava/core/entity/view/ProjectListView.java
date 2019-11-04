@@ -2,13 +2,13 @@ package frido.samosprava.core.entity.view;
 
 import java.util.List;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 
 public class ProjectListView {
 
   private List<ProjectView> data;
 
-  public ProjectListView(InMemoryCollections2 collections, List<ProjectView> list) {
+  public ProjectListView(InMemoryCollections collections, List<ProjectView> list) {
     data = list;
   }
 

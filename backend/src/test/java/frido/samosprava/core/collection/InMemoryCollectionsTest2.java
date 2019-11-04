@@ -13,13 +13,13 @@ import frido.samosprava.core.store.HttpStore;
 
 class InMemoryCollectionsTest2 {
 
-  private static InMemoryCollections2 collections;
+  private static InMemoryCollections collections;
 
   @BeforeAll
   static void init() {
     WebClient client = new JdkHttpClient();
     DataStore store = new HttpStore(client, "https://frido.github.io/government/db/");
-    collections = new InMemoryCollections2(store);
+    collections = new InMemoryCollections(store);
   }
 
   @Test

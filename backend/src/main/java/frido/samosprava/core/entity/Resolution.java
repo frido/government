@@ -1,7 +1,6 @@
 package frido.samosprava.core.entity;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 
 public class Resolution extends Record {
@@ -46,6 +45,9 @@ public class Resolution extends Record {
   }
 
   public List<Integer> getCreatorIds() {
+    if (creatorIds == null) {
+      return new ArrayList<>();
+    }
     return creatorIds;
   }
 

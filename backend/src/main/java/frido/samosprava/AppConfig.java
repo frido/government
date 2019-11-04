@@ -7,7 +7,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 import frido.samosprava.core.client.JdkHttpClient;
 import frido.samosprava.core.client.WebClient;
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.store.DataStore;
 import frido.samosprava.core.store.HttpStore;
 
@@ -31,8 +31,8 @@ public class AppConfig {
 //  }
 
   @Bean
-  public InMemoryCollections2 inMemoryCollections2() {
-    return new InMemoryCollections2(dataStore());
+  public InMemoryCollections inMemoryCollections2() {
+    return new InMemoryCollections(dataStore());
   }
 
   @Bean

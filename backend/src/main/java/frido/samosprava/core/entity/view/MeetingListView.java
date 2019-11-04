@@ -3,14 +3,14 @@ package frido.samosprava.core.entity.view;
 import java.util.List;
 import java.util.stream.Stream;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Meeting;
 
 public class MeetingListView {
 
   private Stream<Meeting> data;
 
-  public MeetingListView(InMemoryCollections2 collections, Stream<Meeting> list) {
+  public MeetingListView(InMemoryCollections collections, Stream<Meeting> list) {
     data = list;
   }
 

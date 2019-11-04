@@ -1,6 +1,6 @@
 package frido.samosprava.core.entity.view;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Commission;
 import frido.samosprava.core.entity.CommissionRef;
 import frido.samosprava.core.entity.Council;
@@ -15,7 +15,7 @@ public class CommissionRefView extends CommissionRef{
   protected CouncilView council;
   protected Commission commission;
 
-  public CommissionRefView(InMemoryCollections2 collections, CommissionRef x) {
+  public CommissionRefView(InMemoryCollections collections, CommissionRef x) {
     id = x.getId();
     councilId = x.getCouncilId();
     period = x.getPeriod();

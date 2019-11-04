@@ -2,7 +2,7 @@ package frido.samosprava.core.entity.view;
 
 import frido.samosprava.api.DateFormat;
 import frido.samosprava.api.HasValue;
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Project;
 import frido.samosprava.core.entity.Resolution;
 
@@ -18,7 +18,7 @@ public class ProjectView extends HasValue {
 
   }
 
-  public ProjectView(InMemoryCollections2 collections, Resolution r, Project p) {
+  public ProjectView(InMemoryCollections collections, Resolution r, Project p) {
     collections.meetings().findById(r.getMeetingId())
       .map(m -> m.getDate())
       .map(d -> DateFormat.toYear(d))

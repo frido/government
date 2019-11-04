@@ -10,9 +10,7 @@ import frido.samosprava.core.entity.Record;
 
 public class InMemoryBaseCollection <T extends Record> {
 
-
   protected final Map<Integer, T> data = new TreeMap<>();
-
 
   public void addAll(List<T> item) {
     item.forEach(x -> data.put(x.getId(), x));

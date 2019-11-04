@@ -10,7 +10,7 @@ import frido.samosprava.core.entity.Record;
 public class InMemoryPersonCollection extends InMemoryBaseCollection<Person> {
 
   public Stream<Person> findInCouncilId(Integer councilId) {
-    return data.values().stream().filter(p -> isInCouncilId(p, councilId));
+    return getAll().filter(p -> isInCouncilId(p, councilId));
   }
 
   private Boolean isInCouncilId(Person p, Integer councilId) {

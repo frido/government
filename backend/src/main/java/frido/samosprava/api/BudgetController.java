@@ -2,6 +2,7 @@ package frido.samosprava.api;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -9,7 +10,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Money;
 import frido.samosprava.core.entity.Resolution;
 import frido.samosprava.core.entity.ResponseObject2;
@@ -22,27 +23,71 @@ import frido.samosprava.core.entity.view.ResponseWrapper;
 @RestController
 class BudgetController {
 
-  private final InMemoryCollections2 collections;
+  private final InMemoryCollections collections;
   private static final Integer YEAR = 2019;
 
-  public BudgetController(InMemoryCollections2 collections) {
+  public BudgetController(InMemoryCollections collections) {
     this.collections = collections;
   }
 
   @GetMapping("/api/budget/{councilId}")
-  public ResponseObject2 budget(@PathVariable int councilId) {
+  public ResponseWrapper<BudgetView> budget(@PathVariable int councilId) {
     final List<BudgetView> views = new ArrayList<>();
-    collections.budgets().findByCouncilId(councilId)
-        .flatMap(x -> x.getVydavky().stream())
-        .forEach(v -> collectBudgetView(views, v));
-    List<BudgetView> response = views.stream().filter(v -> YEAR.equals(v.getYear()))
-        .sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(Collectors.toList());
-    return new ResponseObject2(response);
+    collections.budgets().findByCouncilId(councilId).flatMap(x -> x.getVydavky().stream())
+        .forEach(v -> collectBudgetView(views, v)); // TODO: implement recursive streams
+    return views.stream().filter(v -> YEAR.equals(v.getYear()))
+        .sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(new ResponseWrapper<>());
   }
 
   @GetMapping("/api/council/{councilId}")
-  public ResponseObject2 council(@PathVariable int councilId) {
-    return new ResponseObject2(collections.councils().findById(councilId));
+  public Optional<ResponseObject2> council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
+    return collections.councils().findById(councilId).map(ResponseObject2::new);
+  }
+
+  @GetMapping("/api/projects/{councilId}")
+  public ResponseWrapper<ProjectView> projects(@PathVariable int councilId) {
+    return collections.resolutions().findByTypeAndCouncilId("projekt", councilId)
+      .flatMap(r -> collectProjectView(r))
+      .sorted(HasValue.comparator)
+      .collect(new ResponseWrapper<>());
+  }
+
+  @GetMapping("/api/grants/{councilId}")
+  public ResponseWrapper<ProjectView> grants(@PathVariable int councilId) {
+    return collections.resolutions().findByTypeAndCouncilId("grants", councilId)
+      .flatMap(r -> collectProjectView(r))
+      .sorted(HasValue.comparator)
+      .collect(new ResponseWrapper<>());
+  }
+
+  // TODO: je lepsie miesto kam ulozit taketo pomocne metodky?
+  private Stream<ProjectView> collectProjectView(Resolution resolution) {
+    return resolution.getProjects().stream().map(p -> new ProjectView(collections, resolution, p));
+  }
+
+  private void collectBudgetView(List<BudgetView> views, Vydavky vydavky) {
+    if (vydavky.getMoney() != null) {
+      for (Money money : vydavky.getMoney()) {
+        if (money.getUseKv() != null) {
+          for (UseKv kv : money.getUseKv()) {
+            BudgetView view = new BudgetView();
+            view.setTitle(kv.getTitle());
+            view.setValue(kv.getSuma());
+            view.setYear(money.getYear());
+            view.setNumber(vydavky.getProgram());
+            view.setProgram(vydavky.getTitle());
+            view.setComment(vydavky.getComment());
+            views.add(view);
+          }
+        }
+      }
+    }
+
+    if (vydavky.getSub() != null) {
+      for (Vydavky sub : vydavky.getSub()) {
+        collectBudgetView(views, sub);
+      }
+    }
   }
 
   /**
@@ -105,25 +150,7 @@ class BudgetController {
   //   return response;
   // }
 
-  @GetMapping("/api/projects/{councilId}")
-  public ResponseWrapper<ProjectView> projects(@PathVariable int councilId) {
-    return collections.resolutions().findByTypeAndCouncilId("projekt", councilId)
-      .flatMap(r -> collectProjects2(r))
-      .sorted(HasValue.comparator)
-      .collect(new ResponseWrapper<>());
-  }
-
-  @GetMapping("/api/grants/{councilId}")
-  public ResponseWrapper<ProjectView> grants(@PathVariable int councilId) {
-    return collections.resolutions().findByTypeAndCouncilId("grants", councilId)
-      .flatMap(r -> collectProjects2(r))
-      .sorted(HasValue.comparator)
-      .collect(new ResponseWrapper<>());
-  }
-
-  private Stream<ProjectView> collectProjects2(Resolution resolution) {
-    return resolution.getProjects().stream().map(p -> new ProjectView(collections, resolution, p));
-  }
+  
 
   // private List<ProjectView> collectProjects(List<Resolution> resolutions) {
   //   List<ProjectView> projects = new ArrayList<>();
@@ -145,29 +172,6 @@ class BudgetController {
   //   return projects.stream().sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(Collectors.toList());
   // }
 
-  private void collectBudgetView(List<BudgetView> views, Vydavky vydavky) {
-    if (vydavky.getMoney() != null) {
-      for (Money money : vydavky.getMoney()) {
-        if (money.getUseKv() != null) {
-          for (UseKv kv : money.getUseKv()) {
-            BudgetView view = new BudgetView();
-            view.setTitle(kv.getTitle());
-            view.setValue(kv.getSuma());
-            view.setYear(money.getYear());
-            view.setNumber(vydavky.getProgram());
-            view.setProgram(vydavky.getTitle());
-            view.setComment(vydavky.getComment());
-            views.add(view);
-          }
-        }
-      }
-    }
-
-    if (vydavky.getSub() != null) {
-      for (Vydavky sub : vydavky.getSub()) {
-        collectBudgetView(views, sub);
-      }
-    }
-  }
+  
 
 }

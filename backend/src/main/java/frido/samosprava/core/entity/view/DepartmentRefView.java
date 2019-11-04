@@ -1,6 +1,6 @@
 package frido.samosprava.core.entity.view;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Council;
 import frido.samosprava.core.entity.Department;
 import frido.samosprava.core.entity.DepartmentRef;
@@ -18,7 +18,7 @@ public class DepartmentRefView extends DepartmentRef{
   protected Department department;
   protected DepartmentRole role;
 
-  public DepartmentRefView(InMemoryCollections2 collections, DepartmentRef ref) {
+  public DepartmentRefView(InMemoryCollections collections, DepartmentRef ref) {
     id = ref.getId();
     councilId = ref.getCouncilId();
     period = ref.getPeriod();

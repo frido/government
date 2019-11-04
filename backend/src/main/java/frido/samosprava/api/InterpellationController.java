@@ -4,16 +4,16 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.ResponseList;
 import frido.samosprava.core.entity.ResponseObject;
 
 @RestController
 class InterpellationController {
 
-  private InMemoryCollections2 collections;
+  private InMemoryCollections collections;
 
-  public InterpellationController(InMemoryCollections2 collections) {
+  public InterpellationController(InMemoryCollections collections) {
 //    this.collections = collections;
   }
 

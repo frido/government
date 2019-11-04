@@ -3,7 +3,7 @@ package frido.samosprava.core.entity.view;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Person;
 
 public class PersonView extends Person {
@@ -26,7 +26,8 @@ public class PersonView extends Person {
 //  protected String fb;
 //  protected String role;
 
-  public PersonView(InMemoryCollections2 collections, Person person) {
+// TODO: premysliet kam premiestnit mapovanie entit do view
+  public PersonView(InMemoryCollections collections, Person person) {
     this.id = person.getId();
     this.councilId = person.getCouncilId();
     this.name = person.getName();

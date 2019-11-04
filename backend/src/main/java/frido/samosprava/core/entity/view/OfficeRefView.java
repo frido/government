@@ -1,6 +1,6 @@
 package frido.samosprava.core.entity.view;
 
-import frido.samosprava.core.collection.InMemoryCollections2;
+import frido.samosprava.core.collection.InMemoryCollections;
 import frido.samosprava.core.entity.Council;
 import frido.samosprava.core.entity.Election;
 import frido.samosprava.core.entity.Office;
@@ -21,7 +21,7 @@ public class OfficeRefView extends OfficeRef{
   protected Office office;
   protected Election election;
 
-  public OfficeRefView(InMemoryCollections2 collections, OfficeRef officeRef, Person person) {
+  public OfficeRefView(InMemoryCollections collections, OfficeRef officeRef, Person person) {
     id = officeRef.getId();
     councilId = officeRef.getCouncilId();
     period = officeRef.getPeriod();
