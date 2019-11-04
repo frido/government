@@ -5,11 +5,11 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
-import frido.samosprava.core.client.JdkHttpClient;
-import frido.samosprava.core.client.WebClient;
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.store.DataStore;
-import frido.samosprava.core.store.HttpStore;
+import frido.samosprava.client.JdkHttpClient;
+import frido.samosprava.client.WebClient;
+import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.store.DataStore;
+import frido.samosprava.store.HttpStore;
 
 @Configuration
 public class AppConfig {

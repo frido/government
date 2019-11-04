@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.Meeting;
-import frido.samosprava.core.entity.ResponseObject2;
-import frido.samosprava.core.entity.view.ResponseWrapper;
+import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.entity.Meeting;
+import frido.samosprava.view.ResponseObjectView;
+import frido.samosprava.view.ResponseListView;
 
 @RestController
 class MeetingController {
@@ -21,13 +21,13 @@ class MeetingController {
   }
 
   @GetMapping("/api/meetings/{councilId}")
-  public ResponseWrapper<Meeting> meetings(@PathVariable int councilId) {
-    return collections.meetings().findByCouncilId(councilId).collect(new ResponseWrapper<>());
+  public ResponseListView<Meeting> meetings(@PathVariable int councilId) {
+    return collections.meetings().findByCouncilId(councilId).collect(new ResponseListView<>());
   }
 
   @GetMapping("/api/meeting/{id}")
-  public Optional<ResponseObject2> meeting(@PathVariable int id) {
-    return collections.meetings().findById(id).map(ResponseObject2::new);
+  public Optional<ResponseObjectView> meeting(@PathVariable int id) {
+    return collections.meetings().findById(id).map(ResponseObjectView::new);
   }
 
 }

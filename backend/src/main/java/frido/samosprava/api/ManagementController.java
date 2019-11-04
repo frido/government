@@ -5,8 +5,8 @@ import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseObject;
+import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.view.ResponseObjectView;
 
 @RestController
 class ManagementController {
@@ -19,7 +19,7 @@ class ManagementController {
   }
 
   @GetMapping("/api/reload")
-  public ResponseObject budget() {
+  public ResponseObjectView budget() {
     log.info("FRIDO: /api/reload");
     collections.reload();
     return null;

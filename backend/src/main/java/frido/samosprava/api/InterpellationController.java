@@ -4,9 +4,9 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.ResponseList;
-import frido.samosprava.core.entity.ResponseObject;
+import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.view.ResponseListView;
+import frido.samosprava.view.ResponseObjectView;
 
 @RestController
 class InterpellationController {
@@ -18,13 +18,13 @@ class InterpellationController {
   }
 
   @GetMapping("/api/interpellations/{council}")
-  public ResponseList interpellations(@PathVariable int council) {
+  public ResponseListView<String> interpellations(@PathVariable int council) {
 //    return new ResponseList(collections.collection("interpellations").council(council));
     return null;
   }
 
   @GetMapping("/api/interpellation/{id}")
-  public ResponseObject interpellation(@PathVariable int id) {
+  public ResponseObjectView interpellation(@PathVariable int id) {
 //    return new ResponseObject(collections.collection("interpellations").id(id));
     return null;
   }

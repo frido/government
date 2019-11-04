@@ -3,22 +3,21 @@ package frido.samosprava.api;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import frido.samosprava.core.collection.InMemoryCollections;
-import frido.samosprava.core.entity.Money;
-import frido.samosprava.core.entity.Resolution;
-import frido.samosprava.core.entity.ResponseObject2;
-import frido.samosprava.core.entity.UseKv;
-import frido.samosprava.core.entity.Vydavky;
-import frido.samosprava.core.entity.view.BudgetView;
-import frido.samosprava.core.entity.view.ProjectView;
-import frido.samosprava.core.entity.view.ResponseWrapper;
+import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.entity.Money;
+import frido.samosprava.entity.Resolution;
+import frido.samosprava.entity.UseKv;
+import frido.samosprava.entity.Vydavky;
+import frido.samosprava.view.BudgetView;
+import frido.samosprava.view.ProjectView;
+import frido.samosprava.view.ResponseListView;
+import frido.samosprava.view.ResponseObjectView;
 
 @RestController
 class BudgetController {
@@ -31,33 +30,33 @@ class BudgetController {
   }
 
   @GetMapping("/api/budget/{councilId}")
-  public ResponseWrapper<BudgetView> budget(@PathVariable int councilId) {
+  public ResponseListView<BudgetView> budget(@PathVariable int councilId) {
     final List<BudgetView> views = new ArrayList<>();
     collections.budgets().findByCouncilId(councilId).flatMap(x -> x.getVydavky().stream())
         .forEach(v -> collectBudgetView(views, v)); // TODO: implement recursive streams
     return views.stream().filter(v -> YEAR.equals(v.getYear()))
-        .sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(new ResponseWrapper<>());
+        .sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(new ResponseListView<>());
   }
 
   @GetMapping("/api/council/{councilId}")
-  public Optional<ResponseObject2> council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
-    return collections.councils().findById(councilId).map(ResponseObject2::new);
+  public Optional<ResponseObjectView> council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
+    return collections.councils().findById(councilId).map(ResponseObjectView::new);
   }
 
   @GetMapping("/api/projects/{councilId}")
-  public ResponseWrapper<ProjectView> projects(@PathVariable int councilId) {
+  public ResponseListView<ProjectView> projects(@PathVariable int councilId) {
     return collections.resolutions().findByTypeAndCouncilId("projekt", councilId)
       .flatMap(r -> collectProjectView(r))
       .sorted(HasValue.comparator)
-      .collect(new ResponseWrapper<>());
+      .collect(new ResponseListView<>());
   }
 
   @GetMapping("/api/grants/{councilId}")
-  public ResponseWrapper<ProjectView> grants(@PathVariable int councilId) {
+  public ResponseListView<ProjectView> grants(@PathVariable int councilId) {
     return collections.resolutions().findByTypeAndCouncilId("grants", councilId)
       .flatMap(r -> collectProjectView(r))
       .sorted(HasValue.comparator)
-      .collect(new ResponseWrapper<>());
+      .collect(new ResponseListView<>());
   }
 
   // TODO: je lepsie miesto kam ulozit taketo pomocne metodky?
