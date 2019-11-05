@@ -3,8 +3,8 @@
     <i class="{{office.office.icon}} fa-2x"></i>
     <div class="card-detail-item-strong">
       <div><strong>{{office.office.name}}</strong></div>
-      <div>{{office.council.name}}</div>
-      <div *ngIf="office.to != null"><small>{{office.from}}/{{office.to}}</small></div>
+      <div class="description">{{office.council.name}}</div>
+      <div class="description" *ngIf="office.to != null"><small>{{office.from}}/{{office.to}}</small></div>
     </div>
     <div>
       <div *ngIf="office.election">{{office.election.votes}} hlasov <small>( {{office.election.party}} )</small></div>
@@ -16,8 +16,8 @@
     <i class="fas fa-chess-pawn fa-2x"></i>
     <div class="card-detail-item-strong">
       <div><strong>{{deputy.council.title}}</strong></div>
-      <div>{{deputy.council.name}}</div>
-      <div *ngIf="deputy.to != null"><small>{{deputy.from}}/{{deputy.to}}</small></div>
+      <div class="description">{{deputy.council.name}}</div>
+      <div class="description" *ngIf="deputy.to != null"><small>{{deputy.from}}/{{deputy.to}}</small></div>
     </div>
     <div>
       <div *ngIf="deputy.election">{{deputy.election.votes}} hlasov <small>( {{deputy.election.party}} )</small></div>
@@ -29,8 +29,8 @@
     <i class="fas fa-chess-pawn fa-2x"></i>
     <div class="card-detail-item-strong">
       <div><strong><span *ngIf="commission.chairman">Predseda </span> {{commission.commission.name}}</strong></div>
-      <div>{{commission.council.name}}</div>
-      <div *ngIf="commission.to != null"><small>{{commission.from}}/{{commission.to}}</small></div>
+      <div class="description">{{commission.council.name}}</div>
+      <div class="description" *ngIf="commission.to != null"><small>{{commission.from}}/{{commission.to}}</small></div>
     </div>
   </div>
 </ng-container>
@@ -39,8 +39,8 @@
     <i class="{{department.role.icon}} fa-2x"></i>
     <div class="card-detail-item-strong">
       <div><strong>{{department.role.name}}</strong></div>
-      <div>{{department.department.name}}</div>
-      <div *ngIf="department.to != null"><small>{{department.from}}/{{department.to}}</small></div>
+      <div class="description">{{department.department.name}}</div>
+      <div class="description" *ngIf="department.to != null"><small>{{department.from}}/{{department.to}}</small></div>
     </div>
   </div>
 </ng-container>

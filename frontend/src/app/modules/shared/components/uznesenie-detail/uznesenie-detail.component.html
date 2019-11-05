@@ -1,27 +1,9 @@
-<div *ngIf="popis" class="card-detail-text">
-  <ng-container *ngIf="uznesenie.type === 'najom'">
-    <!--
-        <div><strong>Predmet: </strong>{{uznesenie.predmet}}</div>
-        <div><strong>Adresa: </strong>{{uznesenie.adresa}} {{uznesenie.adresaCislo}}</div>
-        <div><strong>Výmera: </strong>{{uznesenie.vymera}}m2</div>
-        <div><strong>Nájomca: </strong>{{uznesenie.najomca}} (IČO:{{uznesenie.ico}})</div>
-        <div><strong>Od: </strong>{{uznesenie.od}}<strong> Do: </strong>{{uznesenie.do}}</div>
-        <div><strong>Cena: </strong>{{uznesenie.cena}}&euro;/{{uznesenie.cenaZa}}</div>
-        -->
-  </ng-container>
-
-  <ng-container *ngIf="uznesenie.type === 'ine' || uznesenie.type === 'peticia'">
-    <div>{{uznesenie.title}}</div>
-  </ng-container>
-
-</div>
-
 <div class="card-detail-item">
   <i class="fas fa-fingerprint fa-2x"></i>
   <div>
     <strong>číslo</strong>
-    <div>
-      <app-linkable section="uznesenia" [id]="uznesenie.id" [text]="uznesenie.number"></app-linkable>
+    <div class="description">
+      {{uznesenie.number}}
     </div>
   </div>
 </div>
@@ -61,7 +43,7 @@
     <!-- <div class="card-detail-item-strong"></div> -->
     <div>
       <strong>{{v.title}}</strong>
-      <div *ngFor="let p of v.descriptions">{{p}}</div>
+      <div class="description" *ngFor="let p of v.descriptions">{{p}}</div>
     </div>
   </div>
 </div>
@@ -75,7 +57,3 @@
     </div>
   </div>
 </div>
-
-<div class="poslanec-viac">
-    <app-linkable section="uznesenia" [id]="uznesenie.id" text="Viac"></app-linkable>
-  </div>

@@ -180,9 +180,11 @@ a.header-nav-item:hover {
             }
             strong {
                 margin-right: $margin * 2;
+                margin-left: 5px;
             }
-            .card-detail-item-strong {
-                // width: 150px;
+            .description {
+                margin-left: 5px;
+                margin-top: 5px;
             }
             .card-detail-item-za {
                 display: flex;

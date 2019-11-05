@@ -6,5 +6,8 @@
   </div>
   <div *ngIf="opened" class="card-detail">
     <app-uznesenie-detail [uznesenie]="uznesenie"></app-uznesenie-detail>
+    <div class="poslanec-viac">
+      <app-linkable section="uznesenia" [id]="uznesenie.id" text="Viac"></app-linkable>
+    </div>
   </div>
 </div>
