@@ -494,13 +494,15 @@ a.header-nav-item:hover {
         text-align: center;
         margin-top: auto;
         margin-bottom: auto;
+        padding-bottom: 25px;
         &:hover {
             background: $background-hover;
             color: $color-hover;
         }
         h1 {
-            padding: 100px;
+            padding: 50px 100px 25px 100px;
             font-size: 70px;
+            margin: 0;
         }
     }
 }

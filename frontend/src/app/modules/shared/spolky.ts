@@ -24,7 +24,7 @@ export const spolky: Spolok[] = [
       ],
       'fb': {
         'title': 'Detva.info',
-        'link': 'https://www.facebook.com/Detvainfo-215319999381212'
+        'link': 'https://www.facebook.com/detva.info'
       }
     }, {
       'id': 3,
