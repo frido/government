@@ -44,6 +44,16 @@
     </div>
   </div>
 </ng-container>
+<ng-container *ngIf="poslanec.fb">
+  <div class="card-detail-item">
+    <i class="fab fa-facebook-f fa-2x"></i>
+    <div class="card-detail-item-strong">
+      <div class="description">
+        <a href="https://www.facebook.com/{{poslanec.fb}}" target="blank" class="linkable">Facebook</a>
+      </div>
+    </div>
+  </div>
+</ng-container>
 <ng-container *ngIf="resolutions?.length > 0">
   <h3>Predložené návrhy</h3>
   <ng-container *ngFor="let r of resolutions">
