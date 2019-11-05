@@ -461,7 +461,8 @@ a.header-nav-item:hover {
     margin: $margin 0px;
     padding-left: $margin-content;
     text-align: center;
-    border-top: solid $background-footer 1px;;
+    border: none;
+    // border-top: solid $background-footer 1px;;
     /*color: $surface;*/
 }
 .mat-progress-spinner {
