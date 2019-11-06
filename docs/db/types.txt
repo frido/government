@@ -22,6 +22,7 @@ Vyhlásenie voľby hlavného kontrolóra
 ---Plat
 urcenie platu
 priznanie odmeny
+schválenie mesačného platu
 
 ---Stanovisko
 Odmietavé stanovisko
@@ -36,8 +37,21 @@ Záverečný účet
 ---Vzn
 vzn
 
+---Zasady
+Návrh Dodatku
+Novelizácia Pravidiel kontrolnej činnosti
+Oprava uznesenia
+Dodatok č.1 k Zásadám
+Zásady hospodárenia
+Zásad hospodárenia
+Návrh uznesenia na zverejňovanie miezd
+
 ---Project
 projekt
+
+---Dotacie
+Poskytnutie dotácií
+Schválenie dotácií
 
 ---Plan
 Návrh plánu kontrolnej činnosti
@@ -53,13 +67,7 @@ Memorandum
 ---Prenajom
 predĺženie prenájmu
 prenájom nebytových priestorov
-
----Pravidelne
-Kontrola plnenia uznesení
-Informácia o prijatých opatreniach
-
----Dotacie
-Poskytnutie dotácií
+Schválenie nájmu
 
 ---Predaj
 Odpredaj pozemku
@@ -67,34 +75,24 @@ Odpredaj pozemku
 ---Nakup
 Odkúpenie pozemku
 
----Rozne
-rozne
-
----Grants
-Schválenie dotácií
-
----Schvalenie
-Schválenie Územného plánu
-Schválenie zmlúv
-Schválenie ceny vody
-schválenie mesačného platu
-Schválenie nájmu
-Schválenie investičného úveru
-
----Novelizacia
-Návrh Dodatku
-Novelizácia Pravidiel kontrolnej činnosti
-Oprava uznesenia
-Dodatok č.1 k Zásadám
-Zásady hospodárenia
-Zásad hospodárenia
-Návrh uznesenia na zverejňovanie miezd
-
 ---Pozemky
 zverenie objektu ... do ...
 Žiadosť o vysporiadanie pozemkov
 Zámena pozemkov 
 Zriadenie vecného bremena
+
+---Pravidelne
+Kontrola plnenia uznesení
+Informácia o prijatých opatreniach
+
+---Rozne
+rozne
+
+--- ??????????
+Schválenie Územného plánu
+Schválenie zmlúv
+Schválenie ceny vody
+Schválenie investičného úveru
 
 --Support
 Návrh na obstaranie a spracovanie urbanistickej štúdie
