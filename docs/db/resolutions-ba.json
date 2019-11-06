@@ -4985,7 +4985,7 @@
             "type": "ine",
             "councilId": 1,
             "meetingId": 9,
-            "creatorIds": [],
+            "creatorIds": [95],
             "title": "Zóny bez pesticídov ",
             "description": "95",
             "results": [
