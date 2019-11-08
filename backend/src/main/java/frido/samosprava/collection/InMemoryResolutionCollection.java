@@ -2,6 +2,7 @@ package frido.samosprava.collection;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.Date;
 import java.util.List;
 import java.util.stream.Stream;
@@ -11,9 +12,6 @@ import frido.samosprava.entity.Person;
 import frido.samosprava.entity.Resolution;
 
 public class InMemoryResolutionCollection extends InMemoryBaseCollection<Resolution> {
-
-  // TODO: the same used on more places
-  private static final SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy"); // 25.09.2018
 
   public Stream<Resolution> findByMeetingId(Integer meetingId) {
     return getAll().filter(x -> x.getMeetingId().equals(meetingId));
@@ -34,41 +32,26 @@ public class InMemoryResolutionCollection extends InMemoryBaseCollection<Resolut
   // uznesenia kde creator je poslanec
   public Stream<Resolution> findByCreatorIdAsDeputy(InMemoryCollections collections, Integer creatorId) {
     return getAll().filter(x -> {
-      try {
-        Meeting meeting = collections.meetings().findById(x.getMeetingId()).get();
-        Date meetingDate = sdf.parse(meeting.getDate());
-        return x.getCreatorIds().stream()
-          .filter(c -> c.equals(creatorId))
-          .map(c -> collections.persons().findById(c))
-          .filter(p -> responsibilityType(p.get(), x.getCouncilId(), meetingDate) == 2)
-          .count() > 0;
-      } catch (ParseException e) {
-        e.printStackTrace();
-      }
-      return false;
+      Meeting meeting = collections.meetings().findById(x.getMeetingId()).get();
+      return x.getCreatorIds().stream().filter(c -> c.equals(creatorId)).map(c -> collections.persons().findById(c))
+          .filter(p -> responsibilityType(p.get(), x.getCouncilId(), meeting.getDate()) == 2).count() > 0;
     });
   }
 
   // TODO: responsibility Enumberation
-  private int responsibilityType(Person person, int councilId, Date inDate) {
-    if (person.getDeputies() != null) { // TODO: != null nechcem vidiet
-      if (person.getDeputies().stream()
-          .anyMatch(d -> d.getCouncilId() == councilId && dateWithin(inDate, d.getFrom(), d.getTo()))) {
-        return 2;
-      }
+  private int responsibilityType(Person person, int councilId, LocalDate inDate) {
+    if (person.getDeputies().stream()
+        .anyMatch(d -> d.getCouncilId() == councilId && dateWithin(inDate, d.getFrom(), d.getTo()))) {
+      return 2;
     }
     return 1;
   }
 
-  private boolean dateWithin(Date date, String from, String to) {
-    try {
-        if (((from == null) || (sdf.parse(from).before(date))) && ((to == null) || (sdf.parse(to).after(date)))) {
-            return true;
-        }
-        return false;
-    } catch (ParseException e) {
-        return false;
-    }
-}
+  private boolean dateWithin(LocalDate date, LocalDate from, LocalDate to) {
+      if (((from == null) || (from.isBefore(date))) && ((to == null) || (to.isAfter(date)))) {
+        return true;
+      }
+      return false;
+  }
 
 }

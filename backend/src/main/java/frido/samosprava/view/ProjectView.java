@@ -21,7 +21,7 @@ public class ProjectView extends HasValue {
   public ProjectView(InMemoryCollections collections, Resolution r, Project p) {
     collections.meetings().findById(r.getMeetingId())
       .map(m -> m.getDate())
-      .map(d -> DateFormat.toYear(d))
+      .map(d -> d.getYear())
       .ifPresent(y -> setYear(y));
     setTitle(p.getTitle());
     setValue(p.getValue());

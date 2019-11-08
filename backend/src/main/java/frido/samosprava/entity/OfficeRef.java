@@ -1,9 +1,11 @@
 package frido.samosprava.entity;
 
+import java.time.LocalDate;
+
 public class OfficeRef extends Record {
   protected String period;
-  protected String from;
-  protected String to;
+  protected LocalDate from;
+  protected LocalDate to;
   protected Integer roleId;
   protected Integer electionId;
 
@@ -13,16 +15,16 @@ public class OfficeRef extends Record {
   public void setPeriod(String period) {
     this.period = period;
   }
-  public String getFrom() {
+  public LocalDate getFrom() {
     return from;
   }
-  public void setFrom(String from) {
+  public void setFrom(LocalDate from) {
     this.from = from;
   }
-  public String getTo() {
+  public LocalDate getTo() {
     return to;
   }
-  public void setTo(String to) {
+  public void setTo(LocalDate to) {
     this.to = to;
   }
   public Integer getRoleId() {

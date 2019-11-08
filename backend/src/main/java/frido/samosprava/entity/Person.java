@@ -1,5 +1,6 @@
 package frido.samosprava.entity;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Person  extends Record{
@@ -78,6 +79,9 @@ public class Person  extends Record{
     this.fb = fb;
   }
   public List<DeputyRef> getDeputies() {
+    if (deputies == null) {
+      return new ArrayList<>();
+    }
     return deputies;
   }
   public void setDeputies(List<DeputyRef> deputies) {

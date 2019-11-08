@@ -1,9 +1,11 @@
 package frido.samosprava.entity;
 
+import java.time.LocalDate;
+
 public class Election extends Record {
   private String period;
-  private String from;
-  private String to;
+  private LocalDate from;
+  private LocalDate to;
   private String party;
   private Integer votes;
   private Boolean mayor;
@@ -14,16 +16,16 @@ public class Election extends Record {
   public void setPeriod(String period) {
     this.period = period;
   }
-  public String getFrom() {
+  public LocalDate getFrom() {
     return from;
   }
-  public void setFrom(String from) {
+  public void setFrom(LocalDate from) {
     this.from = from;
   }
-  public String getTo() {
+  public LocalDate getTo() {
     return to;
   }
-  public void setTo(String to) {
+  public void setTo(LocalDate to) {
     this.to = to;
   }
   public String getParty() {

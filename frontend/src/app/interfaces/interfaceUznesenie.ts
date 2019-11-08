@@ -16,6 +16,7 @@ interface Uznesenie {
   voteNoIds: number[];
   presented: number;
   source: string;
+  meeting: Meeting;
 }
 
 interface Vysledok {

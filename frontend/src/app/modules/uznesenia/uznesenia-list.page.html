@@ -11,7 +11,7 @@
   <ng-container *ngFor="let m of meetings">
     <div>
       <a *ngIf="m.loaded == false" (click)="selectMeeting(m)" class="linkable">Načítať uznesenia zo zasadnutia dňa {{m.meeting.date}}</a>
-      <h3 *ngIf="m.loaded == true">Zasadnutia zo dňa {{m.meeting.date}}</h3>
+      <h3 *ngIf="m.loaded == true">Zasadnutia zo dňa {{m.meeting.date | date}}</h3>
       <ng-container *ngFor="let u of m.fResolutions">
           <app-uznesenie [uznesenie]="u"></app-uznesenie>
         </ng-container>

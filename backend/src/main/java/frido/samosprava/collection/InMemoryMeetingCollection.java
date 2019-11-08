@@ -16,12 +16,13 @@ public class InMemoryMeetingCollection extends InMemoryBaseCollection<Meeting> {
 
     // TODO: deprecated year - use new Date
     private Boolean filterByYear(Meeting x, Integer councilId, Integer year) {
-        try {
-            int meetingYear = sdf.parse(x.getDate()).getYear() + 1900;
+        // try {
+            // int meetingYear = sdf.parse(x.getDate()).getYear() + 1900;
+            int meetingYear = x.getDate().getYear();
             return meetingYear == year && x.getCouncilId() == councilId;
-        } catch (ParseException e) {
-            return false;
-        }
+        // } catch (ParseException e) {
+        //     return false;
+        // }
     }
 
      

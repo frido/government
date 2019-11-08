@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.List;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
+import com.fasterxml.jackson.datatype.jsr310.JSR310Module;
 
 import frido.samosprava.entity.BudgetList;
 import frido.samosprava.entity.CouncilList;
@@ -28,6 +30,8 @@ public class InMemoryCollections {
 
   public InMemoryCollections(DataStore store) {
     this.mapper = new ObjectMapper();
+    mapper.registerModule(new JSR310Module());
+    mapper.configure(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS, true);
     this.store = store;
     init();
   }

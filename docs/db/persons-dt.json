@@ -8,7 +8,7 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 2560,
           "mayor": true
@@ -17,7 +17,7 @@
       "commissions": [],
       "departments": [],
       "offices": [
-        { "councilId": 2, "roleId": 1, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "roleId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "club": null,
       "fb": null,
@@ -31,24 +31,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "ŠANCA",
           "votes": 170
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "chairman": false
         }
@@ -65,24 +65,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "KDH",
           "votes": 163
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "chairman": false
         }
@@ -99,24 +99,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 202
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -133,18 +133,18 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 601
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -161,18 +161,18 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 457
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -189,24 +189,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 455
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -223,24 +223,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "KDH",
           "votes": 454
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -257,24 +257,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 686
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -291,36 +291,36 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "SMER-SD",
           "votes": 520
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -337,18 +337,18 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 498
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -356,7 +356,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 9
         }
       ],
@@ -372,30 +372,30 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "KDH",
           "votes": 496
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -420,24 +420,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 416
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -454,30 +454,30 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 387
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -494,18 +494,18 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 380
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -522,24 +522,24 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "NEKA",
           "votes": 346
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -556,36 +556,36 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "KDH",
           "votes": 315
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": true
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -610,36 +610,36 @@
         {
           "id": 1,
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "party": "KDH",
           "votes": 195
         }
       ],
       "deputies": [
-        { "councilId": 2, "from": "01.12.2018", "to": null, "electionId": 1 }
+        { "councilId": 2, "from": "2018-12-01", "to": null, "electionId": 1 }
       ],
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 8,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         },
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 100,
           "chairman": false
         }
@@ -663,7 +663,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": "01.07.2019",
+          "period": "2018/2022", "from": "2018-12-01", "to": "2019-07-01",
           "fk": 1,
           "chairman": false
         }
@@ -671,7 +671,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 2
         }
       ],
@@ -684,7 +684,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 1,
           "chairman": false
         }
@@ -698,7 +698,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -712,7 +712,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 3,
           "chairman": false
         }
@@ -726,7 +726,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -740,7 +740,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -754,7 +754,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 5,
           "chairman": false
         }
@@ -768,7 +768,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -782,7 +782,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -796,7 +796,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "chairman": false
         }
@@ -810,7 +810,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -824,7 +824,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -838,7 +838,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 7,
           "chairman": false
         }
@@ -852,7 +852,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -866,7 +866,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -880,7 +880,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 6,
           "chairman": false
         }
@@ -895,7 +895,7 @@
       "departments": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 2,
           "roleId": 1
         }
@@ -910,7 +910,7 @@
       "departments": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "roleId": 1
         }
@@ -925,7 +925,7 @@
       "departments": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "roleId": 1
         }
@@ -940,7 +940,7 @@
       "departments": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.12.2018", "to": null,
+          "period": "2018/2022", "from": "2018-12-01", "to": null,
           "fk": 4,
           "roleId": 1
         }
@@ -956,7 +956,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 3
         }
       ],
@@ -971,7 +971,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 4
         }
       ],
@@ -986,7 +986,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 5
         }
       ],
@@ -1001,7 +1001,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 6
         }
       ],
@@ -1016,7 +1016,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 7
         }
       ],
@@ -1031,7 +1031,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 8
         }
       ],
@@ -1046,7 +1046,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 2
         }
       ],
@@ -1061,7 +1061,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": null,
+          "from": "2018-12-01", "to": null,
           "roleId": 10
         }
       ],
@@ -1076,7 +1076,7 @@
       "offices": [
         {
           "councilId": 2,
-          "from": "01.12.2018", "to": "23.03.2019",
+          "from": "2018-12-01", "to": "2019-03-23",
           "roleId": 7
         }
       ],
@@ -1088,7 +1088,7 @@
       "commissions": [
         {
           "councilId": 2,
-          "period": "2018/2022", "from": "01.07.2019", "to": null,
+          "period": "2018/2022", "from": "2019-07-01", "to": null,
           "fk": 1,
           "chairman": false
         }

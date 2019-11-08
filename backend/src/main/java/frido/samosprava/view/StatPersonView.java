@@ -2,6 +2,7 @@ package frido.samosprava.view;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
+import java.time.LocalDate;
 import java.util.Date;
 
 import frido.samosprava.entity.Person;
@@ -10,8 +11,6 @@ import frido.samosprava.entity.Person;
  * StatPersonView
  */
 public class StatPersonView {
-
-    private static final SimpleDateFormat sdf = new SimpleDateFormat("dd.MM.yyyy"); // 25.09.2018
 
     private Person person;
     private Integer value;
@@ -61,25 +60,12 @@ public class StatPersonView {
         }
     }
 
-    private boolean dateWithin(String from, String to) {
-        try {
-            Date now = new Date();
-            if (((from == null) || (sdf.parse(from).before(now))) && ((to == null) || (sdf.parse(to).after(now)))) {
+    private boolean dateWithin(LocalDate from, LocalDate to) {
+        LocalDate now = LocalDate.now();
+            if (((from == null) || (from.isBefore(now))) && ((to == null) || (to.isAfter(now)))) {
                 return true;
             }
             return false;
-        } catch (ParseException e) {
-            return false;
-        }
-    }
-
-    private boolean dateWithin(Date from, Date to) {
-        Date now = new Date();
-        if (((from == null) || (from.before(now))) && ((to == null) || (to.after(now)))) {
-            return true;
-        }
-        return false;
 
     }
-
 }

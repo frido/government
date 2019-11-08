@@ -1,5 +1,9 @@
 package frido.samosprava;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.databind.SerializationFeature;
+import com.fasterxml.jackson.datatype.jsr310.JSR310Module;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
@@ -25,10 +29,18 @@ public class AppConfig {
     return new HttpStore(webClient(), "https://frido.github.io/government/db/");
   }
 
-//  @Bean
-//  public InMemoryCollections inMemoryCollections() {
-//    return new InMemoryCollections(dataStore());
-//  }
+  @Bean
+  public ObjectMapper objectMapper() {
+    ObjectMapper MAPPER = new ObjectMapper();
+    MAPPER.registerModule(new JSR310Module());
+    MAPPER.configure(SerializationFeature.WRITE_DATES_AS_TIMESTAMPS, false);
+    return MAPPER;
+  }
+
+  // @Bean
+  // public InMemoryCollections inMemoryCollections() {
+  // return new InMemoryCollections(dataStore());
+  // }
 
   @Bean
   public InMemoryCollections inMemoryCollections2() {
