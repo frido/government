@@ -4,55 +4,55 @@
     {
       "id": 1,
       "councilId": 1,
-      "date": "23.10.2018",
+      "date": "2018-10-23",
       "time": "9:00",
       "place": "obradnej sieni CC Centra, Jiráskova 5, Bratislava"
     }, {
       "id": 2,
       "councilId": 1,
-      "date": "25.09.2018",
+      "date": "2018-09-25",
       "time": "9:00",
       "place": "v kongresovej sále Technopolservices na Kutlíkovej ulici č. 17."
     }, {
       "id": 3,
       "councilId": 1,
-      "date": "06.12.2018",
+      "date": "2018-12-06",
       "time": "10:00",
       "place": "v obradnej sieni CC Centra, Jiráskova 5, Bratislava"
     }, {
       "id": 4,
       "councilId": 1,
-      "date": "05.02.2019",
+      "date": "2019-02-05",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }, {
       "id": 5,
       "councilId": 1,
-      "date": "26.03.2019",
+      "date": "2019-03-26",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }, {
       "id": 6,
       "councilId": 1,
-      "date": "10.06.2019",
+      "date": "2019-06-10",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }, {
       "id": 7,
       "councilId": 1,
-      "date": "25.06.2019",
+      "date": "2019-06-25",
       "time": "09:00",
       "place": "v kongresovej sále Technopolu na Kutlíkovej ulici č. 17"
     }, {
       "id": 8,
       "councilId": 1,
-      "date": "09.09.2019",
+      "date": "2019-09-09",
       "time": "18:00",
       "place": "v sále CC Centra, Jiráskova č.3, Bratislava"
     }, {
       "id": 9,
       "councilId": 1,
-      "date": "30.09.2019",
+      "date": "2019-09-30",
       "time": "09:00",
       "place": "v spoločenskej miestnosti č. 2, Ekonomickej Univerzity v Bratislave, Dolnozemská cesta č. 1, Bratislava"
     }
