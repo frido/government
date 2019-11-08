@@ -1,4 +1,4 @@
---- Info
+--- Info <i class="fas fa-info-circle"></i>
 Informacia
 Správa o kontrole
 Správa o plnení
@@ -7,7 +7,7 @@ Informácia o kontrolnej činnosti
 Aktuálny stav
 Pedagogicko-organizačné zabezpečenie školského roka
 
----Delegovanie
+---Delegovanie <i class="fas fa-users"></i>
 poverenie poslanca
 ustanovenie poslancov
 zaradenie do komusii
@@ -19,69 +19,27 @@ Zriadenie komisie dopravy
 Návrh na zriadenie
 Vyhlásenie voľby hlavného kontrolóra
 
----Plat
+---Plat <i class="fas fa-wallet"></i>
 urcenie platu
 priznanie odmeny
+schválenie mesačného platu
 
----Stanovisko
+---Stanovisko <i class="fas fa-file-contract"></i>
 Odmietavé stanovisko
 Stanovisko
 
----Rozpocet
+---Rozpocet <i class="fas fa-piggy-bank"></i>
 Návrh rozpočtu
 Návrh úpravy rozpočtu
 Aktualizácia rozpočtu
 Záverečný účet
+Schválenie investičného úveru
+Poskytovanie nenávratného finančného
 
----Vzn
+---Vzn <i class="fas fa-gavel"></i>
 vzn
 
----Project
-projekt
-
----Plan
-Návrh plánu kontrolnej činnosti
-Plán práce hlavného kontrolóra 
-Plán práce
-Plán investičných akcií
-Návrh zámeru -- Projekt
-
----Peticia
-Petícia
-Memorandum 
-
----Prenajom
-predĺženie prenájmu
-prenájom nebytových priestorov
-
----Pravidelne
-Kontrola plnenia uznesení
-Informácia o prijatých opatreniach
-
----Dotacie
-Poskytnutie dotácií
-
----Predaj
-Odpredaj pozemku
-
----Nakup
-Odkúpenie pozemku
-
----Rozne
-rozne
-
----Grants
-Schválenie dotácií
-
----Schvalenie
-Schválenie Územného plánu
-Schválenie zmlúv
-Schválenie ceny vody
-schválenie mesačného platu
-Schválenie nájmu
-Schválenie investičného úveru
-
----Novelizacia
+---Zasady <i class="fas fa-scroll"></i>
 Návrh Dodatku
 Novelizácia Pravidiel kontrolnej činnosti
 Oprava uznesenia
@@ -90,16 +48,56 @@ Zásady hospodárenia
 Zásad hospodárenia
 Návrh uznesenia na zverejňovanie miezd
 
----Pozemky
+---Project <i class="fas fa-project-diagram"></i>
+projekt
+
+---Dotacie <i class="fas fa-gift"></i>
+Poskytnutie dotácií
+Schválenie dotácií
+
+---Plan <i class="fas fa-paper-plane"></i>
+Návrh plánu kontrolnej činnosti
+Plán práce hlavného kontrolóra 
+Plán práce
+Plán investičných akcií
+Návrh zámeru -- Projekt
+
+---Peticia <i class="fas fa-feather-alt"></i>
+Petícia
+Memorandum 
+
+---Prenajom <i class="fas fa-warehouse"></i>
+predĺženie prenájmu
+prenájom nebytových priestorov
+Schválenie nájmu
+
+---Predaj <i class="fas fa-shopping-bag"></i>
+Odpredaj pozemku
+
+---Nakup <i class="fas fa-shopping-bag"></i>
+Odkúpenie pozemku
+
+---Pozemky <i class="fas fa-layer-group"></i>
 zverenie objektu ... do ...
 Žiadosť o vysporiadanie pozemkov
 Zámena pozemkov 
 Zriadenie vecného bremena
 
---Support
+---Pravidelne <i class="fas fa-calendar-check"></i>
+Kontrola plnenia uznesení
+Informácia o prijatých opatreniach
+
+---Rozne <i class="fas fa-pen-nib"></i>
+rozne
+
+---Uzemny plan <i class="fas fa-map-signs"></i>
+Schválenie Územného plánu
 Návrh na obstaranie a spracovanie urbanistickej štúdie
+
+--- Ine <i class="fas fa-pencil-ruler"></i>
+Schválenie zmlúv
+Schválenie ceny vody
 Vstúpenie do sporu
-Poskytovanie nenávratného finančného
 podporu študentských projektov
 Návrh na podporu vybudovania
 Zaradenie elokovaného pracoviska
