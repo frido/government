@@ -536,8 +536,6 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": null, "to": null, "electionId": 1 },
-      { "councilId": 1, "from": "01.12.2018", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "01.12.2018", "to": null, "electionId": 3 }
     ],
     "commissions": [
