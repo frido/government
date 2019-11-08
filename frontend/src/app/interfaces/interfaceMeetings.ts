@@ -5,7 +5,7 @@ interface ResponseMeetings {
 interface Meeting {
   id: number;
   council: number;
-  datum: Date;
+  date: Date;
   cas: string;
   miesto: string;
 }

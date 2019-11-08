@@ -26,8 +26,8 @@ class MeetingController {
   }
 
   @GetMapping("/api/meeting/{id}")
-  public Optional<ResponseObjectView> meeting(@PathVariable int id) {
-    return collections.meetings().findById(id).map(ResponseObjectView::new);
+  public ResponseObjectView meeting(@PathVariable int id) {
+    return collections.meetings().findById(id).map(ResponseObjectView::new).orElseThrow();
   }
 
 }

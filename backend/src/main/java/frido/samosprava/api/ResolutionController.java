@@ -40,8 +40,8 @@ class ResolutionController {
   }
 
   @GetMapping("/api/resolution/{id}")
-  public Optional<ResponseObjectView> resolution(@PathVariable int id) {
-    return collections.resolutions().findById(id).map(x -> new ResolutionView(collections, x)).map(ResponseObjectView::new);
+  public ResponseObjectView resolution(@PathVariable int id) {
+    return collections.resolutions().findById(id).map(x -> new ResolutionView(collections, x)).map(ResponseObjectView::new).orElseThrow();
   }
 
 }

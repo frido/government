@@ -40,8 +40,8 @@ class BudgetController {
   }
 
   @GetMapping("/api/council/{councilId}")
-  public Optional<ResponseObjectView> council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
-    return collections.councils().findById(councilId).map(ResponseObjectView::new);
+  public ResponseObjectView council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
+    return collections.councils().findById(councilId).map(ResponseObjectView::new).orElseThrow();
   }
 
   @GetMapping("/api/projects/{councilId}")

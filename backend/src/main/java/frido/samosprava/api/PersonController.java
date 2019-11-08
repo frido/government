@@ -26,8 +26,8 @@ class PersonController {
   }
 
   @GetMapping("/api/person/{id}")
-  public Optional<ResponseObjectView> person(@PathVariable int id) {
-    return collections.persons().findById(id).map(x -> new PersonView(collections, x)).map(ResponseObjectView::new);
+  public ResponseObjectView person(@PathVariable int id) {
+    return collections.persons().findById(id).map(x -> new PersonView(collections, x)).map(ResponseObjectView::new).orElseThrow();
   }
 
 }
