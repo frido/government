@@ -10,6 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Resolution;
 import frido.samosprava.view.ResponseObjectView;
+import frido.samosprava.view.ResolutionView;
 import frido.samosprava.view.ResponseListView;
 
 @RestController
@@ -26,13 +27,13 @@ class ResolutionController {
   public ResponseListView<Resolution> resolutions(@RequestParam(required = false) Integer councilId,
       @RequestParam(required = false) Integer meetingId, @RequestParam(required = false) Integer creatorId) {
     if (councilId != null) {
-      return collections.resolutions().findByCouncilId(councilId).collect(new ResponseListView<>());
+      return collections.resolutions().findByCouncilId(councilId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
     if (meetingId != null) {
-      return collections.resolutions().findByMeetingId(meetingId).collect(new ResponseListView<>());
+      return collections.resolutions().findByMeetingId(meetingId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
     if (creatorId != null) {
-      return collections.resolutions().findByCreatorIdAsDeputy(collections, creatorId).collect(new ResponseListView<>());
+      return collections.resolutions().findByCreatorIdAsDeputy(collections, creatorId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
 
     return new ResponseListView<>();
@@ -40,7 +41,7 @@ class ResolutionController {
 
   @GetMapping("/api/resolution/{id}")
   public Optional<ResponseObjectView> resolution(@PathVariable int id) {
-    return collections.resolutions().findById(id).map(ResponseObjectView::new);
+    return collections.resolutions().findById(id).map(x -> new ResolutionView(collections, x)).map(ResponseObjectView::new);
   }
 
 }

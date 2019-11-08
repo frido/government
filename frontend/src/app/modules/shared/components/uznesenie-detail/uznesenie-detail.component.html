@@ -8,6 +8,16 @@
   </div>
 </div>
 
+<div class="card-detail-item">
+  <i class="far fa-calendar-alt fa-2x"></i>
+  <div>
+    <strong>dátum</strong>
+    <div class="description">
+      {{uznesenie.meeting.date}}
+    </div>
+  </div>
+</div>
+
 <div *ngIf="predkladatel && uznesenie.creatorIds && uznesenie.creatorIds.length" class="card-detail-item">
   <i class="fas fa-user-tie fa-2x"></i>
   <!-- <div class="card-detail-item-strong"><strong>predkladatel</strong></div> -->
@@ -37,14 +47,12 @@
   </div>
 </div>
 
-<div *ngIf="sumar">
-  <div class="card-detail-item" *ngFor="let v of uznesenie.results">
-    <i class="fas {{getClass(v.title)}} fa-2x"></i>
-    <!-- <div class="card-detail-item-strong"></div> -->
-    <div>
-      <strong>{{v.title}}</strong>
-      <div class="description" *ngFor="let p of v.descriptions">{{p}}</div>
-    </div>
+<div class="card-detail-item" *ngFor="let v of uznesenie.results">
+  <i class="fas {{getClass(v.title)}} fa-2x"></i>
+  <!-- <div class="card-detail-item-strong"></div> -->
+  <div>
+    <strong>{{v.title}}</strong>
+    <div class="description" *ngFor="let p of v.descriptions">{{p}}</div>
   </div>
 </div>
 

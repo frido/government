@@ -176,7 +176,9 @@ a.header-nav-item:hover {
             margin-top: $margin;
             align-items: center;
             i {
-                margin-right: $margin * 2;
+                // margin-right: $margin * 2;
+                min-width: 60px;
+                text-align: center;
             }
             strong {
                 margin-right: $margin * 2;

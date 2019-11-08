@@ -94,231 +94,231 @@
             { "id": 2, "name": "1. vicestarostka", "icon": "fas fa-chess-queen" },
             { "id": 3, "name": "2. vicestarostka", "icon": "fas fa-chess-queen" },
             { "id": 4, "name": "prednosta", "icon": "fas fa-chess-rook" },
-            { "id": 5, "name": "miestny kontrolór", "icon": "fas fa-chess-knight" },
-            { "id": 6, "name": "zástupca starostu", "icon": "fas fa-chess-knight" }
+            { "id": 5, "name": "miestny kontrolór", "icon": "fas fa-chess-rookt" },
+            { "id": 6, "name": "zástupca starostu", "icon": "fas fa-chess-rook" }
       ],
       "departments": [
         {
           "id": 2,
           "name": "ZŠ Budatínska",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 3,
           "name": "ZŠ Černyševského",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 4,
           "name": "ZŠ Dudova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 5,
           "name": "ZŠ Gessayova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 6,
           "name": "ZŠ Holíčska",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 7,
           "name": "ZŠ Lachova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 8,
           "name": "ZŠ Nobelovo nám.",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 9,
           "name": "ZŠ Pankúchova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 10,
           "name": "ZŠ Prokofievova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 11,
           "name": "ZŠ Tupolevova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 12,
           "name": "ZŠ Turnianska",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 13,
           "name": "MŠ Bohrova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 14,
           "name": "MŠ Bradáčova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 15,
           "name": "MŠ Bulíkova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 16,
           "name": "MŠ Bzovícka",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 17,
           "name": "MŠ Gessayova 2",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 18,
           "name": "MŠ Gessayova 31",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 19,
           "name": "MŠ Haanova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 20,
           "name": "MŠ Holíčska 30",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 21,
           "name": "MŠ Holíčska 50",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 22,
           "name": "MŠ Iľjušinova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 23,
           "name": "MŠ Jankolova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 24,
           "name": "MŠ Lachova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 25,
           "name": "MŠ Lietavská",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 26,
           "name": "MŠ Macharova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 27,
           "name": "MŠ Nobelovo nám.",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 28,
           "name": "MŠ Pifflova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 29,
           "name": "MŠ Rontgenova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 30,
           "name": "MŠ Rovniankova ",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 31,
           "name": "MŠ Strečnianska",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 32,
           "name": "MŠ Ševčenkova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 33,
           "name": "MŠ Šustekova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 34,
           "name": "MŠ Tupolevova",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 35,
           "name": "MŠ Turnianska",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 36,
           "name": "MŠ Vyšehradská",
           "roles": [
-            { "id": 1, "name": "člen rady školy", "icon": "fas fa-graduation-cap"}
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 37,
           "name": "Bytový podnik Petržalka, s.r.o.",
           "roles": [
-            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-stamp"}
+            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-chess-bishop"}
           ]
         }, {
           "id": 38,
           "name": "Športové zariadenia Petržalky, s.r.o.",
           "roles": [
-            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-stamp"}
+            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-chess-bishop"}
           ]
         }
       ],
@@ -386,15 +386,15 @@
       ],
       "offices": [
         { "id": 1, "name": "primator", "icon": "fas fa-chess-king" },
-        { "id": 2, "name": "hlavný kontrolór", "icon": "fas fa-chess-knight" },
-        { "id": 3, "name": "vedúci EO", "icon": "fas fa-chess-knight" },
-        { "id": 4, "name": "vedúci OVaŽP", "icon": "fas fa-chess-knight" },
-        { "id": 5, "name": "právnik mesta", "icon": "fas fa-chess-knight" },
-        { "id": 6, "name": "prednosta", "icon": "fas fa-chess-knight" },
-        { "id": 7, "name": "vedúca OSM", "icon": "fas fa-chess-knight" },
-        { "id": 8, "name": "architekt mesta", "icon": "fas fa-chess-knight" },
-        { "id": 9, "name": "zástupca primátora", "icon": "fas fa-chess-knight" },
-        { "id": 10, "name": "vedúca OOR", "icon": "fas fa-chess-knight" }
+        { "id": 2, "name": "hlavný kontrolór", "icon": "fas fa-chess-rook" },
+        { "id": 3, "name": "vedúci EO", "icon": "fas fa-chess-rook" },
+        { "id": 4, "name": "vedúci OVaŽP", "icon": "fas fa-chess-rook" },
+        { "id": 5, "name": "právnik mesta", "icon": "fas fa-chess-rook" },
+        { "id": 6, "name": "prednosta", "icon": "fas fa-chess-rook" },
+        { "id": 7, "name": "vedúca OSM", "icon": "fas fa-chess-rook" },
+        { "id": 8, "name": "architekt mesta", "icon": "fas fa-chess-rook" },
+        { "id": 9, "name": "zástupca primátora", "icon": "fas fa-chess-queen" },
+        { "id": 10, "name": "vedúca OOR", "icon": "fas fa-chess-rook" }
       ],
       "departments": [
          {
@@ -404,7 +404,7 @@
             {
               "id": 1,
               "name": "Riaditeľ",
-              "icon": "fas fa-briefcase"
+              "icon": "fas fa-chess-knight"
             }
           ]
         }, {
@@ -414,7 +414,7 @@
               {
                 "id": 1,
                 "name": "člen dozornej rady",
-                "icon": "fas fa-stamp"
+                "icon": "fas fa-chess-bishop"
               }
             ]
           }, {
@@ -424,7 +424,7 @@
               {
                 "id": 1,
                 "name": "člen dozornej rady",
-                "icon": "fas fa-stamp"
+                "icon": "fas fa-chess-bishop"
               }
             ]
           }
@@ -493,11 +493,11 @@
             {
               "id": 1,
               "name": "člen predstavenstva",
-              "icon": "fas fa-marker"
+              "icon": "fas fa-chess-bishop"
             }, {
               "id": 2,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -507,15 +507,15 @@
             {
               "id": 1,
               "name": "člen predstavenstva",
-              "icon": "fas fa-marker"
+              "icon": "fas fa-chess-bishop"
             }, {
               "id": 2,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }, {
               "id": 3,
               "name": "Podpredseda dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -525,15 +525,15 @@
             {
               "id": 1,
               "name": "člen predstavenstva",
-              "icon": "fas fa-marker"
+              "icon": "fas fa-chess-bishop"
             }, {
               "id": 2,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }, {
               "id": 3,
               "name": "Predseda dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -543,7 +543,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -553,7 +553,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -563,7 +563,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -573,7 +573,7 @@
             {
               "id": 1,
               "name": "Predseda predstavenstva",
-              "icon": "fas fa-marker"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -601,7 +601,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -611,7 +611,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }, {
@@ -621,7 +621,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }
@@ -698,7 +698,7 @@
             {
               "id": 1,
               "name": "člen dozornej rady",
-              "icon": "fas fa-stamp"
+              "icon": "fas fa-chess-bishop"
             }
           ]
         }
