@@ -581,7 +581,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
@@ -636,7 +636,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
@@ -680,7 +680,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -723,7 +723,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 3 }
     ],
@@ -773,7 +773,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 }
     ],
@@ -810,7 +810,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -856,7 +856,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
@@ -896,7 +896,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -933,7 +933,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -968,7 +968,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -1004,7 +1004,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -1048,7 +1048,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 3 }
     ],
@@ -1101,7 +1101,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
       { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
@@ -1146,7 +1146,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -1180,7 +1180,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -1223,7 +1223,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
       { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 }
     ],
@@ -1265,7 +1265,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
@@ -1301,7 +1301,7 @@
       }
     ],
     "deputies": [
-      { "councilId": 1, "from": "01.12.2014", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
       { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
     ],
     "commissions": [
