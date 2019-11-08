@@ -691,7 +691,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 29, "roleId": 1 },
-      { "councilId": 1, "period": "2018/2022", "from": "31.03.2015", "to": null, "fk": 37, "roleId": 1 }
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 37, "roleId": 1 }
     ],
     "club": "PRE Petržalku",
     "fb": "jozef.vydra.3",
@@ -739,7 +739,7 @@
     "departments": [
       { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "roleId": 1 },
       { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 36, "roleId": 1 },
-      { "councilId": 1, "period": "2018/2022", "from": "31.03.2015", "to": null, "fk": 38, "roleId": 1 }
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 38, "roleId": 1 }
     ],
     "offices": [
       { "councilId": 1, "roleId": 2, "from": "2018-12-01", "to": null }
@@ -1325,7 +1325,7 @@
       { "councilId": 1, "roleId": 4, "from": "2018-12-01", "to": "2019-05-16" }
     ],
     "departments": [
-      { "councilId": 1, "period": "2018/2022", "from": "31.03.2015", "to": null, "fk": 38, "roleId": 1 }
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 38, "roleId": 1 }
     ],
     "role": 2
   }, {
