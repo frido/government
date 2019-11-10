@@ -1,7 +1,6 @@
 package frido.samosprava.view;
 
 import frido.samosprava.collection.InMemoryCollections;
-import frido.samosprava.entity.Council;
 import frido.samosprava.entity.DeputyRef;
 import frido.samosprava.entity.Election;
 import frido.samosprava.entity.Person;
@@ -19,9 +18,9 @@ public class DeputyRefView extends DeputyRef {
     to = ref.getTo();
     electionId = ref.getElectionId();
 
-    Council councilTmp = collections.councils().findById(councilId).get();
-    council = new CouncilView(councilTmp);
-    election = person.getElections().stream().filter(x -> x.getId() == electionId).findFirst().get();
+    collections.councils().findById(councilId).map(c -> new CouncilView(c)).ifPresent(c -> council = c);
+    
+    person.getElections().stream().filter(x -> x.getId().equals(electionId)).findFirst().ifPresent(e -> election = e);
   }
 //  private String period;
 //  private String from;

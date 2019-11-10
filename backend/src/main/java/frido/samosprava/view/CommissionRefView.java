@@ -1,16 +1,18 @@
 package frido.samosprava.view;
 
+import java.util.Optional;
+
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Commission;
 import frido.samosprava.entity.CommissionRef;
 import frido.samosprava.entity.Council;
 
-public class CommissionRefView extends CommissionRef{
-//  private String period;
-//  private String from;
-//  private String to;
-//  private Integer fk;
-//  private Boolean chairman;
+public class CommissionRefView extends CommissionRef {
+  // private String period;
+  // private String from;
+  // private String to;
+  // private Integer fk;
+  // private Boolean chairman;
 
   protected CouncilView council;
   protected Commission commission;
@@ -23,9 +25,9 @@ public class CommissionRefView extends CommissionRef{
     to = x.getTo();
     fk = x.getFk();
     chairman = x.getChairman();
-    Council councilTmp = collections.councils().findById(councilId).get();
-    council = new CouncilView(councilTmp);
-    commission = councilTmp.getCommissions().stream().filter(d -> d.getId() == fk).findFirst().get();
+    Optional<Council> councilTmp = collections.councils().findById(councilId);
+    councilTmp.map(c -> new CouncilView(c)).ifPresent(c -> council = c);
+    councilTmp.stream().flatMap(c -> c.getCommissions().stream()).filter(c -> c.getId().equals(fk)).findFirst().ifPresent(c -> commission = c);
   }
 
   public CouncilView getCouncil() {

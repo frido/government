@@ -8,6 +8,9 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JSR310Module;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
 import frido.samosprava.entity.BudgetList;
 import frido.samosprava.entity.CouncilList;
 import frido.samosprava.entity.MeetingList;
@@ -16,6 +19,8 @@ import frido.samosprava.entity.ResolutionList;
 import frido.samosprava.store.DataStore;
 
 public class InMemoryCollections {
+
+  private static final Logger log = LoggerFactory.getLogger(InMemoryCollections.class);
 
   private final ObjectMapper mapper;
   private final DataStore store;
@@ -71,7 +76,7 @@ public class InMemoryCollections {
       list = mapper.readValue(content, ResolutionList.class);
       resolutionCollection.addAll(list.getResolutions());;
     } catch (IOException e) {
-      e.printStackTrace();
+      log.error("initResolutions", e);
     }
   }
 
@@ -81,7 +86,7 @@ public class InMemoryCollections {
       list = mapper.readValue(content, PersonList.class);
       personCollection.addAll(list.getPersons());
     } catch (IOException e) {
-      e.printStackTrace();
+      log.error("initPersons", e);
     }
   }
 
@@ -91,7 +96,7 @@ public class InMemoryCollections {
       list = mapper.readValue(content, MeetingList.class);
       meetingCollection.addAll(list.getMeetings());
     } catch (IOException e) {
-      e.printStackTrace();
+      log.error("initMeetings", e);
     }
   }
 
@@ -101,7 +106,7 @@ public class InMemoryCollections {
       list = mapper.readValue(content, CouncilList.class);
       councilCollection.addAll(list.getCouncils());
     } catch (IOException e) {
-      e.printStackTrace();
+      log.error("initCouncils", e);
     }
   }
 
@@ -111,7 +116,7 @@ public class InMemoryCollections {
       list = mapper.readValue(content, BudgetList.class);
       budgetCollection.addAll(list.getBudget());
     } catch (IOException e) {
-      e.printStackTrace();
+      log.error("initBudget", e);
     }
   }
 

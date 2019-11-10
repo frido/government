@@ -1,5 +1,7 @@
 package frido.samosprava.view;
 
+import java.util.Optional;
+
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Council;
 import frido.samosprava.entity.Election;
@@ -30,12 +32,11 @@ public class OfficeRefView extends OfficeRef{
     roleId = officeRef.getRoleId();
     electionId = officeRef.getElectionId();
 
-    Council councilTmp = collections.councils().findById(councilId).get();
-    council = new CouncilView(councilTmp);
-    office = collections.councils().findOfficeById(councilId, roleId).get();
-    if (electionId != null)  {
-      election = person.getElections().stream().filter(x -> x.getId() == electionId).findFirst().get();
-    }
+    collections.councils().findById(councilId).map(c -> new CouncilView(c)).ifPresent(c -> council = c);
+
+    collections.councils().findOfficeById(councilId, roleId).ifPresent(o -> office = o);
+
+    person.getElections().stream().filter(e -> e.getId().equals(electionId)).findFirst().ifPresent(e -> election = e);
   }
 
   public CouncilView getCouncil() {

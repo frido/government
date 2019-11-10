@@ -1,18 +1,20 @@
 package frido.samosprava.view;
 
+import java.util.Optional;
+
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Council;
 import frido.samosprava.entity.Department;
 import frido.samosprava.entity.DepartmentRef;
 import frido.samosprava.entity.DepartmentRole;
 
-public class DepartmentRefView extends DepartmentRef{
+public class DepartmentRefView extends DepartmentRef {
 
-//protected String period;
-//protected String from;
-//protected String to;
-//protected Integer fk;
-//protected Integer role;
+  // protected String period;
+  // protected String from;
+  // protected String to;
+  // protected Integer fk;
+  // protected Integer role;
 
   protected CouncilView council;
   protected Department department;
@@ -27,10 +29,14 @@ public class DepartmentRefView extends DepartmentRef{
     fk = ref.getFk();
     roleId = ref.getRoleId();
 
-    Council councilTmp = collections.councils().findById(councilId).get();
-    council = new CouncilView(councilTmp);
-    department = councilTmp.getDepartments().stream().filter(d -> d.getId() == fk).findFirst().get();
-    role = department.getRoles().stream().filter(x -> x.getId() == roleId).findFirst().get();
+    Optional<Council> councilTmp = collections.councils().findById(councilId);
+    councilTmp.map(c -> new CouncilView(c)).ifPresent(c -> council = c);
+
+    Optional<Department> departmentTmp = councilTmp.stream().flatMap(c -> c.getDepartments().stream()).filter(c -> c.getId().equals(fk)).findFirst();
+    departmentTmp.ifPresent(d -> department = d);
+    
+    departmentTmp.stream().flatMap(d -> d.getRoles().stream()).filter(r -> r.getId().equals(roleId)).findFirst().ifPresent(r -> role = r);
+    
   }
 
   public CouncilView getCouncil() {

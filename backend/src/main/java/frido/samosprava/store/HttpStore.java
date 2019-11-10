@@ -20,6 +20,7 @@ public class HttpStore implements DataStore {
     try {
       return client.call(link + name);
     } catch (InterruptedException e) {
+      Thread.currentThread().interrupt();
       throw new ApplicationException(e);
     } catch (IOException e) {
       Thread.currentThread().interrupt();
