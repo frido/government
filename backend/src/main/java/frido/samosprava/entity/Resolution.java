@@ -3,7 +3,7 @@ package frido.samosprava.entity;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Resolution extends Record {
+public class Resolution extends Record implements Comparable<Resolution> {
 
   private Integer number;
   private String type;
@@ -17,8 +17,6 @@ public class Resolution extends Record {
   private String presented;
   private String source;
   private List<Project> projects;
-
-
 
   public Integer getNumber() {
     return number;
@@ -120,5 +118,10 @@ public class Resolution extends Record {
 
   public void setProjects(List<Project> projects) {
     this.projects = projects;
+  }
+
+  @Override
+  public int compareTo(Resolution o) {
+    return -1 * number.compareTo(o.getNumber());
   }
 }

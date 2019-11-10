@@ -2,7 +2,6 @@ package frido.samosprava.api;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Optional;
 import java.util.stream.Stream;
 
 import org.springframework.web.bind.annotation.GetMapping;
@@ -40,7 +39,7 @@ class BudgetController {
   }
 
   @GetMapping("/api/council/{councilId}")
-  public ResponseObjectView council(@PathVariable int councilId) { // TODO: nepaci sa mi vracat optional, musim to lepsie vymysliet
+  public ResponseObjectView council(@PathVariable int councilId) {
     return collections.councils().findById(councilId).map(ResponseObjectView::new).orElseThrow();
   }
 

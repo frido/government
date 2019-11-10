@@ -1,7 +1,5 @@
 package frido.samosprava.collection;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.util.stream.Stream;
 
 import frido.samosprava.entity.Meeting;

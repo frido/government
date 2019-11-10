@@ -26,7 +26,7 @@ export class UzneseniaListPage implements OnInit {
       this.options.push({ value: icon.key, label: icon.title });
     });
     this.service.getMeetings(this.route.snapshot.data.spolok.id).subscribe(m => {
-      m.reverse().forEach(x => {
+      m.forEach(x => {
         this.meetings.push({ meeting: x, resolutions: [], fResolutions: [], loaded: false });
       })
 
@@ -37,7 +37,7 @@ export class UzneseniaListPage implements OnInit {
   selectMeeting(meeting: MeetingResolutionList) {
     this.service.getUzneseniaMeeting(meeting.meeting.id).subscribe(
       x => {
-        meeting.resolutions = x.reverse();
+        meeting.resolutions = x;
         meeting.loaded = true;
         this.applyFilter();
       }

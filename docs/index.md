@@ -22,7 +22,7 @@
 
 `node -v` - `v12.6.0`
 
-TODO: Heroku
+`heroku -v` - `heroku/7.33.3 win32-x64 node-v11.14.01`
 
 ## Build
 

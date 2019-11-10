@@ -1,7 +1,5 @@
 package frido.samosprava.api;
 
-import java.util.Optional;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -27,13 +25,13 @@ class ResolutionController {
   public ResponseListView<Resolution> resolutions(@RequestParam(required = false) Integer councilId,
       @RequestParam(required = false) Integer meetingId, @RequestParam(required = false) Integer creatorId) {
     if (councilId != null) {
-      return collections.resolutions().findByCouncilId(councilId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
+      return collections.resolutions().findByCouncilId(councilId).sorted().map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
     if (meetingId != null) {
-      return collections.resolutions().findByMeetingId(meetingId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
+      return collections.resolutions().findByMeetingId(meetingId).sorted().map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
     if (creatorId != null) {
-      return collections.resolutions().findByCreatorIdAsDeputy(collections, creatorId).map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
+      return collections.resolutions().findByCreatorIdAsDeputy(collections, creatorId).sorted().map(x -> new ResolutionView(collections, x)).collect(new ResponseListView<>());
     }
 
     return new ResponseListView<>();

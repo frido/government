@@ -2,7 +2,7 @@ package frido.samosprava.entity;
 
 import java.time.LocalDate;
 
-public class Meeting extends Record {
+public class Meeting extends Record implements Comparable<Meeting> {
   private String time;
   private String place;
   private LocalDate date;
@@ -27,5 +27,10 @@ public class Meeting extends Record {
   }
   public void setPlace(String place) {
     this.place = place;
+  }
+
+  @Override
+  public int compareTo(Meeting o) {
+    return -1 * date.compareTo(o.getDate());
   }
 }

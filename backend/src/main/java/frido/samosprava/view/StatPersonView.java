@@ -1,9 +1,6 @@
 package frido.samosprava.view;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
 import java.time.LocalDate;
-import java.util.Date;
 
 import frido.samosprava.entity.Person;
 

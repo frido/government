@@ -13,19 +13,6 @@ public class PersonView extends Person {
   private List<DeputyRefView> deputiesView;
   private List<CommissionRefView> commissionsView;
 
-//  protected String name;
-//  protected String firstname;
-//  protected String surname;
-//  protected String prefix;
-//  protected List<Election> elections;
-//  protected List<OfficeRef> offices;
-//  protected List<DepartmentRef> departments;
-//  protected List<DeputyRef> deputies;
-//  protected List<CommissionRef> commissions;
-//  protected String club;
-//  protected String fb;
-//  protected String role;
-
 // TODO: premysliet kam premiestnit mapovanie entit do view
   public PersonView(InMemoryCollections collections, Person person) {
     this.id = person.getId();

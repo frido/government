@@ -1,7 +1,5 @@
 package frido.samosprava.api;
 
-import java.util.Optional;
-
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
@@ -22,7 +20,7 @@ class MeetingController {
 
   @GetMapping("/api/meetings/{councilId}")
   public ResponseListView<Meeting> meetings(@PathVariable int councilId) {
-    return collections.meetings().findByCouncilId(councilId).collect(new ResponseListView<>());
+    return collections.meetings().findByCouncilId(councilId).sorted().collect(new ResponseListView<>());
   }
 
   @GetMapping("/api/meeting/{id}")

@@ -11,8 +11,6 @@ import { spolky } from './modules/shared/spolky';
 })
 export class ApiService {
 
-  // TODO: nazov "miestny poslanec" pre detvu je nespravny
-
   base: string = null;
 
   constructor(
@@ -49,7 +47,6 @@ export class ApiService {
     return this.get(this.base + 'resolutions?creatorId=' + personId)
   }
 
-  // TODO: order by date
   getMeetings(spolokId: string): Observable<Meeting[]> {
     return this.get(this.base + 'meetings/' + spolokId)
   }

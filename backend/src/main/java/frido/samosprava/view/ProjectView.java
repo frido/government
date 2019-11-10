@@ -1,6 +1,5 @@
 package frido.samosprava.view;
 
-import frido.samosprava.DateFormat;
 import frido.samosprava.HasValue;
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Project;
@@ -8,7 +7,6 @@ import frido.samosprava.entity.Resolution;
 
 public class ProjectView extends HasValue {
   private String title;
-  // private BigDecimal value;
   private Integer resolutionId;
   private String resolutionTitle;
   private Integer resolutionNumber;

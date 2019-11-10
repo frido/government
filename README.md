@@ -30,7 +30,7 @@ SEE: https://frido.github.io/government-page/
 
 `git --version` - `git version 2.23.0.windows.1`
 
-TODO: Heroku
+`heroku -v` - `heroku/7.33.3 win32-x64 node-v11.14.01`
 
 ## Build
 
