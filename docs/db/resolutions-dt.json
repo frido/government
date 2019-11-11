@@ -167,7 +167,7 @@
     {
       "id": 1006,
       "number": 8,
-      "type": "kontrola",
+      "type": "pravidelne",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1042],
@@ -212,7 +212,7 @@
     {
       "id": 1007,
       "number": 9,
-      "type": "kontrola",
+      "type": "info",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1045],
@@ -254,7 +254,7 @@
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
-      "title": " Schválenie nájmu pre Technické služby Detva s.r.o.",
+      "title": "Schválenie nájmu pre Technické služby Detva s.r.o.",
       "description": "",
       "results": [
         {
@@ -406,7 +406,7 @@
     {
       "id": 1012,
       "number": 14,
-      "type": "kontrola",
+      "type": "stanovisko",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1045],
@@ -489,7 +489,7 @@
     {
       "id": 1014,
       "number": 16,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -529,7 +529,7 @@
     {
       "id": 1015,
       "number": 17,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -570,7 +570,7 @@
     {
       "id": 1016,
       "number": 18,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -611,7 +611,7 @@
     {
       "id": 1017,
       "number": 19,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -652,7 +652,7 @@
     {
       "id": 1018,
       "number": 20,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -693,7 +693,7 @@
     {
       "id": 1019,
       "number": 21,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -734,7 +734,7 @@
     {
       "id": 1020,
       "number": 22,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -775,7 +775,7 @@
     {
       "id": 1021,
       "number": 23,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1047],
@@ -929,7 +929,7 @@
     {
       "id": 1025,
       "number": 27,
-      "type": "kontrola",
+      "type": "plan",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": [1045],
@@ -966,7 +966,7 @@
     {
       "id": 1026,
       "number": 28,
-      "type": "rozpocet",
+      "type": "zasady",
       "councilId": 2,
       "meetingId": 102,
       "creatorIds": null,
@@ -1000,7 +1000,7 @@
     {
       "id": 1027,
       "number": 31,
-      "type": "kontrola",
+      "type": "pravidelne",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1005],
@@ -1072,7 +1072,7 @@
     {
       "id": 1030,
       "number": 34,
-      "type": "rozpocet",
+      "type": "plan",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1040],
@@ -1121,7 +1121,7 @@
     {
       "id": 1032,
       "number": 36,
-      "type": "kontrola",
+      "type": "stanovisko",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1045],
@@ -1374,7 +1374,7 @@
     {
       "id": 1040,
       "number": 44,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1396,7 +1396,7 @@
     {
       "id": 1041,
       "number": 45,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1418,7 +1418,7 @@
     {
       "id": 1042,
       "number": 46,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1440,7 +1440,7 @@
     {
       "id": 1043,
       "number": 47,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1462,7 +1462,7 @@
     {
       "id": 1044,
       "number": 48,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1484,7 +1484,7 @@
     {
       "id": 1045,
       "number": 49,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1506,7 +1506,7 @@
     {
       "id": 1046,
       "number": 50,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1528,7 +1528,7 @@
     {
       "id": 1047,
       "number": 51,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1550,7 +1550,7 @@
     {
       "id": 1048,
       "number": 52,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1572,7 +1572,7 @@
     {
       "id": 1049,
       "number": 53,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1594,7 +1594,7 @@
     {
       "id": 1050,
       "number": 54,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1616,7 +1616,7 @@
     {
       "id": 1051,
       "number": 55,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1638,7 +1638,7 @@
     {
       "id": 1052,
       "number": 56,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1660,7 +1660,7 @@
     {
       "id": 1053,
       "number": 57,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1682,7 +1682,7 @@
     {
       "id": 1054,
       "number": 58,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1704,7 +1704,7 @@
     {
       "id": 1055,
       "number": 59,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1726,7 +1726,7 @@
     {
       "id": 1056,
       "number": 60,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1748,7 +1748,7 @@
     {
       "id": 1057,
       "number": 61,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1770,7 +1770,7 @@
     {
       "id": 1058,
       "number": 62,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1792,7 +1792,7 @@
     {
       "id": 1059,
       "number": 63,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1814,7 +1814,7 @@
     {
       "id": 1060,
       "number": 64,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1836,7 +1836,7 @@
     {
       "id": 1061,
       "number": 65,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1858,7 +1858,7 @@
     {
       "id": 1062,
       "number": 66,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1880,7 +1880,7 @@
     {
       "id": 1063,
       "number": 67,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1902,7 +1902,7 @@
     {
       "id": 1064,
       "number": 68,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1924,7 +1924,7 @@
     {
       "id": 1065,
       "number": 69,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1946,7 +1946,7 @@
     {
       "id": 1066,
       "number": 70,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1968,7 +1968,7 @@
     {
       "id": 1067,
       "number": 71,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -1990,7 +1990,7 @@
     {
       "id": 1068,
       "number": 72,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2012,7 +2012,7 @@
     {
       "id": 1069,
       "number": 73,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2034,7 +2034,7 @@
     {
       "id": 1070,
       "number": 74,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2056,7 +2056,7 @@
     {
       "id": 1071,
       "number": 75,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2078,7 +2078,7 @@
     {
       "id": 1072,
       "number": 76,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2100,7 +2100,7 @@
     {
       "id": 1073,
       "number": 77,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2122,7 +2122,7 @@
     {
       "id": 1074,
       "number": 78,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2144,7 +2144,7 @@
     {
       "id": 1075,
       "number": 79,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2166,7 +2166,7 @@
     {
       "id": 1076,
       "number": 80,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2188,7 +2188,7 @@
     {
       "id": 1077,
       "number": 81,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2210,7 +2210,7 @@
     {
       "id": 1078,
       "number": 82,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2232,7 +2232,7 @@
     {
       "id": 1079,
       "number": 83,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1043],
@@ -2448,7 +2448,7 @@
     {
       "id": 1087,
       "number": 91,
-      "type": "kontrola",
+      "type": "info",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1045],
@@ -2470,7 +2470,7 @@
     {
       "id": 1088,
       "number": 92,
-      "type": "ine",
+      "type": "plan",
       "councilId": 2,
       "meetingId": 103,
       "creatorIds": [1042],
@@ -2565,7 +2565,7 @@
     {
       "id": 1091,
       "number": 99,
-      "type": "delegovanie",
+      "type": "info",
       "councilId": 2,
       "meetingId": 104,
       "creatorIds": null,
@@ -2592,7 +2592,7 @@
     {
       "id": 1092,
       "number": 102,
-      "type": "ine",
+      "type": "pravidelne",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1042],
@@ -2614,11 +2614,11 @@
     {
       "id": 1093,
       "number": 103,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1044],
-      "title": " Schválenie Územného plánu mesta Detva – Zmeny a doplnky č. 4",
+      "title": "Schválenie Územného plánu mesta Detva – Zmeny a doplnky č. 4",
       "description": "",
       "results": [
         {
@@ -2673,7 +2673,7 @@
     {
       "id": 1095,
       "number": 105,
-      "type": "projekt",
+      "type": "info",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1039],
@@ -2774,7 +2774,7 @@
     {
       "id": 1099,
       "number": 109,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2796,7 +2796,7 @@
     {
       "id": 1100,
       "number": 110,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2818,7 +2818,7 @@
     {
       "id": 1101,
       "number": 111,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2839,7 +2839,7 @@
     {
       "id": 1102,
       "number": 112,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2860,7 +2860,7 @@
     {
       "id": 1103,
       "number": 113,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2881,7 +2881,7 @@
     {
       "id": 1104,
       "number": 114,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2902,7 +2902,7 @@
     {
       "id": 1105,
       "number": 115,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2923,7 +2923,7 @@
     {
       "id": 1106,
       "number": 116,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2944,7 +2944,7 @@
     {
       "id": 1107,
       "number": 117,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2965,7 +2965,7 @@
     {
       "id": 1108,
       "number": 118,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -2986,7 +2986,7 @@
     {
       "id": 1109,
       "number": 119,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3007,7 +3007,7 @@
     {
       "id": 1110,
       "number": 120,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3028,7 +3028,7 @@
     {
       "id": 1111,
       "number": 121,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3049,7 +3049,7 @@
     {
       "id": 1112,
       "number": 122,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3070,7 +3070,7 @@
     {
       "id": 1113,
       "number": 123,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3091,7 +3091,7 @@
     {
       "id": 1114,
       "number": 124,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3112,7 +3112,7 @@
     {
       "id": 1115,
       "number": 125,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3133,7 +3133,7 @@
     {
       "id": 1116,
       "number": 126,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3154,7 +3154,7 @@
     {
       "id": 1117,
       "number": 127,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3175,7 +3175,7 @@
     {
       "id": 1118,
       "number": 128,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3196,7 +3196,7 @@
     {
       "id": 1119,
       "number": 129,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3217,7 +3217,7 @@
     {
       "id": 1120,
       "number": 130,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3238,7 +3238,7 @@
     {
       "id": 1121,
       "number": 131,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3259,7 +3259,7 @@
     {
       "id": 1122,
       "number": 132,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3280,7 +3280,7 @@
     {
       "id": 1123,
       "number": 133,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3301,7 +3301,7 @@
     {
       "id": 1124,
       "number": 134,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3322,7 +3322,7 @@
     {
       "id": 1125,
       "number": 135,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3343,7 +3343,7 @@
     {
       "id": 1126,
       "number": 136,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3364,7 +3364,7 @@
     {
       "id": 1127,
       "number": 137,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3385,7 +3385,7 @@
     {
       "id": 1128,
       "number": 138,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3406,7 +3406,7 @@
     {
       "id": 1129,
       "number": 139,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3427,7 +3427,7 @@
     {
       "id": 1130,
       "number": 140,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3448,7 +3448,7 @@
     {
       "id": 1131,
       "number": 141,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3469,7 +3469,7 @@
     {
       "id": 1132,
       "number": 142,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3490,7 +3490,7 @@
     {
       "id": 1133,
       "number": 143,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3511,7 +3511,7 @@
     {
       "id": 1134,
       "number": 144,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3532,7 +3532,7 @@
     {
       "id": 1135,
       "number": 145,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3553,7 +3553,7 @@
     {
       "id": 1136,
       "number": 146,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3574,7 +3574,7 @@
     {
       "id": 1137,
       "number": 147,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3595,7 +3595,7 @@
     {
       "id": 1138,
       "number": 148,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3616,7 +3616,7 @@
     {
       "id": 1139,
       "number": 149,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3637,7 +3637,7 @@
     {
       "id": 1140,
       "number": 150,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3658,7 +3658,7 @@
     {
       "id": 1141,
       "number": 151,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3679,7 +3679,7 @@
     {
       "id": 1142,
       "number": 152,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3700,7 +3700,7 @@
     {
       "id": 1143,
       "number": 153,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3721,7 +3721,7 @@
     {
       "id": 1144,
       "number": 154,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3742,7 +3742,7 @@
     {
       "id": 1145,
       "number": 155,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3763,7 +3763,7 @@
     {
       "id": 1146,
       "number": 156,
-      "type": "ine",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1043],
@@ -3855,7 +3855,7 @@
     {
       "id": 1150,
       "number": 160,
-      "type": "ine",
+      "type": "plan",
       "councilId": 2,
       "meetingId": 105,
       "creatorIds": [1042],
@@ -4035,7 +4035,7 @@
     {
       "id": 1158,
       "number": 171,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4057,7 +4057,7 @@
     {
       "id": 1159,
       "number": 172,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4079,7 +4079,7 @@
     {
       "id": 1160,
       "number": 173,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4101,7 +4101,7 @@
     {
       "id": 1161,
       "number": 174,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4123,7 +4123,7 @@
     {
       "id": 1162,
       "number": 175,
-      "type": "prevod",
+      "type": "predaj",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4145,7 +4145,7 @@
     {
       "id": 1163,
       "number": 176,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4167,7 +4167,7 @@
     {
       "id": 1164,
       "number": 177,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4189,7 +4189,7 @@
     {
       "id": 1165,
       "number": 178,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4211,7 +4211,7 @@
     {
       "id": 1166,
       "number": 179,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4233,7 +4233,7 @@
     {
       "id": 1167,
       "number": 180,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4255,7 +4255,7 @@
     {
       "id": 1168,
       "number": 181,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4277,7 +4277,7 @@
     {
       "id": 1169,
       "number": 182,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4299,7 +4299,7 @@
     {
       "id": 1170,
       "number": 183,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4321,7 +4321,7 @@
     {
       "id": 1171,
       "number": 184,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4343,7 +4343,7 @@
     {
       "id": 1172,
       "number": 185,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4365,7 +4365,7 @@
     {
       "id": 1173,
       "number": 186,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4387,7 +4387,7 @@
     {
       "id": 1174,
       "number": 187,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4409,7 +4409,7 @@
     {
       "id": 1175,
       "number": 188,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4431,7 +4431,7 @@
     {
       "id": 1176,
       "number": 189,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4453,7 +4453,7 @@
     {
       "id": 1177,
       "number": 190,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4475,7 +4475,7 @@
     {
       "id": 1178,
       "number": 191,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4497,7 +4497,7 @@
     {
       "id": 1179,
       "number": 192,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4519,7 +4519,7 @@
     {
       "id": 1180,
       "number": 193,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4541,7 +4541,7 @@
     {
       "id": 1181,
       "number": 194,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4563,7 +4563,7 @@
     {
       "id": 1182,
       "number": 195,
-      "type": "prevod",
+      "type": "nakup",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4585,7 +4585,7 @@
     {
       "id": 1183,
       "number": 196,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4607,7 +4607,7 @@
     {
       "id": 1184,
       "number": 197,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4629,7 +4629,7 @@
     {
       "id": 1185,
       "number": 198,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4651,7 +4651,7 @@
     {
       "id": 1186,
       "number": 199,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4673,7 +4673,7 @@
     {
       "id": 1187,
       "number": 200,
-      "type": "prevod",
+      "type": "pozemky",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1043],
@@ -4695,7 +4695,7 @@
     {
       "id": 1188,
       "number": 201,
-      "type": "kontrola",
+      "type": "plan",
       "councilId": 2,
       "meetingId": 106,
       "creatorIds": [1019],

@@ -149,7 +149,7 @@
         {
             "id": 46,
             "number": 4,
-            "type": "rozpocet",
+            "type": "plat",
             "councilId": 1,
             "meetingId": 3,
             "creatorIds": [
@@ -326,7 +326,7 @@
         {
             "id": 49,
             "number": 7,
-            "type": "rozpocet",
+            "type": "ine",
             "councilId": 1,
             "meetingId": 3,
             "creatorIds": [
@@ -628,7 +628,7 @@
         {
             "id": 54,
             "number": 12,
-            "type": "ziadost",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [],
@@ -943,7 +943,7 @@
         {
             "id": 59,
             "number": 17,
-            "type": "ine",
+            "type": "pozemky",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -998,7 +998,7 @@
         {
             "id": 60,
             "number": 18,
-            "type": "projekt",
+            "type": "ine",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1652,7 +1652,7 @@
         {
             "id": 72,
             "number": 30,
-            "type": "kontrola",
+            "type": "sprava",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1702,7 +1702,7 @@
         {
             "id": 73,
             "number": 31,
-            "type": "kontrola",
+            "type": "sprava",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1756,7 +1756,7 @@
         {
             "id": 74,
             "number": 32,
-            "type": "kontrola",
+            "type": "sprava",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1808,7 +1808,7 @@
         {
             "id": 75,
             "number": 33,
-            "type": "kontrola",
+            "type": "sprava",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1861,7 +1861,7 @@
         {
             "id": 76,
             "number": 34,
-            "type": "kontrola",
+            "type": "plan",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1909,7 +1909,7 @@
         {
             "id": 76,
             "number": 35,
-            "type": "ine",
+            "type": "rozne",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1953,7 +1953,7 @@
         {
             "id": 77,
             "number": 36,
-            "type": "ine",
+            "type": "rozne",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -2020,7 +2020,7 @@
         {
             "id": 79,
             "number": 38,
-            "type": "prenajom",
+            "type": "najom",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2123,7 +2123,7 @@
         {
             "id": 83,
             "number": 42,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2147,7 +2147,7 @@
         {
             "id": 84,
             "number": 43,
-            "type": "ine",
+            "type": "zasady",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2171,7 +2171,7 @@
         {
             "id": 85,
             "number": 44,
-            "type": "ine",
+            "type": "delegovanie",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2269,7 +2269,7 @@
         {
             "id": 87,
             "number": 46,
-            "type": "ine",
+            "type": "delegovanie",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2476,7 +2476,7 @@
         {
             "id": 92,
             "number": 51,
-            "type": "ine",
+            "type": "pozemky",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
@@ -2711,7 +2711,7 @@
         {
             "id": 99,
             "number": 58,
-            "type": "ine",
+            "type": "delegovanie",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [],
@@ -2733,7 +2733,7 @@
         {
             "id": 100,
             "number": 59,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [95],
@@ -2757,7 +2757,7 @@
         {
             "id": 101,
             "number": 60,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [95],
@@ -2779,7 +2779,7 @@
         {
             "id": 102,
             "number": 61,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [95],
@@ -2801,7 +2801,7 @@
         {
             "id": 103,
             "number": 62,
-            "type": "ine",
+            "type": "pravidelne",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [95],
@@ -3196,7 +3196,7 @@
         {
             "id": 120,
             "number": 79,
-            "type": "kotrola",
+            "type": "info",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [55],
@@ -3218,7 +3218,7 @@
         {
             "id": 121,
             "number": 80,
-            "type": "odmena",
+            "type": "plat",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [],
@@ -3262,7 +3262,7 @@
         {
             "id": 123,
             "number": 82,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [36],
@@ -3718,7 +3718,7 @@
         {
             "id": 131,
             "number": 90,
-            "type": "volba",
+            "type": "delegovanie",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [36],
@@ -3746,7 +3746,7 @@
         {
             "id": 132,
             "number": 91,
-            "type": "volba",
+            "type": "delegovanie",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [13, 27, 17, 18],
@@ -3934,7 +3934,7 @@
         {
             "id": 137,
             "number": 96,
-            "type": "ine",
+            "type": "projekt",
             "councilId": 1,
             "meetingId": 6,
             "creatorIds": [15],
@@ -3984,7 +3984,7 @@
         {
             "id": 139,
             "number": 98,
-            "type": "kontrola",
+            "type": "pravidelne",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [95],
@@ -4006,11 +4006,11 @@
         {
             "id": 140,
             "number": 99,
-            "type": "ine",
+            "type": "zasady",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [95],
-            "title": "Zásady hospodárenia a nakladania s majetkom mestskej časti BratislavaPetržalka a s majetkom zvereným jej do správy hlavným mestom Bratislavou",
+            "title": "Zásady hospodárenia a nakladania s majetkom mestskej časti Bratislava Petržalka a s majetkom zvereným jej do správy hlavným mestom Bratislavou",
             "description": "",
             "results": [
                 {
@@ -4078,7 +4078,7 @@
         {
             "id": 143,
             "number": 102,
-            "type": "ine",
+            "type": "info",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [95],
@@ -4131,7 +4131,7 @@
         {
             "id": 145,
             "number": 104,
-            "type": "ine",
+            "type": "stanovisko",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [95],
@@ -4329,7 +4329,7 @@
         {
             "id": 152,
             "number": 111,
-            "type": "ine",
+            "type": "plat",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [36],
@@ -4351,7 +4351,7 @@
         {
             "id": 153,
             "number": 112,
-            "type": "kontrola",
+            "type": "plan",
             "councilId": 1,
             "meetingId": 7,
             "creatorIds": [55],
@@ -4617,7 +4617,7 @@
         {
             "id": 162,
             "number": 121,
-            "type": "kontrola",
+            "type": "pravidelne",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [95],
@@ -4639,7 +4639,7 @@
         {
             "id": 163,
             "number": 122,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [36],
@@ -4742,7 +4742,7 @@
         {
             "id": 167,
             "number": 126,
-            "type": "ine",
+            "type": "vzn",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [36],
@@ -4828,7 +4828,7 @@
         {
             "id": 170,
             "number": 129,
-            "type": "ine",
+            "type": "zasady",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [95],
@@ -4982,7 +4982,7 @@
         {
             "id": 177,
             "number": 136,
-            "type": "ine",
+            "type": "projekt",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [95],
@@ -5059,7 +5059,7 @@
         {
             "id": 180,
             "number": 139,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [55],
@@ -5081,7 +5081,7 @@
         {
             "id": 181,
             "number": 140,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [55],
@@ -5103,7 +5103,7 @@
         {
             "id": 182,
             "number": 141,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [55],
@@ -5125,7 +5125,7 @@
         {
             "id": 183,
             "number": 142,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [55],
@@ -5147,7 +5147,7 @@
         {
             "id": 184,
             "number": 143,
-            "type": "ine",
+            "type": "rozne",
             "councilId": 1,
             "meetingId": 9,
             "creatorIds": [],
