@@ -22,7 +22,7 @@ export class IconTypeService {
     { 'key': 'projekt', 'title': 'Projekt', 'class': 'fas fa-project-diagram' },
     { 'key': 'grants', 'title': 'Dotácia', 'class': 'fas fa-gift' },
     { 'key': 'plan', 'title': 'Plán', 'class': 'fas fa-paper-plane' },
-    { 'key': 'preticia', 'title': 'Petícia', 'class': 'fas fa-feather-alt' },
+    { 'key': 'peticia', 'title': 'Petícia', 'class': 'fas fa-feather-alt' },
     { 'key': 'najom', 'title': 'Prenájom', 'class': 'fas fa-warehouse' },
     { 'key': 'predaj', 'title': 'Predaj', 'class': 'fas fa-shopping-bag' },
     { 'key': 'nakup', 'title': 'Nákup', 'class': 'fas fa-shopping-bag' },

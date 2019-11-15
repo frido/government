@@ -1652,7 +1652,7 @@
         {
             "id": 72,
             "number": 30,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1702,7 +1702,7 @@
         {
             "id": 73,
             "number": 31,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1756,7 +1756,7 @@
         {
             "id": 74,
             "number": 32,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
@@ -1808,7 +1808,7 @@
         {
             "id": 75,
             "number": 33,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 4,
             "creatorIds": [
