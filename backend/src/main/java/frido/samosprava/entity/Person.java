@@ -43,6 +43,9 @@ public class Person  extends Record{
     this.prefix = prefix;
   }
   public List<Election> getElections() {
+    if(elections == null) {
+      return new ArrayList<>();
+    }
     return elections;
   }
   public void setElections(List<Election> elections) {

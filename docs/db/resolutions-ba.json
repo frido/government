@@ -2635,7 +2635,7 @@
         {
             "id": 97,
             "number": 56,
-            "type": "kontrola",
+            "type": "zasady",
             "councilId": 1,
             "meetingId": 5,
             "creatorIds": [
