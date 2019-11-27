@@ -24,3 +24,6 @@ http://localhost:5000/api/stats/2/2019?type=2
 ###
 
 http://localhost:5000/api/resolutions?creatorId=1007
+###
+
+http://localhost:5000/api/integration/rss/1

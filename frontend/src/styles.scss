@@ -25,10 +25,21 @@ small {
     margin-bottom: $margin;
     background-color: $primary-color;
     color: $color-opened;
-    padding: 1rem 40px;
+    padding: 1rem 0;
+
+    @media screen and (max-width: 540px) {
+        display: grid;
+    }
+
+    .logo {
+        display: flex;
+        line-height: 60px;
+        padding-left: 40px;
+    }
 
     img {
       height: 38px;
+      align-self: center;
     }
 
     a {
@@ -57,13 +68,17 @@ small {
   font-size: 1.5rem;
   margin-left: auto;
   font-size: 2rem;
+  margin-left: 40px;
 }
 
 #header-nav {
-    margin-right: 1rem;
     margin-bottom: 0;
     margin-top: 0;
-    display: block;
+    display: flex;
+    margin-left: auto;
+    @media screen and (max-width: 540px) {
+        margin-right: auto;
+    }
 }
 
 .header-nav-item {
@@ -79,6 +94,9 @@ a.header-nav-item:hover {
 }
 .content {
     margin: 0px $margin-content;
+    @media screen and (max-width: 540px) {
+        margin: 0px $margin-content-s;
+    }
 }
 .card.opened {
     @extend %card;
@@ -125,7 +143,13 @@ a.header-nav-item:hover {
             i {
                 margin-left: $margin;
             }
+
+            @media screen and (max-width: 540px) {
+                display: none;
+            }
         }
+
+        
 
         &.opened {
             background: $background-opened;
@@ -166,9 +190,9 @@ a.header-nav-item:hover {
         }
     }
     .card-detail {
-        margin-left: $margin;
+        // margin-left: $margin;
         margin-top: $margin;
-        margin-right: $margin;
+        // margin-right: $margin;
         padding-bottom: $margin;
 
         .card-detail-item {
@@ -291,6 +315,9 @@ a.header-nav-item:hover {
 .uznesenie-filter {
     margin-bottom: $margin;
     display: flex;
+    @media screen and (max-width: 540px) {
+        display: grid;
+    }
     .inactive {
         color: $disable-color;
     }
@@ -305,10 +332,10 @@ a.header-nav-item:hover {
       background: $background;
     }
 }
-.uznesenie-filter-item {
-    padding-right: 10px;
-    padding-left: 10px;
-}
+// .uznesenie-filter-item {
+//     padding-right: 10px;
+//     padding-left: 10px;
+// }
 .zdroj {
     margin-top: $margin * 2;
     i {
@@ -477,11 +504,20 @@ a.header-nav-item:hover {
 }
 .intro {
     // height: 100vh;
-    margin: 0 10em;
+    margin: 0 10%;
     color: $primary-color;
     .intro-header {
-      font-size: 40px;
+      font-size: 3.5rem;
       text-align: center;
+      @media screen and (max-width: 960px) {
+        font-size: 2rem;
+      }
+      @media screen and (max-width: 720px) {
+        font-size: 1.5rem;
+      }
+      @media screen and (max-width: 540px) {
+        font-size: 1rem;
+      }
     }
     .intro-abstract{
       font-size: 15px;
@@ -489,10 +525,9 @@ a.header-nav-item:hover {
       color: $secondary-color;
     }
     .intro-cards {
-      display: flex;
+      display: block;
     }
     .intro-item {
-        width: 50%;
         text-align: center;
         margin-top: auto;
         margin-bottom: auto;
@@ -502,8 +537,8 @@ a.header-nav-item:hover {
             color: $color-hover;
         }
         h1 {
-            padding: 50px 100px 25px 100px;
-            font-size: 70px;
+            padding: 20px;
+            font-size: 3rem;
             margin: 0;
         }
     }

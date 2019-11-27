@@ -12,6 +12,8 @@
 			"**/.factorypath": true
 		},
 		"java.configuration.updateBuildConfiguration": "interactive",
-		"editor.cursorBlinking": "phase"
+		"editor.cursorBlinking": "phase",
+		"java.dependency.syncWithFolderExplorer": false,
+		"java.dependency.packagePresentation": "flat"
 	}
 }
