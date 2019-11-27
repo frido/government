@@ -15,11 +15,11 @@ import frido.samosprava.view.ResponseListView;
 import frido.samosprava.view.RssListView;
 
 @RestController
-class IntegerationController {
+class IntegrationController {
 
   private final InMemoryCollections collections;
 
-  public IntegerationController(InMemoryCollections collections) {
+  public IntegrationController(InMemoryCollections collections) {
     this.collections = collections;
   }
 
