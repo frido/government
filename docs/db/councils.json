@@ -325,7 +325,11 @@
       "fb": {
         "title": "Petržalka.info",
         "link": "https://www.facebook.com/petrzalka.info"
-      }
+      },
+      "rss": [
+        "https://www.petrzalka.sk/rss-uradna-tabula"
+      ]
+
     },
     {
       "id": 2,
@@ -432,7 +436,9 @@
       "fb": {
         "title": "Detva.info",
         "link": "https://www.facebook.com/Detvainfo-215319999381212"
-      }
+      },
+      "rss": [
+      ]
     }, {
       "id": 3,
       "key": "ba",
@@ -625,6 +631,8 @@
             }
           ]
         }
+      ],
+      "rss": [
       ]
     }, {
       "id": 4,
@@ -702,6 +710,8 @@
             }
           ]
         }
+      ],
+      "rss": [
       ]
     }
   ]
