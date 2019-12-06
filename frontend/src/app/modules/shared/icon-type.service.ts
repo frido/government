@@ -33,7 +33,6 @@ export class IconTypeService {
   ];
 
   getIcon(key: string): IconType {
-    console.log(key);
     return this.icons.find( x => x.key === key);
   }
 

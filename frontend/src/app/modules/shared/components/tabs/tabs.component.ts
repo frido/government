@@ -25,7 +25,8 @@ import { TabComponent } from './tab.component';
 })
 export class TabsComponent implements AfterContentInit {
 
-  @ContentChildren(TabComponent) tabs: QueryList<TabComponent>;
+  // @ContentChildren(TabComponent) tabs: QueryList<TabComponent>;
+  tabs: TabComponent[] = []
 
   // contentChildren are set
   ngAfterContentInit() {
@@ -34,15 +35,22 @@ export class TabsComponent implements AfterContentInit {
 
     // if there is no active tab set, activate the first
     if (activeTabs.length === 0) {
-      this.selectTab(this.tabs.first);
+      if(this.tabs.length !== 0) {
+        this.selectTab(this.tabs[0]);
+      }
     }
   }
 
   selectTab(tab: TabComponent) {
     // deactivate all tabs
-    this.tabs.toArray().forEach(t => t.active = false);
+    this.tabs.forEach(t => t.active = false);
 
     // activate the tab the user has clicked on.
     tab.active = true;
+  }
+
+  notifyLoading(tab: TabComponent) {
+    this.tabs.push(tab);
+    this.ngAfterContentInit();
   }
 }

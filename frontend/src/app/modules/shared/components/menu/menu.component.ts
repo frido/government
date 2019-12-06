@@ -16,7 +16,8 @@ export class MenuComponent implements OnInit {
     'poslanci': 'Poslanci',
     'rozpocet': 'Rozpočet',
     'vystavba': 'Výstavba',
-    'starosta': 'Starosta'
+    'starosta': 'Starosta',
+    'external': 'Integrácia'
   };
 
   constructor(private route: ActivatedRoute, private location: Location) {}

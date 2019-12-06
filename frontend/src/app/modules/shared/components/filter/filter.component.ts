@@ -13,7 +13,6 @@ export class FilterComponent {
   constructor() { }
 
   selected(){
-    console.log(this.selectedValue)
     this.onFilter.emit(this.selectedValue);
   }
 }

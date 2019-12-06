@@ -7,21 +7,21 @@
   </div>
 </div>
 
-  <app-tabs>
+  <app-tabs #tabs>
 
-    <app-tab tabTitle="Kapitalove vydavky">
+    <app-tab [parent]="tabs" tabTitle="Kapitalove vydavky">
       <ng-container *ngFor="let r of rozpocet">
         <app-budget [budget]="r"></app-budget>
       </ng-container>
     </app-tab>
 
-    <app-tab tabTitle="Projekty">
+    <app-tab [parent]="tabs" tabTitle="Projekty">
       <ng-container *ngFor="let p of projects">
         <app-project [project]="p"></app-project>
       </ng-container>
     </app-tab>
 
-    <app-tab tabTitle="Granty">
+    <app-tab [parent]="tabs" tabTitle="Granty">
       <ng-container *ngFor="let g of grants">
         <app-project [project]="g"></app-project>
       </ng-container>

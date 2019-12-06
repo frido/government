@@ -6,7 +6,8 @@ export const spolky: Spolok[] = [
       'menu': [
         'uznesenia',
         'poslanci',
-        'rozpocet'
+        'rozpocet',
+        'external'
       ],
       'fb': {
         'title': 'Petržalka.info',

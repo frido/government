@@ -140,6 +140,10 @@ export class ApiService {
     return this.get(this.base + 'budget/' + spolokId)
   }
 
+  getExternal(externalKey: string, spolokId: number): Observable<Rss[]> {
+    return this.get(this.base + 'integration/' + externalKey + '/' + spolokId)
+  }
+
   getProjects(spolokId: number): Observable<Project[]> {
     return this.get(this.base + 'projects/' + spolokId)
   }

@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import frido.samosprava.client.JdkHttpClient;
 import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.entity.Rss;
 import frido.samosprava.integration.rss.RssItem;
 import frido.samosprava.integration.rss.RssResource;
 import frido.samosprava.view.ResponseListView;
@@ -26,14 +27,14 @@ class IntegrationController {
   @GetMapping("/api/integration/rss/{councilId}")
   public ResponseListView<RssListView> meetings(@PathVariable int councilId) {
     return collections.councils().findById(councilId).stream().flatMap(c -> c.getRss().stream())
-        .map(rssLink -> createRssList(rssLink)).collect(new ResponseListView<>());
+        .map(rss -> createRssList(rss)).collect(new ResponseListView<>());
   }
 
-  private RssListView createRssList(String rssLink) {
-    RssResource rssResource = new RssResource(rssLink, new JdkHttpClient());
+  private RssListView createRssList(Rss rss) {
+    RssResource rssResource = new RssResource(rss.getLink(), new JdkHttpClient());
     List<RssItem> rssItems = rssResource.getItems().stream()
         .filter(i -> !"Oznámenie o uložení zásielok".equals(i.getTitle()))
         .collect(Collectors.toList());
-    return new RssListView(rssLink, rssItems);
+    return new RssListView(rss, rssItems);
   }
 }

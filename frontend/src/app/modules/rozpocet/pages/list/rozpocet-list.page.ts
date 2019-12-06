@@ -21,7 +21,7 @@ export class RozpocetListPage implements OnInit {
     this.spolok = this.route.snapshot.data.spolok;
     this.service.getRozpocet(this.spolok.id).subscribe(data => {
       this.rozpocet = data;
-      this.rozpocet.forEach(r => {console.log(r.year); this.years.add(r.year); console.log(this.years);});
+      this.rozpocet.forEach(r => {this.years.add(r.year)});
     });
     this.service.getProjects(this.spolok.id).subscribe(data => {
       this.projects = data;

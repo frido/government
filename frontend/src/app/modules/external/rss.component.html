@@ -1,0 +1,9 @@
+<div class="card" [class.opened]="opened">
+  <div class="card-head" [class.opened]="opened" (click)="opened = !opened">
+    <i class="fas fa-rss fa-2x icon-type"></i>
+    <span class="card-title">{{rssItem.title}}</span>
+  </div>
+  <div *ngIf="opened" class="card-detail">
+    <a class="linkable" href="{{rssItem.link}}" target="blank">{{title}}</a>
+  </div>
+</div>

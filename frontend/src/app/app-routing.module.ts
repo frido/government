@@ -31,6 +31,9 @@ const routes: Routes = [
       { path: 'rozpocet',
         loadChildren: './modules/rozpocet/rozpocet.module#RozpocetModule'
       },
+      { path: 'external',
+        loadChildren: './modules/external/external.module#ExternalModule'
+      },
       { path: 'vystavba',
         loadChildren: './modules/vystavba/vystavba.module#VystavbaModule'
       },

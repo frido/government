@@ -14,7 +14,7 @@ public class Council extends Record {
   private List<Office> offices;
   private List<Department> departments;
   private Facebook fb;
-  private List<String> rss;
+  private List<Rss> rss;
 
   public String getKey() {
     return key;
@@ -79,10 +79,10 @@ public class Council extends Record {
   public void setFb(Facebook fb) {
     this.fb = fb;
   }
-  public List<String> getRss() {
+  public List<Rss> getRss() {
 		return rss;
 	}
-  public void setRss(List<String> rss) {
+  public void setRss(List<Rss> rss) {
 		this.rss = rss;
 	}
 }

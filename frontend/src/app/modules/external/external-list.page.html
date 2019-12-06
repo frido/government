@@ -1,0 +1,12 @@
+<app-menu></app-menu>
+<div class="content">
+
+  <app-tabs #tabs>
+
+    <app-tab [parent]="tabs" *ngFor="let rss of rssList" [tabTitle]="rss.title">
+      <app-rss *ngFor="let item of rss.items" [rssItem]="item"></app-rss>
+    </app-tab>
+
+  </app-tabs>
+</div>
+<app-footer></app-footer>

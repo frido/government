@@ -5,6 +5,7 @@
  */
 
 import { Component, Input } from '@angular/core';
+import { TabsComponent } from './tabs.component';
 
 @Component({
   selector: 'app-tab',
@@ -17,4 +18,9 @@ import { Component, Input } from '@angular/core';
 export class TabComponent {
   @Input('tabTitle') title: string;
   @Input() active = false;
+  @Input() parent: TabsComponent;
+
+  ngOnInit() {
+    this.parent.notifyLoading(this);
+  }
 }
