@@ -327,7 +327,10 @@
         "link": "https://www.facebook.com/petrzalka.info"
       },
       "rss": [
-        "https://www.petrzalka.sk/rss-uradna-tabula"
+        {
+          "title": "Úradná tabuľa",
+          "link": "https://www.petrzalka.sk/rss-uradna-tabula"
+        } 
       ]
 
     },
