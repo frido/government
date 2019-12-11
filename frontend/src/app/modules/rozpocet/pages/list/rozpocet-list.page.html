@@ -2,7 +2,7 @@
 <div class="content">
 
   <div class="tabs">
-  <div *ngFor="let y of years" class="tab active">
+  <div *ngFor="let y of years" class="tab" (click)="activeYear = y" [class.active]="activeYear == y">
     {{y}}
   </div>
 </div>
@@ -10,19 +10,19 @@
   <app-tabs #tabs>
 
     <app-tab [parent]="tabs" tabTitle="Kapitalove vydavky">
-      <ng-container *ngFor="let r of rozpocet">
+      <ng-container *ngFor="let r of rozpocet[activeYear]">
         <app-budget [budget]="r"></app-budget>
       </ng-container>
     </app-tab>
 
     <app-tab [parent]="tabs" tabTitle="Projekty">
-      <ng-container *ngFor="let p of projects">
+      <ng-container *ngFor="let p of projects[activeYear]">
         <app-project [project]="p"></app-project>
       </ng-container>
     </app-tab>
 
     <app-tab [parent]="tabs" tabTitle="Granty">
-      <ng-container *ngFor="let g of grants">
+      <ng-container *ngFor="let g of grants[activeYear]">
         <app-project [project]="g"></app-project>
       </ng-container>
     </app-tab>

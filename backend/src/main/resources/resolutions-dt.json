@@ -1,0 +1,4772 @@
+{
+  "resolutions": [
+    {
+      "id": 1001,
+      "number": 1,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 101,
+      "creatorIds": null,
+      "title":
+        "Informácia o výsledkoch volieb do orgánov samosprávy  mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "výsledky volieb do orgánov samosprávy obcí v meste Detva",
+            "oznámenie Ing. Jána Šufliarského ovzdaní sa poslaneckého mandátu za volebný obvod č. 2",
+            "že na uprázdnený mandát poslanca mestského zastupiteľstva za volebný obvod č. 2 nastúpil prvý náhradník Gabriela Melichová",
+            "vystúpenie novozvoleného primátora mesta"
+          ]
+        },
+        {
+          "title": "konštatuje",
+          "descriptions": [
+            "novozvolený primátor mesta Detva Ing. Ján Šufliarský zložil zákonom predpísaný sľub primátora mesta",
+            "zvolení poslanci Mestského zastupiteľstva v Detve zložili zákonom predpísaný sľub poslanca mestského zastupiteľstva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+    },
+    {
+      "id": 1002,
+      "number": 2,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 101,
+      "creatorIds": null,
+      "title":
+        "Zriadenie komisií mestského zastupiteľstva, voľba členov a predsedov komisií",
+      "description": "",
+      "results": [
+        {
+          "title": "zriaďuje",
+          "descriptions": [
+            "Komisie mestského zastupiteľstva v Detve nasledovne:",
+            "komisiu finančnú, podnikateľskú a správy majetku v počte 5 poslancov a 2 neposlanci",
+            "komisiu  výstavby,  územného  plánu  a životného  prostredia v počte  5 poslancov a 2 neposlanci",
+            "komisiu sociálnu, bytovú a marginalizovaných komunít vpočte 4 poslanci a 3 neposlanci",
+            "komisiu  kultúry, ZPOZ-uacestovného  ruchu  v počte  4  poslanci  a 3 neposlanci",
+            "komisiu mládeže a školstva v počte 4 poslanci a 3 neposlanci",
+            "komisiu športu v počte 4 poslanci a 3 neposlanci",
+            "komisiu na ochranu verejného záujmu pri výkone funkcií funkcionárov mesta v počte 4 poslanci "
+          ]
+        },
+        {
+          "title": "volí",
+          "descriptions": ["predsedov a členov komisií"]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+    },
+    {
+      "id": 1003,
+      "number": 3,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 101,
+      "creatorIds": null,
+      "title": "Poverenie sobášiacich",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "poverenie sobášiacich poslancov pre toto volebné obdobie:",
+            "PhDr. Vladimír Dado",
+            "Mgr. Darina Labáková",
+            "Mgr. Jana Kuzárová",
+            "Gabriela Melichová",
+            "Oľga Vilhanová"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+    },
+    {
+      "id": 1004,
+      "number": 4,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 101,
+      "creatorIds": null,
+      "title":
+        "Informácia o vzdaní sa funkcie riaditeľa príspevkovej spoločnosti KC AS",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "vzdanie sa funkcie riaditeľa príspevkovej spoločnosti Kultúrne centrum A. Sládkoviča v Detve, so sídlom Obrancov  mieru  871/1,  962  12  Detva, IČO : 31916503 p. Jozefa Kulišiaka a  to ku dňu 10.12.2018"
+          ]
+        },
+        {
+          "title": "odvoláva",
+          "descriptions": [
+            "p. Jozefa Kulišiaka z funkcie riaditeľa príspevkovej spoločnosti Kultúrne centrum A. Sládkoviča v Detve, so sídlom Obrancov mieru 871/1, 96212 Detva, IČO : 31916503 a  to ku dňu 10.12.2018"
+          ]
+        },
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "poverenie   p.Ing.  Eriky  Mojžišovej výkonom  funkcie  riaditeľky    príspevkovej spoločnosti Kultúrne centrum A. Sládkoviča v Detve, so sídlom Obrancov mieru 871/1, 962 12 Detva, IČO : 31916503 a  to od 11.12.2018"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+    },
+    {
+      "id": 1005,
+      "number": 5,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 101,
+      "creatorIds": null,
+      "title":
+        "Správa mandátovej komisie pre ustanovujúce zasadnutie Mestského zastupiteľstva v Detve",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "správu mandátovej komisie pre ustanovujúce Mestské zastupiteľstvo v Detve",
+            "Mandátová komisia vzložení:",
+            "Mgr. Darina Labáková",
+            "Mgr. Slavomír Ciglan",
+            "Gabriela Melichová"
+          ]
+        },
+        {
+          "title": "potvrdzuje",
+          "descriptions": [
+            "Novozvolený primátor mesta Detva a novozvolení poslanci Mestského zastupiteľstva v Detve dostali na základe preukazu totožnosti osvedčenie ozvolení, vydané miestnouvolebnou komisiou  v Detve.",
+            "Novozvolený primátor mesta Detva a novozvolení poslanci Mestského zastupiteľstva v Detve zložili zákonom predpísaný  sľub.",
+            "Novozvolený primátor mesta a novozvolení poslanci Mestského zastupiteľstva v Detve nevykonávajú funkciu nezlučiteľnú s funkciou primátora mesta a poslancov mestského zastupiteľstva."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1067163"
+    },
+    {
+      "id": 1006,
+      "number": 8,
+      "type": "pravidelne",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1042],
+      "title": "Kontrola plnenia zročných uznesení",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 20.12.2018"
+          ]
+        },
+        {
+          "title": "odporúča",
+          "descriptions": [
+            "primátorovi mesta, aby na každom prebiehajúcou MsZ v závere oznámil, ktorý poslanec bude spravodajcom MsZ na najbližšom zasadnutí MsZ v zmysle Rokovacieho poriadku MsZ č. VIII, bod 9"
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1007,
+      "number": 9,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1045],
+      "title": "Informácia o kontrolnej činnosti",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": ["informáciu o kontrolnej činnosti hlavného kontrolóra"]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1008,
+      "number": 10,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title": "Schválenie nájmu pre Technické služby Detva s.r.o.",
+      "description": "",
+      "results": [
+        {
+          "title": "neschvaľuje",
+          "descriptions": [
+            "na základe § 9a odsek 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom nehnuteľností vrátane hnuteľných vecí nachádzajúcich sa v okrese Detva, obec Detva, k. ú. evidovaných na LV č. 1 Okresným úradom Detva, katastrálnym odborom, a to:",
+            "pozemok parc. č. 3786/1, druh pozemku: zastavená plocha a nádvorie o výmere 7043 m², parcela registra „C“",
+            "pozemok parc. č. 3786/2, druh pozemku: zastavaná plocha a nádvorie o výmere 5337 m², parcela registra „C“",
+            "pozemok parc. č. 3786/3, druh pozemku: zastavaná plocha a nádvorie o výmere 645 m², parcela registra „C“",
+            "pozemok parc. č. 3786/4, druh pozemku: zastavaná plocha a nádvorie o výmere 204 m², parcela registra „C“",
+            "pozemok parc. č. 3786/5, druh pozemku: zastavaná plocha a nádvorie o výmere 408 m², parcela registra „C“",
+            "budovu so súp. č. 914 (M. R. Štefánika 59), druh stavby: Budova pre šport a na rekreačné účely, popis stavby: zimný štadión – hala, postavenej na pozemku parc. č. 3786/2, druh pozemku: zastavaná plocha a nádvorie o výmere 5337 m², parcela registra „C“",
+            "budova so súp. č. 1604, druh stavby: Iná budova, popis stavby: kotolňa, strojovňa, postavenej na pozemku parc. č. 3786/3, druh pozemku: zastavaná plocha a nádvorie o výmere 645 m², parcela registra „C“",
+            "budova so súp. č. 1605, druh stavby: Budova technickej vybavenosti sídla (výmenníková stanica, budova na rozvod energií, čerpacia a prečerpávacia stanica, úpravňa vody, transformačná stanica a rozvodňa, budova vodojemu alebo čistiarne odpadových vôd a iné), popis stavby: trafostanica, postavenej na pozemku parc. č.3786/4, druh pozemku: zastavaná plocha a nádvorie o výmere 204 m², parcela registra „C“",
+            "budova so súp. č. 3123, druh stavby: Iná budova, popis stavby: prevádzková budova, práčovňa, postavenej na pozemku parc. č. 3786/5, druh pozemku: zastavaná plocha a nádvorie o výmere 408 m², parcela registra „C“",
+            "od 1.1.2019 na dobu neurčitú za nájomné vo výške 1,00 €/rok pre: - Technické služby Detva s.r.o., Bottova 1272, 962 12 Detva, IČO: 36057029 Dôvodom hodným osobitného zreteľa je uvedená spoločnosť má skúsenosti s prevádzkovaním vyššie uvedených nehnuteľností."
+          ]
+        }
+      ],
+      "voteYesIds": [1017, 1007, 1008, 1014, 1012, 1018, 1004, 1011, 1003],
+      "voteNoIds": [1005, 1010, 1015],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1009,
+      "number": 11,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtu mesta Detva na rok 2018",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": ["aktualizáciu rozpočtu mesta Detva na rok 2018"]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1010,
+      "number": 12,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1039],
+      "title":
+        "Návrh rozpočtov rozpočtových organizácií mesta Detva a príspevkovej organizácie KC A. Sládkoviča na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na rok 2019 rozpočty rozpočtových organizácii",
+            "Základná škola, Kukučínova 480/6, Detva",
+            "Základná škola s materskou školou Alexandra Vagača, Štúrova 12, Detva",
+            "Základná škola, Obrancov mieru 884/23, Detva",
+            "Základná škola, J. J. Thurzu, Bernoláka 20, Detva",
+            "Materská škola, Nám. SNP 17, Detva",
+            "Materská škola, M. R. Štefánika 908/40, Detva",
+            "Materská škola, Obrancov mieru 876/5, Detva",
+            "Materská škola, A. Bernoláka 19, Detva",
+            "Základná umelecká škola Svetozára Stračinu, Štúrova 12, Detva",
+            "Centrum voľného času – Trend, Obrancov mieru 7, Detva",
+            "Domov dôchodcov, Štúrova 838/33, Detva",
+            "a rozpočet príspevkovej organizácie KC A. Sládkoviča, Obrancov mieru 1, Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1011,
+      "number": 13,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1039],
+      "title": "Návrh rozpočtu mesta Detva na roky 2019 – 2021",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [" rozpočet mesta Detva na roky 2019 – 2021"]
+        }
+      ],
+      "voteYesIds": [
+        1017,
+        1016,
+        1007,
+        1008,
+        1006,
+        1014,
+        1012,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1012,
+      "number": 14,
+      "type": "stanovisko",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1045],
+      "title":
+        "Stanovisko hlavného kontrolóra k návrhu rozpočtu mesta Detva na roky 2019-2021",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "odborné stanovisko Hlavného kontrolóra mesta Detva k návrhu rozpočtu mesta Detva na roky 2019, 2020 a 2021"
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1013,
+      "number": 15,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1039],
+      "title":
+        " VZN mesta Detva č. 2/2018, ktorým sa mení a dopĺňa VZN mesta Detva č. 1/2014 o určení výšky dotácie na mzdy a prevádzku pre školy a školské zariadenia a o určení výšky dotácie na podporu práce s mládežou",
+      "description": "",
+      "results": [
+        {
+          "title": "sa uznáša",
+          "descriptions": [
+            "na VZN mesta Detva č. 2/2018, ktorým sa mení a dopĺňa VZN mesta Detva č. 1/2014 o určení výšky dotácie na mzdy a prevádzku pre školy a školské zariadenia a o určení výšky dotácie na podporu práce s mládežou",
+            "zvýšenie dotácie na žiaka v Súkromnom centre voľného času na sumu 117,-Eur, t. j. na takú istú výšku dotácie ako má Centrum voľného času."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1014,
+      "number": 16,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title": "Odpredaj pozemku KN-C parc. č.4492/4 pre Ing. Luciu Kmeťovú",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 4492/4 o výmere 210 m2,druh pozemku: záhrada, parcela registra „C“ zapísaného na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 20,-€/m2, v celkovej sume 4.200,-Eur pre Ing. Luciu Kmeťovú, bytom: Agátová 1022/7, Detva.Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o rozšírenie pozemku vo vlastníctve žiadateľky a jeho odkúpením vznikne zarovnaný a ucelený celok."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1015,
+      "number": 17,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odpredaj pozemku KN-C parc. č. 4492/2 pre  JUDr. Petru Gaškovú",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 4492/2 o výmere 122 m2,druh pozemku: záhrada, parcela registra „C“ zapísaného na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 15,-€/m2, v celkovej sume 1.830,-Eur pre JUDr. Petru Gaškovú, bytom: Silvánová 5337/23, Pezinok.Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o rozšírenie pozemku vo vlastníctve žiadateľky a jeho odkúpením vznikne zarovnaný a ucelený celok. "
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1016,
+      "number": 18,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odpredaj pozemku KN-C parc. č. 4486/2 pre  Ing. Erika Cabana s manželkou Ing. Janou Cabanovou",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 4486/2 o výmere 119 m2,druh pozemku: záhrada, parcela registra „C“ zapísaného na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 15,-€/m2, v celkovej sume 1.785,-Eur pre Ing. Erika Cabana s manželkou Ing. Janou Cabanovou, obidvaja bytom: Agátová 1019/5, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o rozšírenie pozemku vo vlastníctve žiadateľov a jeho odkúpením vznikne zarovnaný a ucelený celok. "
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1017,
+      "number": 19,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odkúpenie pozemku KN-E parc. č. 10988, KN-E parc. č. 10989, KN-E parc. č. 10990, KN-E parc. č. 10994, KN-E parc. č. 10995 a KN-E parc. č. 10996 od Emílie Michálikovej",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to:•pozemku parc. č. 10988 o výmere 423 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 5241 vedenom Okresným úradomDetva, katastrálnym odborom•pozemku parc. č. 10989 o výmere 117 m2, druh pozemku: trvalý trávny porast, parcela registra  „E“  evidovaného  na  LV  č.  10335  vedenom  Okresným  úradom  Detva, katastrálnym odborom•pozemku parc. č. 10990 o výmere 112 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 5241 vedenom Okresným úradom Detva, katastrálnym odborom•pozemku parc. č. 10994 o výmere 324 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 5241 vedenom Okresným úradom Detva, katastrálnym odborom•pozemku parc. č. 10995 o výmere 80 m2, druh pozemku: trvalý trávny porast, parcela registra  „E“  evidovaného  na  LV  č.  10335  vedenom  Okresným  úradom  Detva, katastrálnym odborom•pozemku parc. č. 10996 o výmere 80 m2, druh pozemku: trvalý trávny porast, parcela registra  „E“  evidovaného  na  LV  č.  10335  vedenom  Okresným  úradom  Detva, katastrálnym odborom vo výlučnom vlastníctve Emílie Michálikovej, bytom: Fučíkova 1225/8, Detva v celosti v cene 10,-Eur/m2, v celkovej cene 11.360,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1018,
+      "number": 20,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odkúpenie pozemku KN-E parc. č. 11006, KN-E parc. č. 11007 a KN-E parc. č. 11008 od Emílie Michálikovej",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 11006 o výmere 223 m2, druh pozemku: orná pôda, parcela registra „E“, pozemku parc. č. 11007 o výmere 72 m2, druh pozemku: orná pôda, parcela registra „E“, pozemku parc. č. 11008 o výmere 37 m2, druh pozemku: trvalý trávnatý porast, parcela registra „E“ evidovaných na LV č. 6238 vedenom Okresným úradom Detva, katastrálnym  odborom  v  podielovom  spoluvlastníctve  Emílie  Michálikovej,  bytom: Fučíkova 1225/8, Detva vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku v cene 10,-Eur/m2, v celkovej cene 1.660,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1019,
+      "number": 21,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odkúpenie pozemku KN-C parc. č. 10531/10 od Magdalény Debnárovej, Ivana Paprčku, Jozefa Pauča",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10531/10 o výmere 242 m2, druh pozemku: zastavané plochy a nádvoria, parcela registra „C“ evidovaného na LV č. 12485 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Magdalény Debnárovej, bytom: Piešť I. č. 216, Detva vo veľkosti spoluvlastníckeho podielu 173/504 v pomere k celku, Ivana Paprčku, bytom: Slanec č. 1660, Hriňová vo veľkosti spoluvlastníckeho podielu 173/504 v pomere k celku a Jozefa Pauča, bytom: Piešť I. č. 301, Detva vo veľkosti spoluvlastníckeho podielu 79/252 v pomere k celku v cene 2,-Eurá/m2, v celkovej cene 484,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1020,
+      "number": 22,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Odkúpenie pozemku KN-C parc. č. 10531/11 od Ivana Paprčku a Jozefa Purdeka",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku  parc.  č.  10531/11  o  výmere  76  m2,  druh  pozemku:  zastavané  plochy  a nádvoria, parcela registra „C“ evidovaného na LV č. 6892 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Ivana Paprčku, bytom: Slanec č. 1660, Hriňová vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku a Jozefa Purdeka, bytom: Piešť II. č. 197, Detva vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku v cene 2,-Eurá/m2, v celkovej cene 152,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1021,
+      "number": 23,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Schválenie odkúpenia prístupovej komunikácie do majetku mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie stavby „Prístupová cesta“vybudovanej na pozemku parc. č. 6187/32, druh pozemku: zastavaná plocha anádvorie ovýmere 934 m2, parcela registra „C“, k. ú Detva  ana pozemku parc. č. 6187/35, druh pozemku: zastavaná plocha anádvorie ovýmere 2002 m2, parcela registra „C“, k. ú. Detva, ktorej užívanie bolo povolené kolaudačným  rozhodnutím  č.  971/2018/DKa –rozh.  zo  dňa  06.07.2018  vydaného stavebným úradom Detva, právoplatným dňa 03.08.2018 za odplatu 1,00 €od Ing. Milana Koreného, Novosady 920/1, 962 12 Detva."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1009,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1006,
+        1014,
+        1012,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1022,
+      "number": 24,
+      "type": "ine",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Schválenie zmlúv o budúcej zmluve o prevádzkovaní infraštruktúrneho majetku",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "podmienky uzavretia budúcej zmluvy o úprave vzájomných práv a povinností vlastníkov prevádzkovo súvisiacich verejných kanalizácií medzi mestom Detva a Stredoslovenkou vodárenskou spoločnosťou, a.s., Partizánska cesta 5, Banská Bystrica, IČO: 36 056 006, ktorej  predmetom  je  úprava  vzájomných  práv  a  povinností  vlastníkov  verejných kanalizácií podľa prílohy tohto uznesenia."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1014,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1023,
+      "number": 25,
+      "type": "ine",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1047],
+      "title":
+        "Schválenie zmlúv obudúcej zmluve o prevádzkovaní infraštruktúrneho majetku",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "uzavretie  zmluvy  o  podmienkach  uzatvorenia  budúcej  Zmluvy  o  prevádzkovaní infraštruktúrneho majetku „Nájomný bytový dom č. 4 Dolinky –Detva“ medzi mestom Detva a Stredoslovenkou vodárenskou prevádzkovou spoločnosťou, a.s., Partizánska cesta  5,  Banská  Bystrica,  IČO:  36  644  030,  ktorej  predmetom  je  dohoda,  že  po vybudovaní  vodnej  stavby  „SO  04  Predĺženie  vodovodu“  uzatvoria  Zmluvu  o prevádzkovaní infraštruktúrneho majetku."
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1014,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1024,
+      "number": 26,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": null,
+      "title": "Schválenie ceny vody na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "cenu za dodávku pitnej vody zverejného vodovodu Detva – Kostolná na rok 2019 za regulačné obdobie pre roky 2017–2021 vo výške 0,3435€/m3"
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1014,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1025,
+      "number": 27,
+      "type": "plan",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": [1045],
+      "title": "Plán práce hlavného kontrolóra na I. polrok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "plán kontrolnej činnosti Hlavného kontrolóra mesta Detva na I. polrok 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [
+        1005,
+        1017,
+        1016,
+        1007,
+        1002,
+        1008,
+        1014,
+        1010,
+        1018,
+        1004,
+        1011,
+        1013,
+        1003,
+        1015
+      ],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1026,
+      "number": 28,
+      "type": "zasady",
+      "councilId": 2,
+      "meetingId": 102,
+      "creatorIds": null,
+      "title": "Návrh na schválenie mesačného platu primátora mesta",
+      "description": "",
+      "results": [
+        {
+          "title": "prerokovalo",
+          "descriptions": [
+            "predložený  návrh  na  schválenie  mesačného  platu  primátora  mesta  Detvy  Ing.  Jána Šufliarskeho v zmysle § 11 ods. 4 písm. i) zákona č. 369/1990 Zb. oobecnom zriadení v znení neskorších predpisov a v zmysle § 3 ods. 1 zákona NR SR č. 253/1994 Z.  z. oprávnom postavení  a platových pomeroch starostov obcí a primátorov miest v znení neskorších  predpisov  súčinnosťou  od  20.12.2018  a schválenie  náhrady  platu  za nevyčerpanú dovolenku"
+          ]
+        },
+        {
+          "title": "určuje",
+          "descriptions": [
+            "mesačný plat primátora Ing. Jána Šufliarskeho v súlade  s  §11  ods.  4  písm.  i)  zákona  č.  369/1990  Zb.  oobecnom  zriadení  v znení neskorších predpisov a v súlade s § 3 ods. 1 zákona NR SR č. 253/1994 Z. z. oprávnom postavení  a platových  pomeroch  starostov  obcí  a primátorov  miest  v znení  neskorších predpisov,  ktorý je  súčinom  priemernej  mesačnej  mzdy  zamestnanca  v národnom hospodárstve vyčíslenej na základe údajov Štatistického úradu Slovenskej republiky za predchádzajúci kalendárny rok a násobku stanoveného podľa § 4 ods. 1 tohto zákona, podľa počtu obyvateľov mesta a jeho zvýšenie o 40% s účinnosťou od 20.12.2018"
+          ]
+        },
+        {
+          "title": "súhlasí",
+          "descriptions": [
+            "vzmysle § 2 ods. 2 zákona NR SR č. 253/1994 Z. z. oprávnom postavení a platových pomeroch starostov obcí a primátorov miest v znení neskorších predpisov s poskytnutím náhrady platu primátorovi mesta za časť nevyčerpanej dovolenky v rozsahu 23 dní"
+          ]
+        }
+      ],
+      "voteYesIds": [1017, 1016, 1007, 1008, 1014, 1018, 1004, 1011, 1013, 1003],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "http://samosprava.detva.sk/download_file_f.php?id=1068422"
+    },
+    {
+      "id": 1027,
+      "number": 31,
+      "type": "pravidelne",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1005],
+      "title": "Kontrola plnenia zročných uznesení",
+      "description": "",
+      "results": [
+        {
+          "title": "berienavedomie",
+          "descriptions": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        },
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "ako spravodajcu bodu „ Kontrola plnenia zročných uznesení“ na všetky rokovania mestského zastupiteľstva v Detve prednostu MsÚ v Detve"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1028,
+      "number": 32,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Schválenie nájmu zimného štadióna pre Technické služby Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "neschvaľuje",
+          "descriptions": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1029,
+      "number": 33,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Schválenie nájmu kúpaliska pre Technické služby Detva s.r.o.",
+      "description": "",
+      "results": [
+        {
+          "title": "neschvaľuje",
+          "descriptions": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 28.03.2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1030,
+      "number": 34,
+      "type": "plan",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1040],
+      "title": "Plán investičných akcií mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plán investičných akcií mesta Detva, ktorý je v súlade s rozpočtom mesta na rok 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1031,
+      "number": 35,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1039],
+      "title": "Rozbor hospodárenia mesta Detva za rok 2018, Záverečný účet mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Celoročné hospodárenie mesta Detva za rok 2018 bez výhrad,",
+            "Usporiadanie prebytku rozpočtu nasledovne, z prebytku rozpočtu vo výške 1 254 180€ sa podľa § 16 ods. 6 zákona č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov vylučujú finančné prostriedky vo výške 46 922 €, ktoré boli nevyčerpané v predchádzajúcom rozpočtovom roku: Dopravné 2 420 €, IV.ZŠ inkluzívny tím 14 502 €, Hasičská zbrojnica 30 000 €",
+            "Rozdelenie usporiadaného prebytku rozpočtu vo výške 1 207 258 € a kladného zostatku finančných operácii vo výške 537 238 € nasledovne: Rezervný fond 120 726 €, Investičný a rozvojový fond 1 623 770 €",
+            "Prevod 1 623 770 € z Investičného a rozvojového fondu do rozpočtu mesta na čiastočné krytie neuhradených faktúr za rok 2018 a nových požiadaviek na rozpočet 2019,",
+            "Hospodársky výsledok mestskej príspevkovej organizácie KC A.Sládkoviča – prebytok vo výške 185,80 €, bude usporiadaný prevodom na rezervný fond.",
+            "Prevod 60 000 € z rezervného fondu účelovo určených na neoprávnené výdavky súvisiace s projektom zníženia energetickej náročnosti budovy MsÚ. (havarijný stav )"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1032,
+      "number": 36,
+      "type": "stanovisko",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1045],
+      "title": " Stanovisko hlavného kontrolóra mesta Detva k návrhu Záverečného účtu mesta Detva za rok 2018",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "stanovisko Hlavného kontrolóra mesta Detva k návrhu Záverečného účtu mesta Detva za rok 2018 "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1033,
+      "number": 37,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtov rozpočtových organizácii mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Mestské zastupiteľstvo v Detve schvaľuje na rok 2019 aktualizácie rozpočtových organizácii",
+            "Základná škola, Kukučínova 480/6, Detva s pripomienkou zaradiť do rozpočtu projekt Záleží nám na všetkých so spolufinancovaním pre rok 2019 vo výške 690 €",
+            "Základná škola s materskou školou Alexandra Vagača, Štúrova 12, Detva s pripomienkou zaradiť do rozpočtu projekt Dajme šancu byť úspešný so spolufinancovaním pre rok 2019 vo výške 690 €",
+            "Základná škola, Ul. Obrancov mieru, Detva",
+            "Základná škola, J. J. Thurzu, Bernoláka 20, Detva",
+            "Materská škola, Nám. SNP 17, Detva",
+            "Materská škola. M. R. Štefánika 908/40, Detva",
+            "Materská škola, Obrancov mieru 876/5, Detva",
+            "Materská škola, A. Bernoláka 19, Detva",
+            "Základná umelecká škola Svetozára Stračinu, Štúrova 12, Detva s pripomienkou do rozpočtu zaradiť: 8 000 € na dofinancovanie prevádzky ZUŠ, 2 793 € ako dotáciu na odstránenie nedostatkov vyplývajúcich zo štátnej školskej inšpekcie pre zachovanie výtvarného odboru, 7 000 € na nový odbor „Audiovizuálna multimediálna tvorba“"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1034,
+      "number": 38,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtu mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "aktualizáciu rozpočtu mesta Detva na rok 2019 s nasledovnými úpravami",
+            "upraviť položku Kultúrne služby: materiál - 600 €, ZPOZ + 600 €",
+            "príjmy + 84 000 € v tom vstupné kúpalisko 12 000 €, bufet kúpalisko 12 000 €, rezervný fond 60 000 €",
+            "výdavky + 84 000 € v tom kúpalisko mzdy + 15 000 €, odvody + 5 000 €, materiál + 1 000 €, energia + 8 000 €, údržba + 1 000 €, služby + 2 000 €, tovar + 6 000 €, dotácia na kúpalisko - 14 000 €, zníženie energetickej náročnosti MsÚ + 60 000 €"
+
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1035,
+      "number": 39,
+      "type": "projekt",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1042],
+      "title": "Schválenie spolufinancovania projektu 'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "spolufinancovanie projektu 'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6, Detva vo výške 6 210 Eur na obdobie 36 mesiacov od začiatku realizácie projektu."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "'Záleží nám na všetkých' pre Základnú školu Kukučínova 480/6",
+          "value": 6210
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1036,
+      "number": 40,
+      "type": "projekt",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1042],
+      "title": "Schválenie spolufinancovania projektu 'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača, Štúrova 12, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "spolufinancovanie projektu 'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača, Štúrova 12, Detva vo výške 6 210 Eur na obdobie 36 mesiacov od začiatku realizácie projektu."
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "'Dajme šancu byť úspešný' pre Základnú školu s materskou školou Alexandra Vagača",
+          "value": 6210
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1037,
+      "number": 41,
+      "type": "grants",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1017],
+      "title": "Schválenie dotácií na činnosť umeleckých súborov na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "v zmysle VZN 4/2013, § 4 ods. 2, pís. b) o poskytovaní dotácií z rozpočtu mesta Detva v úplnom znení, dotáciu z rozpočtu mesta na činnosť umeleckých súborov na rok 2019 nasledovne:",
+            "Folklórny súbor Detva, Občianske združenie: 2 150,-€ ",
+            "Folklórny súbor Podpoľanec, Občianske združenie: 2 150,-€"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Folklórny súbor Detva, Občianske združenie",
+          "value": 2150
+        }, {
+          "title": "Folklórny súbor Podpoľanec, Občianske združenie",
+          "value": 2150
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1038,
+      "number": 42,
+      "type": "grants",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1007],
+      "title": "Schválenie dotácií na činnosť športových klubov na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "poskytnutie dotácií z rozpočtu mesta na činnosť športových klubov na rok 2019 nasledovne:",
+            "Klub športovej gymnastiky Detva: 8 000 € ",
+            "Mestský volejbalový klub Detva: 8 000 €",
+            "Mestský futbalový klub Detva: 20 000 €, z toho: a) na činnosť mládeže: 10 000 €, b) na činnosť mužov: 10 000 €",
+            "HC 07 Detva s. r. o: 80 000 €, z toho: a) na extraligu v sezóne 2018/2019: 60 000 €, b) na činnosť mládeže: 20 000 €",
+            "Karate klub Detva: 6 000 €",
+            "Kraso klub Detva: 3 000 €",
+            "DTF team Detva ( florbalový klub ): 8 000 €",
+            "Športový klub Crazyrock Detva: 4 000 €"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "Klub športovej gymnastiky Detva",
+          "value": 8000
+        }, {
+          "title": "Mestský volejbalový klub Detva",
+          "value": 8000
+        }, {
+            "title": "Mestský futbalový klub Detva - na činnosť mládeže",
+            "value": 10000
+        }, {
+            "title": "Mestský futbalový klub Detva - na činnosť mužov",
+            "value": 10000
+        }, {
+            "title": "HC 07 Detva s.r.o - na extraligu v sezóne 2018/2019",
+            "value": 60000
+        }, {
+            "title": "HC 07 Detva s.r.o - na činnosť mládeže",
+            "value": 20000
+        }, {
+            "title": "Karate klub Detva",
+            "value": 6000
+        }, {
+            "title": "Kraso klub Detva",
+            "value": 3000
+        }, {
+            "title": "DTF team Detva ( florbalový klub )",
+            "value": 8000
+        }, {
+            "title": "Športový klub Crazyrock Detva",
+            "value": 4000
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1039,
+      "number": 43,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1042],
+      "title": "VZN mesta č. .../2019, ktorým sa mení a dopĺňa VZN č. 4/2013 o poskytovaní dotácií z rozpočtu mesta ",
+      "description": "",
+      "results": [
+        {
+          "title": "uznáša sa",
+          "descriptions": [
+            "na VZN mesta č. 1/2019, ktorým sa mení a dopĺňa VZN č.4/2013 o poskytovaní dotácií z rozpočtu mesta"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1040,
+      "number": 44,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2751/2 pre Ing. Miroslava Rybára a Vieru Michalčíkovú, obaja bytom: Smreková 3380/9, Zvolen",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č.2751/2 o výmere 22 m2, druh pozemku: záhrada, parcela registra „C“ zapísaného na LV č. 12258, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 10,-€/m2, v celkovej sume 36,66 Eur do podielového spoluvlastníctva Ing. Miroslava Rybára, bytom: Smreková 3380/9, Zvolen, veľkosť prevádzaného spoluvlastníckeho podielu 1/12 v pomere k celku a Viery Michalčíkovej, bytom: Smreková 3380/9, Zvolen, veľkosť prevádzaného spoluvlastníckeho podielu 1/12 v pomere k celku. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1041,
+      "number": 45,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2204/2 pre Jána Báťku, bytom: Jilemnického 1287/72, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č.2204/2 o výmere 187 m2, druh pozemku: záhrada, parcela registra „C“ zapísaného na LV č. 10022, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 15,-€/m2, v celkovej sume 2.805,- Eur pre Jána Báťku, bytom: Jilemnického 1287/72, Detva. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1042,
+      "number": 46,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 1555/3 pre Radovana Kulišiaka, bytom: J. G. Tajovského 954/3, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č.1555/3 o výmere 44 m2, druh pozemku: ostatná plocha, parcela registra „C“ zapísaného na LV č. 7619, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 10,-€/m2, v celkovej sume 440,- Eur pre Radovana Kulišiaka, bytom: J. G. Tajovského 954/3, Detva za podmienky, že na tomto pozemku nebude možné realizovať žiadnu stavbu (napr. v prípade rekonštrukcie, prestavby, dostavby či zbúrania pôvodného domu), a to z dôvodu zachovania pôvodnej uličnej čiary."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1043,
+      "number": 47,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 1555/4 a KN-C parc. č. 1700/2 pre Dávida Kulišiaka, bytom: Cintorínska 447/31, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 1555/4 o výmere 69 m2, druh pozemku: ostatná plocha, parcela registra „C“ a pozemku parc. č. 1700/2 o výmere 6 m2, druh pozemku: záhrada, parcela registra „C“ zapísaných na LV č. 7619, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 10,-€/m2, v celkovej sume 750,- Eur pre Dávida Kulišiaka, bytom: Cintorínska 447/31, Detva za podmienky, že na tomto pozemku nebude možné realizovať žiadnu stavbu (napr. v prípade rekonštrukcie, prestavby, dostavby či zbúrania pôvodného domu), a to z dôvodu zachovania pôvodnej uličnej čiary."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1044,
+      "number": 48,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 3962 pre Ing. Mariana Bršela, bytom: M. R. Štefánika 910/47, Detva, pre Mariana Bršela, bytom: Obrancov mieru 883/21, Detva, pre Jozefa Bršela, bytom Hviezdoslavova 1214/38, Detva a pre Máriu Adamcovú, bytom: Piešť I. 304, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3962 o výmere 222 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ zapísaného na LV č. 3537, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 15,-€/m2, v celkovej sume 3.330,- Eur do podielového spoluvlastníctva Ing. Mariana Bršela, bytom: M. R. Štefánika 910/47, Detva, veľkosť prevádzaného spoluvlastníckeho podielu 1/2 v pomere k celku, Mariana Bršela, bytom: Obrancov mieru 883/21, Detva, veľkosť prevádzaného spoluvlastníckeho podielu 1/6 v pomere k celku, Jozefa Bršela, bytom: Hviezdoslavova 1214/38, Detva, veľkosť prevádzaného spoluvlastníckeho podielu 1/6 v pomere k celku a Márie Adamcovej, bytom: Piešť I. č. 304, Detva, veľkosť prevádzaného spoluvlastníckeho podielu 1/6 v pomere k celku za podmienky úhrady splatného nájomného za nájom predmetného pozemku, za roky 2015, 2016, 2017, 2018 a alikvotnej časti za rok 2019 s príslušenstvom, a to najneskôr do 30 kalendárnych dní od podpisu uznesenia mestského zastupiteľstva. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1045,
+      "number": 49,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 4988/13 a KN-C parc. č. 4989/1 pre COOP Jednota Krupina, spotrebné družstvo, Svätotrojičné nám. 22, Krupina ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 4988/13 o výmere 35 m2, druh pozemku: ostatná plocha, parcela registra „C“ a pozemku parc. č. 4989/1 o výmere 31 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ zapísaných na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 2.178,- Eur pre COOP Jednota Krupina, spotrebné družstvo, Svätotrojičné nám. 22, Krupina."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1046,
+      "number": 50,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": " Schválenie odpredaja pozemkov pre Punch Precision Detva, s.r.o.",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "v celkovej sume 36.375 EUR"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1047,
+      "number": 51,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": " Odpredaj pozemkov KN-C parc. č. 3933, KN-C parc. č. 4541, KN-C parc. č. 5468, KN-C parc. č. 5694, KN-C parc. č. 3826/2, KN-C parc. č. 3876 a KN-C parc. č. 5165/2 pre Stredoslovenskú distribučnú, a.s., Pri Rajčianke 2927/8, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľností z majetku mesta, a to pozemkov nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3933 o výmere 61 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 3537 Okresným úradom Detva, katastrálnym odborom, pozemku parc. č. 4541 o výmere 66 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 1 Okresným úradom Detva, katastrálnym odborom, pozemku parc. č. 5468 o výmere 68 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 4137 Okresným úradom Detva, katastrálnym odborom, pozemku parc. č. 5694 o výmere 69 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 3537 Okresným úradom Detva, katastrálnym odborom, pozemku parc. č. 3826/2 o výmere 27 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 4137 Okresným úradom Detva, katastrálnym odborom, pozemku parc. č. 3876 o výmere 59 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 4137 Okresným úradom Detva, katastrálnym odborom a pozemku parc. č. 5165/2 o výmere 10 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaný na LV č. 4137 Okresným úradom Detva, katastrálnym odborom v celosti v cene 22,95,-€/m2, v celkovej sume 8.262,- Eur pre Stredoslovenskú distribučnú, a.s., Pri Rajčianke 2927/8, Žilina. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemky, ktoré sa nachádzajú pod trafostanicami vo vlastníctve žiadateľa."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1048,
+      "number": 52,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj spoluvlastníckych podielov na pozemku pod bytovým domom Obrancov mieru, súp. č. 881",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. a) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov prevod spoluvlastníckych podielov na pozemku parc. č. 4665, druh pozemku: zastavaná plocha a nádvorie, o výmere 349 m2 parcela registra „C“, nachádzajúcom sa v okrese Detva, obec Detva, k. ú. Detva, zapísanom na LV č. 12744, ktorý je vedený Okresným úradom Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 12,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1049,
+      "number": 53,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj spoluvlastníckeho podielu na pozemku pod bytovým domom Obrancov mieru, súp. č. 883",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. a) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov prevod spoluvlastníckych podielov na pozemku parc. č. 4669, druh pozemku: zastavaná plocha a nádvorie, o výmere 355 m2 parcela registra „C“, nachádzajúcom sa v okrese Detva, obec Detva, k. ú. Detva, zapísanom na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 13,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1050,
+      "number": 54,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odpredaj spoluvlastníckeho podielu na pozemku pod bytovým domom Vimperská 932/1",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. a) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov prevod spoluvlastníckych podielov na pozemku parc. č. 3934, druh pozemku: zastavaná plocha a nádvorie, o výmere 542 m2 parcela registra „C“, nachádzajúcom sa v okrese Detva, obec Detva, k. ú. Detva, zapísanom na LV č. 12476, ktorý je vedený Okresným úradom Detva, katastrálnym odborom"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1051,
+      "number": 55,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 3782/3 a KN-C parc. č. 3782/4 od Stredoslovenskej distribučnej, a.s., Pri Rajčianke 2927/8, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3782/3 o výmere 187 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ a pozemku parc. č. 3782/4 o výmere 13 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaných na LV č. 295 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Stredoslovenskej distribučnej, a.s., Pri Rajčianke 2927/8, Žilina v cene 22,84,-Eur/m2, v celkovej cene 4.568,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1052,
+      "number": 56,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 1876/2 od Šárky Schovancovej, bytom: Děčínska 252, Žandov ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 1876/2 o výmere 895 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 12496 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Šárky Schovancovej, bytom: Děčínska 252, Žandov, ČR vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku v cene 10,-Eur/m2, v celkovej cene 4475,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1053,
+      "number": 57,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 11012, KN-E parc. č. 11013 a KN-E parc. č. 11014 od Emílie Daubnerovej, bytom: Iliašská cesta 6410/66, Banská Bystrica a od Emílie Bariakovej, bytom: Iliašská cesta 2469/48, Banská Bystrica ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 11012 o výmere 681 m2, druh pozemku: orná pôda, parcela registra „E“, pozemku parc. č. 11013 o výmere 341 m2, druh pozemku: orná pôda, parcela registra „E“, pozemku parc. č. 11014 o výmere 103 m2, druh pozemku: trvalý trávnatý porast, parcela registra „E“ evidovaných na LV č. 7908 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Emílie Daubnerovej, bytom: Iliašská cesta 6410/66, Banská Bystrica vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku a Emílie Bariakovej, bytom: Iliašská cesta 2469/48, Banská Bystrica vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku v cene 10,-Eur/m2 , v celkovej cene 11.250,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1054,
+      "number": 58,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemkov KN-E parc. č. 10874 od Heleny Mužíkovej, bytom: Záhonok 1685/23, Zvolen",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10874 o výmere 276 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 10008 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Heleny Mužíkovej, bytom: Záhonok 1685/23, Zvolen vo veľkosti spoluvlastníckeho podielu 7/48 v pomere k celku v cene 10,-Eur/m2, v celkovej cene 402,50,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1055,
+      "number": 59,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10945 a KN-E parc. č. 10946 od Vladimíra Rybára, bytom: Kukučínova 251/98, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10945 o výmere 230 m2, druh pozemku: trvalý trávnatý porast, parcela registra „E“ a pozemku parc. č. 10946 o výmere 466 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaných na LV č. 2631 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Vladimíra Rybára, bytom: Kukučínova 251/98, Detva v cene 10,-Eur/m2, v celkovej cene 6.960,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1056,
+      "number": 60,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 3850/4, KN-C parc. č. 3850/5, KN-C parc. č. 865/37, KN-C parc. č. 3864/3, KN-C parc. č. 3864/4, KN-C parc. č. 3867/3, KN-C parc. č. 3742/2, KN-C parc. č. 3866/5, KN-C parc. č. 3866/6, KN-C parc. č. 3866/7, KN-C parc. č. 3867/5, KN-C parc. č. 3867/4, KN-C parc. č. 3749/3, KN-C parc. č. 3748/4, KN-C parc. č. 3748/5, KN-C parc. č. 3740/13 od Ing. Jozefa Ďuricu, bytom: č. 615, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností, a to pozemkov nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3850/4 o výmere 97 m2, druh pozemku: trvalý trávnatý porast, parcela registra „C“, pozemku parc. č. 3850/5 o výmere 164 m2, druh pozemku: trvalý trávnatý porast, parcela registra „C“, pozemku parc. č. 865/37 o výmere 161 m2, druh pozemku: vodná plocha, parcela registra „C“, pozemku parc. č. 3864/3 o výmere 130 m2, druh pozemku: ostatná plocha, parcela registra „C“, pozemku parc. č. 3864/4 o výmere 31 m2, druh pozemku: ostatná plocha, parcela registra „C“, pozemku parc. č. 3867/3 o výmere 34 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3742/2 o výmere 58 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3866/5 o výmere 91 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3866/6 o výmere 85 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3866/7 o výmere 6 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3867/5 o výmere 86 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3867/4 o výmere 2 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3749/3 o výmere 478 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3748/4 o výmere 109 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, pozemku parc. č. 3748/5 o výmere 67 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ a pozemku parc. č. 3740/13 o výmere 23 m2, druh pozemku: trvalý trávnatý porast, parcela registra „C“ evidovaných na LV č. 11195 vedenom Okresným úradom Detva, 25 katastrálnym odborom vo výlučnom vlastníctve Ing. Jozefa Ďuricu, bytom: č. 615, Detva v cene 10,-Eur/m2, v celkovej cene 16.220,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1057,
+      "number": 61,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 3798/1 od Jána Stehlíka a Jozefa Stehlíka, obaja bytom: Lúčna štvrť 951/1, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3798/1 o výmere 11 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6706 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Jána Stehlíka, bytom: Lúčna štvrť 951/1, Detva vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku a Jozefa Stehlíka, bytom: Lúčna štvrť 951/1, Detva vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku v cene 10,-Eur/m2, v celkovej cene 110,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1058,
+      "number": 62,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10532 od Anny Sýčovej, bytom: Stožok č. 251 a od Anny Melichovej, bytom: Okružná 1431/61, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10532 o výmere 423 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 11115 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Anny Sýčovej, bytom: č. 251, Stožok vo veľkosti spoluvlastníckeho podielu 1/6 v pomere k celku a Anny Melichovej, bytom: Okružná 1431/61, Detva vo veľkosti spoluvlastníckeho podielu 1/6 v pomere k celku v cene 10,-Eur/m2, v celkovej cene 1.410,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1059,
+      "number": 63,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10533/2 od Anny Petrincovej, bytom: Ostravská 1402/25, Detva, od Anny Sýčovej, bytom: Stožok č. 251 a od Anny Melichovej, bytom: Okružná 1431/61, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10533/2 o výmere 167 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 11116 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Anny Petrincovej, bytom: Ostravská 1402/25, Detva vo veľkosti spoluvlastníckeho podielu ½ v pomere k celku, Anny Sýčovej, bytom: č. 251, Stožok vo veľkosti spoluvlastníckeho podielu 1/12 v pomere k celku a Anny Melichovej, bytom: Okružná 1431/61, Detva vo veľkosti spoluvlastníckeho podielu 1/12 v pomere k celku v cene 10,-Eur/m2, v celkovej cene 1.113,34,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1060,
+      "number": 64,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10541/1, KN-E parc. č. 10542/1 a KN-E parc. č. 10525/2 od Matúša Melicha, bytom: č. 172, Detva, od Jozefa Melicha, bytom: A. Hlinku 905/1, Detva, od Mikuláša Melicha, bytom: Okružná 1120/19, Detva, od Miroslava Melicha, bytom: Okružná 1357/23, Detva, od Márie Melichovej, bytom: Okružná 1432/62, Detva a od Jozefa Melicha, bytom: Okružná 1433/63, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10541/1 o výmere 24 m2, druh pozemku: orná pôda, parcela registra „E“, pozemku parc. č. 10542/1 o výmere 28 m2, druh pozemku: orná pôda, parcela registra „E“, a pozemku parc. č. 10525/2 o výmere 665 m2, druh pozemku: trvalý trávnatý porast, parcela registra „E“ evidovaných na LV č. 11113 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 4.780,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1061,
+      "number": 65,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 10490/2 Moniky Ivanovej, bytom: Beskydská 4500/18, Banská Bystrica, od Mikuláša Melicha, bytom: Okružná 1120/19, Detva, od Miroslava Melicha, bytom: Okružná 1357/23, Detva, od Márie Melichovej, bytom: Okružná 1432/62, Detva, od Jozefa Melicha, bytom: Okružná 1433/63, Detva a od Milana Hukela, bytom: J. Kráľa 2223/36, Zvolen",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10490/2 o výmere 83 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 5229 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 711,42,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1062,
+      "number": 66,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10491/1 od Moniky Ivanovej, bytom: Beskydská 4500/18, Banská Bystrici, Márie Melichovej, bytom: Okružná 1432/62, Detva a od Jozefa Melicha, bytom: Okružná 1433/63, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10491/1 o výmere 36 m2, druh pozemku: trvalý trávny porast, parcela registra „E“ evidovaného na LV č. 11107 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 205,71,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1063,
+      "number": 67,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10542/3 od Matúša Melicha, bytom: č. 1172, Detva, od Jozefa Melicha, bytom: A. Hlinku 905/14, Detva, od Mikuláša Melicha, bytom: Okružná 1120/19, Detva, od Miroslava Melicha, bytom: Okružná 1357/23, Detva, od Márie Melichovej, bytom: Okružná 1432/62, Detva a od Jozefa Melicha, bytom: Okružná 1433/63, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10542/3 o výmere 48 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 10656 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 480,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1064,
+      "number": 68,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10541/2 a KN-E parc. č. 10542/2 od Ing. Milana Murína, bytom: Hviezdoslavova 1398/25, Fiľakovo, od Evy Cabanovej, bytom: Okružná 1441/33, Detva a od Jozefa Goliana, bytom: Štúrova 868/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10541/2 o výmere 10 m2, druh pozemku: orná pôda, parcela registra „E“ a pozemku parc. č. 10542/2 o výmere 37 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaných na LV č. 11104 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 313,33,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1065,
+      "number": 69,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10543 od Štefana Bartka, bytom: č. 598, Detva, od Matúša Šufliarskeho, bytom: Kostolná 141, Detva a od Petra Šufliarskeho, bytom: Kostolná 41, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10543 o výmere 768 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 12695 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 5.120,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1066,
+      "number": 70,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10763 od Anny Murínovej, bytom: Štúrova 719/18, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10763 o výmere 34 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 11169 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Anny Murínovej, bytom: Štúrova 719/18, Detva v cene 10,-Eur/m2, v celkovej cene 340,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1067,
+      "number": 71,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10744/102 od Jána Fekiača, bytom: Štúrova 802/42, Detva, od Štefana Fekiača, bytom: Krné 92, Detva, od Stanislava Fekiača, bytom: Strojárska 1136/10, Detva, od Amálie Skučkovej, bytom: Mierová 155/222, Tornaľa, od Anny Fekiačovej, bytom: Krivánska 6144/8, Banská Bystrica, od Anny Fekiačovej, bytom: Školská 1230/11, Tornaľa, od Jána Fekiača, bytom: Mierová 125/280, Tornaľa, Anny Drahoňovej, bytom: č. 141, Sielnica, od Eleny Chamulovej, bytom: Krné 118, Detva, od Milana Fekiača, bytom: Stiborova 17, Olomouc, od Anny Ľalíkovej, bytom: Lúčna štvrť 1262/45, Detva a od Mikuláša Chamulu, bytom: Orlova 151/19, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10744/102 o výmere 56 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „E“ evidovaného na LV č. 11157 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 301,75,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1068,
+      "number": 72,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10755/9 a KN-E parc. č. 10755/109 od Amálie Skučkovej, bytom: Mierová 155/222, Tornaľa, od Anny Fekiačovej, bytom: Krivánska 6144/8, Banská Bystrica, od Anny Fekiačovej, bytom: Školská 1230/11, Tornaľa, od Jána Fekiača, bytom: Mierová 125/280, Tornaľa a od Anny Ľalíkovej, bytom: Lúčna štvrť 1262/45, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "odkúpenie nehnuteľností nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10755/9 o výmere 378 m2, druh pozemku: orná pôda, parcela registra „E“ a pozemku parc. č. 10755/109 o výmere 1742 m2, druh pozemku: orná pôda, parcela registra „E“ evidovaných na LV č. 11165 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 10 600,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 13,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1069,
+      "number": 73,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zámena pozemkov medzi mestom Detva a Rímskokatolíckou cirkvou, farnosťou Detva, Partizánska 64/69, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov zámenu nehnuteľností vo vlastníctve Rímskokatolíckej cirkvi, farnosti Detva, IČO: 31938779, Partizánska 64/69, 962 12 Detva nachádzajúcich sa v okrese Detva, obec Detva, k. ú. Detva. Evidovaných na LV č. 5790 vedenom Okresným úradom Detva, katastrálnym odborom za nehnuteľnosti vo vlastníctve mesta Detva so sídlom: J. G. Tajovského 1369/7, Detva, IČO: 00319805 nachádzajúce sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemok parc. č. 4464/32 o výmere 17647 m2, druh pozemku: trvalý trávnatý porast, parcela registra „C“ a pozemok parc. č. 4464/33 o výmere 3390 m2, druh pozemku: trvalý trávnatý porast, parcela registra „C“ evidované na LV č. 1 vedenom Okresným úradom Detva, katastrálnym odborom. Prípadom hodným osobitného zreteľa je skutočnosť, že pozemky vo vlastníctve Rímskokatolíckej cirkvi, farnosti Detva dlhodobo užíva mesto Detva pre svoj"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 13,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1070,
+      "number": 74,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena pre TAM Properties DT a.s., so sídlom: Hodžovo námestie 3, Bratislava",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 199 m2. Odplata za zriadenie vecného bremena je určená v zmysle Zásad hospodárenia s majetkom mesta Detva vo výške 985,05 € "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1071,
+      "number": 75,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena pre Stredoslovenskú distribučnú, a.s., so sídlom: Pri Rajčianke 2927/8, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 44 m2. Odplata za zriadenie vecného bremena je určená v zmysle Zásad hospodárenia s majetkom mesta Detva vo výške 217,80 Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1072,
+      "number": 76,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 56 m2. Vecné bremeno sa zriaďuje ako bezodplatné. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1073,
+      "number": 77,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": " Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 372 m2. Odplata za zriadenie vecného bremena je určená v zmysle Zásad hospodárenia s majetkom mesta Detva vo výške 837 Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1074,
+      "number": 78,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 20 m2. Odplata za zriadenie vecného bremena je určená v zmysle Prílohy č. 30 interného Pokynu generálnej riaditeľky č. 5/2018 zo dňa 28.09.2018 (interný dokument SPF) vo výške 50,Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1075,
+      "number": 79,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 101 m2. Vecné bremeno sa zriaďuje ako bezodplatné. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1076,
+      "number": 80,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 27 m2. Odplata za zriadenie vecného bremena je určená v zmysle Prílohy č. 30 interného Pokynu generálnej riaditeľky č. 5/2018 zo dňa 28.09.2018 (interný dokument SPF) vo výške 50,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1077,
+      "number": 81,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 7 m2. Vecné bremeno sa zriaďuje ako bezodplatné. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1078,
+      "number": 82,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 299 m2. Odplata za zriadenie vecného bremena je určená v zmysle Zásad hospodárenia s majetkom mesta Detva vo výške 699,75 Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1079,
+      "number": 83,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Plocha zodpovedajúca vecnému bremenu je 301 m2. Odplata za zriadenie vecného bremena je určená v zmysle Zásad hospodárenia s majetkom mesta Detva vo výške 1.489,95 Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1080,
+      "number": 84,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "VZN o prevádzkovom poriadku pohrebiska mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "VZN mesta č. 2/2019, ktorým sa mení a dopĺňa VZN č. 14/2015 o prevádzkovom poriadku pohrebiska mesta Detva v zmysle priloženej prílohy, a to:",
+            "- v článku 10 bod 3c /Stavby na cintoríne/",
+            "- v prílohe 1 poriadku /Cenník pohrebných prác a služieb/ "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1081,
+      "number": 85,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Schválenie nájmu pre Mestský futbalový klub Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom časti nebytových priestorov (podľa priloženej Prílohy č. 1 – grafická situácia) nachádzajúcich sa v budove letného štadióna so súpisným č. 913 na ul. M. R. Štefánika 57 v Detve, druh stavby: iná budova, popis stavby: budova – letný štadión, postavenej na pozemku parcela č. 3801 o výmere 653 m², druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, evidovanej na liste vlastníctva č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom na dobu neurčitú, a to od 01.05.2019 za nájomné vo výške 1,00 €/rok pre: Mestský futbalový klub Detva, M. R. Štefánika 57/20, 962 12 Detva, IČO: 42394554"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1082,
+      "number": 86,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Nájom plynárenského zariadenia pre SPP - distribúcia, a.s., sídlo: Mlynské Nivy 44/b, Bratislava",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom plynárenského zariadenia, a to STL plynovodu o dĺžke 494,54 m a STL pripojovacieho plynovodu o dĺžke 6,5 m podľa technickej špecifikácie uvedenej v zápise o odovzdaní a prevzatí stavby pre priemyselný park Detva - Trstená na dobu neurčitú za nájomné vo výške 1,00 Euro/rok pre: SPP - distribúcia, a.s., IČO: 35 910 739, so sídlom: Mlynské Nivy 44/b, 825 11 Bratislava. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1083,
+      "number": 87,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Schválenie nájmu zvonice pre Úrad pre Slovákov žijúcich v zahraničí, Palisády 31, 817 80 Bratislava",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom budovy so súp č. 3445, druh stavby: budova pre kultúru a na verejnú zábavu (múzeum, knižnica a galéria), popis stavby: zvonica, postavenej na pozemku parc. č. 20/11 o výmere 38 m2, druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“, k. ú. Detva evidovanej na liste vlastníctva č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom na dobu určitú od 01.04.2019 do 31.12.2026 za nájomné v celkovej výške 11.002,-€ pre: Úrad pre Slovákov žijúcich v zahraničí, Palisády 31, 817 80 Bratislava"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1084,
+      "number": 88,
+      "type": "ine",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1043],
+      "title": "Schválenie zmluvy o prevádzkovaní infraštruktúrneho majetku",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "uzavretie zmluvy o prevádzkovaní infraštruktúrneho majetku „Priemyselný park - Detva Trstená, Inžinierske siete“ medzi mestom Detva a Stredoslovenkou vodárenskou prevádzkovou spoločnosťou, a.s., Partizánska cesta 5, Banská Bystrica, IČO: 36 644 030, ktorej predmetom je úprava vzájomných práv a povinností pri prevádzkovaní infraštruktúrneho majetku - verejnej splaškovej kanalizácie v rámci stavby priemyselný park - Detva Trstená."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1085,
+      "number": 89,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1016],
+      "title": "Návrh na odvolanie a návrh na voľbu zástupcov Mesta do orgánov obchodných spoločností s majetkovou účasťou Mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "odvoláva",
+          "descriptions": [
+            "zástupcov Mesta Detva z orgánov obchodných spoločností s majetkovou účasťou Mesta Detva nasledovne: 1. v obchodnej spoločnosti Technické služby Detva s.r.o., so sídlom Bottova 1272, 962 12 Detva, IČO: 36 057 029, vedenej v Obchodnom registri Okresného súdu v Banskej Bystrici, oddiel: Sro, Vložka č. 8015/S",
+            "členov dozornej rady",
+            "Mgr. Janu Kuzárovú, bytom Námestie mieru 1707/12, 962 12 Detva",
+            "Jozefa Výbošťoka, bytom Štúrova 1612/86, 962 12 Detva",
+            "Imricha Sekereša, bytom Piešť II. 232, 962 12 Detva",
+            "v obchodnej spoločnosti BYTES, s.r.o., so sídlom Bottova 1, 962 12 Detva, IČO: 31 596 908, vedenej v Obchodnom registri Okresného súdu v Banskej Bystrici, Oddiel Sro, Vložka č. 1577/S",
+            "členov dozornej rady",
+            "Ing. Mojmíra Chalupského, bytom Martina Benku 1729/5, 962 12 Detva",
+            "Júliu Baculíkovú, bytom M.R.Štefánika 909/44, 962 12 Detva",
+            "Ing. Ladislava Bódiho, bytom A. Bernoláka 931/12, 962 12 Detva "
+          ]
+        }, {
+          "title": "schvaľuje",
+          "descriptions": [
+            "zástupcov Mesta Detva do orgánov obchodných spoločností s majetkovou účasťou Mesta Detva na najbližších valných zhromaždeniach nasledovne: 1. v obchodnej spoločnosti Technické služby Detva s.r.o., so sídlom Bottova 1272, 962 12 Detva, IČO: 36 057 029, vedenej v Obchodnom registri Okresného súdu v Banskej Bystrici, oddiel: Sro, Vložka č. 8015/S",
+            "členov dozornej rady",
+            "Mgr. Janu Kuzárovú, bytom Námestie mieru 1707/12, 962 12 Detva ",
+            "Gabrielu Melichovú, bytom Skliarovo 239, 962 12 Detva",
+            "PhDr. Vladimíra Dadu, bytom Ostravská 1001/1, 962 12 Detva",
+            "v obchodnej spoločnosti BYTES, s.r.o., so sídlom Bottova 1, 962 12 Detva, IČO: 31 596 908, vedenej v Obchodnom registri Okresného súdu v Banskej Bystrici, Oddiel Sro, Vložka č. 1577/S",
+            "členov dozornej rady",
+            "Ing. Mojmíra Chalupského, bytom Martina Benku 1729/5, 962 12 Detva",
+            "Pavla Goliana, bytom M.R.Štefánika 910/51, 962 12 Detva",
+            "Ing. Štefana Baláža, bytom Korytárky 192, 962 04 Kriváň"
+          ]
+        }, {
+          "title": "žiada",
+          "descriptions": [
+            "primátora mesta Detva, aby zabezpečil zaslanie platných uznesení dotknutým obchodným spoločnostiam s majetkovou účasťou Mesta Detva, za účelom ich realizácie v zmysle Obchodného zákonníka, stanov prípadne v zmysle zakladateľských listín a spoločenských zmlúv dotknutých právnických osôb"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1086,
+      "number": 90,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1046],
+      "title": "Voľba člena Komisie sociálnej, bytovej a marginalizovaných komunít, odvolanie a voľba zapisovateľky Komisie na ochranu verejného záujmu pri výkone funkcií funkcionárov mesta",
+      "description": "",
+      "results": [
+        {
+          "title": "volí",
+          "descriptions": [
+            "za člena komisie sociálnej, bytovej a marginalizovaných komunít - neposlanca Jána Michálika, bytom Jesenského 26, 962 12 Detva"
+          ]
+        }, {
+          "title": "odvoláva",
+          "descriptions": [
+            "zapisovateľku komisie na ochranu verejného záujmu pri výkone funkcií funkcionárov mesta Ing. Martinu Fašangovú, bytom Nová Ves 689/78, 962 12 Detva"
+          ]
+        }, {
+          "title": "volí",
+          "descriptions": [
+            "za zapisovateľku komisie na ochranu verejného záujmu pri výkone funkcií funkcionárov mesta Margitu Václavíkovú, bytom A. Bernoláka 931/13, 962 12 Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1087,
+      "number": 91,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1045],
+      "title": "Správa Hlavného kontrolóra o kontrolnej činnosti za rok 2018",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "správu Hlavného kontrolóra Mesta Detva o kontrolnej činnosti za rok 2018."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1088,
+      "number": 92,
+      "type": "plan",
+      "councilId": 2,
+      "meetingId": 103,
+      "creatorIds": [1042],
+      "title": "Plán práce MsZ na I. polrok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "plán práce Mestského zastupiteľstva v Detve na I. polrok 2019"
+          ]
+        }, {
+          "title": "odporúča",
+          "descriptions": [
+            "prednostovi MsÚ, vedúcemu ekonomického oddelenia, vedúcej správy majetku a právničke v spolupráci s predsedom komisie finančnej, podnikateľskej a správy majetku vypracovať nové Zásady hospodárenia mesta a predložiť ich na prerokovanie a schválenie do MsZ."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1142761"
+    },
+    {
+      "id": 1089,
+      "number": 97,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 104,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtu mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "Bežné výdavky + 4 500 €",
+            "Kapitálové výdavky – 4 500€"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+    },
+    {
+      "id": 1090,
+      "number": 98,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 104,
+      "creatorIds": [1011],
+      "title": "Vyhlásenie voľby hlavného kontrolóra Mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "vzdanie sa funkcie hlavného kontrolóra Mesta Detva Ing. Rastislava Gondu ku dňu 30.04.2019."
+          ]
+        }, {
+          "title": "vyhlasuje",
+          "descriptions": [
+            "Podľa § 18a ods. 2 a 4 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov deň konania voľby hlavného kontrolóra Mesta Detva na 20.06.2019 na 5. zasadnutí Mestského zastupiteľstva v Detve"
+          ]
+        }, {
+          "title": "ustanovuje",
+          "descriptions": [
+            "Podľa § 18a ods. 3 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov (ďalej len „zákon“) podrobnosti o spôsobe a vykonaní voľby hlavného kontrolóra Mesta Detva"
+          ]
+        }, {
+          "title": "volí",
+          "descriptions": [
+            "komisiu na posúdenie náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva a riadenie voľby hlavného kontrolóra Mesta Detva v zložení",
+            "Mgr. Slavomír Ciglan",
+            "Pavel Golian",
+            "Ing. Vladimír Kučera"
+          ]
+        }, {
+          "title": "ukladá",
+          "descriptions": [
+            "komisii na posúdenie náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva, aby najmenej 7 dní pred konaním voľby hlavného kontrolóra Mesta Detva otvorili a vyhodnotili náležitosti písomných prihlášok kandidátov a predložili Mestskému zastupiteľstvu v Detve po posúdení náležitostí prihlášok kandidátov na funkciu hlavného kontrolóra Mesta Detva v súčinnosti s Mestským úradom v Detve písomný materiál za účelom vykonania voľby hlavného kontrolóra Mesta Detva. Kandidáti na funkciu hlavného kontrolóra Mesta Detva sa s krátkym verbálnym prejavom predstavia na zasadnutí mestského zastupiteľstva v Detve v deň konania voľby."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+    },
+    {
+      "id": 1091,
+      "number": 99,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 104,
+      "creatorIds": null,
+      "title": "Informácia o stave miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I.",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "informáciu o stave miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I"
+          ]
+        }, {
+          "title": "odporúča",
+          "descriptions": [
+            "primátorovi mesta prioritne zaradiť do plánu údržby miestnych komunikácií, opravu miestnej komunikácie „Pod pálenicou“ v miestnej časti Piešť I."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 17,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1145046"
+    },
+    {
+      "id": 1092,
+      "number": 102,
+      "type": "pravidelne",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1042],
+      "title": "Kontrola plnenia zročných uznesení",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "vyhodnotenie plnenia zročných uznesení MsZ, ku dňu 20.06.2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1093,
+      "number": 103,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1044],
+      "title": "Schválenie Územného plánu mesta Detva – Zmeny a doplnky č. 4",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "Správu o postupe obstarávania územného plánu mesta Detva, Zmeny a doplnky č.4 ", "Stanovisko okresného úradu v Banskej Bystrici č: OU-BB-OVBP1-2019/021062- 003 zo dňa 19.06.2019, o preskúmaní súladu návrhu Územného plánu mesta Detva – Zmeny a doplnky č. 4 so zákonnými postupmi, v zmysle § 25 ods. 4 zákona č. 50/76 Zb. v platnom znení (stavebný zákon)"
+          ]
+        }, {
+          "title": "schvaľuje",
+          "descriptions": [
+            "podľa § 4 ods. 3 písm. j/ zákona SNR č. 369/1990 Zb. o obecnom zriadení v platnom znení a § 26 odst. 3 stavebného zákona ",
+            "Územný plán mesta Detva – Zmeny a doplnky č. 4 v rozsahu riešeného katastrálneho územia a obsahu územného plánu mesta",
+            "Všeobecne záväzné nariadenie č. 3/2019 o záväzných častiach územného plánu mesta Detva "
+          ]
+        }, {
+          "title": "upovedomuje",
+          "descriptions": [
+            "Územný plán mesta Detva – Zmeny a doplnky č. 4 je uložený:",
+            "na mestskom úrade - ako orgáne územného plánovania ",
+            "na stavebnom úrade",
+            "na Okresnom úrade v Banskej Bystrici, odbor výstavby a bytovej politiky"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1094,
+      "number": 104,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtu mesta Detva na rok 2019 ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "aktualizáciu rozpočtu mesta Detva na rok 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1095,
+      "number": 105,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1039],
+      "title": "Aktuálny stav v zabezpečovaní investičných akcií mesta Detva v roku 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [
+            "informáciu o stave v zabezpečovaní investičných akcií mesta k 15. 6. 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1096,
+      "number": 106,
+      "type": "ine",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1042],
+      "title": "Zaradenie elokovaného pracoviska a zriadenie nového odboru ZUŠ Svetozára Stračinu v Detve",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "zriadenie elokovaného pracoviska pre ZUŠ Svetozára Stračinu so sídlom Štúrova 12 Detva, na adresu Záhradná ulica 12, 962 12 Detva a jeho zaradenie do siete škôl a školských zariadení."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1097,
+      "number": 107,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1042],
+      "title": "Všeobecne záväzné nariadenie mesta Detva č.../2019, ktorým sa mení a dopĺňa VZN mesta Detva č. 7/2015 v znení VZN č. 4/2016 o výške príspevku na čiastočnú úhradu nákladov v školách a školských zariadeniach",
+      "description": "",
+      "results": [
+        {
+          "title": "sa uznáša",
+          "descriptions": [
+            "na novelizácii Všeobecne záväzného nariadenia č. 4/2019, ktorým sa mení a dopĺňa VZN mesta Detva č. 7/2015 v znení VZN č. 4/2016 o výške príspevku na čiastočnú úhradu nákladov v školách a školských zariadeniach s pripomienkou",
+            "1.) Zaradiť školské jedálne do druhého finančného pásma. Upraviť v čl. 6 bod 1",
+            "a) sumou 25 € za dieťa do 3 rokov veku",
+            "b) sumou 15 € za dieťa nad 3 roky veku s trvalým bydliskom v meste Detva",
+            "c) sumou 25 € za dieťa nad 3 roky veku s trvalým bydliskom mimo mesta Detva",
+            "d) sumou 15 € za všetky deti so zdravotným znevýhodnením",
+            "2.) Za pobyt dieťaťa materskej škole prispieva zákonný zástupca dieťaťa na čiastočnú úhradu výdavkov materskej školy, za každé ďalšie dieťa rodiča sumou mesačne 15,- €",
+            "3.) Príspevok podľa bodu 1písmena b) c) d) odseku a bodu 2 platí zákonný zástupca dieťaťa od prvého dňa v mesiaci nesledujúceho po mesiaci, v ktorom dieťa dovŕšilo 3 roky veku."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1098,
+      "number": 108,
+      "type": "projekt",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1042],
+      "title": "Schválenie spolufinancovania projektu „ Zdravie na tanieri „ pre Základnú školu, Obrancov mieru 884/23, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "spolufinancovanie projektu „Zdravie na tanieri“ pre Základnú školu, Obrancov mieru 884/23, 962 12 Detva vo výške 750,-€"
+          ]
+        }
+      ],
+      "projects": [
+        {
+          "title": "'Zdravie na tanieri' pre Základnú školu, Obrancov mieru 884/23",
+          "value": 750
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1099,
+      "number": 109,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-E parc. č. 26076/20 pre Jána Ostrihoňa s manželkou Annou Ostrihoňovou, obaja bytom: Nám. SNP 1596/63, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 26076/20 o výmere 43 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „E“ zapísaný na LV č. 10022, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 10,- €/m2 , v celkovej sume 430,- Eur do bezpodielového spoluvlastníctva Jána Ostrihoňa s manželkou Annou Ostrihoňovou, obaja bytom: Nám. SNP č. 1596/63, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok, ktorý tvorí súčasť uzatvoreného a oploteného dvora žiadateľov. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1100,
+      "number": 110,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 3708/2 pre Ing. Ivanu Golianovú a Radovana Ivaniča, obaja bytom: Dolinky 1335/5, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [
+            "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 3708/2 o výmere 45 m2 , druh pozemku: ostatná plocha, parcela registra „C“ zapísaný na LV č. 10022, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 10,-€/m2 , v celkovej sume 450,- Eur do podielového spoluvlastníctva Ing. Ivany Golianovej, bytom: Dolinky 1335/5, Detva, veľkosť prevádzaného spoluvlastníckeho podielu ½ v pomere k celku a Radovana Ivaniča, bytom: Dolinky 1335/5, Detva, veľkosť prevádzaného spoluvlastníckeho podielu ½ v pomere k celku. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok, ktorý tvorí súčasť uzatvoreného a oploteného dvora žiadateľov. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1101,
+      "number": 111,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odpredaj pozemku KN-C parc. č. 4037 pre Marianu Kuricovú, bytom: Stožok č. 266",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": ["na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 4037 o výmere 23 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 759,- Eur pre Marianu Kuricovú, bytom: Stožok č. 266. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok, na ktorom sa nachádza garáž vo vlastníctve žiadateľky. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1102,
+      "number": 112,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 6187/5 pre Ing. Katarínu Augustini, bytom: E. M. Šoltésovej 1077/2, Detva a pre Mgr. Ivanu Uhrínovú, bytom: Novosady 924/15, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 6187/5 o výmere 24 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ zapísaný na LV č. 11974, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,- €/m2 , v celkovej sume 792,- Eur do podielového spoluvlastníctva Ing. Kataríny Augustini, bytom: E. M. Šoltésovej 1077/2, Detva, veľkosť prevádzaného spoluvlastníckeho podielu ½ v pomere k celku a Mgr. Ivany Uhrínovej, bytom: Novosady 924/15, Detva, veľkosť prevádzaného spoluvlastníckeho podielu ½ v pomere k celku. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok, ktorý je určený na výstavbu garáže v rámci bloku radových dvojpodlažných garáží v lokalite Novosady a ktorý sa uvoľnil po vyhlásení výsledkov verejnej obchodnej súťaže, ktorou boli jednotlivé pozemky v danej lokalite odpredávané."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1103,
+      "number": 113,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2936/5 pre Jána Môťovského s manželkou Annou Môťovskou, obaja bytom: Jilemnického 1035/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 2936/5 o výmere 21 m2 , druh pozemku: trvalý trávnatý porast, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 693,- Eur do bezpodielového spoluvlastníctva Jána Môťovského s manželkou Annou Môťovskou, bytom: Jilemnického 1035/7, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok určený pre výstavbu garáže vo dvore bytového domu na ul. Jilemnického v Detve. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1104,
+      "number": 114,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2936/6 pre Jozefa Dianišku s manželkou Gabrielou Dianiškovou, obaja bytom: Jilemnického 1035/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 2936/6 o výmere 21 m2 , druh pozemku: trvalý trávnatý porast, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 693,- Eur do bezpodielového spoluvlastníctva Jozefa Dianišku s manželkou Gabrielou Dianiškovou, bytom: Jilemnického 1035/7, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok určený pre výstavbu garáže vo dvore bytového domu na ul. Jilemnického v Detve."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1105,
+      "number": 115,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2936/7 pre Ing. Róberta Dianišku, bytom: Jilemnického 1035/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 2936/7 o výmere 21 m2 , druh pozemku: trvalý trávnatý porast, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 693,- Eur pre Ing. Róberta Dianišku, bytom: Jilemnického 1035/7, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok určený pre výstavbu garáže vo dvore bytového domu na ul. Jilemnického v Detve"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1106,
+      "number": 116,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2936/8 pre Ondreja Teľúcha, bytom: Piešť I. č. 3474, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 2936/8 o výmere 21 m2 , druh pozemku: trvalý trávnatý porast, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 693,- Eur pre Ondreja Teľúcha, bytom: Piešť I. č. 3474, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok určený pre výstavbu garáže vo dvore bytového domu na ul. Jilemnického v Detve. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1107,
+      "number": 117,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odpredaj pozemku KN-C parc. č. 2936/11 pre Helenu Hanesovú, bytom: Jilemnického 1035/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 8 písm. e) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov odpredaj nehnuteľnosti z majetku mesta, a to pozemku nachádzajúceho sa v okrese Detva, obec Detva, k. ú. Detva - pozemok parc. č. 2936/11 o výmere 21 m2 , druh pozemku: trvalý trávnatý porast, parcela registra „C“ zapísaný na LV č. 1, ktorý je vedený Okresným úradom Detva, katastrálnym odborom v celosti v cene 33,-€/m2 , v celkovej sume 693,- Eur pre Helenu Hanesovú, bytom: Jilemnického 1035/7, Detva. Prípadom hodným osobitného zreteľa je skutočnosť, že sa jedná o pozemok určený pre výstavbu garáže vo dvore bytového domu na ul. Jilemnického v Detve. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1108,
+      "number": 118,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 3429 od Jána Malatinca, bytom: Fučíkova 1226/10, Detva, od Martina Malatinca, bytom: Fučíkova 1226/10, Detva, od Jozefa Malatinca, bytom: č. 1571, Hriňová a od Jána Lakotu, bytom: Novosady 921/10, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3429 o výmere 2179 m2 , druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 6969 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve: Celková kúpna cena predstavuje 17.431,97,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1109,
+      "number": 119,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 3430 od Miroslava Ďuricu, bytom: Záhradná 750/15, Pukanec a od Aleny Kašiarovej, bytom: Kalinčiakovo 234, Levice",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 3430 o výmere 663 m2 , druh pozemku: orná pôda, parcela registra „E“ evidovaného na LV č. 9583 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 5.304,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1110,
+      "number": 120,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10506/25 a KN-C parc. č. 10506/39 od Marty Luptákovej, bytom: č. 541, Vígľaš a od  Emílie Babicovej, bytom: Krpelná 943/30, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10506/25 o výmere 19 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ a pozemku parc. č. 10506/39 o výmere 184 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaných na LV č. 12516 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve. Celková kúpna cena predstavuje 406,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1111,
+      "number": 121,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8004/4 od Mariána Fekiača, bytom: Novozámocká 1443/30, Zvolen",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 8004/4 o výmere 5 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 9857 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Mariána Fekiača, bytom: Novozámocká 1443/30, Zvolen za celkovú kúpnu cenu 2,-Eurá. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1112,
+      "number": 122,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8004/5 od Mariána Fekiača, bytom: Krné č. 3266, Detva a od Adriany Fekiačovej. bytom: Krné č. 3266, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 8004/5 o výmere 1 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 12625 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Mariána Fekiača, bytom: Krné č. 3266, Detva, veľkosť spoluvlastníckeho podielu ½ v pomere k celku a Adriany Fekiačovej, bytom: Krné č. 3266, Detva, veľkosť spoluvlastníckeho podielu ½ v pomere k celku za celkovú kúpnu cenu 2,-Eurá. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1113,
+      "number": 123,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8006/2 od Vojtecha Šufliarskeho a Anny Šufliarskej, obaja bytom: A. Hlinku 10, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to spoluvlastníckeho podielu vo veľkosti ½ v pomere k celku na pozemku parc. č. 8006/2 o výmere 29 m2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6501 vedenom Okresným úradom Detva, katastrálnym odborom v bezpodielovom spoluvlastníctve Vojtecha Šufliarskeho a Anny Šufliarskej, obaja bytom: A. Hlinku 10, Detva, za celkovú kúpnu cenu 2,-Eurá. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1114,
+      "number": 124,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8006/2 od Emílie Zdechovanovej, bytom: Krné č. 70, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 8006/2 o výmere 29 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6501 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Emílie Zdechovanovej, bytom: Krné č. 70, Detva, veľkosť spoluvlastníckeho podielu ½ v pomere k celku za celkovú kúpnu cenu 2,-Eurá"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1115,
+      "number": 125,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8008/7 od Vojtecha Šufliarskeho a Anny Šufliarskej, obaja bytom: A. Hlinku 10, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to spoluvlastníckeho podielu vo veľkosti 1/6 v pomere k celku na pozemku parc. č. 8008/7 o výmere 196 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 1886 vedenom Okresným úradom Detva, katastrálnym odborom v bezpodielovom spoluvlastníctve Vojtecha Šufliarskeho a Anny Šufliarskej, obaja bytom: A. Hlinku 10, Detva, za celkovú kúpnu cenu 2,-Eurá"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1116,
+      "number": 126,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 8008/7 od Mariána Fekiača, bytom: Novozámocká 1443/30, Zvolen a od Emílie Zdechovanovej, bytom: Krné 70, Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 8008/7 o výmere 196 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 1886 vedenom Okresným úradom Detva, katastrálnym odborom v podielovom spoluvlastníctve Mariána Fekiača, bytom: Novozámocká 1443/30, Zvolen, veľkosť spoluvlastníckeho podielu ½ v pomere k celku a Emílie Zdechovanovej, bytom: Krné č. 70, Detva, veľkosť spoluvlastníckeho podielu 1/6 v pomere k celku za celkovú kúpnu cenu 2,-Eurá. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1117,
+      "number": 127,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10536/6, KN-C parc. č. 10536/7, KN-C parc. č. 10536/9, KN-C parc. č. 10536/12, KN-C parc. č. 10536/13, KN-C parc. č. 10536/14, KN-C parc. č. 10400/9, KN-C parc. č. 10400/10, KN-C parc. č. 10400/11, KN- C parc. č. 10457/52 a KN-C parc. č. 10457/56 od Petra Krokoša, bytom: Povstaleckých letcov 3014/58,Zvolen – Zolná, od Anny Chamulovej, bytom: Kriváň č. 6, od Viery Purdekovej, bytom: Lúčna štvrť 1455/61, Detva a od Jany Fekiačovej, bytom: Námestie mieru 1395/29, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "Celková kúpna cena predstavuje 3.823,99,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1118,
+      "number": 128,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10536/8 od Marianny Purdekovej, bytom: Piešť I. č. 179, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10536/8 o výmere 42 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 12061 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Mgr. Marianny Purdekovej, bytom: Piešť I. č. 179, Detva v cene 2,-Eurá/m2 , v celkovej cene 84,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1119,
+      "number": 129,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10536/10 od Ľuboslava Purdeka, bytom: Skliarovo 3393, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10536/10 o výmere 5 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 5366 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Ľuboslava Purdeka, bytom: Skliarovo 3393, Detva v cene 2,-Eurá/m2 , v celkovej cene 10,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1120,
+      "number": 130,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10536/11 od Milana Purdeka, bytom: Janka Kráľa 1194/14, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10536/11 o výmere 5 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 5367 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Milana Purdeka, bytom: Janka Kráľa 1194/14, Detva v cene 2,-Eurá/m2 , v celkovej cene 10,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1121,
+      "number": 131,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10515/25, KN-C parc. č. 10536/15, KN-C parc. č. 10536/16 od Jozefa Purdeka, bytom: Piešť I. č. 179, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Jozefa Purdeka, bytom: Piešť I. č. 179, Detva v cene 2,- Eurá/m2 , v celkovej cene 148,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1122,
+      "number": 132,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10515/16, KN-C parc. č. 10515/17, KN-C parc. č. 10515/24 od Štefana Purdeka, bytom: Piešť I. č. 138, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Štefana Purdeka, bytom: Piešť I. č. 138, Detva v cene 2,- Eurá/m2 , v celkovej cene 612,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1123,
+      "number": 133,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10515/23, KN-C parc. č. 10519/4, KN-C parc. č. 10520/2 a KN-C parc. č. 10521/4 od Petra Môťovského, bytom: Piešť I. č. 180, Detva     ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Petra Môťovského, bytom: Piešť I. č. 180, Detva v cene 2,- Eurá/m2 , v celkovej cene 298,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1124,
+      "number": 134,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10506/28, KN-C parc. č. 10506/30, KN-C parc. č. 10506/32 od Jána Môťovského, bytom: Piešť I. č. 233, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Jána Môťovského, bytom: Piešť I. č. 233, Detva v cene 2,- Eurá/m2 , v celkovej cene 116,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1125,
+      "number": 135,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10506/29, KN-C parc. č. 10506/31, KN-C parc. č. 10506/33 od Ivety Purdekovej, bytom: Svetozára Stračinu 1667/5, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Ivety Purdekovej, bytom: Svetozára Stračinu 1667/5, Detva v cene 2,-Eurá/m2 , v celkovej cene 56,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1126,
+      "number": 136,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10516/2, KN-C parc. č. 10516/3, KN-C parc. č. 10517/3 a KN-C parc. č. 10518/2 od Jána Môťovského, bytom: Piešť I. č. 201, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "v podielovom spoluvlastníctve Jána Môťovského, bytom: Piešť I. č. 201, Detva, veľkosť spoluvlastníckeho podielu 1/3 v pomere k celku v cene 2,-Eurá/m2 , v celkovej cene 62,66,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1127,
+      "number": 137,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10516/2, KN-C parc. č. 10516/3, KN-C parc. č. 10517/3 a KN-C parc. č. 10518/2 od Jána Môťovského, bytom: Piešť I. č. 201, Detva a Emílie Môťovskej, bytom: č. 3291, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "v bezpodielovom spoluvlastníctve Jána Môťovského, bytom: Piešť I. č. 201, Detva a Emílie Môťovskej, bytom: č. 3291, Detva v cene 2,-Eurá/m2 , v celkovej cene 125,33,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1128,
+      "number": 138,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10515/19 od Jozefa Purdeka, bytom: Piešť I. č. 142, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10515/19 o výmere 11 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 11431 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Jozefa Purdeka, bytom: Piešť I. č. 142, Detva v cene 2,-Eurá/m2 , v celkovej cene 22,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1129,
+      "number": 139,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10515/11, KN-C parc. č. 10515/13, KN-C parc. č. 10515/14 a KN-C parc. č. 10515/15 od Jána Purdeka, bytom: Piešť I. č. 241, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Jána Purdeka, bytom: Piešť I. č. 241, Detva v cene 2,- Eurá/m2 , v celkovej cene 552,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1130,
+      "number": 140,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10506/37 od Emílie Baukovej, bytom: Jarná 554/19, Sliač",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10506/37 o výmere 17 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6931 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Emílie Baukovej, bytom: Jarná 554/19, Sliač v cene 2,-Eurá/m2 , v celkovej cene 34,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1131,
+      "number": 141,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10457/59 od Vladimíra Môťovského, bytom: Piešť I. č. 285, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10457/59 o výmere 143 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6147 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Vladimíra Môťovského, bytom: Piešť I. č. 285, Detva v cene 2,-Eurá/m2 , v celkovej cene 286,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1132,
+      "number": 142,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10457/53, KN-C parc. č. 10457/54, KN-C parc. č. 10457/55 a KN-C parc. č. 10457/57 od Milana Ľuptáka, bytom: Piešť I. č. 31, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Milana Ľuptáka, bytom: Piešť I. č. 31, Detva v cene 2,- Eurá/m2 , v celkovej cene 1.400,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1133,
+      "number": 143,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10457/67 od Jána Líšku, bytom: Piešť II. č. 90, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10457/67 o výmere 15 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 9699 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Jána Líšku, bytom: Piešť II. č. 90, Detva v cene 2,-Eurá/m2 , v celkovej cene 30,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1134,
+      "number": 144,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10457/69 od Pavla Vilhana, bytom: Nová Ves 358/79, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10457/69 o výmere 13 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 6505 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Pavla Vilhana, bytom: Nová Ves 358/79, Detva v cene 2,-Eurá/m2 , v celkovej cene 26,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1135,
+      "number": 145,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10454/2 od Stanislava Kulicha, bytom: Podkriváň č. 171",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10454/2 o výmere 82 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 354 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Stanislava Kulicha, bytom: Podkriváň č. 171, v cene 2,-Eurá/m2 , v celkovej cene 164,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1136,
+      "number": 146,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10340/38, KN-C parc. č. 10435/15, KN-C parc. č. 10452/2 od Štefana Stehlíka, bytom: Piešť I. č. 29, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Štefana Stehlíka, bytom: Piešť I. č. 29, Detva v cene 2,- Eurá/m2 , v celkovej cene 348,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1137,
+      "number": 147,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10435/17 a KN-C parc. č. 10435/18 od Ing. arch. Jozefa Homolu, bytom: Jilemnického 1628/6, Zvolen",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Ing. arch. Jozefa Homolu, bytom: Jilemnického 1628/6, Zvolen v cene 2,-Eurá/m2 , v celkovej cene 356,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1138,
+      "number": 148,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10340/39, KN-C parc. č. 10340/40, KN-C parc. č. 10340/41, KN-C parc. č. 10435/8, KN- C parc. č. 10435/10, KN-C parc. č. 10435/13, KN-C parc. č. 10435/14, KN-C parc. č. 10435/16 od Moniky Halajovej, bytom: Piešť I. č. 215, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Moniky Halajovej, bytom: Piešť I. č. 215, Detva v cene 2,- Eurá/m2 , v celkovej cene 662,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1139,
+      "number": 149,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10435/12 a KN-C parc. č. 11642/2 od Stanislava Lakotu, bytom: Piešť I. č. 200, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Stanislava Lakotu, bytom: Piešť I. č. 200, Detva v cene 2,- Eurá/m2 , v celkovej cene 146,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1140,
+      "number": 150,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10435/11 od Emílie Sujovej, bytom: Štúrova 844/27, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10435/11 o výmere 99 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 11385 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Emílie Sujovej, bytom: Štúrova 844/27, Detva, v cene 2,-Eurá/m2 , v celkovej cene 198,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1141,
+      "number": 151,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10451/7 od Emílie Kmeťovej, bytom: Piešť I. č. 215, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "odkúpenie nehnuteľnosti nachádzajúcej sa v okrese Detva, obec Detva, k. ú. Detva, a to pozemku parc. č. 10451/7 o výmere 30 m 2 , druh pozemku: zastavaná plocha a nádvorie, parcela registra „C“ evidovaného na LV č. 12350 vedenom Okresným úradom Detva, katastrálnym odborom vo výlučnom vlastníctve Emílie Kmeťovej, bytom: Piešť I. č. 215, Detva, v cene 2,-Eurá/m2 , v celkovej cene 60,-Eur."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1142,
+      "number": 152,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10435/6 a KN-C parc. č. 10435/7 od Ľubomíra Stehlíka, bytom: Piešť I. č. 193, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "vo výlučnom vlastníctve Ľubomíra Stehlíka, bytom: Piešť I. č. 193, Detva v cene 2,- Eurá/m2 , v celkovej cene 126,-Eur"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1143,
+      "number": 153,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Zriadenie vecného bremena pre Stredoslovenská distribučná, a.s., Pri Rajčianke 2927/8, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "Plocha zodpovedajúca vecnému bremenu je 208 m2 . Odplata za zriadenie vecného bremena je určená na základe znaleckého posudku vypracovaného Znalex s.r.o. Zvolen vo výške 141,90,-Eur. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1144,
+      "number": 154,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena pre Stredoslovenská distribučná, a.s., Pri Rajčianke 2927/8, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "Predpokladaná plocha zodpovedajúca vecnému bremenu 994,48 m2 . Odplata za zriadenie vecného bremena bude určená v zmysle Zásad hospodárenia s majetkom Mesta Detva, Druhá časť, článok VI Zriaďovanie vecných bremien. Pri predpokladanej ploche zodpovedajúcej vecnému bremenu 994,48 m2 je odplata za zriadenie vecného bremena určená vo výške 4.922,66 €."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1145,
+      "number": 155,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Zverenie technického zhodnotenia stavby „Zníženie energetickej náročnosti MŠ M. R. Štefánika, Detva“ do správy rozpočtovej organizácii Materská škola, M. R. Štefánika č. 908/40, 962 12 Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "zverenie technického zhodnotenia stavby „Zníženie energetickej náročnosti MŠ M. R. Štefánika, Detva“, v hodnote: 475 870,95 € do správy rozpočtovej organizácie Materská škola, so sídlom na ul. M. R. Štefánika č. 908/40, 962 12 Detva, IČO: 42 001 161 zriadenej mestom Detva."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1146,
+      "number": 156,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Udelenie výnimky z pozastavenia napojenia na vodovod „Stavanisko“",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "udelenie výnimky z pozastavenia akéhokoľvek napojenia rodinných domov a iných objektov na vodovod „Stavanisko“ schváleného uznesením MsZ č. 89/99 zo dňa 27.mája 1999 pre vlastníka pozemkov nachádzajúcich sa v katastrálnom území Detva, obec a okres Detva, a to pozemku C-KN parc. č. 8643/4 a C-KN parc. č. 8643/5 – Ing. Jozefa Jaloviara, bytom: Chalupkova 20, Detva za podmienky zriadenia bezodplatného a časovo neobmedzeného vecného bremena in rem v prospech mesta Detva, so sídlom: J.G. Tajovského 1369/7, 962 12 Detva, IČO: 00319805, DIČ: 2021318651 ako vecného práva uloženia a opráv vodovodu na uvedených pozemkoch. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1147,
+      "number": 157,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": " Schválenie nájmu nebytových priestorov v budove so súp. č. 469 (bývalé Detvianske múzeum a knižnica) pre spol. Arteska, s.r.o. Detva ",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom nebytových priestorov o výmere 263,92 m² nachádzajúcich sa v budove so súp. č. 469 (ul. Partizánska č. 63), druh stavby: iná budova, popis stavby: budova, postavenej na pozemku parc. č. 1388 o výmere 908 m², druh pozemku: zastavaná plocha a nádvorie parcela registra „C“ evidovanej na LV č. 1 Okresným úradom Detva, katastrálnym odborom v sume 1,– € ročne bez energií na dobu určitú od 01.07.2019 do 30.06.2020 pre: - Arteska, s.r.o., A. Bernoláka 931/12, 962 12 Detva, IČO: 51976382 Dôvodom hodným osobitného zreteľa je zriadenie Domu umenia Arteska a služieb spojených s jeho prevádzkou pre činnosť a aktivity mesta Detva. "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1148,
+      "number": 158,
+      "type": "najom",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1043],
+      "title": "Schválenie nájmu nebytových priestorov v budove so súp. č. 1320 na ul. J. G. Tajovského č. 5 (PLK) pre Všeobecnú ambulanciu pre deti",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "na základe § 9a ods. 9 písm. c) zákona č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov nájom nebytových priestorov o výmere 76 m² nachádzajúcich sa v budove so súp. č. 1320 na ul. J. G. Tajovského č. 5 (Poliklinika Detva) druh stavby: Budova zdravotníckeho a sociálneho zariadenia, popis stavby: zdravotné zariadenie, postavenej na pozemku parc. č. 3886 o celkovej výmere 1143 m², druh pozemku: zastavaná plocha a nádvorie parcela registra „C“ evidovanej na LV č. 4137 Okresným úradom Detva, katastrálnym odborom na dobu určitú od 01.07.2019 do 30.06.2020 za nájomné vo výške 1,00 €/rok bez energií, a to pre: - ROZVOJOVÁ AGENTÚRA Banskobystrického samosprávneho kraja, n. o., Námestie SNP č. 14585/1, 974 01 Banská Bystrica, IČO: 51744422, Prevádzka: Všeobecná ambulancia pre deti Detva, Poliklinika Detva, J. G. Tajovského 5, 962 12 Detva "
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 15,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1149,
+      "number": 159,
+      "type": "delegovanie",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [ 1009, 1016, 1008 ],
+      "title": "Voľba hlavného kontrolóra mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [ "dôvodovú správu k voľbe hlavného kontrolóra Mesta Detva"
+          ]
+        }, {
+          "title": "volí",
+          "descriptions": [ "v zmysle § 11 ods. 4 písm. j), § 18 ods. 1) a § 18a ods. 5) zákona SNR č. 369/1990 zb. o obecnom zriadení v znení neskorších predpisov p. Mikuláša Klima do funkcie hlavného kontrolóra Mesta Detva na funkčné obdobie 6 rokov s účinnosťou od 1. júla 2019"
+          ]
+        }, {
+          "title": "určuje",
+          "descriptions": [ "v súlade s § 11 ods. 4 písm. j) zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov plat hlavného kontrolóra Mesta Detva podľa § 18c ods. 1) písm. f) zákona č. 369/1990 Zb. o obecnom zriadení v znení zmien a doplnkov s účinnosťou od 1. júla 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 14,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1150,
+      "number": 160,
+      "type": "plan",
+      "councilId": 2,
+      "meetingId": 105,
+      "creatorIds": [1042],
+      "title": "Plán práce MsZ na II. polrok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ "Plán práce Mestského zastupiteľstva v Detve na II. polrok 2019."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 16,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1167596"
+    },
+    {
+      "id": 1151,
+      "number": 164,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1039],
+      "title": "Schválenie investičného úveru na obnovu Komunitného centra",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            "investičný úver na obnovu Komunitného centra od Slovenskej sporiteľne, a.s. za nasledovných podmienok",
+            "výška úveru: 946 000 €",
+            "úrok: pevná sadzba fix 10 rokov 0,44 %",
+            "splatnosť: 10 rokov",
+            "zabezpečenie: bez ručenia"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1152,
+      "number": 165,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtov rozpočtových organizácií mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            "na rok 2019 aktualizácie rozpočtových organizácii"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1153,
+      "number": 166,
+      "type": "rozpocet",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1039],
+      "title": "Aktualizácia rozpočtu mesta Detva na rok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            "aktualizáciu rozpočtu mesta Detva na rok 2019 s pripomienkami"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1154,
+      "number": 167,
+      "type": "projekt",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1040],
+      "title": "Schválenie 'Programu odpadového hospodárstva mesta Detva na roky 2016-2020'",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            "Program odpadového hospodárstva mesta Detva na roky 2016 - 2020"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1155,
+      "number": 168,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1041],
+      "title": "Schválenie VZN o určení názvu ulice",
+      "description": "",
+      "results": [
+        {
+          "title": "sa uznáša",
+          "descriptions": [ 
+            "na Všeobecne záväznom nariadení č. 5/2019, ktorým sa určuje názov novovybudovanej ulice v meste Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1156,
+      "number": 169,
+      "type": "vzn",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1041],
+      "title": "Schválenie VZN o podmienkach prevádzkovania hazardných hier v meste Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "sa uznáša",
+          "descriptions": [ 
+            "na Všeobecne záväznom nariadení č. 6/2019 o podmienkach prevádzkovania hazardných hier v meste Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1157,
+      "number": 170,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1042],
+      "title": "Informácia o výsledku kontroly a prijatých opatreniach kontroly vykonanej NKÚ SR v Meste Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [ 
+            "Protokol o výsledku kontroly „ Plnenie opatrení prijatých na odstránenie zistených nedostatkov z kontrol vykonaných NKÚ SR",
+            "Prijaté opatrenie Mesta Detva na odstránenie kontrolou zisteného nedostatku"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1158,
+      "number": 171,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odpredaj pozemku KN-C parc. č. 3016/3 pre Elenu Libiakovú, bytom: Hollého 1233/8, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1159,
+      "number": 172,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 3016/4 pre Ing. Rastislava Ďuricu s manželkou Mgr. Miriam Ďuricovou, bytom: Požiarnická 3226/6, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1160,
+      "number": 173,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 3205 a KN-E parc. č. 1702/8 pre Jozefa Vilhana, bytom: Kukučínova 214/53, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1161,
+      "number": 174,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 1555/1 pre Radovana Kulišiaka, bytom: J. G. Tajovského 954/3, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1162,
+      "number": 175,
+      "type": "predaj",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odpredaj pozemku KN-C parc. č. 2440/2 pre Rastislava Korima s manželkou Katarínou Korimovou, bytom: Jesenského 756/44, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1163,
+      "number": 176,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 3654 od Vladimíra Rybára, bytom: Kukučínova 251/98, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1164,
+      "number": 177,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 10744/102 od Anny Ďuriníkovej, bytom: Gemerská 1623/1, Žilina, od Miroslava Fekiača, bytom: Krivánska 6144/8, Banská Bystrica - Sásová a od Anny Ľalíkovej, bytom: Lúčna štvrť 1262/45, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1165,
+      "number": 178,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10755/9 a KN-E parc. č. 10755/109 od Anny Ďuriníkovej, bytom: Gemerská 1623/1, Žilina, od Miroslava Fekiača, bytom: Krivánska 6144/8, Banská Bystrica - Sásová a od Anny Ľalíkovej, bytom: Lúčna štvrť 1262/45, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1166,
+      "number": 179,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 10744/2 od Anny Ďuriníkovej, bytom: Gemerská 1623/1, Žilina",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1167,
+      "number": 180,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-E parc. č. 10532 od Anny Melichovej, bytom: Krpelná 946/37, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1168,
+      "number": 181,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-E parc. č. 10533/2 od Anny Melichovej, bytom: Krpelná 946/37, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1169,
+      "number": 182,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 9455/37, KN-C parc. č. 9455/38, KN-C parc. č. 9455/39 od Anny Spodniakovej, bytom: Skliarovo 220, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1170,
+      "number": 183,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 9455/36 od Jozefa Šufliarskeho, bytom: Nám. mieru 1392/7, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1171,
+      "number": 184,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 9455/41 od Ing. Martina Gondáša, bytom: Svetozára Stračinu 1690/4, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1172,
+      "number": 185,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 9777/29 od Jozefa Kučeru, bytom: Hviezdoslavova 1216/36, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1173,
+      "number": 186,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 9777/34 a KN-C parc. č. 9777/35 od Jána Malatinca, bytom: Fučíkova 10, Detva, od Martina Malatinca, bytom: Fučíkova 10, Detva a od Jozefa Malatinca, bytom: Školská 1571/45, Hriňová",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1174,
+      "number": 187,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10519/5 od Petra Môťovského, bytom: Piešť I. č. 180, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1175,
+      "number": 188,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10457/68 od Jána Líšku, bytom: Piešť II. č. 90, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1176,
+      "number": 189,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10515/9 od Juraja Kulicha s manželkou Emíliou Kulichovou, bytom: Piešť I. č. 203, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1177,
+      "number": 190,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10435/5 od Ľubomíra Stehlíka, bytom: Piešť I. č. 193, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1178,
+      "number": 191,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Odkúpenie pozemku KN-C parc. č. 10429/2, KN-C parc. č. 10429/3, KN-C parc. č. 10429/4 a KN-C parc. č. 10429/5 od Jána Lapína, bytom: Piešť I. č. 191, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1179,
+      "number": 192,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10428/3 od Jána Lapína s manželkou Magdalénou Lapínovou, bytom: Piešť I. č. 191, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1180,
+      "number": 193,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10244/15 od Stanislava Lakotu, bytom: Piešť I. č. 200, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1181,
+      "number": 194,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10244/16 od Jána Kmeťa, bytom: Piešť I. č. 129, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1182,
+      "number": 195,
+      "type": "nakup",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Odkúpenie pozemku KN-C parc. č. 10244/16 od Jána Kmeťa, bytom: Piešť I. č. 129, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1183,
+      "number": 196,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Zriadenie vecného bremena pre Bystriansky s.r.o., M. R. Štefánika 907/38, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1184,
+      "number": 197,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena pre JOLL s.r.o., Nám. SNP 16, Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1185,
+      "number": 198,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1186,
+      "number": 199,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": "Zriadenie vecného bremena v prospech mesta Detva",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1187,
+      "number": 200,
+      "type": "pozemky",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1043],
+      "title": " Schválenie prijatia prebytočného majetku štátu",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            ""
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1188,
+      "number": 201,
+      "type": "plan",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1019],
+      "title": "Plán práce hlavného kontrolóra na 2.polrok 2019",
+      "description": "",
+      "results": [
+        {
+          "title": "schvaľuje",
+          "descriptions": [ 
+            "plán kontrolnej činnosti hlavného kontrolóra mesta Detva na II. polrok 2019"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1189,
+      "number": 202,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1041],
+      "title": "Informácia o vzdaní sa funkcie člena dozornej rady",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [ 
+            "vzdanie sa funkcie členky dozornej rady obchodnej spoločnosti Technické služby Detva, s.r.o., IČO: 36 057 029, so sídlom Bottova 1272, 962 12 Detva, spoločnosť zapísaná v Obchodnom registri Okresného súdu Banská Bystrica, odd. Sro, vložka č. 8015/S."
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    },
+    {
+      "id": 1190,
+      "number": 203,
+      "type": "info",
+      "councilId": 2,
+      "meetingId": 106,
+      "creatorIds": [1041],
+      "title": "Informácia o vzdaní sa funkcie člena Komisie finančnej, podnikateľskej a správy majetku a voľba člena Komisie finančnej, podnikateľskej a správy majetku",
+      "description": "",
+      "results": [
+        {
+          "title": "berie na vedomie",
+          "descriptions": [ 
+            "vzdanie sa funkcie člena Komisie finančnej, podnikateľskej a správy majetku p. Mikulášom Klimom dňom 1.7.2019."
+          ]
+        }, {
+          "title": "odvoláva",
+          "descriptions": [ 
+            "člena Komisie finančnej, podnikateľskej a správy majetku - neposlanca: Mikuláša Klima, bytom Jesenského 519/32, 962 12 Detva"
+          ]
+        }, {
+          "title": "volí",
+          "descriptions": [ 
+            "za člena Komisie finančnej, podnikateľskej a správy majetku - neposlanca: Petra Ondriáša, bytom Andreja Hlinku 16, 962 12 Detva"
+          ]
+        }
+      ],
+      "voteYesIds": [],
+      "voteNoIds": [],
+      "presented": 0,
+      "source": "https://samosprava.detva.sk/download_file_f.php?id=1211406"
+    }
+  ]
+}

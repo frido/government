@@ -1,0 +1,721 @@
+{
+    "councils": [
+    {
+      "id": 1,
+      "key": "petrzalka",
+      "name": "Petržalka",
+      "title": "miestny poslanec",
+      "mayorTitle": "starosta",
+      "plat": {
+        "priemernaMzda": 954.00,
+        "index": 3.98,
+        "starosta": 3797,
+        "starostaMin": 3797,
+        "starostaMax": 6076,
+        "primator": 5316,
+        "primatorMin": 3797,
+        "primatorMax": 6076,
+        "poslanec": {
+          "poslanec": "0.8 * (1/12) * primatorMin",
+          "rada": "0.1 * (1/12) * primatorMin",
+          "clen": "0.1 * (1/12) * primatorMin"
+        }
+      },
+      "menu": [
+        "uznesenia",
+        "poslanci",
+        "rozpocet"
+      ],
+      "commissions": [
+        {
+          "id": 1,
+          "name": "Komisia územného plánu, výstavby a dopravy",
+          "desc": ""
+        }, {
+          "id": 2,
+          "name": "Komisia životného prostredia a verejného poriadku",
+          "desc": ""
+        }, {
+          "id": 3,
+          "name": "Komisia finančná",
+          "desc": ""
+        }, {
+          "id": 4,
+          "name": "Miestna rada",
+          "desc": ""
+        }, {
+          "id": 5,
+          "name": "Komisia športu",
+          "desc": ""
+        }, {
+          "id": 6,
+          "name": "Komisia školská",
+          "desc": ""
+        }, {
+          "id": 7,
+          "name": "Komisia sociálna a bytová",
+          "desc": ""
+        }, {
+          "id": 8,
+          "name": "Komisia kultúry a mládeže",
+          "desc": ""
+        }, {
+          "id": 9,
+          "name": "Komisia investičných činností",
+          "desc": ""
+        }, {
+          "id": 10,
+          "name": "Komisia správy majetku a miestnych podnikov",
+          "desc": ""
+        }, {
+          "id": 11,
+          "name": "Komisia na ochranu verejného záujmu pri výkone funkcií",
+          "desc": ""
+        }, {
+          "id": 12,
+          "name": "Mandátová komisia",
+          "desc": ""
+        }, {
+          "id": 13,
+          "name": "Komisia dopravy, mobility a bezbariérovosti",
+          "desc": ""
+        }, {
+          "id": 14,
+          "name": "Mediálna rada Petržalky",
+          "desc": ""
+        }, {
+          "id": 100,
+          "name": "Sobášiaci",
+          "desc": ""
+        }
+      ],
+      "offices": [
+            { "id": 1, "name": "Starosta", "icon": "fas fa-chess-king" },
+            { "id": 2, "name": "1. vicestarostka", "icon": "fas fa-chess-queen" },
+            { "id": 3, "name": "2. vicestarostka", "icon": "fas fa-chess-queen" },
+            { "id": 4, "name": "prednosta", "icon": "fas fa-chess-rook" },
+            { "id": 5, "name": "miestny kontrolór", "icon": "fas fa-chess-rook" },
+            { "id": 6, "name": "zástupca starostu", "icon": "fas fa-chess-rook" }
+      ],
+      "departments": [
+        {
+          "id": 2,
+          "name": "ZŠ Budatínska",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 3,
+          "name": "ZŠ Černyševského",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 4,
+          "name": "ZŠ Dudova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 5,
+          "name": "ZŠ Gessayova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 6,
+          "name": "ZŠ Holíčska",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 7,
+          "name": "ZŠ Lachova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 8,
+          "name": "ZŠ Nobelovo nám.",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 9,
+          "name": "ZŠ Pankúchova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 10,
+          "name": "ZŠ Prokofievova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 11,
+          "name": "ZŠ Tupolevova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 12,
+          "name": "ZŠ Turnianska",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 13,
+          "name": "MŠ Bohrova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 14,
+          "name": "MŠ Bradáčova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 15,
+          "name": "MŠ Bulíkova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 16,
+          "name": "MŠ Bzovícka",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 17,
+          "name": "MŠ Gessayova 2",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 18,
+          "name": "MŠ Gessayova 31",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 19,
+          "name": "MŠ Haanova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 20,
+          "name": "MŠ Holíčska 30",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 21,
+          "name": "MŠ Holíčska 50",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 22,
+          "name": "MŠ Iľjušinova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 23,
+          "name": "MŠ Jankolova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 24,
+          "name": "MŠ Lachova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 25,
+          "name": "MŠ Lietavská",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 26,
+          "name": "MŠ Macharova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 27,
+          "name": "MŠ Nobelovo nám.",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 28,
+          "name": "MŠ Pifflova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 29,
+          "name": "MŠ Rontgenova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 30,
+          "name": "MŠ Rovniankova ",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 31,
+          "name": "MŠ Strečnianska",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 32,
+          "name": "MŠ Ševčenkova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 33,
+          "name": "MŠ Šustekova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 34,
+          "name": "MŠ Tupolevova",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 35,
+          "name": "MŠ Turnianska",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 36,
+          "name": "MŠ Vyšehradská",
+          "roles": [
+            { "id": 1, "name": "člen rady školy", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 37,
+          "name": "Bytový podnik Petržalka, s.r.o.",
+          "roles": [
+            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-chess-bishop"}
+          ]
+        }, {
+          "id": 38,
+          "name": "Športové zariadenia Petržalky, s.r.o.",
+          "roles": [
+            { "id": 1, "name": "člen dozornej rady", "icon": "fas fa-chess-bishop"}
+          ]
+        }
+      ],
+      "fb": {
+        "title": "Petržalka.info",
+        "link": "https://www.facebook.com/petrzalka.info"
+      },
+      "rss": [
+        {
+          "title": "Úradná tabuľa",
+          "link": "https://www.petrzalka.sk/rss-uradna-tabula"
+        } 
+      ]
+
+    },
+    {
+      "id": 2,
+      "key": "detva",
+      "name": "Detva",
+      "title": "mestsky poslanec",
+      "mayorTitle": "primator",
+      "plat": {
+        "priemernaMzda": 954.00,
+        "index": 2.81,
+        "starosta": 3754,
+        "starostaMin": 2681,
+        "starostaMax": 4289
+      },
+      "menu": [
+        "uznesenia",
+        "poslanci",
+        "rozpocet"
+      ],
+      "commissions": [
+        {
+          "id": 1,
+          "name": "Komisia finančná, podnikateľska a správy majetku",
+          "desc": ""
+        }, {
+          "id": 2,
+          "name": "Komisia na ochranu verejného záujmu pri výkone funkcií funkcionárov mesta",
+          "desc": ""
+        }, {
+          "id": 3,
+          "name": "Komisia výstavby, územného plánu a životného prostredia",
+          "desc": ""
+        }, {
+          "id": 4,
+          "name": "Komisia kultúry, ZPOZ-u a cestovného ruchu",
+          "desc": ""
+        }, {
+          "id": 5,
+          "name": "Komisia sociálna, bytová a marginalizovaných komunít",
+          "desc": ""
+        }, {
+          "id": 6,
+          "name": "Komisia športu",
+          "desc": ""
+        }, {
+          "id": 7,
+          "name": "Komisia mládeže a školstva",
+          "desc": ""
+        }, {
+          "id": 8,
+          "name": "Mandátová komisia",
+          "desc": ""
+        }, {
+          "id": 100,
+          "name": "Sobášiaci",
+          "desc": ""
+        }
+      ],
+      "offices": [
+        { "id": 1, "name": "primator", "icon": "fas fa-chess-king" },
+        { "id": 2, "name": "hlavný kontrolór", "icon": "fas fa-chess-rook" },
+        { "id": 3, "name": "vedúci EO", "icon": "fas fa-chess-rook" },
+        { "id": 4, "name": "vedúci OVaŽP", "icon": "fas fa-chess-rook" },
+        { "id": 5, "name": "právnik mesta", "icon": "fas fa-chess-rook" },
+        { "id": 6, "name": "prednosta", "icon": "fas fa-chess-rook" },
+        { "id": 7, "name": "vedúca OSM", "icon": "fas fa-chess-rook" },
+        { "id": 8, "name": "architekt mesta", "icon": "fas fa-chess-rook" },
+        { "id": 9, "name": "zástupca primátora", "icon": "fas fa-chess-queen" },
+        { "id": 10, "name": "vedúca OOR", "icon": "fas fa-chess-rook" }
+      ],
+      "departments": [
+         {
+          "id": 2,
+          "name": "Kultúrne centrum A. Sládkoviča v Detve",
+          "roles": [
+            {
+              "id": 1,
+              "name": "Riaditeľ",
+              "icon": "fas fa-chess-knight"
+            }
+          ]
+        }, {
+            "id": 3,
+            "name": "Technické služby Detva s.r.o.",
+            "roles": [
+              {
+                "id": 1,
+                "name": "člen dozornej rady",
+                "icon": "fas fa-chess-bishop"
+              }
+            ]
+          }, {
+            "id": 4,
+            "name": "BYTES, s.r.o.",
+            "roles": [
+              {
+                "id": 1,
+                "name": "člen dozornej rady",
+                "icon": "fas fa-chess-bishop"
+              }
+            ]
+          }
+      ],
+      "fb": {
+        "title": "Detva.info",
+        "link": "https://www.facebook.com/Detvainfo-215319999381212"
+      },
+      "rss": [
+      ]
+    }, {
+      "id": 3,
+      "key": "ba",
+      "name": "Bratislava",
+      "title": "mestský poslanec",
+      "mayorTitle": "primator",
+      "menu": [],
+      "commissions": [
+        {
+          "id": 1,
+          "name": "Komisia územného a strategického plánovania, životného prostredia a výstavby",
+          "desc": ""
+        }, {
+          "id": 2,
+          "name": "Komisia dopravy a informačných systémov",
+          "desc": ""
+        }, {
+          "id": 3,
+          "name": "Mestská rada",
+          "desc": ""
+        }, {
+          "id": 4,
+          "name": "Komisia pre školstvo, vzdelávanie a šport",
+          "desc": ""
+        }, {
+          "id": 5,
+          "name": "Komisia pre ochranu verejného poriadku",
+          "desc": ""
+        }, {
+          "id": 6,
+          "name": "Komisia mandátová",
+          "desc": ""
+        }, {
+          "id": 7,
+          "name": "Komisia na ochranu verejného záujmu pri výkone funkcií verejných funkcionárov",
+          "desc": ""
+        }, {
+          "id": 8,
+          "name": "Komisia na ochranu verejného záujmu pri výkone funkcií verejných funkcionárov",
+          "desc": ""
+        }
+      ],
+      "departments": [
+        {
+          "id": 1,
+          "name": "Bratislava",
+          "roles": [
+            {
+              "id": 1,
+              "name": "Primator",
+              "icon": "fas fa-chess-king"
+            }
+          ]
+        }, {
+          "id": 2,
+          "name": "Bratislavská vodárenská spoločnosť, a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen predstavenstva",
+              "icon": "fas fa-chess-bishop"
+            }, {
+              "id": 2,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 3,
+          "name": "Dopravný  podnik  Bratislava,  akciová  spoločnosť",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen predstavenstva",
+              "icon": "fas fa-chess-bishop"
+            }, {
+              "id": 2,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }, {
+              "id": 3,
+              "name": "Podpredseda dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 4,
+          "name": "Odvoz  a likvidácia  odpadu  a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen predstavenstva",
+              "icon": "fas fa-chess-bishop"
+            }, {
+              "id": 2,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }, {
+              "id": 3,
+              "name": "Predseda dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 5,
+          "name": "Incheba,  a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 6,
+          "name": "KSP,  s.r.o.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 7,
+          "name": "Národné tenisové centrum, a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 8,
+          "name": "METRO Bratislava a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "Predseda predstavenstva",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 9,
+          "name": "Bratislavská integrovaná doprava, a.s.",
+          "roles": [
+
+          ]
+        }, {
+          "id": 10,
+          "name": "Bratislavská organizácia cestovného ruchu – Bratislava Tourist Board",
+          "roles": [
+
+          ]
+        }, {
+          "id": 11,
+          "name": "Združenie správy námestia",
+          "roles": [
+
+          ]
+        }, {
+          "id": 12,
+          "name": "Infra Services, a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 13,
+          "name": "BIONERGY, a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }, {
+          "id": 14,
+          "name": "RECAR Bratislava a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }
+      ],
+      "rss": [
+      ]
+    }, {
+      "id": 4,
+      "key": "vuc-ba",
+      "name": "Bratislavský samosprávny kraj",
+      "title": "krajský poslanec",
+      "mayorTitle": "zupan",
+      "menu": [],
+      "commissions": [
+        {
+          "id": 1,
+          "name": "Komisia životného prostredia, regionálneho rozvoja a územného plánovania",
+          "desc": ""
+        }, {
+          "id": 2,
+          "name": "Komisia školstva, mládeže a športu",
+          "desc": ""
+        }, {
+          "id": 3,
+          "name": "Mandátová komisia",
+          "desc": ""
+        }, {
+          "id": 4,
+          "name": "Komisia na ochranu verejného záujmu",
+          "desc": ""
+        }, {
+          "id": 5,
+          "name": "Komisia kultúry",
+          "desc": ""
+        }, {
+          "id": 6,
+          "name": "Dotačná komisia",
+          "desc": ""
+        }, {
+          "id": 7,
+          "name": "Komisia zdravotníctva a sociálnych vecí",
+          "desc": ""
+        }, {
+          "id": 9,
+          "name": "Komisia európskych záležitostí, regionálnej spolupráce a cestovného ruchu",
+          "desc": ""
+        }, {
+          "id": 10,
+          "name": "Komisia majetku, investícií a verejného obstarávania",
+          "desc": ""
+        }, {
+          "id": 11,
+          "name": "Finančná komisia",
+          "desc": ""
+        }
+      ],
+      "departments": [
+        {
+          "id": 1,
+          "name": "Bratislavský samosprávny kraj",
+          "roles": [
+            {
+              "id": 1,
+              "name": "Župan",
+              "icon": "fas fa-chess-king"
+            }, {
+              "id": 2,
+              "name": "Podpredseda",
+              "icon": "fas fa-chess-queen"
+            }
+          ]
+        }, {
+          "id": 2,
+          "name": "Regionálne cesty Bratislava, a.s.",
+          "roles": [
+            {
+              "id": 1,
+              "name": "člen dozornej rady",
+              "icon": "fas fa-chess-bishop"
+            }
+          ]
+        }
+      ],
+      "rss": [
+      ]
+    }
+  ]
+}

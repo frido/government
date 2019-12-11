@@ -12,7 +12,7 @@ import frido.samosprava.HasValue;
 import frido.samosprava.collection.InMemoryCollections;
 import frido.samosprava.entity.Money;
 import frido.samosprava.entity.Resolution;
-import frido.samosprava.entity.UseKv;
+import frido.samosprava.entity.Use;
 import frido.samosprava.entity.Vydavky;
 import frido.samosprava.view.BudgetView;
 import frido.samosprava.view.ProjectView;
@@ -23,7 +23,7 @@ import frido.samosprava.view.ResponseObjectView;
 class BudgetController {
 
   private final InMemoryCollections collections;
-  private static final Integer YEAR = 2019;
+  private static final Integer YEAR = 2020;
 
   public BudgetController(InMemoryCollections collections) {
     this.collections = collections;
@@ -34,7 +34,7 @@ class BudgetController {
     final List<BudgetView> views = new ArrayList<>();
     collections.budgets().findByCouncilId(councilId).flatMap(x -> x.getVydavky().stream())
         .forEach(v -> collectBudgetView(views, v)); // TODO: implement recursive streams
-    return views.stream().filter(v -> YEAR.equals(v.getYear()))
+    return views.stream()/*.filter(v -> YEAR.equals(v.getYear()))*/
         .sorted((o1, o2) -> o2.getValue().compareTo(o1.getValue())).collect(new ResponseListView<>());
   }
 
@@ -68,7 +68,7 @@ class BudgetController {
     if (vydavky.getMoney() != null) {
       for (Money money : vydavky.getMoney()) {
         if (money.getUseKv() != null) {
-          for (UseKv kv : money.getUseKv()) {
+          for (Use kv : money.getUseKv()) {
             BudgetView view = new BudgetView();
             view.setTitle(kv.getTitle());
             view.setValue(kv.getSuma());

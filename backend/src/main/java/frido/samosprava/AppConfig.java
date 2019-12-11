@@ -12,6 +12,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import frido.samosprava.client.JdkHttpClient;
 import frido.samosprava.client.WebClient;
 import frido.samosprava.collection.InMemoryCollections;
+import frido.samosprava.store.ClassPathStore;
 import frido.samosprava.store.DataStore;
 import frido.samosprava.store.HttpStore;
 
@@ -25,8 +26,8 @@ public class AppConfig {
 
   @Bean
   public DataStore dataStore() {
-    // INFO: return new ClassPathStore();
-    return new HttpStore(webClient(), "https://frido.github.io/government/db/");
+    return new ClassPathStore();
+    // return new HttpStore(webClient(), "https://frido.github.io/government/db/");
   }
 
   @Bean

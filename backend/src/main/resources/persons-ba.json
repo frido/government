@@ -1,0 +1,1894 @@
+{ "persons" : [
+  {
+    "id": 1,
+    "name": "Natália Podhorná",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 2116
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-06-25", "to": null, "fk": 14, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "natalia.podhorna",
+    "role": 1
+  },
+  {
+    "id": 2,
+    "name": "Branislav Kleinert",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1866
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": true }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "branislav.kleinert",
+    "role": 1
+  },
+  {
+    "id": 3,
+    "name": "Branislav Sepši",
+    "prefix": "Ing. arch.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1861
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "roleId": 1 }
+    ],
+    "club": null,
+    "fb": "branislav.sepsi.52",
+    "role": 1
+  },
+  {
+    "id": 4,
+    "name": "Tatiana Kratochvílová",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1860
+      }, {
+        "id": 2,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 9409,
+        "party": "Progresívne Slovensko, SPOLU"
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": null,
+    "role": 1
+  },
+  {
+    "id": 5,
+    "name": "Drahan Petrovič",
+    "prefix": "Ing. arch",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1859
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 33, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": null,
+    "role": 1
+  },
+  {
+    "id": 6,
+    "name": "Iveta Plšeková",
+    "prefix": "MUDr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "MLADÁ PETRŽALKA - lokálna strana",
+        "votes": 1728
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 17, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 37, "roleId": 1 }
+    ],
+    "club": "Mladá Petržalka",
+    "fb": "iveta.plsekova",
+    "role": 1
+  },
+  {
+    "id": 7,
+    "name": "Jozef Fischer",
+    "prefix": "Bc. Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1710
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "chairman": true }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 16, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 38, "roleId": 1 }
+    ],
+    "club": null,
+    "fb": "fischo",
+    "role": 1
+  },
+  {
+    "id": 8,
+    "name": "Gabriela Fulová",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1708
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 28, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 38, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": null,
+    "role": 1
+  },
+  {
+    "id": 9,
+    "name": "Iveta Jančoková",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1702
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 34, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "iveta.fecova",
+    "role": 1
+  },
+  {
+    "id": 10,
+    "name": "Matúš Repka",
+    "prefix": "Ing. arch.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1678
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": "profile.php?id=100014573430873",
+    "role": 1
+  },
+  {
+    "id": 11,
+    "name": "Lena Bočkayová",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 1664
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 25, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": null,
+    "role": 1
+  },
+  {
+    "id": 12,
+    "name": "Tomáš Palkovič",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1564
+      }, {
+        "id": 2,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 6622,
+        "party": "Progresívne Slovensko, SPOLU"
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": true }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": "tomolas",
+    "role": 1
+  },
+  {
+    "id": 13,
+    "name": "Pavol Škápik",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1558
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 18, "roleId": 1 }
+    ],
+    "club": null,
+    "fb": "pavol.skapik",
+    "role": 1
+  },
+  {
+    "id": 14,
+    "name": "Michala Kozáková",
+    "prefix": "Ing. arch.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1369
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 27, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": "michala.basova.5",
+    "role": 1
+  },
+  {
+    "id": 15,
+    "name": "Miroslav Dragun",
+    "prefix": "",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 1328
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-06-25", "to": null, "fk": 14, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 23, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 37, "roleId": 1 }
+    ],
+    "club": null,
+    "fb": "MiroslavDragun",
+    "role": 1
+  },
+  {
+    "id": 16,
+    "name": "Miroslav Behúl",
+    "prefix": "Ing.",
+    "suffix": "PhD.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1317
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 20, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 38, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "miroslav.behul",
+    "role": 1
+  },
+  {
+    "id": 17,
+    "name": "Ivan Halmo",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1317
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 1 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 13, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": null,
+    "role": 1
+  },
+  {
+    "id": 36,
+    "name": "Ján Hrčka",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 2613,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 10659,
+        "mayor": true
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 10883,
+        "party": "NEKA"
+      }
+    ],
+    "deputies": [
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 }
+    ],
+    "commissions": [
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "chairman": false }
+    ],
+    "offices": [
+      { "councilId": 1, "roleId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "jan.hrcka.98",
+    "role": 4
+  },
+  {
+    "id": 18,
+    "name": "Elena Pätoprstá",
+    "prefix": "Ing. arch., Mgr. art.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ",
+        "votes": 1839
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Zmena zdola, DÚ, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)",
+        "votes": 1857
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 9469,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }, {
+        "id": 4,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "SaS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), KDH, SMK-MKP, NOVA, OKS, Zmena zdola, DÚ",
+        "votes": 10665
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 32, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "roleId": 1 },
+      { "councilId": 4, "period": "2017/2022", "fk": 1, "roleId": 2 }
+    ],
+    "club": null,
+    "fb": "elena.patoprsta",
+    "role": 1
+  },
+  {
+    "id": 19,
+    "name": "Vladimír Dolinay",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1732,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 2346
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 6862,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }, {
+        "id": 4,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "SaS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), KDH, SMK-MKP, NOVA, OKS, Zmena zdola, DÚ",
+        "votes": 7770
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": true },
+      { "councilId": 4, "period": "2017/2022", "fk": 2, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 3, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 4, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 5, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 6, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "roleId": 3 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "dolinay",
+    "role": 1
+  }, {
+    "id": 20,
+    "name": "Jozef Vydra",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1611,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 2116,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár"
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 29, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 37, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "jozef.vydra.3",
+    "role": 1
+  }, {
+    "id": 21,
+    "name": "Lýdia Ovečková",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1466,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 2341
+      }, {
+        "id": 3,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "SaS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), KDH, SMK-MKP, NOVA, OKS, Zmena zdola, DÚ",
+        "votes": 8474
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 3 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 2, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 3, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 7, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 6, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 36, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 38, "roleId": 1 }
+    ],
+    "offices": [
+      { "councilId": 1, "roleId": 2, "from": "2018-12-01", "to": null }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "lydia.oveckova",
+    "role": 1
+  }, {
+    "id": 22,
+    "name": "Peter Cmorej",
+    "prefix": "Mgr., Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1464,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 2376
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 7890,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 26, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "roleId": 2 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "peter.cmorej",
+    "role": 1
+  }, {
+    "id": 23,
+    "name": "Ján Bučan",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1383,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 1957
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 24, "roleId": 1 }
+    ],
+    "club": "My sme Petržalka",
+    "fb": "jan.bucan.33",
+    "role": 1
+  }, {
+    "id": 24,
+    "name": "Peter Hochschorner",
+    "prefix": "",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1357,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Zmena zdola, DÚ, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO)",
+        "votes": 1508
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 8048,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }, {
+        "id": 4,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "SaS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), KDH, SMK-MKP, NOVA, OKS, Zmena zdola, DÚ",
+        "votes": 9671
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 2, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 9, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "roleId": 1 }
+    ],
+    "fb": null,
+    "role": 1
+  }, {
+    "id": 25,
+    "name": "Oliver Kríž",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1301,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "MLADÁ PETRŽALKA - lokálna strana",
+        "votes": 1715
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 1, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 30, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 35, "roleId": 1 }
+    ],
+    "club": "Mladá Petržalka",
+    "fb": "oliver.petrzalsky?ref=br_rs",
+    "role": 1
+  },
+  {
+    "id": 26,
+    "name": "Ľuboš Kačírek",
+    "prefix": "Mgr.",
+    "suffix": "PhD.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1291,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Progresívne Slovensko, SPOLU",
+        "votes": 1861
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": true }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 14, "roleId": 1 }
+    ],
+    "club": "Team Vallo",
+    "fb": "lubos.kacirek.7",
+    "role": 1
+  }, {
+    "id": 27,
+    "name": "Juraj Kríž",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1199,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "MLADÁ PETRŽALKA - lokálna strana",
+        "votes": 1527
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-06-25", "to": null, "fk": 14, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "roleId": 1 }
+    ],
+    "club": "Mladá Petržalka",
+    "fb": "juraj.kriz.3",
+    "role": 1
+  }, {
+    "id": 28,
+    "name": "Pavel Šesták",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1094,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 1288
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "pavel.sestak.98",
+    "role": 1
+  },
+  {
+    "id": 29,
+    "name": "Jana Hrehorová",
+    "prefix": "",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1054,
+        "party": "NEKA"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 2077
+      },
+      {
+        "id": 3,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "Nezávislý kandidát",
+        "votes": 5541
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 3 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 7, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 31, "roleId": 1 }
+    ],
+    "offices": [
+      { "councilId": 1, "roleId": 3, "from": "2018-12-01", "to": null }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "jana.hrehorova",
+    "role": 1
+  },
+  {
+    "id": 30,
+    "name": "Ján Karman",
+    "prefix": "Ing.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1046,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1508
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 6646,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }, {
+        "id": 4,
+        "councilId": 4,
+        "period": "2017/2022",
+        "party": "SaS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), KDH, SMK-MKP, NOVA, OKS, Zmena zdola, DÚ",
+        "votes": 5622
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 },
+      { "councilId": 4, "from": "2018-12-01", "to": null, "electionId": 4 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 11, "chairman": true },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "chairman": true },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 3, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 4, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 10, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 6, "chairman": false },
+      { "councilId": 4, "period": "2017/2022", "fk": 11, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 22, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 5, "roleId": 1 },
+      { "councilId": 4, "period": "2017/2022", "fk": 2, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "jan.karman.7",
+    "role": 1
+  },
+  {
+    "id": 31,
+    "name": "Miroslava Makovníková Mosná",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 1027,
+        "party": "KDS, NOVA, OKS, OBYČAJNÍ ĽUDIA a nezávislé osobnosti, Zmena zdola, DÚ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1900
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 12, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "mirka.m.mosna",
+    "role": 1
+  }, {
+    "id": 32,
+    "name": "Ľudmila Farkašovská",
+    "prefix": "PhDr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 996,
+        "party": "LEPŠIA ŠTVRŤ, SNS, SMER-SD, SDS, Strana moderného Slovenska, SZS"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 1352
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 2, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 21, "roleId": 1 }
+    ],
+    "club": null,
+    "fb": "farkasovskaludmila",
+    "role": 1
+  }, {
+    "id": 33,
+    "name": "Milan Vetrák",
+    "prefix": "JUDr.",
+    "suffix": "PhD.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 953,
+        "party": "Nezávislý kandidát"
+      }, {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "Nezávislý kandidát",
+        "votes": 2223
+      }, {
+        "id": 3,
+        "councilId": 3,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "votes": 8141,
+        "party": "OBYČAJNÍ ĽUDIA a nezávislé osobnosti (OĽANO), SaS, SME RODINA - Boris Kollár, KDH, OKS, NOVA, Zmena zdola, DÚ"
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 },
+      { "councilId": 3, "from": "2018-12-01", "to": null, "electionId": 3 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "chairman": false },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": true },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-06-25", "to": null, "fk": 14, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 19, "roleId": 1 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 4, "roleId": 3 },
+      { "councilId": 3, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 6, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "milan.vetrak",
+    "role": 1
+  },
+  {
+    "id": 34,
+    "name": "Ivan Uhlár",
+    "prefix": "Mgr.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 931,
+        "party": "KDH, MLADÁ PETRŽALKA, MOST - HÍD, SIEŤ, SaS, SDKÚ-DS, SZ"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "SaS, NOVA, KDH, OKS, SME RODINA - Boris Kollár",
+        "votes": 1895
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 10, "chairman": true },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 3, "roleId": 1 }
+    ],
+    "club": "PRE Petržalku",
+    "fb": "ivan.uhlar.9",
+    "role": 1
+  },
+  {
+    "id": 35,
+    "name": "Daniela Palúchová",
+    "prefix": "Mgr.",
+    "suffix": "PhD., MPH.",
+    "elections": [
+      {
+        "id": 1,
+        "councilId": 1,
+        "period": "2014/2018",
+        "votes": 885,
+        "party": "LEPŠIA ŠTVRŤ, SNS, SMER-SD, SDS, Strana moderného Slovenska, SZS"
+      },
+      {
+        "id": 2,
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "party": "MLADÁ PETRŽALKA - lokálna strana",
+        "votes": 1289
+      }
+    ],
+    "deputies": [
+      { "councilId": 1, "from": "2014-12-01", "to": "2018-12-01", "electionId": 1 },
+      { "councilId": 1, "from": "2018-12-01", "to": null, "electionId": 2 }
+    ],
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 7, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 8, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 100, "chairman": false },
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 9, "roleId": 1 },
+      { "councilId": 1, "period": "2018/2022", "from": "2018-12-01", "to": null, "fk": 15, "roleId": 1 }
+    ],
+    "club": "Mladá Petržalka",
+    "fb": null,
+    "role": 1
+  }, {
+    "id": 53,
+    "name": "Miroslav Štefánik",
+    "prefix": "",
+    "offices": [
+      { "councilId": 1, "roleId": 4, "from": "2018-12-01", "to": "2019-05-16" }
+    ],
+    "departments": [
+      { "councilId": 1, "period": "2018/2022", "from": "2015-03-31", "to": null, "fk": 38, "roleId": 1 }
+    ],
+    "role": 2
+  }, {
+    "id": 55,
+    "name": "Stanislav Fiala",
+    "prefix": "",
+    "offices": [
+      { "councilId": 1, "roleId": 5, "from": "2018-12-01", "to": null }
+    ],
+    "role": 2
+  }, {
+    "id": 56,
+    "name": "Adam Sarlós",
+    "prefix": "",
+    "commissions": [],
+    "departments": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 37,
+        "roleId": 1
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 57,
+    "name": "Ivan Kezman",
+    "prefix": "Mgr.",
+    "commissions": [],
+    "departments": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 37,
+        "roleId": 1
+      }
+    ],
+    "offices": [
+      { "councilId": 1, "roleId": 5, "from": "2018-12-01", "to": null }
+    ],
+    "role": 3
+  }, {
+    "id": 58,
+    "name": "Michal Vičan",
+    "prefix": "",
+    "commissions": [],
+    "departments": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 38,
+        "roleId": 1
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 59,
+    "name": "Eduard Demel",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 3,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 60,
+    "name": "Lenka Jakubčová",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 3,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 61,
+    "name": "Albín Mráz",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 3,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 62,
+    "name": "Henrich Haščák",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 10,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 63,
+    "name": "Michal Pavlík",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 10,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 64,
+    "name": "Erich Stračina",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 10,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 65,
+    "name": "Viera Bieliková",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 9,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 66,
+    "name": "Maroš Buberník",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 9,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 67,
+    "name": "Gabriel Fekete",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 9,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 68,
+    "name": "Katarína Sklenková",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 9,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 69,
+    "name": "Alica Hájková",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 1,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 70,
+    "name": "Boris Hrbáň",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 1,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 71,
+    "name": "Jozef Chajdiak",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 1,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 72,
+    "name": "Štefan Wenchich",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 1,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 73,
+    "name": "Bohumil Kováč",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 1,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 74,
+    "name": "Roman Futo",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 2,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 75,
+    "name": "Ernest Huska",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 2,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 76,
+    "name": "Ján Kaľavský",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 2,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 77,
+    "name": "Jakub Kuruc",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 2,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 78,
+    "name": "Adam Sarlós",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 2,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 79,
+    "name": "Ildikó Zórádová",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 7,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 80,
+    "name": "Eva Surovková",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 7,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 81,
+    "name": "Michal Černý",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 8,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 82,
+    "name": "Martin Kleibl",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 8,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 83,
+    "name": "Marek Kovačič",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 8,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 84,
+    "name": "Ivan Lučanič",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 8,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 85,
+    "name": "Andrea Kutlíková",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 8,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 86,
+    "name": "David Běhal",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 87,
+    "name": "Michal Horváth",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 88,
+    "name": "Viktor Križo",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 89,
+    "name": "Katarína Okoličányová",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 90,
+    "name": "Milan Polešenský",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 91,
+    "name": "Viliam Ovsepian",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 6,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 92,
+    "name": "Stanislav Horínek",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 5,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 93,
+    "name": "Michal Vičan",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 5,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 94,
+    "name": "Róbert Vančo",
+    "prefix": "",
+    "commissions": [
+      {
+        "councilId": 1,
+        "period": "2018/2022", "from": "2018-12-01", "to": null,
+        "fk": 5,
+        "chairman": false
+      }
+    ],
+    "role": 3
+  }, {
+    "id": 95,
+    "name": "Peter Šinály",
+    "prefix": "Ing",
+    "offices": [
+      { "councilId": 1, "roleId": 4, "from": "2019-05-16", "to": null }
+    ],
+    "role": 2
+  }, {
+    "id": 96,
+    "name": "Dušan Beneš",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 97,
+    "name": "Martin Dait",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 98,
+    "name": "Oľga Bohuslavová",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2019-05-28", "to": null, "fk": 13, "chairman": false }
+    ],
+    "role": 2
+  }, {
+    "id": 99,
+    "name": "Ľuboš Kačírka",
+    "prefix": "",
+    "commissions": [
+      { "councilId": 1, "period": "2018/2022", "from": "2019-06-25", "to": null, "fk": 14, "chairman": true }
+    ],
+    "role": 2
+  }
+]
+}

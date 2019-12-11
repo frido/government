@@ -9,7 +9,8 @@ public class Money {
   private BigDecimal bv;
   private BigDecimal kv;
   private BigDecimal fv;
-  private List<UseKv> useKv;
+  private List<Use> useKv;
+  private List<Use> useBv;
 
 
   public Integer getYear() {
@@ -42,10 +43,16 @@ public class Money {
   public void setFv(BigDecimal fv) {
     this.fv = fv;
   }
-  public List<UseKv> getUseKv() {
+  public List<Use> getUseKv() {
     return useKv;
   }
-  public void setUseKv(List<UseKv> useKv) {
+  public void setUseKv(List<Use> useKv) {
     this.useKv = useKv;
+  }
+  public List<Use> getUseBv() {
+    return useBv;
+  }
+  public void setUseBv(List<Use> useBv) {
+    this.useBv = useBv;
   }
 }

@@ -2,7 +2,7 @@ package frido.samosprava.entity;
 
 import java.math.BigDecimal;
 
-public class UseKv {
+public class Use {
   private String title;
   private BigDecimal suma;
 
