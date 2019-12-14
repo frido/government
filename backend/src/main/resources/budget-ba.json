@@ -1427,10 +1427,10 @@
                   "fv": 0,
                   "useKv": [
                     {
-                      "title": "projekt Klimatické zmeny a Dunaj v pohraničnom pásme",
+                      "title": "Projekt Klimatické zmeny a Dunaj v pohraničnom pásme",
                       "suma": 20000
                     }, {
-                      "title": "projekt Moderná prezentácia pamiatok a pamätihodnosti MČ Bratislava - Petržalka",
+                      "title": "Projekt Moderná prezentácia pamiatok a pamätihodnosti MČ Bratislava - Petržalka",
                       "suma": 19150
                     }
                   ]
@@ -1976,20 +1976,8 @@
                       "fv": 0,
                       "useKv": [
                         {
-                            "title": "vyhotovenie PD novej cyklotrasy",
-                            "suma": 40000
-                        },
-                        {
-                            "title": "vyhotovenie PD z existujúcej Štúdie pešieho pohybu Dvory a Háje",
-                            "suma": 10000
-                        },
-                        {
-                            "title": "cyklotrasu Prístavný most - Rusovská cesta a ďalšie alternatívy ",
-                            "suma": 15000
-                        },
-                        {
-                            "title": "cyklotrasu Chorvátske rameno - Rusovská",
-                            "suma": 15000
+                            "title": "Výstavba nových cyklotrás (Prístavný most - Rusovská cesta, Chorvátske rameno - Rusovská)",
+                            "suma": 80000
                         }
                     ]
                     },
@@ -2064,7 +2052,7 @@
                       "fv": 0,
                       "useKv": [
                         {
-                          "title": "vypracovanie PD na realizáciu tých nových stavieb o ktorých rozhodne vedenie MČ",
+                          "title": "Vypracovanie projektovej dokumentácie k výstavbe nových parkovísk",
                           "suma": 20000
                         }
                       ]
@@ -2351,20 +2339,17 @@
                       "fv": 972618,
                       "useKv": [
                         {
-                          "title": "splátky bankových úverov na zníženie energetickej náročnosti ZŠ a MŠ",
+                          "title": "Splátky bankových úverov na zníženie energetickej náročnosti ZŠ a MŠ",
                           "suma": 10000
                         }, {
-                          "title": " rozšírenie kapacít MŠ na ZŠ Turnianska spoluúčasť",
-                          "suma": 18740
-                        }, {
-                          "title": "rekonštrukcie objektov ZŠ a MŠ",
+                          "title": "Rekonštrukcie objektov ZŠ a MŠ",
                           "suma": 450000
                         }, {
-                          "title": "rekonštrukciu a modernizáciu kuchýň v ZŠ a MŠ",
+                          "title": "Rekonštrukciu a modernizáciu kuchýň v ZŠ a MŠ",
                           "suma": 50000
                         }, {
-                          "title": "rekonštrukciu a modernizáciu odborných učební vrátane spoluúčasti ŠR",
-                          "suma": 871980
+                          "title": "Projekt „Budovanie a zlepšenie technického stavu odborných učební“ základných škôl (871 980 EUR)",
+                          "suma": 94734
                         }
                       ]
                     },
@@ -2674,7 +2659,7 @@
                   "fv": 0,
                   "useKv": [
                     {
-                      "title": "klimatizácia v DK Zrkadlový Háj a CC centre",
+                      "title": "Klimatizácia v DK Zrkadlový Háj a CC centre",
                       "suma": 25000
                     }
                   ]
@@ -2792,10 +2777,10 @@
                       "fv": 0,
                       "useKv": [
                         {
-                          "title": "rekonštrukcia a modernizácia Športovej haly Prokofievova",
+                          "title": "Rekonštrukcia a modernizácia Športovej haly Prokofievova",
                           "suma": 600000
                         }, {
-                          "title": "rekonštrukcia multifunkčného ihriska na Holíčskej ulici",
+                          "title": "Rekonštrukcia multifunkčného ihriska na Holíčskej ulici",
                           "suma": 21114
                         }
                       ]
@@ -3121,7 +3106,7 @@
                       "bv": 10000,
                       "kv": 0,
                       "fv": 0,
-                      "useKv": [
+                      "useBv": [
                         {
                           "title": "Zabezpečiť výkon vodnej záchrannej služby na Veľkom Draždiaku v mesiacoch jún, júl a august",
                           "suma": 10000
@@ -3182,7 +3167,13 @@
                       "year": 2020,
                       "bv": 138255,
                       "kv": 70000,
-                      "fv": 0
+                      "fv": 0,
+                      "useKv": [
+                        {
+                          "title": "Revitalizáciu verejných detských ihrísk",
+                          "suma": 70000
+                        }
+                      ]
                     },
                     {
                       "year": 2019,
@@ -3273,10 +3264,10 @@
                   "useKv": [
                     {
                       "title": "Obstaranie územného plánu zóny Kapitulsky dvor ",
-                      "suma": 20000
+                      "suma": 34757
                     }, {
                       "title": "Nový územný plán v zmysle ÚPN hlavného mesta ",
-                      "suma": 22757
+                      "suma": 8000
                     }
                   ]
                 },
@@ -3538,7 +3529,7 @@
                   "fv": 4314,
                   "useKv": [
                     {
-                      "title": "Denný stacionár pre seniorov na Vavilovovej ulici",
+                      "title": "Rekonštrukcia zariadenia s opatrovateľskou starostlivosťou na Vavilovovej ulici",
                       "suma": 34651
                     },
                     {
@@ -3830,7 +3821,7 @@
                       "fv": 0,
                       "useKv": [
                         {
-                          "title": "zabudovanie klimatizačných jednotiek v zariadení ZOS",
+                          "title": "Klimatizácie do zariadenia sociálnych služieb na Vavilovovej ulici",
                           "suma": 14000
                         }
                       ]
@@ -3953,7 +3944,7 @@
                   "fv": 0,
                   "useKv": [
                     {
-                      "title": "nákup ojazdeného automobilu pre DVPZ",
+                      "title": "Nákup ojazdeného automobilu pre DVPZ",
                       "suma": 20000
                     }
                   ]

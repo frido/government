@@ -1427,10 +1427,10 @@
                   "fv": 0,
                   "useKv": [
                     {
-                      "title": "projekt Klimatické zmeny a Dunaj v pohraničnom pásme",
+                      "title": "Projekt 'Klimatické zmeny a Dunaj v pohraničnom pásme'",
                       "suma": 20000
                     }, {
-                      "title": "projekt Moderná prezentácia pamiatok a pamätihodnosti MČ Bratislava - Petržalka",
+                      "title": "Projekt 'Moderná prezentácia pamiatok a pamätihodnosti MČ Bratislava - Petržalka'",
                       "suma": 19150
                     }
                   ]
@@ -1976,19 +1976,19 @@
                       "fv": 0,
                       "useKv": [
                         {
-                            "title": "vyhotovenie PD novej cyklotrasy",
+                            "title": "Vyhotovenie projektovej dokumentácie novej cyklotrasy",
                             "suma": 40000
                         },
                         {
-                            "title": "vyhotovenie PD z existujúcej Štúdie pešieho pohybu Dvory a Háje",
+                            "title": "Vyhotovenie projektovej dokumentácie z existujúcej Štúdie pešieho pohybu Dvory a Háje",
                             "suma": 10000
                         },
                         {
-                            "title": "cyklotrasu Prístavný most - Rusovská cesta a ďalšie alternatívy ",
+                            "title": "Cyklotrasa Prístavný most - Rusovská cesta a ďalšie alternatívy ",
                             "suma": 15000
                         },
                         {
-                            "title": "cyklotrasu Chorvátske rameno - Rusovská",
+                            "title": "Cyklotrasa Chorvátske rameno - Rusovská",
                             "suma": 15000
                         }
                     ]

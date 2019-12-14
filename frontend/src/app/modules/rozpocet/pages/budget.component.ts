@@ -7,6 +7,7 @@ import { OsobaView } from 'src/app/interfaces/interfaceOsoba';
 })
 export class BudgetComponent {
   @Input() budget: Budget;
+  @Input() budgetList: Budget[];
   opened = false;
 
   constructor() { }

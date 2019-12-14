@@ -8,6 +8,7 @@ import { Observable } from 'rxjs';
 })
 export class RozpocetListPage implements OnInit {
   spolok: Spolok;
+  budgetList: Budget[] = [];
   rozpocet: { [key:number]:Budget[]; } = {};
   projects:  { [key:number]:Project[]; } = {};
   grants: { [key:number]:Project[]; } = {};
@@ -22,6 +23,7 @@ export class RozpocetListPage implements OnInit {
   ngOnInit() {
     this.spolok = this.route.snapshot.data.spolok;
     this.service.getRozpocet(this.spolok.id).subscribe(data => {
+      this.budgetList = data;
       data.forEach(r => {
         if(this.rozpocet[r.year] == undefined) {
           this.rozpocet[r.year] = [];

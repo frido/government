@@ -11,7 +11,7 @@
 
     <app-tab [parent]="tabs" tabTitle="Kapitalove vydavky">
       <ng-container *ngFor="let r of rozpocet[activeYear]">
-        <app-budget [budget]="r"></app-budget>
+        <app-budget [budget]="r" [budgetList]="budgetList"></app-budget>
       </ng-container>
     </app-tab>
 

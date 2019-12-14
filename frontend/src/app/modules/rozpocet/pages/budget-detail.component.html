@@ -17,3 +17,14 @@
         </div>
     </div>
 </div>
+
+<div *ngFor="let year of years" class="card-detail-item">
+        <i class="fas fa-backward fa-2x"></i>
+        <div>
+            <strong>{{year}}</strong>
+            <div *ngFor="let budgetPast of budgetMap.get(year)" class="description">
+                <em>{{budgetPast.value | currency:'€'}}</em> - {{budgetPast.title}}
+            </div>
+        </div>
+    
+</div>

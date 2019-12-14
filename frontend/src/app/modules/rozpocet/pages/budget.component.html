@@ -5,6 +5,6 @@
     <span class="icon-result">{{budget.value | currency:'€'}}</span>
   </div>
   <div *ngIf="opened" class="card-detail">
-    <app-budget-detail  [budget]="budget"></app-budget-detail>
+    <app-budget-detail  [budget]="budget" [budgetList]="budgetList"></app-budget-detail>
   </div>
 </div>
