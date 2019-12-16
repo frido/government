@@ -26,8 +26,8 @@ public class AppConfig {
 
   @Bean
   public DataStore dataStore() {
-    return new ClassPathStore();
-    // return new HttpStore(webClient(), "https://frido.github.io/government/db/");
+    // return new ClassPathStore();
+    return new HttpStore(webClient(), "https://frido.github.io/government/db/");
   }
 
   @Bean

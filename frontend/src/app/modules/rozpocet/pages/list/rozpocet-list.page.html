@@ -2,14 +2,14 @@
 <div class="content">
 
   <div class="tabs">
-  <div *ngFor="let y of years" class="tab" (click)="activeYear = y" [class.active]="activeYear == y">
+  <div *ngFor="let y of yearsList" class="tab" (click)="activeYear = y" [class.active]="activeYear == y">
     {{y}}
   </div>
 </div>
 
   <app-tabs #tabs>
 
-    <app-tab [parent]="tabs" tabTitle="Kapitalove vydavky">
+    <app-tab [parent]="tabs" tabTitle="Kapitálové výdavky">
       <ng-container *ngFor="let r of rozpocet[activeYear]">
         <app-budget [budget]="r" [budgetList]="budgetList"></app-budget>
       </ng-container>
@@ -19,12 +19,14 @@
       <ng-container *ngFor="let p of projects[activeYear]">
         <app-project [project]="p"></app-project>
       </ng-container>
+      <div *ngIf="isProjectsVisible(activeYear)">Žiadne projekty pre tento rok</div>
     </app-tab>
 
     <app-tab [parent]="tabs" tabTitle="Granty">
       <ng-container *ngFor="let g of grants[activeYear]">
         <app-project [project]="g"></app-project>
       </ng-container>
+      <div *ngIf="isGrantsVisible(activeYear)">Žiadne granty pre tento rok</div>
     </app-tab>
 
   </app-tabs>
