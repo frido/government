@@ -1379,7 +1379,7 @@
             {
               "program": "1.3",
               "title": "Výkon funkcie miestneho kontrolóra",
-              "comment": "Kontroly budú vykonávané v zmysle právnych predpisov platných pre oblasť kontroly a plánu kontrolnej činnosti, ktorý na obdobie I. a II. polroka 2019 schváli uznesením Miestne zastupiteľstvo mestskej časti Bratislava-Petržalka. Kontrola vybavovania sťažností bude prešetrovaná v zmysle zákona č. 9/2010 Z.z. o sťažnostiach a Smernice o postupe pri vybavovaní sťažností. Kontrola vybavovania petícií bude prešetrovaná v zmysle zákona č. 85/1990 Zb. o petičnom práve a Smernice o postupe pri vybavovaní petícií.",
+              "comment": "Kontroly budú vykonávané v zmysle právnych predpisov platných pre oblasť kontroly a plánu kontrolnej činnosti",
               "use": [
                 "tarifný plat a odvody do poisťovní v zmysle zákonov pre kontrolóra MÚ",
                 "cestovné náhrady tuzemsko",
@@ -1966,7 +1966,7 @@
                 {
                   "program": "4.1.3",
                   "title": "Výstavba nových chodníkov, komunikácií a cyklotrás",
-                  "comment": "V roku 2019 plánuje MČ zrealizovať zjednotenie značenia po celej dĺžke Petržalského korza. V časti Petržalského korza (konkrétne križovatka Röntgenova - Kopčianska) treba vytvoriť bezpečný bezbariérový priechod pre chodcov a cyklistov. V roku 2019 plánuje OPR pokračovať v osadení a prípadnej oprave cyklostojanov pred materskými školami.",
+                  "comment": null,
                   "use": [],
                   "money": [
                     {
@@ -2132,7 +2132,7 @@
                   "title": "Materské školy",
                   "comment": "V zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka - 25 materských škôl (MŠ) zaradených do siete škôl a školských zariadení Slovenskej republiky.",
                   "use": [
-                    "Navrhované výdavky zahŕňajú osobné a prevádzkové výdavky na bežnú činnosť materských škôl a školských jedální pri materských školách. V osobných výdavkoch sa vychádzalo z nárastu tarifného platu od 1.1.2019 pedagogických aj nepedagogických zamestnancov."
+                    "Navrhované výdavky zahŕňajú osobné a prevádzkové výdavky na bežnú činnosť materských škôl a školských jedální pri materských školách."
                   ],
                   "money": [
                     {
@@ -2161,7 +2161,7 @@
                   "title": "Stredisko služieb školám a školským zariadeniam",
                   "comment": "Stredisko služieb školám a školským zariadeniam Petržalka (stredisko) je priamo riadenou organizáciou mestskej časti Bratislava-Petržalka a je v právnej subjektivite. Materské školy (MŠ) a školské jedálne (ŠJ) MŠ, ktorých zriaďovateľom je mestská časť nie sú právnej subjektivite a z toho dôvodu im stredisko zabezpečuje energetické a vodné hospodárstvo, majetkovú a bytovú agendu, komplexnú ekonomickú, mzdovú a personálnu agendu. Stredisko je zamestnávateľom pedagogických a nepedagogických zamestnancov MŠ a ŠJ MŠ. MŠ a ŠJ MŠ sú preddavkovými organizáciami strediska. Okrem toho stredisko zabezpečuje pre MŠ a ŠJ MŠ ale aj pre základné školy v zriaďovateľskej pôsobnosti mestskej časti odbornú, technickú a materiálnu pomoc, bežnú údržbu vlastnými kapacitami, verejné obstarávanie tovarov, služieb a prác, prepravu materiálu a tovarov, atď.",
                   "use": [
-                    "Navrhované výdavky zahŕňajú osobné a prevádzkové výdavky aparátu Strediska služieb školám a školským zariadeniam. V osobných výdavkoch sa vychádzalo z nárastu tarifného platu od 1.1.2019 pedagogických aj nepedagogických zamestnancov."
+                    "Navrhované výdavky zahŕňajú osobné a prevádzkové výdavky aparátu Strediska služieb školám a školským zariadeniam."
                   ],
                   "money": [
                     {
@@ -2327,7 +2327,7 @@
                 {
                   "program": "5.3.1",
                   "title": "Projekt Zlepšenie technického stavu budov",
-                  "comment": "V roku 2019 sa plánuje podľa finančných možností zlepšovanie hygienických a bezpečnostných podmienok objektov základných a materských škôl.",
+                  "comment": null,
                   "use": [
                     "V rámci bežných výdavkov sú rozpočtované úroky z poskytnutých úverov, výdavky na zníženie 36 energetickej náročnosti školských budov a odhadované výdavky na príspevky na rekreačné poukazy zamestnancov"
                   ],
@@ -2465,7 +2465,7 @@
             {
               "program": "5.5",
               "title": "Podpora voľnočasových aktivít v základných školách",
-              "comment": "Školské kluby detí (ŠKD) v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka sú neoddeliteľnou súčasťou 11 základných škôl (ZŠ). V roku 2019 v 11 ŠKD je 87 oddelení ŠKD s počtom 2200 žiakov. ŠKD poskytujú žiakom výchovu a vzdelávanie v súlade so svojimi školskými výchovnými programami. V dennej programovej štruktúre zabezpečujú prípravu žiakov na vyučovanie, kvalitný výchovný program a aktívne zapojenie žiakov do rôznych projektov organizovaných pre žiakov navštevujúcich ŠKD napr. projekt mestskej časti Tanec v duši. Pri realizácii svojej činnosti aktívne spolupracujú aj s ďalšími subjektami podieľajúcimi sa na výchove a vzdelávaní. Činnosti, ktoré ŠKD realizujú pre žiakov sú súčasne významnými benefitmi pre zákonných zástupcov žiakov pri výchove a vzdelávaní ich detí a v poskytovaní celodennej starostlivosti o ne. Významným doplnkom činnosti a ponuky voľnočasových aktivít sú aj centrá voľného času, ktoré vykonávajú svoju činnosť ako súčasť ZŠ Holíčska a ZŠ Pankúchova. Rozvoj nadania a talentu detí realizujú ZŠ aj formou záujmového vzdelávania s využitím inštitútu vzdelávacích poukazov. ZŠ organizujú podľa záujmu žiakov, v rámci mimovyučovacej činnosti, pestrú a bohatú záujmovú činnosť formou záujmových krúžkov.",
+              "comment": "Školské kluby detí (ŠKD) v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka sú neoddeliteľnou súčasťou 11 základných škôl (ZŠ). ŠKD poskytujú žiakom výchovu a vzdelávanie v súlade so svojimi školskými výchovnými programami. V dennej programovej štruktúre zabezpečujú prípravu žiakov na vyučovanie, kvalitný výchovný program a aktívne zapojenie žiakov do rôznych projektov organizovaných pre žiakov navštevujúcich ŠKD napr. projekt mestskej časti Tanec v duši. Pri realizácii svojej činnosti aktívne spolupracujú aj s ďalšími subjektami podieľajúcimi sa na výchove a vzdelávaní. Činnosti, ktoré ŠKD realizujú pre žiakov sú súčasne významnými benefitmi pre zákonných zástupcov žiakov pri výchove a vzdelávaní ich detí a v poskytovaní celodennej starostlivosti o ne. Významným doplnkom činnosti a ponuky voľnočasových aktivít sú aj centrá voľného času, ktoré vykonávajú svoju činnosť ako súčasť ZŠ Holíčska a ZŠ Pankúchova. Rozvoj nadania a talentu detí realizujú ZŠ aj formou záujmového vzdelávania s využitím inštitútu vzdelávacích poukazov. ZŠ organizujú podľa záujmu žiakov, v rámci mimovyučovacej činnosti, pestrú a bohatú záujmovú činnosť formou záujmových krúžkov.",
               "use": [
                 "Navrhované výdavky zahŕňajú osobné a prevádzkové výdavky pre školské kluby detí a centrum voľného času na Základnej škole Holíčska a na Základnej škole Pankúchova vrátane valorizácie."
               ],
@@ -2558,7 +2558,7 @@
               "title": "Podujatia žiakov ZŠ a MŠ",
               "comment": "Podujatia žiakov ZŠ a MS",
               "use": [
-                "Oddelenie školstva a športu plánuje čerpať finančné prostriedky na tradičné podujatia pre žiakov ZŠ na organizovanie tradičných súťaží, ako sú: História magistra vitae, Malá olympiáda anglického jazyka , recitačná súťaž v anglickom jazyku Novodobo so Shakespearom, nakultúrno-pohybové aktivity a športový rozvoj žiakov školských klubov detí (Tanec v duši a Olympijský festival nádejí Petržalky), ďalej na kultúrne a športové podujatia materských škôl, na výchovno-vzdelávacie podujatia, súťaže a prehliadky, na podujatia : Literárna prehliadka detí MŠ, Detská športová olympiáda, Tvorivé dielne LEGOklubu, Farebný svet, ktoré podporujú talenty detí. V školskom roku 2018/2019 bude realizované podujatie pre deti MŠ Modrý deň, na realizáciu projektu mestskej časti Petržalská super škola."
+                "Oddelenie školstva a športu plánuje čerpať finančné prostriedky na tradičné podujatia pre žiakov ZŠ na organizovanie tradičných súťaží, ako sú: História magistra vitae, Malá olympiáda anglického jazyka , recitačná súťaž v anglickom jazyku Novodobo so Shakespearom, nakultúrno-pohybové aktivity a športový rozvoj žiakov školských klubov detí (Tanec v duši a Olympijský festival nádejí Petržalky), ďalej na kultúrne a športové podujatia materských škôl, na výchovno-vzdelávacie podujatia, súťaže a prehliadky, na podujatia : Literárna prehliadka detí MŠ, Detská športová olympiáda, Tvorivé dielne LEGOklubu, Farebný svet, ktoré podporujú talenty detí."
               ],
               "money": [
                 {
@@ -2614,7 +2614,7 @@
               "title": "Miestna knižnica Petržalka",
               "comment": "Miestna knižnica Petržalka (ďalej len „knižnica“) je rozpočtovou organizáciou, ktorá je napojená svojimi príjmami a výdavkami na rozpočet zriaďovateľa, mestskú časťBratislava-Petržalka. Hospodári samostatne podľa schváleného rozpočtu na príslušný rozpočtový rok s prostriedkami, ktoré jej určí zriaďovateľ v rámci svojho rozpočtu. Predmetom činnosti knižnice podľa zriaďovacej listiny je získavanie, spracovávanie, ochraňovanie a sprístupňovanie kníh, periodík, audiovizuálnych a iných knižničných dokumentov. Knižnica poskytuje pomoc čitateľom a používateľom pri výbere a získavaní literatúry, čím plní funkciu výchovnú, vzdelávaciu a informačnú.",
               "use": [
-                "Plánovaný rozpočet je určený na mzdy (tarifné platy, osobné a ostatné príplatky), poistné a príspevok do poisťovní, výdavky na nemocenské dávky, tovary a služby (cestovné náhrady, energie, poštovné a telekomunikačné služby, komunikačnú infraštruktúru, interiérové vybavenie, výpočtovú techniku, všeobecný materiál, nákup kníh a časopisov, licencií, reprezentačné výdavky, ďalej výdavky na dopravu, údržbu, poistenie automobilov, údržbu budov a zariadení, špeciálne služby, nájomné, výdavky súvisiace s priamym organizačno-technickým zabezpečením a propagáciou projektov, programov a podujatí organizovaných MKP a s tým súvisiacimi odmenami zamestnancom mimopracovného pomeru). Vo výdavkoch sú zahrnuté aj úpravy tarifných platov v súlade s valorizáciou od 1.1.2019."
+                "Plánovaný rozpočet je určený na mzdy (tarifné platy, osobné a ostatné príplatky), poistné a príspevok do poisťovní, výdavky na nemocenské dávky, tovary a služby (cestovné náhrady, energie, poštovné a telekomunikačné služby, komunikačnú infraštruktúru, interiérové vybavenie, výpočtovú techniku, všeobecný materiál, nákup kníh a časopisov, licencií, reprezentačné výdavky, ďalej výdavky na dopravu, údržbu, poistenie automobilov, údržbu budov a zariadení, špeciálne služby, nájomné, výdavky súvisiace s priamym organizačno-technickým zabezpečením a propagáciou projektov, programov a podujatí organizovaných MKP a s tým súvisiacimi odmenami zamestnancom mimopracovného pomeru). "
               ],
               "money": [
                 {
@@ -2736,7 +2736,7 @@
                 {
                   "program": "6.4.1",
                   "title": "Športové podujatia",
-                  "comment": "Oddelenie školstva a športu s cieľom ďalšieho rozvoja športu v podmienkach mestskej časti a aj na základe záujmu jednotlivých vekových kategórií obyvateľov Petržalky plánuje v roku 2019 organizovať športové podujatia",
+                  "comment": "Oddelenie školstva a športu s cieľom ďalšieho rozvoja športu v podmienkach mestskej časti a aj na základe záujmu jednotlivých vekových kategórií obyvateľov Petržalky plánuje organizovať športové podujatia",
                   "use": [
                     "Oddelenie školstva a športu plánuje čerpať finančné prostriedky na zabezpečovanie športových podujatí pre obyvateľov mestskej časti Bratislava-Petržalka, ďalej na vzdelávanie zamestnancov mestskej časti v oblasti bezpečnosti a ochrany zdravia pri práci a zdatnosti spojené s branno-športovými aktivitami."
                   ],
@@ -2832,7 +2832,7 @@
             {
               "program": "7.1",
               "title": "Starostlivosť o zeleň",
-              "comment": "Údržba verejnej zelene v správe mestskej časti sa bude v roku 2019 zabezpečovaťvlastnými pracovníkmi a technikou Miestneho podniku verejnoprospešných služieb Petržalka. Starostlivosť o zeleň zahŕňa údržbu sídliskovej zelene, Sadu Janka Kráľa, Tyršovho nábrežia, zelene v areáloch MŠ, ZŠ, detských ihrísk, dočasne zatrávnených plôch a údržbu zelene zrevitalizovaných námestí a vnútroblokov.",
+              "comment": "Údržba verejnej zelene v správe mestskej časti sa bude zabezpečovať vlastnými pracovníkmi a technikou Miestneho podniku verejnoprospešných služieb Petržalka. Starostlivosť o zeleň zahŕňa údržbu sídliskovej zelene, Sadu Janka Kráľa, Tyršovho nábrežia, zelene v areáloch MŠ, ZŠ, detských ihrísk, dočasne zatrávnených plôch a údržbu zelene zrevitalizovaných námestí a vnútroblokov.",
               "use": [
                 "V roku 2019 budú finančné prostriedky poskytnuté transferom pre MP VPS a to na zabezpečovanie starostlivosti o verejnú zeleň v správe mestskej časti. Starostlivosť o zeleňzahŕňa údržbu sídliskovej zelene, Sadu Janka Kráľa, Tyršovho nábrežia, zelene v areáloch MŠ, ZŠ, detských ihrísk, dočasne zatrávnených plôch a údržbu zelene zrevitalizovaných námestí a vnútroblokov. Čiastka vo výške 766 000 € je vyčlenená na realizáciu novej koncepcie starostlivosti o verejnú zeleň"
               ],
@@ -2983,7 +2983,7 @@
                 {
                   "program": "7.3.1",
                   "title": "Údržba a čistota verejných priestranstiev",
-                  "comment": "V roku 2019 plánujeme zabezpečiť údržbu polievacích vodovodov, pitných fontánok a fontány v SJK v štandardnom režime. Oddelenie životného prostredia z predmetného prvku zabezpečuje veterinárnu asanáciu, jarné a jesenné čistenie v rámci pristavovania veľkokapacitných kontajnerov, poplatky za odvádzanie dažďovej vody pre BVS,a.s, poplatky na zabezpečenie prevádzky prečerpávacej stanice odpadových vôd umiestnenej v SOU Vranovská, poplatky za elektrickú energiu za čerpanie podzemnej vody na polievanie zelene, poplatky správcovi toku za odber podzemnej vody, jarná a 58 jesenná deratizácia verejných priestranstiev v sídlisku, postrek pagaštanov v SJK a v sídlisku, postrek proti komárom, nákup materiálu v súvislosti s brigádami organizovanými oddelením ŽP, osadenie a obnovu informačných tabúľ a nástrekov piktogramov, práce pri realizácii zálievky zelene, vypracovanie projektovej dokumentácie na náhradnú výsadbu drevín v SJK.",
+                  "comment": null,
                   "use": [
                     "Oddelenie životného prostredia plánuje čerpať finančné prostriedky z predmetného prvku na veterinárnu asanačnú službu, na jarné a jesenné čistenie (pristavovanie veľkokapacitných kontajnerov), na čistenie Veľkého Draždiaka a Chorvátskeho ramena pred letnou sezónou, na poplatky za odvádzanie vôd z povrchového odtoku verejnou kanalizáciou z miestnych komunikácií 3. a 4. triedy , na poplatky na zabezpečenie prevádzky prečerpávacej stanice odpadových vôd umiestnenej v SOU Vranovská, na poplatky za elektrickú energiu za čerpanie podzemnej vody, na polievanie, na deratizáciu verejných priestranstiev, postreky proti karanténnym škodcom, na osadenie informačných tabúľ, na polievanie verejnej zelene v SJK, na osadenie zábran do zelene, na odborné posudky, na nákup materiálu v súvislosti s organizovaním brigád.",
                     "Návrh rozpočtu na bežné výdavky pre MP VPS predpokladá so sumou 127 470,- € na pokrytie výdavkov za zberný dvor.",
@@ -3014,7 +3014,7 @@
                 {
                   "program": "7.3.2",
                   "title": "Starostlivosťo psov",
-                  "comment": "V roku 2019 Oddelenie projektového riadenia plánuje realizovať minimálne 1 nový oplotený výbeh pre psov. V programe 7.3.2. sa na roky 2019 - 2021 uvažuje v rámci už existujúcich výbehov pre psov aj s finančnými prostriedkami určenými na ich prípadnú rekonštrukciu či opravu. V súlade so zákonom č. 282/2002, ktorým sa upravujú niektoré podmienky držania psov, bude zabezpečované vyprázdňovanie košov na psie exkrementy, dopĺňanie vreciek, poskytovanie vreciek evidovaným majiteľom psov a osadenie nových košov a oprava pôvodných košov podľa potreby.",
+                  "comment": null,
                   "use": [
                     "Finančné prostriedky z rozpočtu oddelenia životného prostredia budú použité na zabezpečovanie vyprázdňovania košov na psie exkrementy, dopĺňanie vreciek, poskytovanie vreciek evidovaným majiteľom psov , na osadenie nových košov, na opravy pôvodných košov podľa potreby."
                   ],
@@ -3036,6 +3036,12 @@
                       "bv": 45000,
                       "kv": 20000,
                       "fv": 0,
+                      "useBv": [
+                        {
+                          "title": "V programe 7.3.2. sa na roky 2019 - 2021 uvažuje v rámci už existujúcich výbehov pre psov aj s finančnými prostriedkami určenými na ich prípadnú rekonštrukciu či opravu. V súlade so zákonom č. 282/2002, ktorým sa upravujú niektoré podmienky držania psov, bude zabezpečované vyprázdňovanie košov na psie exkrementy, dopĺňanie vreciek, poskytovanie vreciek evidovaným majiteľom psov a osadenie nových košov a oprava pôvodných košov podľa potreby.",
+                          "suma": 45000
+                        }
+                      ],
                       "useKv": [
                         {
                           "title": "Vybudovanie nového oploteného výbehu pre psov",
@@ -3251,7 +3257,7 @@
             {
               "program": "8.1",
               "title": "Urbanistické štúdie a územné plány zón",
-              "comment": "Obstaranie územného plánu zóny Sad Janka Kráľa ako záväzného dokumentu a tiež územného plánu zóny Kapitulský dvor pre stanovenie regulatívov v území. Obstaranie štúdie Tyršovo nábrežie pre návrh možného rozvoja uvedeného územia.",
+              "comment": null,
               "use": [
                 "Oddelenie územného rozvoja a dopravy plánuje v rozpočte bežných výdavkov finančné prostriedky na urbanistické štúdie a kapitálové výdavky na územné plány zóny Kapitulský Dvor."
               ],
@@ -3276,6 +3282,12 @@
                   "bv": 20000,
                   "kv": 39916,
                   "fv": 0,
+                  "useBv": [
+                    {
+                      "title": "Obstaranie územného plánu zóny Sad Janka Kráľa ako záväzného dokumentu a tiež územného plánu zóny Kapitulský dvor pre stanovenie regulatívov v území. Obstaranie štúdie Tyršovo nábrežie pre návrh možného rozvoja uvedeného územia.",
+                      "suma": 20000
+                    }
+                  ],
                   "useKv": [
                     {
                       "title": "výdavky na územné plány zóny Kapitulský Dvor",
@@ -3320,7 +3332,7 @@
                 {
                   "program": "8.2.1",
                   "title": "Stavebný úrad",
-                  "comment": "Stavebný úrad zabezpečuje prenesený výkon štátnej správy na obce - MČBratislava-Petržalka. Náklady súvisia s transferom zo štátneho rozpočtu podľa počtu obyvateľov.",
+                  "comment": "Stavebný úrad zabezpečuje prenesený výkon štátnej správy na obce - MČ Bratislava-Petržalka. Náklady súvisia s transferom zo štátneho rozpočtu podľa počtu obyvateľov.",
                   "use": [
                     "Finančné prostriedky budú použité pre štrnástich zamestnancov na:",
                     "energie",
@@ -3516,7 +3528,7 @@
             {
               "program": "9.3",
               "title": "Obnova a údržba majetku",
-              "comment": "OPR plánuje v roku 2019 finančné prostriedky na vyhotovenie projektových dokumentácií v prípade zapojenia sa do ďalších výziev, v rámci ktorých bude potrebná projektová dokumentácia. Plánujeme tiež realizovať projekt Vybudovanie denného stacionáru pre seniorov na Vavilovovej ul. v rámci Integrovaného regionálneho operačného programu, operačný program: Ľahší prístup k efektívnym a kvalitnejším verejným službám, špecifický cieľ: Podporiť prechod poskytovania sociálnych služieb a zabezpečenia výkonu opatrení sociálnoprávnej ochrany detí a sociálnej kurately v zariadení z inštitucionálnej formy na komunitnú a podporiť rozvoj služieb starostlivosti o dieťa do troch rokov veku na komunitnej úrovni. Referát správy miestneho majetku chce v rámci hospodárneho nakladania s majetkom realizovaťprenájom nehnuteľností zverených do správy mestskej časti, zabezpečiť úhradu nájomného za prenajatý majetok. Formou poistenia majetku zabezpečiť starostlivosť o zverený ako aj vlastný majetok. V rámci možností zabezpečiť opravu a údržbu zvereného majetku tak, aby jeho ďalšie využívanie bolo čo najlepšie. Taktiež chce zabezpečiť predaj majetku, ktorý sa stal pre mestskú časť nadbytočným.",
+              "comment": null,
               "use": [
                 "Oddelenie nakladania s majetkom plánuje čerpať finančné prostriedky na servis údržbu a opravu osobného výťahu na petržalskej železničnej stanici, na vyhotovenie geometrických plánov, ktoré budú slúžiť ako podklad k zapísaniu vlastníctva nehnuteľností do katastra nehnuteľností, na úhradu poplatkov v prípade účasti na súdnych sporoch mestskej časti voči dlžníkom (neplatenie nájomného za pozemky, budovy), na vypracovanie znaleckých posudkov vo veciach ocenenia nehnuteľností v k.ú. Petržalka pre účely odpredaja, na úhradu nájomného za pozemky vo vlastníctve Incheby a.s. pod Petržalským korzom , nájomné za pozemok- stavebný dvor Revitalizácia Vlasteneckého nám., na energiu a údržbu prečerpávacej stanice Chorvátske rameno, na údržbu budov v správe ONsM.",
                 "Na rok 2019 plánujeme finančné prostriedky v navrhovanej sume 20 000 EUR použiť na dopracovanie projektovej dokumentácie potrebnej k predloženiu žiadosti o nenávratný finančný príspevok projektu rekonštrukcie zariadenia opatrovateľskej služby na Vavilovovej ulici. Suma žiadaného nenávratného finančného príspevku (NFP) predstavuje 975 000 EUR. Čo sa týka povinného spolufinancovania projektu, toto zabezpečí mestská časť Bratislava-Petržalka z vlastných zdrojov vo výške minimálne 5 % z celkového rozpočtu, čo predstavuje sumu 55 152 EUR. Čerpanie predpokladáme počas obdobia 2 rokov (2020 - 2021) a preto je aj rozdelená suma v rámci výdavkov aj spolufinancovania projektu."
