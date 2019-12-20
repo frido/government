@@ -5479,7 +5479,7 @@
         }, {
             "id": 197,
             "number": 158,
-            "type": "sprava",
+            "type": "info",
             "councilId": 1,
             "meetingId": 10,
             "creatorIds": [55],
