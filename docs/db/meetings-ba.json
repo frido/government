@@ -55,6 +55,12 @@
       "date": "2019-09-30",
       "time": "09:00",
       "place": "v spoločenskej miestnosti č. 2, Ekonomickej Univerzity v Bratislave, Dolnozemská cesta č. 1, Bratislava"
+    }, {
+      "id": 10,
+      "councilId": 1,
+      "date": "2019-12-10",
+      "time": "09:00",
+      "place": "v spoločenskej miestnosti č. 2, Ekonomickej Univerzity v Bratislave, Dolnozemská cesta č. 1, Bratislava"
     }
   ]
 }

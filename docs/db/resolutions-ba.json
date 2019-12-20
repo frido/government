@@ -5202,6 +5202,322 @@
             "voteNoIds": [],
             "presented": 0,
             "source": "https://www.petrzalka.sk/wp-content/uploads/2019/09/Uznesenia_MZ_30_09_2019Tla%C4%8D_fin_aktual.pdf"
+        }, {
+            "id": 186,
+            "number": 146,
+            "type": "rozpocet",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Návrh úpravy rozpočtu mestskej časti Bratislava-Petržalka na rok 2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Úpravu rozpočtu mestskej časti Bratislava-Petržalka na rok 2019"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/3.-N%C3%A1vrh-na-%C3%BApravu-rozpo%C4%8Dtu-2019-3.pdf"
+        }, {
+            "id": 187,
+            "number": 147,
+            "type": "rozpocet",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Návrh rozpočtu mestskej časti Bratislava-Petržalka na rok 2020 s výhľadom do roku 2022",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "rozpočet mestskej časti Bratislava-Petržalka na rok 2020 s príjmami a výdavkami v čiastke 43 965 819 EUR ",
+                        "použitie rezervného fondu mestskej časti Bratislava-Petržalka na rok 2020",
+                        "poverenie starostu upravovať v priebehu roka záväzné ukazovatele a vykonávať rozpočtové opatrenia na rok 2020 : ",
+                        "v plnej výške v prípade účelovo určených finančných prostriedkov poskytnutých zo štátneho rozpočtu, z Európskej únie a iných prostriedkov zo zahraničia poskytnutých na konkrétny účel, z rozpočtu iného subjektu verejnej správy a účelovo poskytnutých darov ",
+                        "vykonávať presun rozpočtovaných príjmov v rámci schváleného rozpočtu, pričom sa nemenia celkové príjmy ",
+                        "vykonávať presun rozpočtovaných výdavkov medzi programami do výšky 100 000 EUR a medzi podprogramami a prvkami v rámci jedného programu do výšky 50 000 EUR,",
+                        "vykonávať rozpočtové opatrenia zmenou príjmov a výdavkov pri zabezpečení vyrovnanosti alebo prebytku rozpočtu do výšky 50 000 EUR ",
+                        "v podprograme 5.1 predškolské vzdelávanie vykonávať presun výdavkov medzi prvkami bez obmedzenia pri zachovaní celkovej výšky výdavkov",
+                        "nevyčerpané finančné prostriedky, ktoré budú zapracované v rámci prerozdelenia prebytku rozpočtu za rok 2019 nasledovne: - rekonštrukcia schodísk na terasy 80 000 €, - výstavba chodníkov, komunikácií a cyklotrás 120 000 €"
+                    ]
+                }, {
+                    "title": "zobrať na vedomie",
+                    "descriptions": [
+                        "výhľad rozpočtu mestskej časti Bratislava-Petržalka na roky 2021 a 2022 ",
+                        "odborné stanovisko miestneho kontrolóra mestskej časti Bratislava-Petržalka k Návrhu rozpočtu mestskej časti Bratislava-Petržalka na rok 2020 s výhľadom do roku 2022"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/2.-N%C3%A1vrh-rozpo%C4%8Dtu-M%C4%8C-BA-Petr%C5%BEalka-na-rok-2020-s-v%C3%BDh%C4%BEadom-do-roku-2022.pdf"
+        }, {
+            "id": 188,
+            "number": 148,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [29, 9],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava- Petržalka, ktorým sa mení a dopĺňa Všeobecné záväzné nariadenie mestskej časti Bratislava–Petržalka č. 7/2015 z 22. Septembra 2015 o poskytovaní finančných dotácií z rozpočtu mestskej časti Bratislava-Petržalka v znení č.7/2017 a VZN č. 2/2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecné záväzné nariadenie mestskej časti Bratislava-Petržalka č. 7/2015 z 22. septembra 2015 o poskytovaní finančných dotácií z rozpočtu mestskej časti Bratislava-Petržalka v znení VZN č. 7/2017 a VZN č. 2/2019 "
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/4.-Hrehorov%C3%A1_Jancokova_VZN-o-poskytovan%C3%AD-dot%C3%A1cie_MZ.pdf"
+        }, {
+            "id": 189,
+            "number": 149,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č.5/2017 z 28.februára 2017 o miestnom poplatku za rozvoj na území mestskej časti Bratislava Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 5/2017 z 28. februára 2017 o miestnom poplatku za rozvoj na území mestskej časti Bratislava-Petržalka."
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/5.-VZN-mestskej-%C4%8Dast-o-polatku-za-rozvoj_zmena_MZ.pdf"
+        }, {
+            "id": 190,
+            "number": 150,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Návrh na zrušenie Fondu rozvoja mestskej časti Bratislava-Petržalka a s tým súvisiacich dokumentov",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "1. zrušenie mimorozpočtového Fondu rozvoja mestskej časti Bratislava-Petržalka",
+                        "2. zrušenie Štatútu Fondu rozvoja mestskej časti Bratislava-Petržalka",
+                        "3. zrušenie Rady fondu rozvoja a odvoláva súčasných členov Rady fondu rozvoja",
+                        "Súčasní členovia Rady fondu rozvoja:",
+                        "a) Petrovič Drahan",
+                        "b) Repka Matúš",
+                        "c) Pätoprstá Elena",
+                        "d) Vetrák Milan",
+                        "e) Cmorej Peter",
+                        "f) Uhlár Ivan",
+                        "g) Kríž Oliver",
+                        "h) Bučan Ján",
+                        "4. vytvorenie pracovnej skupiny pre Správu poplatku za rozvoj",
+                        "5. členov pracovnej skupiny pre Správu poplatku za rozvoj",
+                        "Návrh na členov pracovnej skupiny pre Správu poplatku za rozvoj:",
+                        "a) Petrovič Drahan",
+                        "b) Repka Matúš",
+                        "c) Pätoprstá Elena",
+                        "d) Vetrák Milan",
+                        "e) Cmorej Peter",
+                        "f) Uhlár Ivan",
+                        "g) Kríž Oliver",
+                        "h) Bučan Ján"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/6.-N%C3%A1vrh-na-zru%C5%A1enie-Fondu-rozvoja-mestskej-%C4%8Dasti-Bratislava-Petr%C5%BEalka_MZ.pdf"
+        }, {
+            "id": 191,
+            "number": 151,
+            "type": "ine",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Prerokovanie protestu prokurátora proti Čl. I bod 2. Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č. 7/2019 zo dňa 25.06.2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "vyhovuje",
+                    "descriptions": [
+                        "protestu prokurátora proti Čl. I bod 2. Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka č. 7/2019 zo dňa 25.06.2019, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka v znení VZN č. 4/2013, VZN č. 3/2015 a VZN č. 4/2019"
+                    ]
+                }, {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 1/2012 zo dňa 17.04.2012 o určení výšky príspevku a spôsobe jeho platby na čiastočnú úhradu nákladov v školách a školských zariadeniach v zriaďovateľskej pôsobnosti mestskej časti BratislavaPetržalka v znení VZN č. 4/2013, VZN č. 3/2015, VZN č. 4/2019, VZN č. 7/2019 a VZN č. 15/2019"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/7.-MZ_Vyhovenie_protestu_7_2019.pdf"
+        }, {
+            "id": 192,
+            "number": 153,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Prerokovanie protestu prokurátora proti Všeobecne záväznému nariadeniu mestskej časti Bratislava-Petržalka č. 8/2019 zo dňa 25.06.2019 o poskytnutí zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "nevyhovuje",
+                    "descriptions": [
+                        "protestu prokurátora proti Všeobecne záväznému nariadeniu mestskej časti BratislavaPetržalka č. 8/2019 zo dňa 25.06.2019 o poskytnutí zľavy z príspevku na čiastočnú úhradu výdavkov za pobyt dieťaťa v materskej škole v zriaďovateľskej pôsobnosti mestskej časti Bratislava-Petržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/8.-MZ_Nevyhovenie-protestu_8_2019.pdf"
+        }, {
+            "id": 193,
+            "number": 154,
+            "type": "vzn",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Návrh Všeobecne záväzného nariadenia mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 13/2019 zo dňa 9. septembra 2019 o dočasnom parkovaní motorových vozidiel",
+            "description": "",
+            "results": [
+                {
+                    "title": "schvaľuje",
+                    "descriptions": [
+                        "Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka, ktorým sa mení a dopĺňa Všeobecne záväzné nariadenie mestskej časti Bratislava-Petržalka č. 13/2019 zo dňa 9. septembra 2019 o dočasnom parkovaní motorových vozidiel."
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/9.-2019-VZN-mestskej-%C4%8Dasti-Zmena-%C4%8D.1-13-2019-o-do%C4%8Dasnom-parkovan%C3%AD-MZ.pdf"
+        }, {
+            "id": 194,
+            "number": 155,
+            "type": "stanovisko",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu Všeobecne záväzného nariadenia, ktorým sa mení Všeobecne záväzné nariadenie hlavného mesta Slovenskej republiky Bratislavy č. 2/2014 o úhradách za poskytovanie sociálnych služieb v znení VZN č. 5/2019",
+            "description": "",
+            "results": [
+                {
+                    "title": "súhlasí",
+                    "descriptions": [
+                        "s návrhom Všeobecne záväzného nariadenia, ktorým sa mení Všeobecne záväzné nariadenie hlavného mesta Slovenskej republiky Bratislavy č. 2/2014 o úhradách za poskytovanie sociálnych služieb v znení Všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy č. 5/2019."
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/10.-Materi%C3%A1l-MZ-10.12-_1_.pdf"
+        }, {
+            "id": 195,
+            "number": 156,
+            "type": "stanovisko",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [36],
+            "title": "Stanovisko mestskej časti Bratislava-Petržalka k návrhu Všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy o dani z nehnuteľnosti",
+            "description": "",
+            "results": [
+                {
+                    "title": "neschvaľuje",
+                    "descriptions": [
+                        "stanovisko mestskej časti Bratislava-Petržalka k návrhu Všeobecne záväzného nariadenia hlavného mesta Slovenskej republiky Bratislavy o dani z nehnuteľnosti"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/11.-mat.-stanovisko-na-MZ-3.pdf"
+        }, {
+            "id": 196,
+            "number": 157,
+            "type": "delegovanie",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [95],
+            "title": "Návrh na ustanovenie poslancov do funkcie sobášiacich",
+            "description": "",
+            "results": [
+                {
+                    "title": "ustanovuje",
+                    "descriptions": [
+                        "do funkcie sobášiacej poslankyňu:",
+                        "Tatianu Kratochvílovú",
+                        "Matúša Repku"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/28.-Sob%C3%A1%C5%A1e_133_Miestne-zastupite%C4%BEstvo-mestskej-%C4%8Dasti-Bratislava.pdf"
+        }, {
+            "id": 197,
+            "number": 158,
+            "type": "sprava",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [55],
+            "title": "Správa o výsledkoch kontrol vykonaných útvarom miestneho kontrolóra Mestskej časti Bratislava-Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "Správu o výsledkoch kontrol vykonaných útvarom miestneho kontrolóra mestskej časti Bratislava-Petržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/12.-MZ-Spr%C3%A1va-o-v%C3%BDsledkoch-kontrol.pdf"
+        }, {
+            "id": 198,
+            "number": 159,
+            "type": "info",
+            "councilId": 1,
+            "meetingId": 10,
+            "creatorIds": [55],
+            "title": "Informácia o prijatých opatreniach z kontrol vykonaných útvarom miestneho kontrolóra mestskej časti Bratislava-Petržalka",
+            "description": "",
+            "results": [
+                {
+                    "title": "berie na vedomie",
+                    "descriptions": [
+                        "Informáciu o prijatých opatreniach z kontrol vykonaných útvarom miestneho kontrolóra mestskej časti Bratislava-Petržalka"
+                    ]
+                }
+            ],
+            "voteYesIds": [],
+            "voteNoIds": [],
+            "presented": 0,
+            "source": "https://www.petrzalka.sk/wp-content/uploads/2019/12/13.-MZ-Inform%C3%A1cia-plnenie-opatren%C3%AD-I.-polrok-2019.pdf"
         }
     ]
 }
